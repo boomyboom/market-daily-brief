@@ -15,7 +15,6 @@ import glob
 import html
 import urllib.request
 import urllib.parse
-from datetime import datetime
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 BRIEFS_DIR = os.path.join(ROOT, "briefs")
@@ -33,7 +32,6 @@ def load_env():
                     continue
                 k, v = line.split("=", 1)
                 env[k.strip()] = v.strip()
-    # environment overrides .env
     for k in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", "SITE_URL"):
         if os.environ.get(k):
             env[k] = os.environ[k]
@@ -52,69 +50,108 @@ def esc(s):
     return html.escape(str(s or ""))
 
 
+def pct_num(s):
+    m = "".join(c for c in str(s or "") if c in "0123456789.-")
+    try:
+        return float(m)
+    except ValueError:
+        return None
+
+
+def indices_line(arr):
+    parts = [f"{esc(i.get('name'))} {esc(i.get('change_pct'))}" for i in (arr or []) if i.get("name")]
+    return " · ".join(parts)
+
+
+def sector_summary(sectors):
+    """Return (strong, weak) lists sorted by change_pct."""
+    vals = [s for s in (sectors or []) if pct_num(s.get("change_pct")) is not None]
+    vals.sort(key=lambda s: pct_num(s.get("change_pct")), reverse=True)
+    strong = [s for s in vals[:3] if pct_num(s.get("change_pct")) > 0]
+    weak = [s for s in reversed(vals[-3:]) if pct_num(s.get("change_pct")) < 0]
+    return strong, weak
+
+
+def sector_block(label, sectors):
+    strong, weak = sector_summary(sectors)
+    if not strong and not weak:
+        return []
+    line = [f"{label}"]
+    if strong:
+        line.append("  🟢 강세: " + ", ".join(f"{esc(s['name'])} {esc(s['change_pct'])}" for s in strong))
+    if weak:
+        line.append("  🔴 약세: " + ", ".join(f"{esc(s['name'])} {esc(s['change_pct'])}" for s in weak))
+    return line
+
+
 def format_message(brief, site_url=""):
-    lines = []
-    date = brief.get("date", "")
-    lines.append(f"📊 <b>오늘의 시장 브리핑</b> — {esc(date)}")
+    L = []
+    L.append(f"📊 <b>오늘의 시장 브리핑</b> — {esc(brief.get('date',''))}")
     if brief.get("headline"):
-        lines.append(f"<i>{esc(brief['headline'])}</i>")
-    lines.append("")
+        L.append(f"<i>{esc(brief['headline'])}</i>")
+    L.append("")
 
-    macro = brief.get("macro", {})
-    if macro.get("us_close"):
-        lines.append(f"🌙 <b>미국장</b>: {esc(macro['us_close'])}")
-    if macro.get("kr_preview"):
-        lines.append(f"🇰🇷 <b>한국장 프리뷰</b>: {esc(macro['kr_preview'])}")
-    idx = macro.get("indices") or []
-    if idx:
-        parts = [f"{esc(i.get('name'))} {esc(i.get('change_pct'))}" for i in idx if i.get("name")]
-        if parts:
-            lines.append("📈 " + " · ".join(parts))
-    lines.append("")
+    # 🇰🇷 한국장 (메인)
+    kr = brief.get("kr", {}) or {}
+    L.append("🇰🇷 <b>한국장</b>")
+    if indices_line(kr.get("indices")):
+        L.append("📈 " + indices_line(kr.get("indices")))
+    if kr.get("preview"):
+        L.append(esc(kr["preview"]))
+    hot = kr.get("hot_stocks") or []
+    if hot:
+        L.append("<b>🔥 오늘의 화제 종목</b>")
+        for s in hot[:6]:
+            L.append(f"• {esc(s.get('name') or s.get('ticker'))} {esc(s.get('change_pct'))} — {esc(s.get('reason'))}")
+    L.append("")
 
-    themes = brief.get("top_themes") or []
-    if themes:
-        lines.append("🔥 <b>주도 테마</b>")
-        for t in themes[:4]:
-            tk = ", ".join(t.get("tickers", [])[:4])
-            tail = f" ({esc(tk)})" if tk else ""
-            lines.append(f"• {esc(t.get('theme'))}{tail}")
-        lines.append("")
+    # 📊 섹터 히트맵 요약
+    sec = brief.get("sectors", {}) or {}
+    sblock = []
+    sblock += sector_block("🇰🇷 한국", sec.get("kr"))
+    sblock += sector_block("🇺🇸 미국", sec.get("us"))
+    if sblock:
+        L.append("📊 <b>섹터 흐름</b>")
+        L += sblock
+        L.append("")
 
-    movers = brief.get("movers") or []
-    if movers:
-        lines.append("⚡ <b>주요 급등락</b>")
-        for m in movers[:5]:
-            lines.append(f"• {esc(m.get('name') or m.get('ticker'))} {esc(m.get('change_pct'))} — {esc(m.get('reason'))}")
-        lines.append("")
+    # 🇺🇸 미국장 (요약)
+    us = brief.get("us", {}) or {}
+    if us.get("recap") or indices_line(us.get("indices")):
+        L.append("🇺🇸 <b>미국장</b> (밤사이 마감)")
+        if indices_line(us.get("indices")):
+            L.append("📈 " + indices_line(us.get("indices")))
+        if us.get("recap"):
+            L.append(esc(us["recap"]))
+        L.append("")
 
+    # 🎯 주목 종목
     spot = brief.get("spotlight") or []
     if spot:
-        lines.append("🎯 <b>주목 종목</b> (정보용)")
+        L.append("🎯 <b>주목 종목</b> (정보용)")
         for s in spot:
-            name = esc(s.get("name") or s.get("ticker"))
             lv = s.get("levels_watched", {}) or {}
-            level_bits = []
+            bits = []
             if lv.get("support"):
-                level_bits.append(f"지지 {esc(lv['support'])}")
+                bits.append(f"지지 {esc(lv['support'])}")
             if lv.get("resistance"):
-                level_bits.append(f"저항 {esc(lv['resistance'])}")
+                bits.append(f"저항 {esc(lv['resistance'])}")
             if lv.get("analyst_target_cited"):
-                level_bits.append(f"목표가 {esc(lv['analyst_target_cited'])}")
-            lines.append(f"• <b>{name}</b> — {esc(s.get('thesis'))}")
-            if level_bits:
-                lines.append(f"   ▸ {' / '.join(level_bits)}")
+                bits.append(f"목표가 {esc(lv['analyst_target_cited'])}")
+            L.append(f"• <b>{esc(s.get('name') or s.get('ticker'))}</b> — {esc(s.get('thesis'))}")
+            if bits:
+                L.append(f"   ▸ {' / '.join(bits)}")
             if s.get("risk"):
-                lines.append(f"   ▸ 리스크: {esc(s['risk'])}")
-        lines.append("")
+                L.append(f"   ▸ 리스크: {esc(s['risk'])}")
+        L.append("")
 
     if site_url:
-        lines.append(f"🔗 <a href=\"{esc(site_url)}\">전체 브리핑 보기</a>")
+        L.append(f"🔗 <a href=\"{esc(site_url)}\">전체 브리핑 보기</a>")
     if brief.get("disclaimer"):
-        lines.append("")
-        lines.append(f"<i>{esc(brief['disclaimer'])}</i>")
+        L.append("")
+        L.append(f"<i>{esc(brief['disclaimer'])}</i>")
 
-    msg = "\n".join(lines)
+    msg = "\n".join(L)
     if len(msg) > TG_LIMIT:
         msg = msg[: TG_LIMIT - 20].rstrip() + "\n…(생략)"
     return msg

@@ -3,32 +3,68 @@
   "generated_at_kst": "2026-07-18T08:00:00+09:00",
   "mode": "new",
   "headline": "[샘플/테스트] 파이프라인 확인용 예시 브리핑 — 실제 시세 아님",
-  "macro": {
-    "us_close": "(샘플) 나스닥·S&P 소폭 상승 마감, 반도체 강세",
-    "kr_preview": "(샘플) 외국인 수급 주목, 반도체·2차전지 시선",
+  "kr": {
+    "preview": "(샘플) 외국인 수급 주목, 반도체·2차전지에 시선. 오늘 개장 후 화제 종목 위주로 흐름 점검.",
+    "indices": [
+      { "name": "코스피", "value": "2,750", "change_pct": "-0.2%" },
+      { "name": "코스닥", "value": "870", "change_pct": "+0.5%" }
+    ],
+    "hot_stocks": [
+      { "ticker": "000660", "name": "SK하이닉스", "market": "KR", "change_pct": "+4.2%", "reason": "(샘플) HBM 수요 관련 화제", "source_url": "" },
+      { "ticker": "373220", "name": "LG에너지솔루션", "market": "KR", "change_pct": "-2.1%", "reason": "(샘플) 전기차 수요 우려", "source_url": "" },
+      { "ticker": "042660", "name": "한화오션", "market": "KR", "change_pct": "+7.8%", "reason": "(샘플) 방산·조선 수주 기대", "source_url": "" }
+    ]
+  },
+  "us": {
+    "recap": "(샘플) 나스닥·S&P 소폭 상승 마감, 반도체 강세 주도. 금리 안정.",
     "indices": [
       { "name": "S&P 500", "value": "5,800", "change_pct": "+0.4%" },
-      { "name": "나스닥",   "value": "18,900", "change_pct": "+0.8%" },
-      { "name": "코스피",   "value": "2,750", "change_pct": "-0.2%" }
+      { "name": "나스닥", "value": "18,900", "change_pct": "+0.8%" },
+      { "name": "다우", "value": "42,100", "change_pct": "+0.1%" }
     ],
+    "notable": [
+      { "ticker": "NVDA", "name": "NVIDIA", "market": "US", "change_pct": "+3.1%", "reason": "(샘플) 데이터센터 수요 언급", "source_url": "" }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      { "name": "반도체", "change_pct": "+2.4%", "note": "" },
+      { "name": "2차전지", "change_pct": "-1.8%", "note": "" },
+      { "name": "조선/방산", "change_pct": "+3.5%", "note": "" },
+      { "name": "바이오/제약", "change_pct": "+0.6%", "note": "" },
+      { "name": "자동차", "change_pct": "-0.9%", "note": "" },
+      { "name": "인터넷/게임", "change_pct": "+1.1%", "note": "" },
+      { "name": "금융", "change_pct": "+0.2%", "note": "" },
+      { "name": "화학/소재", "change_pct": "-0.4%", "note": "" }
+    ],
+    "us": [
+      { "name": "반도체", "change_pct": "+2.1%", "note": "" },
+      { "name": "기술(빅테크)", "change_pct": "+0.9%", "note": "" },
+      { "name": "헬스케어", "change_pct": "-0.4%", "note": "" },
+      { "name": "제약/바이오", "change_pct": "-1.2%", "note": "" },
+      { "name": "금융", "change_pct": "+0.3%", "note": "" },
+      { "name": "에너지", "change_pct": "-2.3%", "note": "" },
+      { "name": "경기소비재", "change_pct": "+0.7%", "note": "" },
+      { "name": "유틸리티", "change_pct": "+0.1%", "note": "" }
+    ]
+  },
+  "macro": {
     "rates_fx_commodities": "(샘플) 미 10년물 4.2% · 달러/원 1,350 · WTI $78",
     "notes": "이 항목은 스크립트 동작 확인용 예시 데이터입니다."
   },
   "top_themes": [
-    { "theme": "AI 반도체", "summary": "(샘플) 데이터센터 수요 지속 언급", "tickers": ["NVDA", "AVGO", "000660"], "source_url": "" }
-  ],
-  "movers": [
-    { "ticker": "NVDA", "name": "NVIDIA", "market": "US", "change_pct": "+3.1%", "reason": "(샘플) 예시 사유", "source_url": "" }
+    { "theme": "AI 반도체 / HBM", "summary": "(샘플) 데이터센터 수요 지속 언급", "tickers": ["NVDA", "000660"], "source_url": "" },
+    { "theme": "조선·방산", "summary": "(샘플) 수주 모멘텀 부각", "tickers": ["042660"], "source_url": "" }
   ],
   "watchlist": [
-    { "ticker": "005930", "name": "삼성전자", "market": "KR", "note": "", "news": "(샘플) 예시 뉴스 요약", "source_url": "" }
+    { "ticker": "005930", "name": "삼성전자", "market": "KR", "news": "(샘플) 예시 뉴스 요약", "source_url": "" }
   ],
   "spotlight": [
     {
-      "ticker": "NVDA", "name": "NVIDIA", "market": "US",
+      "ticker": "000660", "name": "SK하이닉스", "market": "KR",
       "thesis": "(샘플) 이 섹션은 뉴스·모멘텀 근거와 관찰 가격대를 정리하는 예시입니다.",
       "catalysts": ["(샘플) 다음 실적발표"],
-      "levels_watched": { "support": "$120", "resistance": "$140", "analyst_target_cited": "(샘플) OO증권 $150, 2026-07" },
+      "levels_watched": { "support": "18만원", "resistance": "21만원", "analyst_target_cited": "(샘플) OO증권 23만원, 2026-07" },
       "risk": "(샘플) 예시 리스크 요인",
       "sources": []
     }

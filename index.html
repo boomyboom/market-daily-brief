@@ -20,7 +20,7 @@
   body{margin:0;background:var(--bg);color:var(--text);
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo",Roboto,"Malgun Gothic",sans-serif;
     line-height:1.55;-webkit-font-smoothing:antialiased}
-  .wrap{max-width:860px;margin:0 auto;padding:24px 18px 80px}
+  .wrap{max-width:880px;margin:0 auto;padding:24px 18px 80px}
   header{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;
     padding-bottom:16px;border-bottom:1px solid var(--border);margin-bottom:22px}
   h1{font-size:1.35rem;margin:0;letter-spacing:-.02em}
@@ -32,21 +32,32 @@
     border-left:3px solid var(--accent);border-radius:10px;padding:14px 16px;margin-bottom:22px}
   section{background:var(--panel);border:1px solid var(--border);border-radius:12px;
     padding:16px 18px;margin-bottom:16px}
-  section h2{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);
-    margin:0 0 12px}
+  section h2{font-size:.82rem;letter-spacing:.02em;color:var(--text);margin:0 0 12px;font-weight:700}
+  section h2 .mut{color:var(--muted);font-weight:400;font-size:.85em}
   .indices{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:12px}
-  .idx{background:var(--panel2);border:1px solid var(--border);border-radius:9px;padding:8px 12px;min-width:120px}
+  .idx{background:var(--panel2);border:1px solid var(--border);border-radius:9px;padding:8px 12px;min-width:110px}
   .idx .n{font-size:.75rem;color:var(--muted)}
   .idx .v{font-size:1rem;font-weight:600}
   .pct-up{color:var(--up)} .pct-down{color:var(--down)}
-  .macro-line{margin:6px 0}
-  .macro-line b{color:var(--muted);font-weight:600;font-size:.82rem}
+  .lead-line{margin:6px 0}
+  .lead-line b{color:var(--muted);font-weight:600;font-size:.82rem}
   .chip{display:inline-block;background:var(--chip);border:1px solid var(--border);border-radius:999px;
     padding:2px 9px;font-size:.75rem;margin:2px 4px 2px 0;color:var(--muted)}
   .item{padding:10px 0;border-top:1px solid var(--border)}
   .item:first-child{border-top:none}
   .item .t{font-weight:600}
   .item .meta{font-size:.85rem;color:var(--muted);margin-top:2px}
+
+  /* heatmap */
+  .heat-group{margin-bottom:14px}
+  .heat-group:last-child{margin-bottom:0}
+  .heat-title{font-size:.8rem;color:var(--muted);margin:0 0 8px;font-weight:600}
+  .heat{display:grid;grid-template-columns:repeat(auto-fill,minmax(96px,1fr));gap:6px}
+  .cell{border:1px solid var(--border);border-radius:8px;padding:8px 6px;text-align:center;min-height:52px;
+    display:flex;flex-direction:column;justify-content:center}
+  .cell .s{font-size:.72rem;font-weight:600;line-height:1.2;color:var(--text)}
+  .cell .p{font-size:.82rem;font-weight:700;margin-top:2px;color:var(--text)}
+
   .spot{background:var(--panel2);border:1px solid var(--border);border-radius:10px;padding:12px 14px;margin-bottom:10px}
   .spot .name{font-weight:700;font-size:1rem}
   .spot .mkt{font-size:.7rem;color:var(--muted);border:1px solid var(--border);border-radius:6px;padding:1px 6px;margin-left:6px}
@@ -78,22 +89,38 @@
 
 <script>
 const $ = s => document.querySelector(s);
-const pctClass = p => {
-  if(!p) return "";
-  const s = String(p).trim();
-  if(s.startsWith("-")) return "pct-down";
-  if(s.startsWith("+") || parseFloat(s) > 0) return "pct-up";
-  return "";
-};
 const esc = s => (s==null?"":String(s)).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+const pctClass = p => { const s=String(p||"").trim(); if(s.startsWith("-"))return "pct-down"; if(parseFloat(s)>0)return "pct-up"; return ""; };
+const pctNum = p => { const m=String(p||"").replace(/[^0-9.\-]/g,""); const n=parseFloat(m); return isNaN(n)?null:n; };
 
-async function loadManifest(){
-  const r = await fetch("briefs/manifest.json?_=" + Date.now());
-  return r.json();
+// heatmap background color from % change
+function heatColor(p){
+  const n = pctNum(p);
+  if(n===null) return "var(--panel2)";
+  const cap = 3;                         // ±3% => full intensity
+  const a = Math.min(Math.abs(n)/cap, 1) * 0.85 + 0.06;
+  return n>=0 ? `rgba(63,179,127,${a.toFixed(2)})` : `rgba(229,83,75,${a.toFixed(2)})`;
 }
-async function loadBrief(date){
-  const r = await fetch(`briefs/${date}.json?_=` + Date.now());
-  return r.json();
+
+function indicesHTML(arr){
+  if(!(arr||[]).length) return "";
+  return '<div class="indices">' + arr.map(i =>
+    `<div class="idx"><div class="n">${esc(i.name)}</div><div class="v">${esc(i.value)} <span class="${pctClass(i.change_pct)}">${esc(i.change_pct)}</span></div></div>`
+  ).join("") + '</div>';
+}
+function stockItems(arr){
+  return (arr||[]).map(x=>{
+    const src = x.source_url?` <a class="src" href="${esc(x.source_url)}" target="_blank" rel="noopener">↗</a>`:"";
+    return `<div class="item"><div class="t">${esc(x.name||x.ticker)} <span class="${pctClass(x.change_pct)}">${esc(x.change_pct)}</span>${src}</div><div class="meta">${esc(x.reason)}</div></div>`;
+  }).join("");
+}
+function heatGroup(title, arr){
+  if(!(arr||[]).length) return "";
+  const cells = arr.map(s=>{
+    return `<div class="cell" style="background:${heatColor(s.change_pct)}" title="${esc(s.note||'')}">
+      <div class="s">${esc(s.name)}</div><div class="p">${esc(s.change_pct)}</div></div>`;
+  }).join("");
+  return `<div class="heat-group"><div class="heat-title">${title}</div><div class="heat">${cells}</div></div>`;
 }
 
 function render(b){
@@ -102,21 +129,41 @@ function render(b){
   let h = "";
   if(b.headline) h += `<div class="headline">${esc(b.headline)}</div>`;
 
-  // macro
-  const m = b.macro || {};
-  let macroInner = "";
-  if((m.indices||[]).length){
-    macroInner += '<div class="indices">' + m.indices.map(i =>
-      `<div class="idx"><div class="n">${esc(i.name)}</div><div class="v">${esc(i.value)} <span class="${pctClass(i.change_pct)}">${esc(i.change_pct)}</span></div></div>`
-    ).join("") + '</div>';
+  // 1) 한국장 (메인)
+  const kr = b.kr || {};
+  if(kr.preview || (kr.indices||[]).length || (kr.hot_stocks||[]).length){
+    let inner = indicesHTML(kr.indices);
+    if(kr.preview) inner += `<div class="lead-line"><b>프리뷰</b> · ${esc(kr.preview)}</div>`;
+    if((kr.hot_stocks||[]).length) inner += `<div style="margin-top:8px">${stockItems(kr.hot_stocks)}</div>`;
+    h += `<section><h2>🇰🇷 한국장 <span class="mut">· 오늘의 화제 종목</span></h2>${inner}</section>`;
   }
-  if(m.us_close) macroInner += `<div class="macro-line"><b>미국장 마감</b> · ${esc(m.us_close)}</div>`;
-  if(m.kr_preview) macroInner += `<div class="macro-line"><b>한국장 프리뷰</b> · ${esc(m.kr_preview)}</div>`;
-  if(m.rates_fx_commodities) macroInner += `<div class="macro-line"><b>금리·환율·원자재</b> · ${esc(m.rates_fx_commodities)}</div>`;
-  if(m.notes) macroInner += `<div class="macro-line"><b>비고</b> · ${esc(m.notes)}</div>`;
-  if(macroInner) h += `<section><h2>매크로</h2>${macroInner}</section>`;
 
-  // themes
+  // 2) 섹터 히트맵
+  const sec = b.sectors || {};
+  if((sec.kr||[]).length || (sec.us||[]).length){
+    h += `<section><h2>📊 섹터 히트맵 <span class="mut">· 오늘의 강세/약세</span></h2>`
+       + heatGroup("🇰🇷 한국", sec.kr) + heatGroup("🇺🇸 미국", sec.us) + `</section>`;
+  }
+
+  // 3) 미국장 (요약 브리핑)
+  const us = b.us || {};
+  if(us.recap || (us.indices||[]).length || (us.notable||[]).length){
+    let inner = indicesHTML(us.indices);
+    if(us.recap) inner += `<div class="lead-line"><b>마감 브리핑</b> · ${esc(us.recap)}</div>`;
+    if((us.notable||[]).length) inner += `<div style="margin-top:8px">${stockItems(us.notable)}</div>`;
+    h += `<section><h2>🇺🇸 미국장 <span class="mut">· 밤사이 마감 요약</span></h2>${inner}</section>`;
+  }
+
+  // 4) 매크로
+  const m = b.macro || {};
+  if(m.rates_fx_commodities || m.notes){
+    let inner = "";
+    if(m.rates_fx_commodities) inner += `<div class="lead-line"><b>금리·환율·원자재</b> · ${esc(m.rates_fx_commodities)}</div>`;
+    if(m.notes) inner += `<div class="lead-line"><b>비고</b> · ${esc(m.notes)}</div>`;
+    h += `<section><h2>매크로</h2>${inner}</section>`;
+  }
+
+  // 5) 주도 테마
   if((b.top_themes||[]).length){
     h += '<section><h2>오늘의 주도 테마</h2>' + b.top_themes.map(t=>{
       const chips = (t.tickers||[]).map(x=>`<span class="chip">${esc(x)}</span>`).join("");
@@ -125,17 +172,9 @@ function render(b){
     }).join("") + '</section>';
   }
 
-  // movers
-  if((b.movers||[]).length){
-    h += '<section><h2>주요 급등락</h2>' + b.movers.map(x=>{
-      const src = x.source_url?` <a class="src" href="${esc(x.source_url)}" target="_blank" rel="noopener">↗</a>`:"";
-      return `<div class="item"><div class="t">${esc(x.name||x.ticker)} <span class="${pctClass(x.change_pct)}">${esc(x.change_pct)}</span>${src}</div><div class="meta">${esc(x.reason)}</div></div>`;
-    }).join("") + '</section>';
-  }
-
-  // spotlight
+  // 6) 주목 종목 (spotlight)
   if((b.spotlight||[]).length){
-    h += '<section><h2>주목 종목 <span style="text-transform:none;font-weight:400">(정보 제공용)</span></h2>' + b.spotlight.map(s=>{
+    h += '<section><h2>🎯 주목 종목 <span class="mut">· 정보 제공용</span></h2>' + b.spotlight.map(s=>{
       const lv = s.levels_watched||{};
       let levels = "";
       if(lv.support) levels += `<span class="level"><b>지지</b> ${esc(lv.support)}</span>`;
@@ -151,7 +190,7 @@ function render(b){
     }).join("") + '</section>';
   }
 
-  // watchlist
+  // 7) 관심 종목
   if((b.watchlist||[]).length){
     h += '<section><h2>관심 종목</h2>' + b.watchlist.map(w=>{
       const src = w.source_url?` <a class="src" href="${esc(w.source_url)}" target="_blank" rel="noopener">↗</a>`:"";
@@ -163,16 +202,18 @@ function render(b){
   el.innerHTML = h || '<div class="empty">브리핑 내용이 비어 있습니다.</div>';
 }
 
+async function loadJSON(p){ const r = await fetch(p + "?_=" + Date.now()); return r.json(); }
+
 (async function init(){
   try{
-    const man = await loadManifest();
+    const man = await loadJSON("briefs/manifest.json");
     const dates = man.dates || [];
     const sel = $("#datesel");
     if(!dates.length){ $("#gen").textContent="브리핑 없음"; render(null); return; }
     sel.innerHTML = dates.map(d=>`<option value="${d}">${d}</option>`).join("");
     async function show(d){
       $("#gen").textContent = "불러오는 중…";
-      const b = await loadBrief(d);
+      const b = await loadJSON(`briefs/${d}.json`);
       $("#gen").textContent = (b.generated_at_kst? "생성: "+b.generated_at_kst.replace("T"," ").slice(0,16) : d) + (b.mode?` · ${b.mode}`:"");
       render(b);
     }
