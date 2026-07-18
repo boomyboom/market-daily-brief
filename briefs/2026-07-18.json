@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-18",
+  "generated_at_kst": "2026-07-18T08:00:00+09:00",
+  "mode": "new",
+  "headline": "[샘플/테스트] 파이프라인 확인용 예시 브리핑 — 실제 시세 아님",
+  "macro": {
+    "us_close": "(샘플) 나스닥·S&P 소폭 상승 마감, 반도체 강세",
+    "kr_preview": "(샘플) 외국인 수급 주목, 반도체·2차전지 시선",
+    "indices": [
+      { "name": "S&P 500", "value": "5,800", "change_pct": "+0.4%" },
+      { "name": "나스닥",   "value": "18,900", "change_pct": "+0.8%" },
+      { "name": "코스피",   "value": "2,750", "change_pct": "-0.2%" }
+    ],
+    "rates_fx_commodities": "(샘플) 미 10년물 4.2% · 달러/원 1,350 · WTI $78",
+    "notes": "이 항목은 스크립트 동작 확인용 예시 데이터입니다."
+  },
+  "top_themes": [
+    { "theme": "AI 반도체", "summary": "(샘플) 데이터센터 수요 지속 언급", "tickers": ["NVDA", "AVGO", "000660"], "source_url": "" }
+  ],
+  "movers": [
+    { "ticker": "NVDA", "name": "NVIDIA", "market": "US", "change_pct": "+3.1%", "reason": "(샘플) 예시 사유", "source_url": "" }
+  ],
+  "watchlist": [
+    { "ticker": "005930", "name": "삼성전자", "market": "KR", "note": "", "news": "(샘플) 예시 뉴스 요약", "source_url": "" }
+  ],
+  "spotlight": [
+    {
+      "ticker": "NVDA", "name": "NVIDIA", "market": "US",
+      "thesis": "(샘플) 이 섹션은 뉴스·모멘텀 근거와 관찰 가격대를 정리하는 예시입니다.",
+      "catalysts": ["(샘플) 다음 실적발표"],
+      "levels_watched": { "support": "$120", "resistance": "$140", "analyst_target_cited": "(샘플) OO증권 $150, 2026-07" },
+      "risk": "(샘플) 예시 리스크 요인",
+      "sources": []
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스·시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수·매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가·전망은 각 출처의 의견입니다."
+}

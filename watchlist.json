@@ -1,0 +1,14 @@
+{
+  "_comment": "관심 종목 워치리스트. 자유롭게 편집하세요. market은 US 또는 KR.",
+  "watchlist": [
+    { "ticker": "NVDA",   "name": "NVIDIA",        "market": "US" },
+    { "ticker": "AAPL",   "name": "Apple",         "market": "US" },
+    { "ticker": "MSFT",   "name": "Microsoft",     "market": "US" },
+    { "ticker": "TSLA",   "name": "Tesla",         "market": "US" },
+    { "ticker": "PLTR",   "name": "Palantir",      "market": "US" },
+    { "ticker": "005930", "name": "삼성전자",       "market": "KR" },
+    { "ticker": "000660", "name": "SK하이닉스",     "market": "KR" },
+    { "ticker": "373220", "name": "LG에너지솔루션", "market": "KR" },
+    { "ticker": "005380", "name": "현대차",         "market": "KR" }
+  ]
+}

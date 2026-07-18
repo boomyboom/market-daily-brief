@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.boomyboom.marketbrief</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Applications/BoomyBoom/run_daily_brief.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Applications/BoomyBoom</string>
+
+    <!-- 매일 08:00 (시스템 로컬 타임존 기준 = Mac이 KST면 오전 8시) -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>8</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- 8시에 Mac이 잠들어 있었으면, 깨어난 뒤 놓친 실행을 한 번 보충 -->
+    <key>StartInterval</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>/Applications/BoomyBoom/logs/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Applications/BoomyBoom/logs/launchd.err.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
