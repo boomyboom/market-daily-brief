@@ -1,4 +1,13 @@
 {
   "_comment": "이미 브리핑에 사용한 뉴스 URL 목록. 중복 게재 방지용. 자동 관리됨.",
-  "urls": []
+  "urls": [
+    "https://www.newspim.com/news/view/20260716001003",
+    "https://en.sedaily.com/finance/2026/07/17/chip-turmoil-sends-kospi-on-roller-coaster-fueled-by",
+    "https://www.mt.co.kr/stock/2026/07/18/2026071617470128256",
+    "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+    "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+    "https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation",
+    "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-ai-surprises-investors-fueling-tech-rout-mroxm71p",
+    "https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html"
+  ]
 }

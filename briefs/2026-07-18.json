@@ -1,73 +1,160 @@
 {
   "date": "2026-07-18",
-  "generated_at_kst": "2026-07-18T08:00:00+09:00",
+  "generated_at_kst": "2026-07-18T16:26:50+09:00",
   "mode": "new",
-  "headline": "[샘플/테스트] 파이프라인 확인용 예시 브리핑 — 실제 시세 아님",
+  "headline": "[휴장] 코스피, 제헌절·주말 연휴 돌입—직전 거래일(7/16) 반도체발 6%대 급락 마감, 美도 반도체·넷플릭스 급락에 다우 400p↓",
+
   "kr": {
-    "preview": "(샘플) 외국인 수급 주목, 반도체·2차전지에 시선. 오늘 개장 후 화제 종목 위주로 흐름 점검.",
+    "preview": "오늘(7/18, 토)은 거래일이 아니며, 어제(7/17, 금)는 제헌절이 18년 만에 공휴일로 재지정되며 KRX 전 시장이 휴장했다. 따라서 이번 브리핑은 가장 최근 거래일인 7/16(목) 마감 상황을 정리한다. 코스피는 코어위브의 메모리 가격 헤지 검토, 중국 CXMT 증설 계획, 간밤 미국 메모리 관련주 급락 소식이 겹치며 6.37% 급락해 6,820.60으로 7000선을 다시 반납했다. SK하이닉스(-11.53%), 삼성전자(-8.77%) 등 반도체 대형주가 낙폭을 주도했고, 코스피·코스닥 양 시장에서 매도 사이드카가 발동되는 등 이번 주(7/13~16) 4거래일 내내 시장 안정화 장치가 가동되는 극심한 변동 장세가 이어졌다. 외국인·기관은 순매도, 개인은 순매수로 대응했다. 다음 거래일은 7/20(월).",
     "indices": [
-      { "name": "코스피", "value": "2,750", "change_pct": "-0.2%" },
-      { "name": "코스닥", "value": "870", "change_pct": "+0.5%" }
+      { "name": "코스피", "value": "6,820.60", "change_pct": "-6.37%" },
+      { "name": "코스닥", "value": "791.84", "change_pct": "-4.53%" }
     ],
     "hot_stocks": [
-      { "ticker": "000660", "name": "SK하이닉스", "market": "KR", "change_pct": "+4.2%", "reason": "(샘플) HBM 수요 관련 화제", "source_url": "" },
-      { "ticker": "373220", "name": "LG에너지솔루션", "market": "KR", "change_pct": "-2.1%", "reason": "(샘플) 전기차 수요 우려", "source_url": "" },
-      { "ticker": "042660", "name": "한화오션", "market": "KR", "change_pct": "+7.8%", "reason": "(샘플) 방산·조선 수주 기대", "source_url": "" }
+      { "ticker": "000660", "name": "SK하이닉스", "change_pct": "-11.53%", "reason": "(7/16 마감) 미국 메모리 관련주 급락, 코어위브 메모리 가격 헤지 검토 및 중국 CXMT 증설 계획 소식에 반도체 밸류체인 전반 매도세 집중", "source_url": "https://www.newspim.com/news/view/20260716001003" },
+      { "ticker": "005930", "name": "삼성전자", "change_pct": "-8.77%", "reason": "(7/16 마감) 반도체 업황 우려 재부각으로 SK하이닉스와 동반 급락, 종가 255,000원", "source_url": "https://en.sedaily.com/finance/2026/07/17/chip-turmoil-sends-kospi-on-roller-coaster-fueled-by" },
+      { "ticker": "402340", "name": "SK스퀘어", "change_pct": "-12.30%", "reason": "(7/16 마감) 반도체 밸류체인 동반 급락 속 낙폭 확대", "source_url": "https://www.newspim.com/news/view/20260716001003" },
+      { "ticker": "", "name": "에넥스", "change_pct": "+185.2%(주간, 7/13~16)", "reason": "상장유지 요건 이슈로 소외됐던 종목에 개인투자자 매수세가 SNS를 통해 결집, 코스피 상장사 중 주간 상승률 1위 기록—투자주의종목 지정", "source_url": "https://www.mt.co.kr/stock/2026/07/18/2026071617470128256" },
+      { "ticker": "", "name": "SK이터닉스", "change_pct": "+21.35%(주간, 7/13~16)", "reason": "시총 1조원 이상·주간 거래대금 1000억원 이상 종목 중 최대 상승폭. AI 데이터센터발 전력수요 확대, RE100·직접전력구매(PPA) 시장 성장 기대에 재생에너지 기업으로 재평가", "source_url": "https://www.mt.co.kr/stock/2026/07/18/2026071617470128256" }
     ]
   },
+
   "us": {
-    "recap": "(샘플) 나스닥·S&P 소폭 상승 마감, 반도체 강세 주도. 금리 안정.",
+    "recap": "7/17(금) 뉴욕증시는 중국 스타트업 Moonshot AI가 미국 최상위권 모델에 근접했다고 주장하는 신모델 'Kimi K3'를 공개하며 AI·반도체주 전반이 급락, 다우 -0.77%, S&P500 -1.02%, 나스닥 -1.40%로 마감했다. 엔비디아는 2%대, Applied Materials·Lam Research·Intel·KLA·Arm 등도 각각 4%가량 하락했고 필라델피아반도체지수(SOX)는 고점 대비 20% 가까이 밀리며 약세장에 진입했다. 넷플릭스는 2분기 실적은 예상치를 상회했으나 3분기 매출·EPS 가이던스가 시장 기대를 밑돌며 8% 급락했다. 반면 애플은 AI 인프라 과잉투자 우려에서 비켜서 있다는 평가 속 자금이 유입되며 시가총액 약 4.88조달러로 엔비디아(약 4.86조달러)를 제치고 세계 시가총액 1위 자리를 탈환했다(단, DOJ 반독점 소송 합의 협상 보도로 장중 한때 -1%). 중동에서는 미국의 대이란 공습이 이어지고 쿠웨이트 담수화·발전시설 피격 소식이 전해지며 국제유가가 급등, 에너지 섹터가 이날 유일하게 상승 마감했다. 주간 기준으로도 S&P500 -1.5%, 나스닥 -2.9%로 3대 지수 모두 주간 손실을 기록했다.",
     "indices": [
-      { "name": "S&P 500", "value": "5,800", "change_pct": "+0.4%" },
-      { "name": "나스닥", "value": "18,900", "change_pct": "+0.8%" },
-      { "name": "다우", "value": "42,100", "change_pct": "+0.1%" }
+      { "name": "S&P 500", "value": "7,457", "change_pct": "-1.02%" },
+      { "name": "나스닥", "value": "25,520", "change_pct": "-1.40%" },
+      { "name": "다우", "value": "52,146", "change_pct": "-0.77%" }
     ],
     "notable": [
-      { "ticker": "NVDA", "name": "NVIDIA", "market": "US", "change_pct": "+3.1%", "reason": "(샘플) 데이터센터 수요 언급", "source_url": "" }
+      { "ticker": "NVDA", "name": "NVIDIA", "change_pct": "-2.2%", "reason": "중국 Moonshot AI의 신모델 'Kimi K3' 공개로 AI 경쟁 심화 우려—반도체·AI 밸류체인 전반 매도. 다만 애널리스트 58명 매수의견 유지, 평균 목표주가 $302.31", "source_url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html" },
+      { "ticker": "NFLX", "name": "Netflix", "change_pct": "-8.02%", "reason": "2분기 실적은 매출·EPS 예상치 상회했으나 3분기 매출($128.6억, 컨센서스 $130억)·EPS($0.82, 컨센서스 $0.84) 가이던스가 기대를 밑돌며 급락", "source_url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html" },
+      { "ticker": "AAPL", "name": "Apple", "change_pct": "", "reason": "AI 인프라 과잉투자 우려를 피해간다는 평가 속 자금 유입, 시총 약 $4.88조로 엔비디아(약 $4.86조)를 제치고 세계 시총 1위 재탈환(2025년 4월 이후 최초). 단 DOJ 반독점 소송 합의 협상 보도로 장중 -1% 하락 구간도 존재", "source_url": "https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation" }
     ]
   },
+
   "sectors": {
     "kr": [
-      { "name": "반도체", "change_pct": "+2.4%", "note": "" },
-      { "name": "2차전지", "change_pct": "-1.8%", "note": "" },
-      { "name": "조선/방산", "change_pct": "+3.5%", "note": "" },
-      { "name": "바이오/제약", "change_pct": "+0.6%", "note": "" },
-      { "name": "자동차", "change_pct": "-0.9%", "note": "" },
-      { "name": "인터넷/게임", "change_pct": "+1.1%", "note": "" },
-      { "name": "금융", "change_pct": "+0.2%", "note": "" },
-      { "name": "화학/소재", "change_pct": "-0.4%", "note": "" }
+      { "name": "반도체", "change_pct": "-10.9%(추정)", "note": "(7/16) 삼성전자 -8.77%·SK하이닉스 -11.53%·SK스퀘어 -12.30% 대표 종목 평균 기준 추정치. 별도 업종지수 확인 불가" },
+      { "name": "자동차", "change_pct": "-2.42%", "note": "(7/16) 현대차 기준. 반도체발 투자심리 악화의 여파로 대형주 전반 동반 약세" },
+      { "name": "2차전지", "change_pct": "미확인", "note": "(7/16) SK이노베이션 +17.89%(에너지 재평가 기대)와 여타 배터리주 약세가 혼재돼 단일 수치 확인 불가" },
+      { "name": "IT/기술", "change_pct": "미확인", "note": "" },
+      { "name": "바이오/제약", "change_pct": "미확인", "note": "" },
+      { "name": "인터넷/게임", "change_pct": "미확인", "note": "" },
+      { "name": "금융", "change_pct": "미확인", "note": "" },
+      { "name": "화학/소재", "change_pct": "미확인", "note": "" },
+      { "name": "조선/방산", "change_pct": "미확인", "note": "" },
+      { "name": "철강/금속", "change_pct": "미확인", "note": "" },
+      { "name": "유통/소비재", "change_pct": "미확인", "note": "" },
+      { "name": "엔터/미디어", "change_pct": "미확인", "note": "" },
+      { "name": "건설", "change_pct": "미확인", "note": "" },
+      { "name": "통신", "change_pct": "미확인", "note": "" }
     ],
     "us": [
-      { "name": "반도체", "change_pct": "+2.1%", "note": "" },
-      { "name": "기술(빅테크)", "change_pct": "+0.9%", "note": "" },
-      { "name": "헬스케어", "change_pct": "-0.4%", "note": "" },
-      { "name": "제약/바이오", "change_pct": "-1.2%", "note": "" },
-      { "name": "금융", "change_pct": "+0.3%", "note": "" },
-      { "name": "에너지", "change_pct": "-2.3%", "note": "" },
-      { "name": "경기소비재", "change_pct": "+0.7%", "note": "" },
-      { "name": "유틸리티", "change_pct": "+0.1%", "note": "" }
+      { "name": "반도체", "change_pct": "미확인", "note": "(7/17) SOX 지수 고점 대비 -20% 약세장 진입. NVDA -2.2%, Applied Materials·Lam Research·Intel·KLA·Arm 각각 약 -4%. 섹터 지수 자체 등락률은 확인 불가" },
+      { "name": "기술(빅테크)", "change_pct": "-1.8%", "note": "(7/17) XLK(테크 섹터 SPDR) 기준" },
+      { "name": "통신서비스", "change_pct": "-2.9%", "note": "(7/17) XLC 기준. 넷플릭스 실적 가이던스 실망감이 업종 전반에 압박" },
+      { "name": "헬스케어", "change_pct": "미확인", "note": "" },
+      { "name": "제약/바이오", "change_pct": "미확인", "note": "" },
+      { "name": "금융", "change_pct": "미확인", "note": "" },
+      { "name": "경기소비재", "change_pct": "-0.3%", "note": "(7/17) XLY 기준" },
+      { "name": "필수소비재", "change_pct": "+2.9%", "note": "(7/17) XLP 기준" },
+      { "name": "산업재", "change_pct": "미확인", "note": "" },
+      { "name": "에너지", "change_pct": "미확인", "note": "(7/17) 유가 급등에 힘입어 섹터 중 유일하게 상승 마감했으나 정확한 등락률은 확인 불가" },
+      { "name": "소재", "change_pct": "미확인", "note": "" },
+      { "name": "유틸리티", "change_pct": "미확인", "note": "" },
+      { "name": "부동산", "change_pct": "미확인", "note": "" }
     ]
   },
+
   "macro": {
-    "rates_fx_commodities": "(샘플) 미 10년물 4.2% · 달러/원 1,350 · WTI $78",
-    "notes": "이 항목은 스크립트 동작 확인용 예시 데이터입니다."
+    "rates_fx_commodities": "국제유가 급등: WTI $82.49(+4.5%), 브렌트유 $88.10(+4.6%)(7/17)—미국의 대이란 공습 확대, 쿠웨이트 담수화·발전시설 피격 보도로 중동 공급 차질 우려 고조, 주간 기준 브렌트유 +10%대. 미 10년물 국채금리는 6월 FOMC 매파적 결과와 AI 관련 회사채 발행 증가 영향으로 7/10 기준 4.56%까지 상승(이후 수치 미확인). 원/달러 환율은 7/15 종가 1,484.7원(주간 8.3원 하락)이며, 7/13 전후로는 사흘 연속 1,500원대를 기록—변동성이 큰 구간으로 7/16~17 정확한 종가는 확인 불가.",
+    "notes": "코스피는 7/13~16 4거래일 연속 사이드카·서킷브레이커가 발동되며 올해 들어 7번째 서킷브레이커를 기록했다. 레버리지 ETF가 코스피 거래대금의 96.3%를 차지했다는 분석도 나오며 변동성 증폭 요인으로 지목됐다(서울경제). 미국에서는 중국 Moonshot AI의 신모델 공개로 'AI 인프라 과잉투자' 논쟁이 재점화되며 반도체·AI 밸류체인 전반이 조정받았고, 중동(미-이란) 지정학 리스크가 유가와 글로벌 투자심리에 동시에 부담을 주고 있다."
   },
+
   "top_themes": [
-    { "theme": "AI 반도체 / HBM", "summary": "(샘플) 데이터센터 수요 지속 언급", "tickers": ["NVDA", "000660"], "source_url": "" },
-    { "theme": "조선·방산", "summary": "(샘플) 수주 모멘텀 부각", "tickers": ["042660"], "source_url": "" }
-  ],
-  "watchlist": [
-    { "ticker": "005930", "name": "삼성전자", "market": "KR", "news": "(샘플) 예시 뉴스 요약", "source_url": "" }
-  ],
-  "spotlight": [
     {
-      "ticker": "000660", "name": "SK하이닉스", "market": "KR",
-      "thesis": "(샘플) 이 섹션은 뉴스·모멘텀 근거와 관찰 가격대를 정리하는 예시입니다.",
-      "catalysts": ["(샘플) 다음 실적발표"],
-      "levels_watched": { "support": "18만원", "resistance": "21만원", "analyst_target_cited": "(샘플) OO증권 23만원, 2026-07" },
-      "risk": "(샘플) 예시 리스크 요인",
-      "sources": []
+      "theme": "한미 반도체 밸류체인 동반 조정",
+      "summary": "중국 Moonshot AI의 신모델 'Kimi K3' 공개로 AI 경쟁 심화 우려가 재점화되며 미국 SOX 지수가 고점 대비 20% 가까이 밀려 약세장에 진입했고, 같은 기간 코스피 반도체 대형주(삼성전자·SK하이닉스)도 메모리 가격·공급 우려 겹악재로 두 자릿수 급락했다. AI 인프라 투자 지속가능성에 대한 의구심이 한미 양쪽에서 동시에 반도체주를 압박하는 모습.",
+      "tickers": ["005930", "000660", "NVDA"],
+      "source_url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html"
+    },
+    {
+      "theme": "중동 지정학 리스크發 유가 급등",
+      "summary": "미국의 대이란 공습 확대와 쿠웨이트 담수화·발전시설 피격 보도로 브렌트유가 주간 10%대 급등했다. 국제유가 급등은 미국 에너지 섹터에는 반사이익을, 원자재 수입 의존도가 높은 한국 경제에는 부담 요인으로 작용할 수 있다.",
+      "tickers": [],
+      "source_url": "https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html"
+    },
+    {
+      "theme": "코스피 소형주, 개미 수급 장세",
+      "summary": "반도체발 급락장 속에서도 상장유지 요건 이슈로 소외됐던 소형주(에넥스·비비안·모나미·한성기업)에 개인투자자 매수세가 SNS를 통해 결집하며 주간 70~185%대 급등이 나타났다. 다만 금융투자업계는 실적·펀더멘털과 무관한 수급 장세로 투자경고·투자주의종목 지정이 잇따르고 있어 유의가 필요하다고 지적했다.",
+      "tickers": [],
+      "source_url": "https://www.mt.co.kr/stock/2026/07/18/2026071617470128256"
+    },
+    {
+      "theme": "빅테크 시총 순위 재편—애플, 엔비디아 제치고 1위 탈환",
+      "summary": "AI 인프라 과잉투자 우려로 반도체주에서 자금이 이탈하는 가운데, 상대적으로 자본지출 부담이 적은 애플로 매수세가 옮겨가며 애플이 2025년 4월 이후 처음으로 세계 시가총액 1위 자리를 엔비디아로부터 탈환했다.",
+      "tickers": ["AAPL", "NVDA"],
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation"
     }
   ],
+
+  "watchlist": [
+    { "ticker": "NVDA", "name": "NVIDIA", "market": "US", "news": "중국 Moonshot AI 'Kimi K3' 모델 공개로 AI 경쟁 우려 겹치며 -2.2%(장중 한때 -5%). SOX 지수는 고점 대비 20% 근접 조정, 약세장 진입. 애널리스트 58명 매수의견 유지, 평균 목표주가 $302.31", "source_url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html" },
+    { "ticker": "AAPL", "name": "Apple", "market": "US", "news": "반도체 회피 자금 유입 속 시총 약 $4.88조로 엔비디아를 제치고 세계 시총 1위 재탈환. 다만 DOJ 반독점 소송 합의 협상 보도로 장중 -1% 구간도 존재", "source_url": "https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation" },
+    { "ticker": "MSFT", "name": "Microsoft", "market": "US", "news": "7/17 빅테크·반도체 전반 조정(XLK -1.8%) 흐름 속 동반 약세. 개별 등락률은 신뢰 출처로 확인되지 않아 생략", "source_url": "" },
+    { "ticker": "TSLA", "name": "Tesla", "market": "US", "news": "이번 주 뉴욕증시 반도체·AI주 조정 국면 속 관련 뉴스 확인되지 않음(신뢰 출처 기준)", "source_url": "" },
+    { "ticker": "PLTR", "name": "Palantir", "market": "US", "news": "시가총액 약 $1.03조 기록. 2025 회계연도 매출 $26.5억 대비 밸류에이션 부담이 시장의 주요 논쟁거리로 지목됨", "source_url": "" },
+    { "ticker": "005930", "name": "삼성전자", "market": "KR", "news": "(7/16 마감) 반도체 업황 우려 재부각에 -8.77%, 255,000원 마감", "source_url": "https://en.sedaily.com/finance/2026/07/17/chip-turmoil-sends-kospi-on-roller-coaster-fueled-by" },
+    { "ticker": "000660", "name": "SK하이닉스", "market": "KR", "news": "(7/16 마감) 코어위브 메모리 가격 헤지 검토·중국 CXMT 증설 소식에 -11.53%, 1,842,000원 마감", "source_url": "https://www.newspim.com/news/view/20260716001003" },
+    { "ticker": "373220", "name": "LG에너지솔루션", "market": "KR", "news": "7/16 정확한 등락률을 신뢰 출처에서 확인하지 못함. 2차전지 업종은 반도체발 투자심리 악화 여파권에 있는 것으로 파악", "source_url": "" },
+    { "ticker": "005380", "name": "현대차", "market": "KR", "news": "(7/16 마감) 반도체발 투심 악화 속 대형주 전반 약세에 동반 -2.42%", "source_url": "https://www.newspim.com/news/view/20260716001003" }
+  ],
+
+  "spotlight": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "thesis": "중국 Moonshot AI가 7/17 공개한 신모델 'Kimi K3'가 미국 최상위권 모델에 근접한다는 평가를 받으며 'AI 경쟁 심화→美 반도체 수요 둔화' 우려가 재점화됐다. 이 여파로 SOX 지수가 고점 대비 20% 가까이 조정받아 약세장에 진입했고, 엔비디아도 세계 시총 1위 자리를 애플에 내줬다.",
+      "catalysts": ["중국 AI 모델 경쟁 구도 추가 전개", "AI 인프라 투자 지속가능성 관련 빅테크 실적·가이던스", "일본 국영 기술그룹向 프로세서 공급 계약 진행 상황"],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": "애널리스트 58명 매수, 1명 매도 의견—평균 12개월 목표주가 $302.31 (2026-07-17 기준, 집계 매체 불명확하여 참고용)"
+      },
+      "risk": "중국발 AI 모델의 경쟁력이 실제 매출 대체로 이어질지는 아직 불확실하나, 밸류에이션 조정이 추가로 진행될 경우 변동성이 커질 수 있음",
+      "sources": ["https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html", "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-ai-surprises-investors-fueling-tech-rout-mroxm71p"]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "7/16 코어위브의 메모리 가격 헤지 검토 소식과 중국 CXMT의 증설 계획, 간밤 미국 메모리 관련주 급락이 겹치며 -11.53% 급락했다. 반도체 업황을 둘러싼 '메모리 가격 고점론'과 '데이터센터 투자 둔화' 우려가 재차 부각된 국면.",
+      "catalysts": ["차기 실적 발표", "코어위브·미국 하이퍼스케일러의 메모리 조달 정책 변화", "중국 CXMT 등 경쟁사 증설 진행 상황"],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": ""
+      },
+      "risk": "레버리지 ETF 거래 비중이 코스피 거래대금의 96.3%에 달한다는 분석이 나올 정도로 수급 변동성이 매우 크며(서울경제, 2026-07-17), 추가 급락·급등이 반복될 가능성",
+      "sources": ["https://www.newspim.com/news/view/20260716001003", "https://en.sedaily.com/finance/2026/07/17/chip-turmoil-sends-kospi-on-roller-coaster-fueled-by"]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "thesis": "AI 인프라 과잉투자 우려로 반도체·AI 순수 플레이 종목에서 자금이 이탈하는 가운데, 상대적으로 자본지출 부담이 적은 애플로 매수세가 옮겨가며 2025년 4월 이후 처음으로 세계 시가총액 1위(약 $4.88조)를 탈환했다.",
+      "catalysts": ["DOJ 반독점 소송 합의 협상 진행 상황", "$5조 시가총액 돌파 여부", "차기 아이폰·서비스 부문 실적"],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": ""
+      },
+      "risk": "DOJ 반독점 소송 관련 뉴스에 장중 -1% 하락한 사례처럼 규제 리스크가 주가에 즉각 반영될 수 있음",
+      "sources": ["https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation"]
+    }
+  ],
+
   "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스·시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수·매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가·전망은 각 출처의 의견입니다."
 }
