@@ -34,7 +34,7 @@
 7. `python3 cleanup_old_briefs.py` → 30일 지난 브리핑 삭제 + `manifest.json` 재생성.
 8. JSON 검증 (`python3 -m json.tool briefs/YYYY-MM-DD.json`).
 9. git add/commit/push (`brief: YYYY-MM-DD (new|update)`). (remote 없으면 push 실패해도 무시)
-10. `python3 telegram_notify.py` → 텔레그램 요약 푸시.
+   - **텔레그램 발송은 하지 마라.** 커밋으로 변경이 감지되면 실행 스크립트(`run_daily_brief.sh`)가 `telegram_notify.py`로 자동 발송한다. (중복 발송 방지)
 
 ## 브리핑 JSON 스키마
 ```json
