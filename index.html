@@ -154,6 +154,14 @@ function render(b){
     h += `<section><h2>🇺🇸 미국장 <span class="mut">· 밤사이 마감 요약</span></h2>${inner}</section>`;
   }
 
+  // 3.5) 핵심 지표 (환율·금·코인)
+  if((b.assets||[]).length){
+    const tiles = b.assets.map(a=>
+      `<div class="idx"><div class="n">${esc(a.name)}</div><div class="v">${esc(a.value)} <span class="${pctClass(a.change_pct)}">${esc(a.change_pct)}</span></div></div>`
+    ).join("");
+    h += `<section><h2>💱 환율·금·코인 <span class="mut">· 핵심 지표</span></h2><div class="indices">${tiles}</div></section>`;
+  }
+
   // 4) 매크로
   const m = b.macro || {};
   if(m.rates_fx_commodities || m.notes){

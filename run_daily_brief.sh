@@ -25,6 +25,13 @@ log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" | tee -a "$LOG"; }
 
 log "===== daily brief run start ====="
 
+# ---- skip Sunday (일요일은 월요일 브리핑에 합쳐서 처리) ----
+# date +%u : 월=1 … 일=7.  RUN_SUNDAY=1 로 강제 실행 가능.
+if [ "$(date +%u)" = "7" ] && [ "${RUN_SUNDAY:-0}" != "1" ]; then
+  log "Sunday — skipping (covered by Monday's brief)."
+  exit 0
+fi
+
 # ---- optional: skip Korean market holidays (US recap still useful, so off by default) ----
 # SKIP_HOLIDAYS=1 in .env to enable.
 if [ "${SKIP_HOLIDAYS:-0}" = "1" ]; then

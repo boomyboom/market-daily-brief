@@ -115,6 +115,20 @@ def format_message(brief, site_url=""):
         L += sblock
         L.append("")
 
+    # 💱 핵심 지표 (환율·금·코인)
+    assets = brief.get("assets") or []
+    if assets:
+        L.append("💱 <b>환율·금·코인</b>")
+        parts = []
+        for a in assets:
+            if not a.get("name"):
+                continue
+            pct = str(a.get("change_pct") or "").strip()
+            tail = f" ({esc(pct)})" if pct else ""
+            parts.append(f"{esc(a.get('name'))} {esc(a.get('value'))}{tail}")
+        L.append(" · ".join(parts))
+        L.append("")
+
     # 🇺🇸 미국장 (요약)
     us = brief.get("us", {}) or {}
     if us.get("recap") or indices_line(us.get("indices")):
