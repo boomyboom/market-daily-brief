@@ -146,7 +146,8 @@ def format_message(brief, site_url=""):
         L.append("")
 
     if site_url:
-        L.append(f"🔗 <a href=\"{esc(site_url)}\">전체 브리핑 보기</a>")
+        L.append("━━━━━━━━━━━━━━")
+        L.append(f"📊 <a href=\"{esc(site_url)}\">데일리 브리프 사이트에서 전체 보기 →</a>")
     if brief.get("disclaimer"):
         L.append("")
         L.append(f"<i>{esc(brief['disclaimer'])}</i>")
