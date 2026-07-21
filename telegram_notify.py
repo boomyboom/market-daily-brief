@@ -162,13 +162,16 @@ def format_message(brief, site_url=""):
     if site_url:
         L.append("━━━━━━━━━━━━━━")
         L.append(f"📊 <a href=\"{esc(site_url)}\">데일리 브리프 사이트에서 전체 보기 →</a>")
-    if brief.get("disclaimer"):
-        L.append("")
-        L.append(f"<i>{esc(brief['disclaimer'])}</i>")
+    # 면책은 짧게 (전문은 웹·브리핑에). 길이 초과로 태그가 잘리는 것 방지.
+    L.append("")
+    L.append("<i>⚠️ 정보 제공용, 투자 권유 아님</i>")
 
     msg = "\n".join(L)
     if len(msg) > TG_LIMIT:
-        msg = msg[: TG_LIMIT - 20].rstrip() + "\n…(생략)"
+        # 태그가 중간에 잘리면 파싱 오류 → 안전한 지점까지 자르고 열린 태그 닫기
+        cut = msg[: TG_LIMIT - 40]
+        cut = cut[: cut.rfind("\n")] if "\n" in cut else cut  # 마지막 줄 경계에서 컷
+        msg = cut.rstrip() + "\n…(생략) ℹ️ 정보 제공용"
     return msg
 
 
