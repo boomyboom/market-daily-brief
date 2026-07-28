@@ -12,6 +12,7 @@ import json
 import os
 import sys
 import glob
+import time
 import html
 import urllib.request
 import urllib.parse
@@ -42,12 +43,22 @@ def latest_brief_path(date=None):
     if date:
         p = os.path.join(BRIEFS_DIR, f"{date}.json")
         return p if os.path.exists(p) else None
-    files = sorted(glob.glob(os.path.join(BRIEFS_DIR, "20*-*-*.json")))
+    files = [f for f in sorted(glob.glob(os.path.join(BRIEFS_DIR, "20*-*-*.json")))
+             if not f.endswith("-kr.json")]
     return files[-1] if files else None
 
 
 def esc(s):
     return html.escape(str(s or ""))
+
+
+def humanize(t):
+    """Drop AI-tell punctuation the owner asked us to avoid (older briefs still have it)."""
+    import re
+    t = re.sub(r"[ \t]*[·・][ \t]*", ", ", t)
+    t = re.sub(r"[ \t]*[—–][ \t]*", ", ", t)
+    t = re.sub(r"(,[ \t]*){2,}", ", ", t)
+    return t
 
 
 def pct_num(s):
@@ -60,7 +71,7 @@ def pct_num(s):
 
 def indices_line(arr):
     parts = [f"{esc(i.get('name'))} {esc(i.get('change_pct'))}" for i in (arr or []) if i.get("name")]
-    return " · ".join(parts)
+    return ", ".join(parts)
 
 
 def sector_summary(sectors):
@@ -86,7 +97,8 @@ def sector_block(label, sectors):
 
 def format_message(brief, site_url=""):
     L = []
-    L.append(f"📊 <b>오늘의 시장 브리핑</b> — {esc(brief.get('date',''))}")
+    title = "🇰🇷 <b>한국장 마감 브리핑</b>" if brief.get("session") == "kr_close" else "📊 <b>오늘의 시장 브리핑</b>"
+    L.append(f"{title} {esc(brief.get('date',''))}")
     if brief.get("headline"):
         L.append(f"<i>{esc(brief['headline'])}</i>")
     L.append("")
@@ -102,7 +114,7 @@ def format_message(brief, site_url=""):
     if hot:
         L.append("<b>🔥 오늘의 화제 종목</b>")
         for s in hot[:6]:
-            L.append(f"• {esc(s.get('name') or s.get('ticker'))} {esc(s.get('change_pct'))} — {esc(s.get('reason'))}")
+            L.append(f"• {esc(s.get('name') or s.get('ticker'))} {esc(s.get('change_pct'))}: {esc(s.get('reason'))}")
     L.append("")
 
     # 📊 섹터 히트맵 요약
@@ -126,7 +138,7 @@ def format_message(brief, site_url=""):
             pct = str(a.get("change_pct") or "").strip()
             tail = f" ({esc(pct)})" if pct else ""
             parts.append(f"{esc(a.get('name'))} {esc(a.get('value'))}{tail}")
-        L.append(" · ".join(parts))
+        L.append(", ".join(parts))
         L.append("")
 
     # 🇺🇸 미국장 (요약)
@@ -152,7 +164,7 @@ def format_message(brief, site_url=""):
                 bits.append(f"저항 {esc(lv['resistance'])}")
             if lv.get("analyst_target_cited"):
                 bits.append(f"목표가 {esc(lv['analyst_target_cited'])}")
-            L.append(f"• <b>{esc(s.get('name') or s.get('ticker'))}</b> — {esc(s.get('thesis'))}")
+            L.append(f"• <b>{esc(s.get('name') or s.get('ticker'))}</b>: {esc(s.get('thesis'))}")
             if bits:
                 L.append(f"   ▸ {' / '.join(bits)}")
             if s.get("risk"):
@@ -166,13 +178,25 @@ def format_message(brief, site_url=""):
     L.append("")
     L.append("<i>⚠️ 정보 제공용, 투자 권유 아님</i>")
 
-    msg = "\n".join(L)
-    if len(msg) > TG_LIMIT:
-        # 태그가 중간에 잘리면 파싱 오류 → 안전한 지점까지 자르고 열린 태그 닫기
-        cut = msg[: TG_LIMIT - 40]
-        cut = cut[: cut.rfind("\n")] if "\n" in cut else cut  # 마지막 줄 경계에서 컷
-        msg = cut.rstrip() + "\n…(생략) ℹ️ 정보 제공용"
-    return msg
+    return humanize("\n".join(L))
+
+
+def split_message(msg, limit=TG_LIMIT):
+    """Split at line boundaries so nothing is dropped and no HTML tag is cut."""
+    if len(msg) <= limit:
+        return [msg]
+    parts, cur = [], []
+    for line in msg.split("\n"):
+        candidate = ("\n".join(cur + [line])) if cur else line
+        if len(candidate) > limit - 20 and cur:
+            parts.append("\n".join(cur))
+            cur = [line]
+        else:
+            cur.append(line)
+    if cur:
+        parts.append("\n".join(cur))
+    total = len(parts)
+    return [f"{p}\n\n<i>({i}/{total})</i>" for i, p in enumerate(parts, 1)]
 
 
 def send(token, chat_id, text):
@@ -188,9 +212,11 @@ def send(token, chat_id, text):
 
 
 def main():
-    date = None
+    date, path = None, None
     if "--date" in sys.argv:
         date = sys.argv[sys.argv.index("--date") + 1]
+    if "--file" in sys.argv:
+        path = sys.argv[sys.argv.index("--file") + 1]
 
     env = load_env()
     token = env.get("TELEGRAM_BOT_TOKEN")
@@ -199,8 +225,9 @@ def main():
         print("ERROR: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set (.env)", file=sys.stderr)
         return 1
 
-    path = latest_brief_path(date)
     if not path:
+        path = latest_brief_path(date)
+    if not path or not os.path.exists(path):
         print("ERROR: no brief JSON found", file=sys.stderr)
         return 1
 
@@ -208,11 +235,15 @@ def main():
         brief = json.load(f)
 
     text = format_message(brief, env.get("SITE_URL", ""))
-    res = send(token, chat_id, text)
-    if not res.get("ok"):
-        print(f"ERROR: telegram send failed: {res}", file=sys.stderr)
-        return 1
-    print(f"OK: sent brief {brief.get('date')} to chat {chat_id}")
+    parts = split_message(text)
+    for i, part in enumerate(parts, 1):
+        res = send(token, chat_id, part)
+        if not res.get("ok"):
+            print(f"ERROR: telegram send failed (part {i}/{len(parts)}): {res}", file=sys.stderr)
+            return 1
+        if i < len(parts):
+            time.sleep(1)
+    print(f"OK: sent brief {brief.get('date')} to chat {chat_id} ({len(parts)} message(s))")
     return 0
 
 
