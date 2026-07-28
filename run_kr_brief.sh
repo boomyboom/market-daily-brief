@@ -68,6 +68,9 @@ if [ ! -f "$BRIEF" ]; then
   exit 0
 fi
 
+# 문장부호 정리
+"$PYTHON" "$REPO/humanize_brief.py" "$BRIEF" >>"$LOG" 2>&1 || log "humanize 실패"
+
 # Obsidian 주식뇌 기록
 "$PYTHON" "$REPO/brief_to_obsidian.py" "$BRIEF" >>"$LOG" 2>&1 && log "obsidian 기록 OK" || log "obsidian 기록 실패"
 
