@@ -101,6 +101,11 @@ if [ -f "$REPO/briefs/$TODAY.json" ]; then
   "$PYTHON" "$REPO/brief_to_obsidian.py" "$REPO/briefs/$TODAY.json" >>"$LOG" 2>&1 && log "obsidian 기록 OK" || log "obsidian export 실패"
 fi
 
+# ---- 대시보드 형태 브리핑 메일 ----
+if [ -f "$REPO/briefs/$TODAY.json" ]; then
+  "$PYTHON" "$REPO/send_brief_mail.py" "$REPO/briefs/$TODAY.json" >>"$LOG" 2>&1 && log "브리핑 메일 OK" || log "브리핑 메일 실패"
+fi
+
 # ---- record git state after ----
 REV_AFTER="$("$GIT" rev-parse HEAD 2>/dev/null || echo none)"
 
