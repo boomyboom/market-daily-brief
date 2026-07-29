@@ -215,18 +215,24 @@ async function loadJSON(p){ const r = await fetch(p + "?_=" + Date.now()); retur
 (async function init(){
   try{
     const man = await loadJSON("briefs/manifest.json");
-    const dates = man.dates || [];
+    // 하루에 아침(미국장)과 저녁(한국장 마감) 두 세션이 있어 각각 항목으로 나온다.
+    // 옛 형식(dates만 있는 manifest)도 그대로 읽히도록 폴백을 둔다.
+    const entries = (man.entries && man.entries.length)
+      ? man.entries
+      : (man.dates || []).map(d => ({ key: d, label: d }));
     const sel = $("#datesel");
-    if(!dates.length){ $("#gen").textContent="브리핑 없음"; render(null); return; }
-    sel.innerHTML = dates.map(d=>`<option value="${d}">${d}</option>`).join("");
-    async function show(d){
+    if(!entries.length){ $("#gen").textContent="브리핑 없음"; render(null); return; }
+    sel.innerHTML = entries.map(e=>`<option value="${e.key}">${esc(e.label)}</option>`).join("");
+    async function show(key){
       $("#gen").textContent = "불러오는 중…";
-      const b = await loadJSON(`briefs/${d}.json`);
-      $("#gen").textContent = (b.generated_at_kst? "생성: "+b.generated_at_kst.replace("T"," ").slice(0,16) : d) + (b.mode?` · ${b.mode}`:"");
+      const b = await loadJSON(`briefs/${key}.json`);
+      const when = b.generated_at_kst ? "생성: "+b.generated_at_kst.replace("T"," ").slice(0,16) : key;
+      const kind = b.session === "kr_close" ? " · 한국장 마감" : " · 미국장, 아침";
+      $("#gen").textContent = when + kind;
       render(b);
     }
     sel.addEventListener("change", e=>show(e.target.value));
-    show(dates[0]);
+    show(entries[0].key);
   }catch(e){
     $("#gen").textContent="로드 실패";
     $("#content").innerHTML = '<div class="empty">브리핑을 불러오지 못했습니다.<br><small>'+esc(e.message)+'</small></div>';
