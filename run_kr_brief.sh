@@ -64,10 +64,7 @@ fi
 
 if [ ! -f "$BRIEF" ]; then
   log "브리핑 파일 없음 (휴장 판단이거나 생성 실패)"
-  # 대시보드 형태 브리핑 메일
-"$PYTHON" "$REPO/send_brief_mail.py" "$BRIEF" >>"$LOG" 2>&1 && log "브리핑 메일 OK" || log "브리핑 메일 실패"
-
-log "===== KR close brief end ====="
+  log "===== KR close brief end ====="
   exit 0
 fi
 
@@ -79,5 +76,8 @@ fi
 
 # 텔레그램 발송 (긴 메시지는 분할 발송됨)
 "$PYTHON" "$REPO/telegram_notify.py" --file "$BRIEF" >>"$LOG" 2>&1 && log "telegram push OK" || log "telegram push 실패"
+
+# 대시보드 형태 브리핑 메일 (텔레그램 나갈 때마다 함께)
+"$PYTHON" "$REPO/send_brief_mail.py" "$BRIEF" >>"$LOG" 2>&1 && log "브리핑 메일 OK" || log "브리핑 메일 실패"
 
 log "===== KR close brief end ====="
