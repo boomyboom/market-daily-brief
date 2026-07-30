@@ -66,15 +66,20 @@ if ! command -v "$CLAUDE" >/dev/null 2>&1 && [ ! -x "$CLAUDE" ]; then
 claude CLI를 찾을 수 없어요. .env의 CLAUDE_BIN 경로를 확인해주세요."
   ALERTED=1
 else
-  log "invoking Claude Code headless…"
-  "$CLAUDE" -p "$(cat "$REPO/BRIEF_PROMPT.md")" \
-    --allowedTools "Task,Bash,WebSearch,WebFetch,Read,Write,Edit,Glob,Grep" \
-    >"$RUN_OUT" 2>&1
-  log "claude exit status: $?"
-  cat "$RUN_OUT" >>"$LOG"
+  # 생성이 빈손으로 끝나는 경우가 있어(응답이 인사말 한 줄) 한 번 재시도한다
+  for attempt in 1 2; do
+    log "invoking Claude Code headless… (시도 $attempt)"
+    "$CLAUDE" -p "$(cat "$REPO/BRIEF_PROMPT.md")" \
+      --allowedTools "Task,Bash,WebSearch,WebFetch,Read,Write,Edit,Glob,Grep" \
+      >"$RUN_OUT" 2>&1
+    log "claude exit status: $?"
+    cat "$RUN_OUT" >>"$LOG"
+    [ -f "$REPO/briefs/$TODAY.json" ] && break
+    if [ "$attempt" = "1" ]; then log "생성 안 됨, 60초 뒤 재시도"; sleep 60; fi
+  done
 
   # 로그인/인증 해제 감지 → 텔레그램 경고
-  if grep -qiE "Not logged in|Please run /login|Invalid API key|authentication_error|Unauthorized|please log in" "$RUN_OUT"; then
+  if [ ! -f "$REPO/briefs/$TODAY.json" ] && grep -qiE "Not logged in|Please run /login|Invalid API key|authentication_error|Unauthorized|please log in" "$RUN_OUT"; then
     log "DETECTED: Claude 로그인/인증 문제"
     send_alert "🔒 Claude 로그인이 해제된 것 같아요.
 오늘($TODAY) 시장 브리핑이 생성되지 않았습니다.

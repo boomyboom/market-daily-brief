@@ -48,13 +48,17 @@ if ! command -v "$CLAUDE" >/dev/null 2>&1 && [ ! -x "$CLAUDE" ]; then
   exit 1
 fi
 
-log "invoking Claude Code headless…"
-"$CLAUDE" -p "$(cat "$REPO/KR_BRIEF_PROMPT.md")" \
-  --allowedTools "Task,Bash,WebSearch,WebFetch,Read,Write,Edit,Glob,Grep" >"$RUN_OUT" 2>&1
-log "claude exit: $?"
-cat "$RUN_OUT" >>"$LOG"
+for attempt in 1 2; do
+  log "invoking Claude Code headless… (시도 $attempt)"
+  "$CLAUDE" -p "$(cat "$REPO/KR_BRIEF_PROMPT.md")" \
+    --allowedTools "Task,Bash,WebSearch,WebFetch,Read,Write,Edit,Glob,Grep" >"$RUN_OUT" 2>&1
+  log "claude exit: $?"
+  cat "$RUN_OUT" >>"$LOG"
+  [ -f "$BRIEF" ] && break
+  if [ "$attempt" = "1" ]; then log "생성 안 됨, 60초 뒤 재시도"; sleep 60; fi
+done
 
-if grep -qiE "Not logged in|Please run /login|Invalid API key|authentication_error|Unauthorized" "$RUN_OUT"; then
+if [ ! -f "$BRIEF" ] && grep -qiE "Not logged in|Please run /login|Invalid API key|authentication_error|Unauthorized" "$RUN_OUT"; then
   log "DETECTED: Claude 로그인 문제"
   send_alert "🔒 Claude 로그인이 해제된 것 같아요.
 오늘($TODAY) 한국장 마감 브리핑이 생성되지 않았습니다.
