@@ -113,21 +113,35 @@ def items(arr, title, name_key="name", pct_key="change_pct", why_key="reason"):
     return "".join(out)
 
 
-def build_html(b, site_url):
+def pick_title(b, label):
+    """Short, click-worthy mail title. Falls back to a clipped headline for
+    older briefs generated before mail_title existed (Korean headlines use
+    commas as list separators, not sentence breaks, so cut on length only)."""
+    t = (b.get("mail_title") or "").strip()
+    if t:
+        return t
+    h = (b.get("headline") or "").strip()
+    if h:
+        cut = h[:38]
+        if len(h) > 38:
+            cut = cut.rsplit(" ", 1)[0] + "..."
+        t = cut
+    return t or f"{label} 브리핑"
+
+
+def build_html(b, title, is_kr):
     kr = b.get("kr", {}) or {}
     us = b.get("us", {}) or {}
     sec = b.get("sectors", {}) or {}
-    is_kr = b.get("session") == "kr_close"
-    head = "한국장 마감 브리핑" if is_kr else "오늘의 시장 브리핑"
+    sub = "한국장 마감" if is_kr else "미국장, 아침"
 
     P = ['<div style="font-family:-apple-system,BlinkMacSystemFont,\'Apple SD Gothic Neo\',sans-serif;'
          'max-width:680px;color:#1a2230;line-height:1.6">']
-    P.append(f'<h1 style="font-size:20px;margin:0 0 4px">{head} {esc(b.get("date",""))}</h1>')
+    P.append(f'<h1 style="font-size:20px;margin:0 0 4px">{esc(title)}</h1>')
+    P.append(f'<div style="font-size:13px;color:#888;margin:0 0 14px">{esc(b.get("date",""))}, {sub}</div>')
     if b.get("headline"):
         P.append(f'<p style="background:#f7f8fa;border-left:3px solid #2b6cb0;padding:10px 12px;'
                  f'margin:10px 0 18px;font-weight:600">{esc(b["headline"])}</p>')
-    if site_url:
-        P.append(f'<p style="font-size:13px"><a href="{esc(site_url)}">대시보드에서 보기</a></p>')
 
     if kr.get("indices") or kr.get("hot_stocks"):
         P.append('<h2 style="font-size:17px;margin:24px 0 4px">한국장</h2>')
@@ -196,17 +210,17 @@ def main():
         return 1
 
     b = json.load(open(path))
-    site = env.get("SITE_URL", "")
-    body = build_html(b, site)
-
     is_kr = b.get("session") == "kr_close"
-    label = "한국장 마감" if is_kr else "시장 브리핑"
-    guide = (f"[{label}] {b.get('date','')}\n"
-             f"대시보드: {site}\n\n"
+    label = "국내장" if is_kr else "미국장"
+    date_str = b.get("date", "")
+    title = pick_title(b, label)
+
+    body = build_html(b, title, is_kr)
+    guide = (f"[{label}] {date_str}\n\n"
              f"아래 HTML을 그대로 붙여넣으면 대시보드와 같은 형태로 보입니다.\n"
              f"=====================================\n")
-    send(to_addr, f"[{label}] {b.get('date','')} {(b.get('headline') or '')[:40]}",
-         guide + body + "\n=====================================\n")
+    subject = f"{date_str} {label} {title}"
+    send(to_addr, subject, guide + body + "\n=====================================\n")
     print(f"OK: brief mail sent to {to_addr} ({os.path.basename(path)})")
     return 0
 
