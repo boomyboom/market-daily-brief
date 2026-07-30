@@ -77,6 +77,9 @@ fi
 
 # Obsidian 주식뇌 기록
 "$PYTHON" "$REPO/brief_to_obsidian.py" "$BRIEF" >>"$LOG" 2>&1 && log "obsidian 기록 OK" || log "obsidian 기록 실패"
+# 위키 색인과 로그 갱신
+"$PYTHON" "$REPO/wiki_tools.py" index >>"$LOG" 2>&1 || true
+"$PYTHON" "$REPO/wiki_tools.py" log "한국장 마감 $TODAY 기록" >>"$LOG" 2>&1 || true
 
 # 텔레그램 발송 (긴 메시지는 분할 발송됨)
 "$PYTHON" "$REPO/telegram_notify.py" --file "$BRIEF" >>"$LOG" 2>&1 && log "telegram push OK" || log "telegram push 실패"
