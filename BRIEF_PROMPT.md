@@ -36,9 +36,8 @@
 5. 아래 스키마대로 `briefs/YYYY-MM-DD.json` 생성/갱신.
 6. 사용한 뉴스 URL을 `briefs/seen_urls.json`에 추가.
 7. `python3 cleanup_old_briefs.py` → 30일 지난 브리핑 삭제 + `manifest.json` 재생성.
-8. JSON 검증 (`python3 -m json.tool briefs/YYYY-MM-DD.json`).
-9. git add/commit/push (`brief: YYYY-MM-DD (new|update)`). (remote 없으면 push 실패해도 무시)
-   - **텔레그램 발송은 하지 마라.** 커밋으로 변경이 감지되면 실행 스크립트(`run_daily_brief.sh`)가 `telegram_notify.py`로 자동 발송한다. (중복 발송 방지)
+8. JSON 문법 검증 (`python3 -m json.tool briefs/YYYY-MM-DD.json`).
+9. **git add, commit, push와 텔레그램, 메일 발송은 하지 마라.** 실행 스크립트가 결정적 품질 검증을 통과한 최종본만 커밋하고 발송한다.
 
 ## 브리핑 JSON 스키마
 ```json
@@ -52,45 +51,45 @@
   "kr": {
     "preview": "오늘 한국장 프리뷰/브리핑",
     "indices": [
-      { "name": "코스피",  "value": "", "change_pct": "" },
-      { "name": "코스닥",  "value": "", "change_pct": "" }
+      { "name": "코스피",  "value": "", "change_pct": "", "source_urls": [""] },
+      { "name": "코스닥",  "value": "", "change_pct": "", "source_urls": [""] }
     ],
     "hot_stocks": [
-      { "ticker": "", "name": "", "change_pct": "", "reason": "그날 화제가 된 이유", "source_url": "" }
+      { "ticker": "", "name": "", "change_pct": "", "reason": "그날 화제가 된 이유", "source_url": "", "source_urls": [""] }
     ]
   },
 
   "us": {
     "recap": "밤사이 미국장 마감 브리핑 (요약)",
     "indices": [
-      { "name": "S&P 500", "value": "", "change_pct": "" },
-      { "name": "나스닥",   "value": "", "change_pct": "" },
-      { "name": "다우",     "value": "", "change_pct": "" }
+      { "name": "S&P 500", "value": "", "change_pct": "", "source_urls": [""] },
+      { "name": "나스닥",   "value": "", "change_pct": "", "source_urls": [""] },
+      { "name": "다우",     "value": "", "change_pct": "", "source_urls": [""] }
     ],
     "notable": [
-      { "ticker": "", "name": "", "change_pct": "", "reason": "", "source_url": "" }
+      { "ticker": "", "name": "", "change_pct": "", "reason": "", "source_url": "", "source_urls": [""] }
     ]
   },
 
   "sectors": {
     "kr": [
-      { "name": "반도체",   "change_pct": "+1.8%", "note": "" },
-      { "name": "2차전지",  "change_pct": "-0.9%", "note": "" }
+      { "name": "반도체",   "change_pct": "+1.8%", "note": "", "source_url": "" },
+      { "name": "2차전지",  "change_pct": "-0.9%", "note": "", "source_url": "" }
     ],
     "us": [
-      { "name": "반도체",   "change_pct": "+2.1%", "note": "" },
-      { "name": "헬스케어", "change_pct": "-0.4%", "note": "" }
+      { "name": "반도체",   "change_pct": "+2.1%", "note": "", "source_url": "" },
+      { "name": "헬스케어", "change_pct": "-0.4%", "note": "", "source_url": "" }
     ]
   },
 
   "assets": [
-    { "name": "원/달러",     "value": "1,384", "change_pct": "-0.3%" },
-    { "name": "달러인덱스",  "value": "104.2", "change_pct": "+0.1%" },
-    { "name": "금",          "value": "$2,410", "change_pct": "+0.8%" },
-    { "name": "WTI",         "value": "$82.5",  "change_pct": "+1.2%" },
-    { "name": "비트코인",    "value": "$68,200", "change_pct": "+2.1%" },
-    { "name": "이더리움",    "value": "$3,450", "change_pct": "+1.5%" },
-    { "name": "미 10년물",   "value": "4.35%",  "change_pct": "+3bp" }
+    { "name": "원/달러",     "value": "1,384", "change_pct": "-0.3%", "source_url": "" },
+    { "name": "달러인덱스",  "value": "104.2", "change_pct": "+0.1%", "source_url": "" },
+    { "name": "금",          "value": "$2,410", "change_pct": "+0.8%", "source_url": "" },
+    { "name": "WTI",         "value": "$82.5",  "change_pct": "+1.2%", "source_url": "" },
+    { "name": "비트코인",    "value": "$68,200", "change_pct": "+2.1%", "source_url": "" },
+    { "name": "이더리움",    "value": "$3,450", "change_pct": "+1.5%", "source_url": "" },
+    { "name": "미 10년물",   "value": "4.35%",  "change_pct": "+3bp", "source_url": "" }
   ],
 
   "macro": {
@@ -123,6 +122,8 @@
 - **모든 섹터를 반드시 채운다.** 미국은 섹터 ETF(XLK·SOXX·XLC·XLV·XLF·XLY·XLP·XLI·XLB·XLE·XLU·XLRE)의 당일 등락률을, 한국은 KRX 업종지수를 웹서치로 조회한다. "XLK today", "코스피 업종별 등락률" 등을 적극 검색.
 - 업종지수를 못 구하면 그 섹터 대표 종목 2~3개 평균으로 계산하고 "(대표종목 기준)" 표기. **게을리 '미확인' 처리하지 말 것** — 미확인은 정말 예외적일 때만.
 - 웹 대시보드가 `change_pct`로 색을 계산하므로 **부호(+/-)와 숫자를 정확히** 기입한다 (예: "+1.8%", "-0.9%").
+- 범위나 어림값(`+9~11%`, `+10%대`)은 쓰지 않는다. 대표 종목 평균도 직접 계산해 정확한 숫자 하나로 쓴다.
+- 모든 지수, 섹터, 핵심 지표에는 출처 URL을 넣는다. 지수가 5% 이상, 개별 종목이 15% 이상 움직인 이례적 수치는 서로 독립적인 공신력 있는 출처 2개를 `source_urls`에 넣는다.
 
 ## 테마 이름 규칙 (중요)
 `top_themes[].theme` 에는 **`theme_taxonomy.json` 의 표준 테마명 중 하나를 그대로** 쓴다.
@@ -133,6 +134,7 @@
 
 ## 원칙
 - **✍️ 문장부호**: **가운뎃점 `·` 과 긴 줄표 `—` `–` 를 쓰지 않는다** (AI 티가 난다고 발행자가 싫어함). headline과 mail_title을 포함한 모든 텍스트에 적용. 나열은 쉼표나 "와/과"로, 삽입구는 쉼표나 괄호로.
+- `.env`와 토큰, 비밀번호 파일은 읽거나 출력하지 않는다.
 - **mail_title은 headline을 그대로 줄인 게 아니라, 그날 가장 궁금할 지점 하나를 뽑아 다시 쓴다.** 숫자나 구체적 사실이 있으면 넣는다.
 - 수치·사실은 지어내지 않는다. 확인 불가하면 공란 또는 "미확인".
 - Spotlight는 개인 매수 지시가 아니라 팩트 정리 + 출처 인용 + 면책. (`BRIEFING_GUIDE.md` 준수)

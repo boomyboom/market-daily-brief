@@ -28,9 +28,8 @@
    - 오늘의 주도 테마와 이유
 4. 아래 스키마로 `briefs/YYYY-MM-DD-kr.json`을 저장한다.
 5. 사용한 URL을 `briefs/seen_urls.json`에 추가한다.
-6. JSON 검증 (`python3 -m json.tool`).
-7. git add/commit/push (`kr brief: YYYY-MM-DD`). 실패해도 무시하고 진행.
-   - **텔레그램은 보내지 마라.** 러너가 처리한다.
+6. JSON 문법 검증 (`python3 -m json.tool`).
+7. **git add, commit, push와 텔레그램, 메일 발송은 하지 마라.** 러너가 품질 검증을 통과한 최종본만 처리한다.
 
 ## JSON 스키마
 아침 브리핑과 같은 구조를 쓰되, `us`는 비워둔다.
@@ -44,15 +43,23 @@
   "kr": {
     "preview": "오늘 한국장 마감 총평. 무엇이 지수를 움직였는지, 수급은 어땠는지.",
     "indices": [
-      { "name": "코스피", "value": "", "change_pct": "" },
-      { "name": "코스닥", "value": "", "change_pct": "" }
+      { "name": "코스피", "value": "", "change_pct": "", "source_urls": [""] },
+      { "name": "코스닥", "value": "", "change_pct": "", "source_urls": [""] }
     ],
     "hot_stocks": [
-      { "ticker": "", "name": "", "change_pct": "", "reason": "왜 올랐나/떨어졌나", "source_url": "" }
+      { "ticker": "", "name": "", "change_pct": "", "reason": "왜 올랐나/떨어졌나", "source_url": "", "source_urls": [""] }
     ]
   },
-  "sectors": { "kr": [ { "name": "반도체", "change_pct": "+1.8%", "note": "" } ] },
-  "assets": [ { "name": "원/달러", "value": "", "change_pct": "" } ],
+  "sectors": { "kr": [ { "name": "반도체", "change_pct": "+1.8%", "note": "", "source_url": "" } ] },
+  "assets": [
+    { "name": "원/달러", "value": "", "change_pct": "", "source_url": "" },
+    { "name": "달러인덱스", "value": "", "change_pct": "", "source_url": "" },
+    { "name": "금", "value": "", "change_pct": "", "source_url": "" },
+    { "name": "WTI", "value": "", "change_pct": "", "source_url": "" },
+    { "name": "비트코인", "value": "", "change_pct": "", "source_url": "" },
+    { "name": "이더리움", "value": "", "change_pct": "", "source_url": "" },
+    { "name": "미 10년물", "value": "", "change_pct": "", "source_url": "" }
+  ],
   "macro": { "rates_fx_commodities": "", "notes": "수급 동향, 특이사항" },
   "top_themes": [ { "theme": "", "summary": "", "source_url": "" } ],
   "watchlist": [ { "ticker": "", "name": "", "market": "KR", "news": "", "source_url": "" } ],
@@ -71,6 +78,9 @@
 - **왜 움직였는지**를 반드시 쓴다. 등락률만 나열하지 않는다.
 - 수치는 지어내지 않는다. 확인 불가하면 "미확인".
 - 섹터는 게을리 미확인 처리하지 말고 최대한 채운다.
+- 섹터에는 범위나 어림값을 쓰지 않고 정확한 등락률 하나와 출처 URL을 넣는다.
+- 지수가 5% 이상, 개별 종목이 15% 이상 움직인 이례적 수치는 독립적인 공신력 있는 출처 2개를 `source_urls`에 넣는다.
+- `.env`와 토큰, 비밀번호 파일은 읽거나 출력하지 않는다.
 - **가운뎃점과 긴 줄표를 쓰지 않는다.** headline과 mail_title 포함. 나열은 쉼표나 "와/과"로.
 - **mail_title은 headline을 줄인 게 아니라, 오늘 가장 궁금할 지점 하나를 뽑아 다시 쓴다.** 숫자나 구체적 사실이 있으면 넣는다.
 - 투자 권유 금지. 사실과 이유만.

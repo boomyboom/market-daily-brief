@@ -8,7 +8,9 @@ cd "$REPO" || exit 1
 
 # ---- load .env (for CLAUDE_BIN, PATH additions, tokens) ----
 if [ -f "$REPO/.env" ]; then
-  set -a; source "$REPO/.env"; set +a
+  set -a
+  source "$REPO/.env"
+  set +a
 fi
 
 # ---- resolve binaries (launchd has a minimal PATH) ----
@@ -69,7 +71,9 @@ else
   # 생성이 빈손으로 끝나는 경우가 있어(응답이 인사말 한 줄) 한 번 재시도한다
   for attempt in 1 2; do
     log "invoking Claude Code headless… (시도 $attempt)"
-    "$CLAUDE" -p "$(cat "$REPO/BRIEF_PROMPT.md")" \
+    env -u TELEGRAM_BOT_TOKEN -u TELEGRAM_CHAT_ID -u TELEGRAM_APPROVE_BOT_TOKEN \
+      -u THREADS_TOKEN -u MAIL_TO -u OBSIDIAN_VAULT \
+      "$CLAUDE" -p "$(cat "$REPO/BRIEF_PROMPT.md")" \
       --allowedTools "Task,Bash,WebSearch,WebFetch,Read,Write,Edit,Glob,Grep" \
       >"$RUN_OUT" 2>&1
     log "claude exit status: $?"
@@ -101,12 +105,41 @@ if [ -f "$REPO/briefs/$TODAY.json" ]; then
   "$PYTHON" "$REPO/humanize_brief.py" "$REPO/briefs/$TODAY.json" >>"$LOG" 2>&1 || log "humanize 실패"
 fi
 
+# ---- deterministic release gate ----
+if [ -f "$REPO/briefs/$TODAY.json" ]; then
+  if ! "$PYTHON" "$REPO/validate_brief.py" "$REPO/briefs/$TODAY.json" >>"$LOG" 2>&1; then
+    log "ERROR: 발행 전 검증 실패, 외부 발송 중단"
+    send_alert "⚠️ 오늘($TODAY) 시장 브리핑이 품질 검증을 통과하지 못해 발행을 멈췄어요.
+로그: $REPO/logs/$TODAY.log"
+    exit 1
+  fi
+  log "발행 전 검증 OK"
+fi
+
+# ---- publish the final post-processed artifacts ----
+if [ -f "$REPO/briefs/$TODAY.json" ]; then
+  PUBLISH_PATHS=("briefs/$TODAY.json" "briefs/seen_urls.json" "briefs/manifest.json")
+  if "$GIT" add -- "${PUBLISH_PATHS[@]}" >>"$LOG" 2>&1; then
+    if ! "$GIT" diff --cached --quiet -- "${PUBLISH_PATHS[@]}"; then
+      if "$GIT" commit --only -m "brief: $TODAY (validated)" -- "${PUBLISH_PATHS[@]}" >>"$LOG" 2>&1; then
+        log "최종 산출물 커밋 OK"
+        "$GIT" push origin HEAD >>"$LOG" 2>&1 && log "GitHub Pages 반영 요청 OK" || log "GitHub push 실패"
+      else
+        log "최종 산출물 커밋 실패, push 생략"
+      fi
+    fi
+  else
+    log "git add 실패"
+  fi
+fi
+
 # ---- Obsidian 제2의 뇌 기록 ----
 if [ -f "$REPO/briefs/$TODAY.json" ]; then
-  "$PYTHON" "$REPO/brief_to_obsidian.py" "$REPO/briefs/$TODAY.json" >>"$LOG" 2>&1 && log "obsidian 기록 OK" || log "obsidian export 실패"
+  OBSIDIAN_FAILED=0
+  "$PYTHON" "$REPO/brief_to_obsidian.py" "$REPO/briefs/$TODAY.json" >>"$LOG" 2>&1 && log "obsidian 기록 OK" || { log "obsidian 기록 일부 또는 전체 실패"; OBSIDIAN_FAILED=1; }
   # 위키 색인과 로그 갱신
-  "$PYTHON" "$REPO/wiki_tools.py" index >>"$LOG" 2>&1 || true
-  "$PYTHON" "$REPO/wiki_tools.py" log "시장 브리핑 $TODAY 기록" >>"$LOG" 2>&1 || true
+  "$PYTHON" "$REPO/wiki_tools.py" index >>"$LOG" 2>&1 || log "wiki index 갱신 실패"
+  "$PYTHON" "$REPO/wiki_tools.py" log "시장 브리핑 $TODAY 기록" >>"$LOG" 2>&1 || log "wiki log 갱신 실패"
 fi
 
 # ---- 대시보드 형태 브리핑 메일 ----
@@ -134,3 +167,4 @@ else
 fi
 
 log "===== daily brief run end ====="
+[ "${OBSIDIAN_FAILED:-0}" = "0" ] || exit 2

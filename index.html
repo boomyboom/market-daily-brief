@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BoomyBoom · 오늘의 시장 브리핑</title>
+<title>BoomyBoom | 오늘의 시장 브리핑</title>
 <style>
   :root{
     --bg:#0b0e14; --panel:#141922; --panel2:#1b2230; --border:#26303f;
@@ -78,20 +78,22 @@
 <div class="wrap">
   <header>
     <div>
-      <h1>Boomy<span class="dot">·</span>Boom 시장 브리핑</h1>
+      <h1>Boomy<span class="dot">&amp;</span>Boom 시장 브리핑</h1>
       <div class="sub" id="gen">불러오는 중…</div>
     </div>
     <select id="datesel" aria-label="날짜 선택"></select>
   </header>
   <div id="content"><div class="empty">브리핑을 불러오는 중…</div></div>
-  <footer>매일 아침 08:00 KST 자동 업데이트 · 정보 제공용</footer>
+  <footer>아침 08:00, 한국장 마감 19:00 KST 업데이트 | 정보 제공용</footer>
 </div>
 
 <script>
 const $ = s => document.querySelector(s);
 const esc = s => (s==null?"":String(s)).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+const sourceUrl = x => x && (x.source_url || (Array.isArray(x.source_urls) && x.source_urls[0]) || (Array.isArray(x.sources) && x.sources[0])) || "";
+const sourceLink = x => { const u=sourceUrl(x); return /^https?:\/\//.test(u)?` <a class="src" href="${esc(u).replace(/\"/g,"&quot;")}" target="_blank" rel="noopener" aria-label="출처">↗</a>`:""; };
 const pctClass = p => { const s=String(p||"").trim(); if(s.startsWith("-"))return "pct-down"; if(parseFloat(s)>0)return "pct-up"; return ""; };
-const pctNum = p => { const m=String(p||"").replace(/[^0-9.\-]/g,""); const n=parseFloat(m); return isNaN(n)?null:n; };
+const pctNum = p => { const m=String(p||"").trim().match(/^[^0-9+\-]*([+\-]?\d+(?:\.\d+)?)/); return m?Number(m[1]):null; };
 
 // heatmap background color from % change
 function heatColor(p){
@@ -105,12 +107,12 @@ function heatColor(p){
 function indicesHTML(arr){
   if(!(arr||[]).length) return "";
   return '<div class="indices">' + arr.map(i =>
-    `<div class="idx"><div class="n">${esc(i.name)}</div><div class="v">${esc(i.value)} <span class="${pctClass(i.change_pct)}">${esc(i.change_pct)}</span></div></div>`
+    `<div class="idx"><div class="n">${esc(i.name)}${sourceLink(i)}</div><div class="v">${esc(i.value)} <span class="${pctClass(i.change_pct)}">${esc(i.change_pct)}</span></div></div>`
   ).join("") + '</div>';
 }
 function stockItems(arr){
   return (arr||[]).map(x=>{
-    const src = x.source_url?` <a class="src" href="${esc(x.source_url)}" target="_blank" rel="noopener">↗</a>`:"";
+    const src = sourceLink(x);
     return `<div class="item"><div class="t">${esc(x.name||x.ticker)} <span class="${pctClass(x.change_pct)}">${esc(x.change_pct)}</span>${src}</div><div class="meta">${esc(x.reason)}</div></div>`;
   }).join("");
 }
@@ -118,7 +120,7 @@ function heatGroup(title, arr){
   if(!(arr||[]).length) return "";
   const cells = arr.map(s=>{
     return `<div class="cell" style="background:${heatColor(s.change_pct)}" title="${esc(s.note||'')}">
-      <div class="s">${esc(s.name)}</div><div class="p">${esc(s.change_pct)}</div></div>`;
+      <div class="s">${esc(s.name)}${sourceLink(s)}</div><div class="p">${esc(s.change_pct)}</div></div>`;
   }).join("");
   return `<div class="heat-group"><div class="heat-title">${title}</div><div class="heat">${cells}</div></div>`;
 }
@@ -133,15 +135,15 @@ function render(b){
   const kr = b.kr || {};
   if(kr.preview || (kr.indices||[]).length || (kr.hot_stocks||[]).length){
     let inner = indicesHTML(kr.indices);
-    if(kr.preview) inner += `<div class="lead-line"><b>프리뷰</b> · ${esc(kr.preview)}</div>`;
+    if(kr.preview) inner += `<div class="lead-line"><b>프리뷰</b> | ${esc(kr.preview)}</div>`;
     if((kr.hot_stocks||[]).length) inner += `<div style="margin-top:8px">${stockItems(kr.hot_stocks)}</div>`;
-    h += `<section><h2>🇰🇷 한국장 <span class="mut">· 오늘의 화제 종목</span></h2>${inner}</section>`;
+    h += `<section><h2>🇰🇷 한국장 <span class="mut">| 오늘의 화제 종목</span></h2>${inner}</section>`;
   }
 
   // 2) 섹터 히트맵
   const sec = b.sectors || {};
   if((sec.kr||[]).length || (sec.us||[]).length){
-    h += `<section><h2>📊 섹터 히트맵 <span class="mut">· 오늘의 강세/약세</span></h2>`
+    h += `<section><h2>📊 섹터 히트맵 <span class="mut">| 오늘의 강세/약세</span></h2>`
        + heatGroup("🇰🇷 한국", sec.kr) + heatGroup("🇺🇸 미국", sec.us) + `</section>`;
   }
 
@@ -149,25 +151,25 @@ function render(b){
   const us = b.us || {};
   if(us.recap || (us.indices||[]).length || (us.notable||[]).length){
     let inner = indicesHTML(us.indices);
-    if(us.recap) inner += `<div class="lead-line"><b>마감 브리핑</b> · ${esc(us.recap)}</div>`;
+    if(us.recap) inner += `<div class="lead-line"><b>마감 브리핑</b> | ${esc(us.recap)}</div>`;
     if((us.notable||[]).length) inner += `<div style="margin-top:8px">${stockItems(us.notable)}</div>`;
-    h += `<section><h2>🇺🇸 미국장 <span class="mut">· 밤사이 마감 요약</span></h2>${inner}</section>`;
+    h += `<section><h2>🇺🇸 미국장 <span class="mut">| 밤사이 마감 요약</span></h2>${inner}</section>`;
   }
 
   // 3.5) 핵심 지표 (환율·금·코인)
   if((b.assets||[]).length){
     const tiles = b.assets.map(a=>
-      `<div class="idx"><div class="n">${esc(a.name)}</div><div class="v">${esc(a.value)} <span class="${pctClass(a.change_pct)}">${esc(a.change_pct)}</span></div></div>`
+      `<div class="idx"><div class="n">${esc(a.name)}${sourceLink(a)}</div><div class="v">${esc(a.value)} <span class="${pctClass(a.change_pct)}">${esc(a.change_pct)}</span></div></div>`
     ).join("");
-    h += `<section><h2>💱 환율·금·코인 <span class="mut">· 핵심 지표</span></h2><div class="indices">${tiles}</div></section>`;
+    h += `<section><h2>💱 환율, 금, 코인 <span class="mut">| 핵심 지표</span></h2><div class="indices">${tiles}</div></section>`;
   }
 
   // 4) 매크로
   const m = b.macro || {};
   if(m.rates_fx_commodities || m.notes){
     let inner = "";
-    if(m.rates_fx_commodities) inner += `<div class="lead-line"><b>금리·환율·원자재</b> · ${esc(m.rates_fx_commodities)}</div>`;
-    if(m.notes) inner += `<div class="lead-line"><b>비고</b> · ${esc(m.notes)}</div>`;
+    if(m.rates_fx_commodities) inner += `<div class="lead-line"><b>금리, 환율, 원자재</b> | ${esc(m.rates_fx_commodities)}</div>`;
+    if(m.notes) inner += `<div class="lead-line"><b>비고</b> | ${esc(m.notes)}</div>`;
     h += `<section><h2>매크로</h2>${inner}</section>`;
   }
 
@@ -182,14 +184,14 @@ function render(b){
 
   // 6) 주목 종목 (spotlight)
   if((b.spotlight||[]).length){
-    h += '<section><h2>🎯 주목 종목 <span class="mut">· 정보 제공용</span></h2>' + b.spotlight.map(s=>{
+    h += '<section><h2>🎯 주목 종목 <span class="mut">| 정보 제공용</span></h2>' + b.spotlight.map(s=>{
       const lv = s.levels_watched||{};
       let levels = "";
       if(lv.support) levels += `<span class="level"><b>지지</b> ${esc(lv.support)}</span>`;
       if(lv.resistance) levels += `<span class="level"><b>저항</b> ${esc(lv.resistance)}</span>`;
       if(lv.analyst_target_cited) levels += `<span class="level"><b>목표가</b> ${esc(lv.analyst_target_cited)}</span>`;
-      const cats = (s.catalysts||[]).length?`<div class="meta">📅 ${s.catalysts.map(esc).join(" · ")}</div>`:"";
-      const srcs = (s.sources||[]).map((u,i)=>`<a class="src" href="${esc(u)}" target="_blank" rel="noopener">출처${i+1}</a>`).join(" · ");
+      const cats = (s.catalysts||[]).length?`<div class="meta">📅 ${s.catalysts.map(esc).join(", ")}</div>`:"";
+      const srcs = (s.sources||[]).map((u,i)=>`<a class="src" href="${esc(u)}" target="_blank" rel="noopener">출처${i+1}</a>`).join(", ");
       return `<div class="spot"><div class="name">${esc(s.name||s.ticker)}<span class="mkt">${esc(s.market)}</span></div>
         <div class="meta">${esc(s.thesis)}</div>${cats}
         ${levels?`<div class="levels">${levels}</div>`:""}
@@ -227,7 +229,7 @@ async function loadJSON(p){ const r = await fetch(p + "?_=" + Date.now()); retur
       $("#gen").textContent = "불러오는 중…";
       const b = await loadJSON(`briefs/${key}.json`);
       const when = b.generated_at_kst ? "생성: "+b.generated_at_kst.replace("T"," ").slice(0,16) : key;
-      const kind = b.session === "kr_close" ? " · 한국장 마감" : " · 미국장, 아침";
+      const kind = b.session === "kr_close" ? " | 한국장 마감" : " | 미국장, 아침";
       $("#gen").textContent = when + kind;
       render(b);
     }

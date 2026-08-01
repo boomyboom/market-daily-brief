@@ -14,6 +14,7 @@ import sys
 import glob
 import time
 import html
+import re
 import urllib.request
 import urllib.parse
 
@@ -62,10 +63,11 @@ def humanize(t):
 
 
 def pct_num(s):
-    m = "".join(c for c in str(s or "") if c in "0123456789.-")
+    import re
+    m = re.search(r"^[^0-9+\-]*([+\-]?\d+(?:\.\d+)?)", str(s or "").strip())
     try:
-        return float(m)
-    except ValueError:
+        return float(m.group(1)) if m else None
+    except (ValueError, AttributeError):
         return None
 
 
@@ -127,10 +129,10 @@ def format_message(brief, site_url=""):
         L += sblock
         L.append("")
 
-    # 💱 핵심 지표 (환율·금·코인)
+    # 💱 핵심 지표 (환율, 금, 코인)
     assets = brief.get("assets") or []
     if assets:
-        L.append("💱 <b>환율·금·코인</b>")
+        L.append("💱 <b>환율, 금, 코인</b>")
         parts = []
         for a in assets:
             if not a.get("name"):
@@ -185,8 +187,35 @@ def split_message(msg, limit=TG_LIMIT):
     """Split at line boundaries so nothing is dropped and no HTML tag is cut."""
     if len(msg) <= limit:
         return [msg]
+
+    def split_long_line(line, room):
+        if len(line) <= room:
+            return [line]
+        # A single pathological HTML line can otherwise be cut inside <b> or <a>.
+        # For such lines only, preserve all visible text and drop formatting.
+        line = esc(html.unescape(re.sub(r"<[^>]+>", "", line)))
+        inner_room = max(1, room)
+        chunks = []
+        while len(line) > inner_room:
+            cut = line.rfind(" ", 0, inner_room + 1)
+            if cut < inner_room // 2:
+                cut = inner_room
+            # Do not leave a partial HTML entity at the boundary.
+            amp = line.rfind("&", 0, cut)
+            semi = line.rfind(";", 0, cut)
+            if amp > semi and amp > 0:
+                cut = amp
+            chunks.append(line[:cut].rstrip())
+            line = line[cut:].lstrip()
+        if line:
+            chunks.append(line)
+        return chunks
+
     parts, cur = [], []
+    lines = []
     for line in msg.split("\n"):
+        lines.extend(split_long_line(line, limit - 40))
+    for line in lines:
         candidate = ("\n".join(cur + [line])) if cur else line
         if len(candidate) > limit - 20 and cur:
             parts.append("\n".join(cur))

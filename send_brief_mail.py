@@ -40,10 +40,10 @@ def esc(s):
 
 
 def pct_num(s):
-    m = "".join(c for c in str(s or "") if c in "0123456789.-")
+    m = re.search(r"^[^0-9+\-]*([+\-]?\d+(?:\.\d+)?)", str(s or "").strip())
     try:
-        return float(m)
-    except ValueError:
+        return float(m.group(1)) if m else None
+    except (ValueError, AttributeError):
         return None
 
 
