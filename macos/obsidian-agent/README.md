@@ -25,3 +25,12 @@ macOS `launchd` 작업이 사용자의 Obsidian 보관함에 기록할 수 있�
 ```bash
 "/Applications/BoomyBoom Obsidian Agent.app/Contents/MacOS/boomyboom-obsidian-agent" --smoke
 ```
+
+`--mail-smoke`는 `.env`의 `MAIL_TO` 주소로 테스트 메일 한 통을 보내 Mail 앱 자동화 권한과 실제 발송 경로를 확인한다. 최초 실행 시 macOS가 Mail 제어 권한을 요청할 수 있다.
+10분 안에 다시 실행하면 중복 발송을 막기 위해 전송을 건너뛴다.
+
+```bash
+"/Applications/BoomyBoom Obsidian Agent.app/Contents/MacOS/boomyboom-obsidian-agent" --mail-smoke
+```
+
+메일 발송이 최종 실패하면 본문은 `logs/mail_queue/`에 로컬로 보관하고, 텔레그램에는 제목과 오류만 알린다.

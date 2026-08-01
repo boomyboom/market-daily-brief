@@ -22,5 +22,7 @@
   <string>1</string>
   <key>LSBackgroundOnly</key>
   <true/>
+  <key>NSAppleEventsUsageDescription</key>
+  <string>예약 브리핑과 보고서를 사용자의 Mail 앱을 통해 본인 이메일로 전송합니다.</string>
 </dict>
 </plist>

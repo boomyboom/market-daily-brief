@@ -33,6 +33,17 @@ int main(int argc, char **argv) {
         return 70;
     }
 
+    if (argc == 2 && strcmp(argv[1], "--mail-smoke") == 0) {
+        char *mail_smoke[] = {
+            "/usr/bin/python3",
+            "/Applications/BoomyBoom/test_mail_automation.py",
+            NULL
+        };
+        execv(mail_smoke[0], mail_smoke);
+        perror("execv mail smoke");
+        return 70;
+    }
+
     if (argc != 2 || !is_allowed(argv[1])) {
         fprintf(stderr, "Denied: only approved BoomyBoom jobs may run.\n");
         return 64;
