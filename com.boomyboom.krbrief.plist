@@ -5,7 +5,7 @@
     <key>Label</key><string>com.boomyboom.krbrief</string>
     <key>ProgramArguments</key>
     <array>
-        <string>/bin/bash</string>
+        <string>/Applications/BoomyBoom Obsidian Agent.app/Contents/MacOS/boomyboom-obsidian-agent</string>
         <string>/Applications/BoomyBoom/run_kr_brief.sh</string>
     </array>
     <key>WorkingDirectory</key><string>/Applications/BoomyBoom</string>
