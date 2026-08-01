@@ -1,12 +1,10 @@
-# secrets — never commit
-.env
+# GitHub Pages 공개 파일만 추적한다.
+# 자동화 코드와 내부 운영 자료는 이 폴더에 그대로 두되 Git에는 올리지 않는다.
+/*
+!/.gitignore
+!/index.html
+!/briefs/
+!/cards/
 
-# local machine settings
-.claude/settings.local.json
-
-# logs
-logs/
-*.log
-
-# macOS
-.DS_Store
+# 내부 중복 방지 데이터
+/briefs/seen_urls.json
