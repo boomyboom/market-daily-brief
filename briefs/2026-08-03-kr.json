@@ -1,0 +1,266 @@
+{
+  "date": "2026-08-03",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-03T19:30:00+09:00",
+  "headline": "코스피가 반도체 대형주 차익실현과 엔캐리 트레이드 청산 우려가 겹치며 5.12% 급락한 반면, 코스닥은 로봇과 바이오 강세에 힘입어 2.44% 올라 극심한 차별화 장세를 보였다.",
+  "mail_title": "코스피 폭등 다음날, 개인만 4.6조 담았다",
+  "kr": {
+    "preview": "지난 금요일(7월 31일) 하루 만에 17.91% 폭등했던 코스피가 다음 거래일인 3일 338.00포인트(5.12%) 급락한 6,257.45로 마감했다. 급등을 이끌었던 삼성전자(-8.76%, 23만9500원)와 SK하이닉스(-8.79%, 156만7000원)에서 외국인과 기관이 동반 차익실현에 나선 영향이 컸다. 외국인은 SK하이닉스에서만 1조7,667억원, 삼성전자에서 9,455억원을 순매도했고 기관도 삼성전자 1조2,192억원, SK하이닉스 4,500억원어치를 팔아치웠다. 여기에 엔화 강세 전망에 따른 엔캐리 트레이드 청산 우려까지 겹치며 낙폭이 커졌다. 코스피 전체로는 외국인이 2조8,427억원, 기관이 1조9,475억원을 순매도한 반면 개인이 4조6,527억원을 순매수하며 낙폭 방어에 나섰다. 반면 코스닥은 17.59포인트(2.44%) 오른 737.35로 이틀 연속 상승했다. 반도체에 쏠렸던 수급이 제약, 바이오와 로봇 업종으로 옮겨간 영향이다. 미국 FCC가 중국산 로봇의 사실상 수입 금지 조치를 취했다는 소식에 로보티즈(+17.25%), 원익홀딩스(+29.97%), 티엑스알로보틱스(+29.93%) 등 로봇 관련주가 코스닥 상한가 11개 종목 중 다수를 차지했다. 일라이릴리와의 장기지속형 GLP-1 비만약 공동개발 및 오송 2공장 공급망 참여 기대감에 펩트론이 29.97% 오른 16만6100원으로 상한가를 기록했고, 알테오젠, 에이비엘바이오, 코오롱티슈진, 삼천당제약 등도 동반 강세를 보였다. 한편 주말 사이 트럼프 대통령이 대이란 군사작전을 전격 취소하고 호르무즈 해협 개방 관련 협상 가능성을 시사하면서 국제유가가 4%대 급락(WTI 80.96달러)했고, 이 여파로 SK가스, S-Oil 등 정유, 에너지주가 약세를 보인 반면 대이란 리스크 완화에 따른 중동 재건 기대감에 일부 건설, 인프라 관련주가 상승했다. 반도체 대형주가 흔들리는 사이 KB금융(+0.59%), 신한지주(+1.99%), 하나금융지주(+1.20%) 등 은행주는 상대적으로 견조한 흐름을 보이며 반사이익을 누렸다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,257.45",
+        "change_pct": "-5.12%(-338.00p)",
+        "source_urls": [
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217229",
+          "https://www.etnews.com/20260803000375"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "737.35",
+        "change_pct": "+2.44%(+17.59p)",
+        "source_urls": [
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217229",
+          "https://www.etnews.com/20260803000375"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-8.76%(23만9,500원)",
+        "reason": "지난 거래일 26.81% 폭등에 따른 차익실현 매물이 출회된 데다 엔캐리 트레이드 청산 우려까지 겹쳤다. 기관이 이 종목에서만 1조2,192억원을 순매도했다.",
+        "source_url": "https://www.hankyung.com/article/2026080308906",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026080308906",
+          "https://www.cbci.co.kr/news/articleView.html?idxno=594208"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-8.79%(156만7,000원)",
+        "reason": "17년 만의 상한가를 기록한 다음 거래일, 외국인이 이 종목에서만 1조7,667억원을 순매도하며 대규모 차익실현에 나섰다. 엔캐리 청산 우려도 매도 심리를 자극했다.",
+        "source_url": "https://www.newspim.com/news/view/20260803001301",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260803001301",
+          "https://www.hankyung.com/article/2026080308906"
+        ]
+      },
+      {
+        "ticker": "108490",
+        "name": "로보티즈",
+        "change_pct": "+17.25%",
+        "reason": "미국 연방통신위원회(FCC)가 국가안보를 이유로 중국산 휴머노이드, 4족보행 로봇의 장비 승인을 사실상 제한하기로 하면서, 로봇 구동장치 '다이나믹셀' 액추에이터로 10여 년 전부터 FCC 인증을 보유한 로보티즈가 반사수혜주로 부각됐다.",
+        "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1718497",
+        "source_urls": [
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1718497",
+          "https://www.hankyung.com/article/202608031978i"
+        ]
+      },
+      {
+        "ticker": "087010",
+        "name": "펩트론",
+        "change_pct": "+29.97%(상한가, 16만6,100원)",
+        "reason": "일라이릴리와 공동 개발 중인 월 1회 투여형 GLP-1 비만치료제의 국내 생산 공급망에 참여할 수 있다는 기대가 확산됐다. 오송 2공장이 관련 생산기지로 거론되며 투자심리를 자극했으나, 특정 제품의 국내 생산이나 공급계약이 공식 확정된 단계는 아니다.",
+        "source_url": "https://www.newspim.com/news/view/20260803001113",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260803001113",
+          "https://www.cbci.co.kr/news/articleView.html?idxno=594208"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-8.78%",
+        "note": "삼성전자(-8.76%), SK하이닉스(-8.79%) 대표종목 평균. 지난 거래일 급등에 따른 외국인, 기관 차익실현",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=594208"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-7.60%",
+        "note": "전기전자 업종지수. 반도체 대형주 급락 여파로 IT 하드웨어 전반 약세",
+        "source_url": "https://www.hellot.net/news/article.html?no=114148"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.69%",
+        "note": "코스피 통신업종지수. SK텔레콤(+0.74%) 등 개별 통신주도 견조",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217229"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+4.75%",
+        "note": "코스닥 제약업종지수. 펩트론 상한가 등 GLP-1 공급망 기대가 업종 전반 강세를 이끔",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217229"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.26%",
+        "note": "KB금융(+0.59%), 신한지주(+1.99%), 하나금융지주(+1.20%) 대표종목 평균. 반도체 매도세 속 반사이익",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217229"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-4.60%",
+        "note": "유통업종지수. 코스피 전반 급락 동조",
+        "source_url": "https://www.hellot.net/news/article.html?no=114148"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+1.08%",
+        "note": "현대차(+1.29%), 기아(-1.74%), 현대모비스(+3.68%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217229"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-4.09%",
+        "note": "LG에너지솔루션(-3.66%), 에코프로비엠(-6.47%), 에코프로(-2.15%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=594208"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-2.17%",
+        "note": "한화오션(-2.58%), HD한국조선해양(-4.16%), 한화에어로스페이스(+0.22%) 대표종목 평균 (대표종목 기준). 한화에어로스페이스는 2분기 영업이익 1조3,655억원의 사상 최대 실적 호조에도 지지부진",
+        "source_url": "https://markets.hankyung.com/stock/042660"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.74%",
+        "note": "건설업종지수. 트럼프의 대이란 작전 철회에 따른 중동 재건 기대감",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217229"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-1.14%",
+        "note": "코스피 화학업종지수",
+        "source_url": "https://segye.com/newsView/20260803515788"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-4.38%",
+        "note": "POSCO홀딩스(-2.88%), 현대제철(-5.88%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005490"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.68%",
+        "note": "네이버(-0.24%), 카카오(-0.53%), 게임엔터테인먼트 업종지수(-1.27%) 평균 (대표종목 기준)",
+        "source_url": "https://www.nspna.com/report/?mode=view&newsid=822882"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.79%",
+        "note": "오락문화 업종지수(하이브, 강원랜드, GKL 등 포함). 코스피 하락 속 유일한 상승 업종 중 하나",
+        "source_url": "https://www.sedaily.com/article/20066627"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,429.8원",
+      "change_pct": "-5.7원",
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217229"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.84",
+      "change_pct": "-0.07%",
+      "source_url": "https://kr.investing.com/indices/usdollar"
+    },
+    {
+      "name": "금",
+      "value": "$4,061.51/oz",
+      "change_pct": "+0.46%",
+      "source_url": "https://www.markets.com/news/gold-price-today-august-3-2026"
+    },
+    {
+      "name": "WTI",
+      "value": "$80.96/배럴",
+      "change_pct": "-4.38%(-3.71달러)",
+      "source_url": "https://www.tradingkey.com/news/market-movers/262069532-market-movers-usoil-20260803"
+    },
+    {
+      "name": "비트코인",
+      "value": "$62,727.67",
+      "change_pct": "-0.7%",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,849.31",
+      "change_pct": "-1.0%",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.684%",
+      "change_pct": "-0.061%p",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원/달러 환율은 1,429.8원으로 전일 대비 5.7원 하락했다. 국고채 3년물은 3.742%(-1.6bp), 10년물은 4.264%(+0.3bp)를 기록했다. 트럼프 대통령의 대이란 군사작전 철회 소식에 WTI가 4%대 급락하며 80달러대로 내려앉았다.",
+    "notes": "외국인 2조8,427억원, 기관 1조9,475억원 순매도, 개인 4조6,527억원 순매수로 낙폭을 방어했다. 반도체 대형주에서 빠진 자금이 은행주, 제약, 바이오, 로봇 업종으로 순환매된 하루였다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "지난 거래일 하루 만에 26~30%대 폭등했던 삼성전자, SK하이닉스가 외국인, 기관의 대규모 차익실현 매물에 8%대 급락했다. 엔캐리 트레이드 청산 우려까지 겹치며 낙폭이 커졌다.",
+      "source_url": "https://www.hankyung.com/article/2026080308906"
+    },
+    {
+      "theme": "로봇과 휴머노이드",
+      "summary": "미국 FCC의 중국산 로봇 사실상 수입 금지 조치에 로보티즈, 원익홀딩스, 티엑스알로보틱스 등이 코스닥 상한가 행렬에 동참하며 반사수혜를 누렸다.",
+      "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1718497"
+    },
+    {
+      "theme": "바이오와 제약",
+      "summary": "펩트론이 일라이릴리 GLP-1 비만약 공급망 참여 기대감에 상한가를 기록했고, 코스닥 제약업종지수가 4%대 강세를 보이며 반도체 이탈 자금의 새 행선지가 됐다.",
+      "source_url": "https://www.newspim.com/news/view/20260803001113"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "트럼프 대통령의 대이란 군사작전 철회와 호르무즈 해협 개방 협상 시사로 국제유가가 4%대 급락, 정유, 에너지주는 약세를 보인 반면 중동 재건 기대감이 일부 관련주를 자극했다.",
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217229"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "차익실현 매물에 8.76% 급락한 23만9,500원 마감. 기관이 1조2,192억원 순매도",
+      "source_url": "https://www.hankyung.com/article/2026080308906"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "8.79% 하락한 156만7,000원 마감. 외국인이 1조7,667억원 순매도하며 차익실현 주도",
+      "source_url": "https://www.newspim.com/news/view/20260803001301"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 조정 속 3.66% 하락",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=594208"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "코스피 급락 속에서도 1.29% 상승하며 견조한 흐름",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=594208"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
