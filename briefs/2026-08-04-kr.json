@@ -1,0 +1,265 @@
+{
+  "date": "2026-08-04",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-04T19:00:00+09:00",
+  "headline": "코스피가 반도체 대형주 쏠림 완화에 따른 순환매 확산으로 장중 6,080선까지 밀렸다가 1.62% 반등했고, 코스닥은 바이오와 방산주 급등에 힘입어 사상 첫 3거래일 연속 매수 사이드카를 기록했다.",
+  "mail_title": "코스닥 사이드카 3일째, 역대 최다",
+  "kr": {
+    "preview": "코스피는 4일 전 거래일보다 101.50포인트(1.62%) 오른 6,358.95로 마감했다. 간밤 미국 빅테크 주가 급등과 트럼프 대통령의 대이란 군사작전 취소에 따른 중동 리스크 완화 소식에 6,389.40까지 상승폭을 키우며 강하게 출발했지만, 이후 매물이 쏟아지며 장중 한때 6,080.25(-2.83%)까지 밀렸다. 그러나 삼성전자(+0.21%), SK하이닉스(+0.64%) 등 반도체 대형주로의 투자 쏠림이 완화되며 방산, 건설, 제약바이오, 이차전지 등으로 매수세가 확산되는 순환매 장세가 펼쳐졌고 후반 들어 빠르게 낙폭을 만회하며 V자 반등에 성공했다. 개인이 8,185억원을 순매수하며 지수를 떠받친 반면 외국인과 기관은 각각 3,706억원, 5,394억원을 순매도했다. 코스닥은 43.37포인트(5.88%) 급등한 780.72로 마감했다. 오전 10시 47분 코스닥150선물이 전일 대비 6.09% 오르며 매수 사이드카가 발동됐는데, 3거래일 연속 발동은 물론 올해 들어서만 17번째로 2001년 제도 도입 이후 가장 많은 횟수를 기록했다. 지난달 말 급락 이후 저가 매수세가 유입된 가운데 알테오젠(+9.29%), HLB(+11.17%), 에이비엘바이오(+13.24%), 리가켐바이오(+15.20%) 등 바이오주와 에코프로(+5.94%), 에코프로비엠(+5.89%) 등 이차전지주가 코스닥 상승을 주도했고, 기관이 코스닥에서만 5,434억원을 순매수하며 지수를 끌어올렸다. 코스피에서는 우주항공국방 업종지수가 10.30% 급등하며 한화에어로스페이스(+9.58%), 한화오션(+3.61%) 등 방산, 조선주가 강세를 보였고, 네이버는 엔비디아, 브룩필드와 세종 데이터센터에 AI 팩토리를 구축한다는 소식에 7%대 급등했다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,358.95",
+        "change_pct": "+1.62%(+101.50p)",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2610918",
+          "https://www.newspim.com/news/view/20260804001266"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "780.72",
+        "change_pct": "+5.88%(+43.37p)",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2610918",
+          "https://www.newspim.com/news/view/20260804001266"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "141080",
+        "name": "리가켐바이오",
+        "change_pct": "+15.20%(10만9,900원)",
+        "reason": "반도체 대형주로의 투자 쏠림이 완화되며 코스닥 저가 매수세가 방산, 제약바이오로 확산됐다. 코스닥 시총 상위 바이오주가 일제히 강세를 보인 가운데 가장 큰 폭으로 상승했다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=594452",
+        "source_urls": [
+          "https://www.cbci.co.kr/news/articleView.html?idxno=594452",
+          "https://www.newspim.com/news/view/20260804001266"
+        ]
+      },
+      {
+        "ticker": "298380",
+        "name": "에이비엘바이오",
+        "change_pct": "+13.24%(8만400원)",
+        "reason": "반도체 쏠림 완화에 따른 순환매 확산 속에 알테오젠, HLB 등과 함께 코스닥 바이오주 급등을 이끌었다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=594452",
+        "source_urls": [
+          "https://www.cbci.co.kr/news/articleView.html?idxno=594452"
+        ]
+      },
+      {
+        "ticker": "035420",
+        "name": "NAVER",
+        "change_pct": "+7.47%(22만3,000원)",
+        "reason": "엔비디아, 브룩필드와 함께 세종 데이터센터 '각 세종'에 AI 팩토리를 구축한다는 소식이 전해졌다. 엔비디아가 10억달러를 지분 투자하고 브룩필드가 최대 90억달러 자금을 조성하는 구조로, 검색, 커머스 기업에서 AI 인프라 사업자로 확장할 수 있다는 기대가 반영됐다.",
+        "source_url": "https://www.newspim.com/news/view/20260804000422",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260804000422",
+          "https://markets.hankyung.com/stock/035420"
+        ]
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "change_pct": "+9.58%(100만7,000원)",
+        "reason": "반도체 대형주가 주춤한 사이 순환매 자금이 방산주로 유입되며 우주항공국방 업종지수가 10.30% 급등, 코스피 상승률 최상위 업종에 올랐다.",
+        "source_url": "https://www.newspim.com/news/view/20260804001266",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260804001266",
+          "https://markets.hankyung.com/stock/012450"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.43%",
+        "note": "삼성전자(+0.21%), SK하이닉스(+0.64%) 대표종목 평균. 반도체 대형주 쏠림이 완화되며 순환매 자금이 타 업종으로 확산됐다 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/samsung-electronics-co-ltd"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+0.45%",
+        "note": "삼성전기(-2.54%), LG이노텍(-0.78%), 삼성SDS(+4.68%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/018260"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+5.56%",
+        "note": "코스피 통신업종지수. 순환매 확산 속 통신 업종 전반이 강세를 보였다",
+        "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05582566645544040"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+4.51%",
+        "note": "코스피 제약업종지수. 코스닥에서는 알테오젠(+9.29%), HLB(+11.17%), 에이비엘바이오(+13.24%), 리가켐바이오(+15.20%) 등이 더 큰 폭으로 급등했다",
+        "source_url": "https://www.newspim.com/news/view/20260804001266"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.12%",
+        "note": "KB금융(-0.88%), 신한지주(-1.36%) 대표종목 평균. 순환매 자금이 다른 업종으로 몰리며 상대적으로 소외됐다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-0.42%",
+        "note": "코스피 유통업종지수. 이날 하락한 유일한 코스피 업종이었다",
+        "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05582566645544040"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-1.47%",
+        "note": "현대차(-2.54%), 기아(-0.39%) 대표종목 평균. 순환매 자금이 방산, 바이오로 쏠리며 상대적으로 부진했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005380"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+5.26%",
+        "note": "LG에너지솔루션(+3.96%), 에코프로(+5.94%), 에코프로비엠(+5.89%) 대표종목 평균. 코스닥 저가 매수세가 이차전지주로도 유입됐다 (대표종목 기준)",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=594452"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+4.79%",
+        "note": "한화오션(+3.61%), HD현대중공업(+1.17%), 한화에어로스페이스(+9.58%) 대표종목 평균. KRX 우주항공국방 업종지수는 +10.30%, 조선 업종지수는 +3.42%를 기록했다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260804001266"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+8.87%",
+        "note": "코스피 건설업종지수. 이날 코스피에서 가장 많이 오른 업종",
+        "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05582566645544040"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+2.36%",
+        "note": "LG화학(+1.82%), 롯데케미칼(+2.90%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/051910"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+5.45%",
+        "note": "코스피 금속업종지수",
+        "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05582566645544040"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+4.07%",
+        "note": "네이버(+7.47%), 카카오(+0.67%) 대표종목 평균. 네이버는 AI 팩토리 사업 기대감에 급등했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+4.68%",
+        "note": "하이브(+2.52%), 에스엠(+6.84%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/352820"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,432.5원",
+      "change_pct": "+2.7원(+0.19%)",
+      "source_url": "https://www.etoday.co.kr/news/view/2610923"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.895",
+      "change_pct": "+0.11%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,055.36/oz",
+      "change_pct": "+0.4%",
+      "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3654689"
+    },
+    {
+      "name": "WTI",
+      "value": "$81.26/배럴",
+      "change_pct": "+1.15%(+0.92달러)",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$63,517.04",
+      "change_pct": "+2.0%",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,856.08",
+      "change_pct": "+1.5%",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.697%",
+      "change_pct": "+0.013%p",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원/달러 환율은 1,432.5원으로 전일 대비 2.7원 상승했다. 오전 중 커스터디 매도세에 1,420원 초반대까지 밀렸으나 반발 매수세와 결제수요에 낙폭을 되돌렸다. 미 10년물 국채금리는 4.697%로 소폭 상승했고, 트럼프 대통령의 대이란 군사작전 취소 소식이 이어지며 WTI는 81달러대로 올라섰다.",
+    "notes": "코스피에서는 개인이 8,185억원을 순매수한 반면 외국인과 기관이 각각 3,706억원, 5,394억원을 순매도했다. 코스닥에서는 기관이 5,434억원을 순매수하며 지수 상승을 견인한 반면 개인과 외국인은 각각 2,586억원, 2,772억원을 순매도했다. 반도체 대형주에서 빠진 자금이 방산, 건설, 제약바이오, 이차전지로 순환매된 하루였다."
+  },
+  "top_themes": [
+    {
+      "theme": "시장 안정화 장치 발동",
+      "summary": "코스닥150선물이 오전 10시 47분 전일 대비 6.09% 오르며 매수 사이드카가 발동됐다. 3거래일 연속 발동에 올해 들어 17번째로, 2001년 제도 도입 이후 가장 많은 횟수를 기록했다.",
+      "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05582566645544040"
+    },
+    {
+      "theme": "바이오와 제약",
+      "summary": "반도체 대형주로의 투자 쏠림이 완화되며 순환매 자금이 코스닥 바이오주로 몰렸다. 알테오젠(+9.29%), HLB(+11.17%), 에이비엘바이오(+13.24%), 리가켐바이오(+15.20%) 등이 코스닥 상승을 주도했다.",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=594452"
+    },
+    {
+      "theme": "조선과 방산",
+      "summary": "우주항공국방 업종지수가 10.30% 급등하며 코스피 상승 업종 최상위권에 올랐다. 한화에어로스페이스가 9.58% 오른 100만7,000원에 마감했고 조선 업종지수도 3.42% 상승했다.",
+      "source_url": "https://www.newspim.com/news/view/20260804001266"
+    },
+    {
+      "theme": "AI 데이터센터 전력",
+      "summary": "네이버가 엔비디아, 브룩필드와 함께 세종 데이터센터에 AI 팩토리를 구축해 2028년까지 200메가와트 규모로 확대한다는 계획을 밝히며 7%대 급등했다. 검색, 커머스 기업에서 AI 인프라 사업자로 확장할 수 있다는 기대가 반영됐다.",
+      "source_url": "https://www.newspim.com/news/view/20260804000422"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "반도체 대형주 쏠림이 완화된 가운데 24만원(+0.21%)으로 강보합 마감",
+      "source_url": "https://www.investing.com/equities/samsung-electronics-co-ltd"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "157만7,000원(+0.64%)으로 소폭 상승 마감",
+      "source_url": "https://www.investing.com/equities/sk-hynix-inc"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "순환매 유입 속 3.96% 오른 32만8,500원 마감",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=594451"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "순환매 자금이 방산, 바이오로 쏠리며 2.54% 내린 38만3,000원 마감",
+      "source_url": "https://markets.hankyung.com/stock/005380"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
