@@ -1,0 +1,510 @@
+{
+  "date": "2026-08-06",
+  "generated_at_kst": "2026-08-06T08:40:00+09:00",
+  "mode": "new",
+  "headline": "간밤 스페이스X가 상장 후 첫 실적에서 AI 설비투자를 20배 넘게 늘렸다고 밝히며 13.6% 급락했고, 같은 자리에서 일론 머스크가 엔비디아 전용 노선을 선언하자 엔비디아는 오르고 AMD는 실적 호조에도 급락하는 등 AI 밸류체인 내 희비가 엇갈리면서, 이 여진이 오늘 국내 반도체 대형주 개장에 어떻게 반영될지가 최대 관전포인트다.",
+  "mail_title": "머스크의 한마디에 AMD가 또 미끄러졌다",
+  "kr": {
+    "preview": "어제(5일) 코스피는 간밤 팔란티어의 깜짝 실적발표를 계기로 마이크론(+7.62%), 인텔(+10.84%) 등 미국 반도체주가 동반 급등한 여파를 그대로 받아 3.76%(+239.31p) 급등한 6,598.26에 마감했고, 개장 직후에는 올해 22번째 매수 사이드카까지 발동됐습니다. 삼성전자(+2.50%)와 SK하이닉스(+5.77%)가 지수를 이끌었고, 코스닥도 4거래일 연속 상승하며 799.59로 마감했습니다.\n\n간밤 미국에서는 분위기가 다시 복잡해졌습니다. 다우존스는 263.24포인트(0.49%) 올라 54,349.12로 5거래일 연속 사상 최고치를 새로 썼지만, S&P500은 0.17%, 나스닥종합은 0.83% 밀리며 혼조 마감했습니다. 상장 후 첫 실적을 발표한 스페이스X는 매출이 전년 대비 92% 늘어난 78억달러로 예상을 웃돌았지만, AI 인프라 설비투자가 1분기 7억7,000만달러에서 158억달러로 20배 넘게 급증하며 전체 지출이 183억달러(전년 대비 6배 이상)로 불어난 점이 부각돼 주가가 13.60% 급락했습니다. 같은 실적발표 자리에서 일론 머스크가 \"앞으로 엔비디아만을 기반으로 시스템을 구축하기로 했다\"고 밝히자 엔비디아는 3.43% 오른 반면, 역대 최대 매출을 발표한 AMD는 컨센서스를 웃돈 실적에도 7.04% 급락했습니다. 전날 뉴욕 ADR 급등에 힘입어 5.77% 뛰었던 SK하이닉스도 간밤 ADR이 2.16% 밀리며 상승분 일부를 반납했습니다. 한편 이란과 오만이 호르무즈 해협 항로 좌표에 합의하며 지정학 리스크가 완화됐고, WTI는 전날 급락한 뒤 75달러 선에서 보합권을 유지하고 있습니다. 엔비디아發 훈풍과 AMD, ADR발 경계감이 뒤섞인 가운데 오늘 국내 반도체 대형주가 개장에서 어느 쪽에 더 반응할지가 관건입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,598.26",
+        "change_pct": "+3.76%(+239.31p, 8/5 종가)",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2611385",
+          "https://biz.heraldcorp.com/article/10832019"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "799.59",
+        "change_pct": "+2.42%(+18.87p, 8/5 종가)",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2611385",
+          "https://biz.heraldcorp.com/article/10832019"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "미확인(개장 전, 8/5 종가 +2.50%)",
+        "reason": "간밤 스페이스X 실적발표 자리에서 일론 머스크가 AI 인프라에 엔비디아 칩만 쓰겠다고 밝히며 엔비디아가 3.43% 오른 반면, 역대 최대 매출을 낸 AMD는 7.04% 급락했다. AI 반도체 밸류체인 내에서 투자심리가 엇갈리는 가운데, 메모리 수요와 직결된 국내 반도체 대형주 개장에 어떤 영향을 줄지 주목된다.",
+        "source_url": "https://www.newspim.com/news/view/20260805001522",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260805001522",
+          "https://segye.com/newsView/20260806502821"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "미확인(개장 전, 8/5 종가 +5.77%)",
+        "reason": "전날 월가의 비중확대 리포트에 힘입어 급등했던 뉴욕 ADR이 간밤에는 2.16% 밀리며 154.38달러에서 151.05달러로 후퇴했다. AMD발 반도체 밸류에이션 경계감이 국내 개장까지 이어질지가 관건이다.",
+        "source_url": "https://kr.investing.com/equities/sk-hynix-adr",
+        "source_urls": [
+          "https://kr.investing.com/equities/sk-hynix-adr",
+          "https://www.newspim.com/news/view/20260805001522"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "5일(현지시간) 뉴욕증시는 이란과 오만의 호르무즈 해협 항로 좌표 합의로 지정학 리스크가 완화됐지만 빅테크주 부진 속에 혼조 마감했습니다. 다우존스는 263.24포인트(0.49%) 오른 54,349.12로 5거래일 연속 사상 최고치를 새로 썼고, S&P500은 12.97포인트(0.17%) 내린 7,723.55, 나스닥종합은 221.55포인트(0.83%) 내린 26,363.44로 마감했습니다. 상장 후 첫 실적을 발표한 스페이스X는 매출이 전년 대비 92% 급증한 78억달러로 예상을 웃돌았지만, AI 인프라 설비투자가 1분기 7억7,000만달러에서 158억달러로 급증하며 전체 지출이 183억달러(전년 대비 6배 이상)로 불어난 점이 부각되며 주가가 13.60% 급락했습니다. 같은 실적발표 자리에서 일론 머스크가 \"앞으로 엔비디아만을 기반으로 시스템을 구축하기로 했다\"고 밝히자 엔비디아는 3.43% 오른 반면, 같은 날 역대 최대 매출을 발표한 AMD는 컨센서스를 웃돈 실적에도 7.04% 급락했습니다. 미 10년물 국채금리는 4.620%로 소폭 하락했고, WTI는 호르무즈 해협 기대에 급락한 뒤 75달러 선에서 안정을 찾고 있습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,723.55",
+        "change_pct": "-0.17%(-12.97p, 8/5)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-hormuz-093653327.html",
+          "https://segye.com/newsView/20260806502821"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,363.44",
+        "change_pct": "-0.83%(-221.55p, 8/5)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-hormuz-093653327.html",
+          "https://segye.com/newsView/20260806502821"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "54,349.12",
+        "change_pct": "+0.49%(+263.24p, 8/5, 5거래일 연속 사상 최고치)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-hormuz-093653327.html",
+          "https://segye.com/newsView/20260806502821"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "SPCX",
+        "name": "SpaceX",
+        "change_pct": "-13.60%(8/5, 108.29달러)",
+        "reason": "상장 후 첫 실적발표에서 매출이 전년 대비 92% 급증한 78억달러로 예상을 웃돌았지만, AI 인프라 설비투자가 1분기 대비 20배 넘게 급증한 158억달러를 기록하며 잉여현금흐름 우려가 부각돼 급락했다. 8월 6일에는 약 1,000억달러 규모의 보호예수(락업) 해제도 예정돼 있어 추가 변동성 우려가 나온다.",
+        "source_url": "https://www.forbes.com/sites/petercohan/2026/08/05/spacex-stock-down-9-on-184-billion-capex-forecast/",
+        "source_urls": [
+          "https://www.forbes.com/sites/petercohan/2026/08/05/spacex-stock-down-9-on-184-billion-capex-forecast/",
+          "https://stockanalysis.com/stocks/spcx/history/"
+        ]
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "change_pct": "-7.04%(8/5, 482.05달러)",
+        "reason": "2분기 매출 115억4,000만달러(컨센서스 112억8,000만달러 상회)로 역대 최대를 기록했지만, 같은 날 스페이스X 실적발표 자리에서 일론 머스크가 \"앞으로 엔비디아만을 기반으로 시스템을 구축하기로 했다\"고 밝히면서 AI 반도체 경쟁 구도에 대한 우려가 부각돼 급락했다.",
+        "source_url": "https://www.newspim.com/news/view/20260805001522",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260805001522",
+          "https://stockanalysis.com/stocks/amd/history/"
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "+3.43%(8/5, 219.22달러)",
+        "reason": "스페이스X 실적발표 자리에서 일론 머스크가 AI 인프라에 엔비디아 칩만 쓰겠다고 밝히면서 AI 인프라 수요 기대가 커지며 상승했다.",
+        "source_url": "https://stockanalysis.com/stocks/nvda/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/nvda/history/",
+          "https://www.newspim.com/news/view/20260805001522"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+4.10%(8/5)",
+        "note": "KRX 반도체와반도체장비 업종지수. 팔란티어 실적발 미국 반도체 랠리가 그대로 옮겨붙어 삼성전자(+2.50%), SK하이닉스(+5.77%)가 지수 상승을 이끌었다.",
+        "source_url": "https://www.imaeil.com/page/view/2026080514403815610"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+12.64%(8/5)",
+        "note": "KRX 전자장비와기기 업종지수. 삼성전기가 테슬라 로보택시 카메라모듈 공급 기대감에 14.43% 급등하며 지수를 견인했다.",
+        "source_url": "https://www.imaeil.com/page/view/2026080514403815610"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.84%(대표종목 기준, 8/5)",
+        "note": "SK텔레콤(+1.75%), LG유플러스(-0.07%) 평균.",
+        "source_url": "https://www.investing.com/equities/sk-telecom-co-ltd"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+1.72%(대표종목 기준, 8/5)",
+        "note": "삼성바이오로직스(+1.02%), 셀트리온(+2.42%) 평균.",
+        "source_url": "https://www.investing.com/equities/celltrion-inc"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.20%(대표종목 기준, 8/5)",
+        "note": "KB금융(+1.13%), 신한지주(+1.27%) 평균.",
+        "source_url": "https://www.investing.com/equities/kb-financial-group"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-0.43%(대표종목 기준, 8/5)",
+        "note": "이마트(-0.50%), 롯데쇼핑(-0.35%) 평균. 반도체와 건설로 매수세가 쏠리며 소외됐다.",
+        "source_url": "https://www.investing.com/equities/e-mart"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+2.91%(8/5)",
+        "note": "KRX 자동차 업종지수. 현대차가 3.06% 오른 40만4,500원에 마감했다.",
+        "source_url": "https://www.imaeil.com/page/view/2026080514403815610"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+1.25%(대표종목 기준, 8/5)",
+        "note": "LG에너지솔루션(+2.13%), 에코프로(+0.37%) 평균. 반도체, 건설 쏠림 속 상대적으로 완만하게 올랐다.",
+        "source_url": "https://www.investing.com/equities/lg-energy-solution"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+5.32%(8/5)",
+        "note": "KRX 조선 업종지수. 한화오션(+5.03%)이 강세를 보였고 한화에어로스페이스는 0.30% 소폭 상승했다.",
+        "source_url": "https://www.imaeil.com/page/view/2026080514403815610"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+8.41%(대표종목 기준, 8/5)",
+        "note": "현대건설(+8.47%), GS건설(+8.35%) 평균. GS건설은 AI 데이터센터, 원전, 주택정비 삼중 호재로 부각됐다.",
+        "source_url": "https://www.fnnews.com/news/202608051007494569"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-0.20%(대표종목 기준, 8/5)",
+        "note": "LG화학(-0.39%), 롯데케미칼(0.00%) 평균. 반도체, 건설 쏠림 속 소외됐다.",
+        "source_url": "https://www.investing.com/equities/lg-chemicals"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+2.91%(대표종목 기준, 8/5)",
+        "note": "포스코홀딩스(+1.28%), 현대제철(+4.54%) 평균.",
+        "source_url": "https://www.investing.com/equities/hyundai-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+0.88%(대표종목 기준, 8/5)",
+        "note": "네이버(+1.10%), 카카오(+0.66%) 평균.",
+        "source_url": "https://www.investing.com/equities/nhn-corp"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.96%(대표종목 기준, 8/5)",
+        "note": "하이브(0.00%), 에스엠(-3.91%) 평균. 반도체, 건설로 자금이 쏠리며 소외됐다.",
+        "source_url": "https://www.investing.com/equities/sm-entertainment-co"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.12%(SOXX, 8/5)",
+        "note": "AMD가 머스크의 엔비디아 전용 발언에 7.04% 급락하며 지수를 끌어내렸다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-0.53%(XLK, 8/5)",
+        "note": "반도체, 통신서비스 약세에 완만한 하락으로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-1.04%(XLC, 8/5)",
+        "note": "XLC 종가 기준으로 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+1.27%(XLV, 8/5)",
+        "note": "12개 섹터 중 상승폭이 가장 컸다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.21%(XLF, 8/5)",
+        "note": "XLF 종가 기준으로 완만한 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+0.30%(XLY, 8/5)",
+        "note": "XLY 종가 기준으로 완만한 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.05%(XLP, 8/5)",
+        "note": "XLP 종가 기준으로 거의 보합권에서 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.03%(XLI, 8/5)",
+        "note": "XLI 종가 기준으로 거의 보합권에서 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+1.23%(XLB, 8/5)",
+        "note": "XLB 종가 기준으로 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-2.07%(XLE, 8/5)",
+        "note": "호르무즈 해협 항로 합의 기대에 유가가 급락하며 12개 섹터 중 낙폭이 가장 컸다.",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-1.02%(XLU, 8/5)",
+        "note": "XLU 종가 기준으로 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.07%(XLRE, 8/5)",
+        "note": "XLRE 종가 기준으로 거의 보합권에서 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,422.45",
+      "change_pct": "+0.10%",
+      "source_url": "https://www.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.68",
+      "change_pct": "-0.01%",
+      "source_url": "https://www.investing.com/indices/usdollar"
+    },
+    {
+      "name": "금",
+      "value": "$4,307.32",
+      "change_pct": "-0.01%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$75.09",
+      "change_pct": "+0.04%(전일 호르무즈 기대에 급락한 뒤 보합권)",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$64,584.46",
+      "change_pct": "+0.6%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,905.36",
+      "change_pct": "+1.7%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.620%",
+      "change_pct": "-0.15%(-0.007%p)",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원/달러 환율은 1,422원대로 최근 외국인 자금 유입에 따른 원화 강세 흐름이 이어지고 있다. 미 10년물 국채금리는 4.620%로 보합권이다. WTI는 이란, 오만의 호르무즈 해협 항로 합의 기대에 전날 큰 폭으로 밀린 뒤 75달러 선에서 안정을 찾고 있다.",
+    "notes": "미국 7월 비농업고용지표(NFP)는 8월7일(금) 발표 예정이며, 8월 중 FOMC 정례회의는 없고 다음 회의는 9월15~16일이다. 연준 인사들의 잭슨홀 심포지엄은 8월28~29일 예정이다. 스페이스X는 8월6일 약 1,000억달러 규모의 보호예수(락업) 해제를 앞두고 있어 추가 변동성 요인으로 꼽힌다."
+  },
+  "top_themes": [
+    {
+      "theme": "AI 자본지출 논쟁",
+      "summary": "스페이스X가 상장 후 첫 실적에서 매출 서프라이즈에도 AI 인프라 설비투자를 1분기 대비 20배 넘게 늘린 158억달러로 발표하며 잉여현금흐름 우려로 주가가 13.6% 급락했다. AMD 역시 역대 최대 매출에도 머스크의 엔비디아 전용 발언에 급락하며, AI 인프라 투자 경쟁 속 밸류체인 안에서도 승자와 패자가 뚜렷이 갈리는 모습이다.",
+      "tickers": [
+        "SPCX",
+        "AMD",
+        "NVDA"
+      ],
+      "source_url": "https://www.forbes.com/sites/petercohan/2026/08/05/spacex-stock-down-9-on-184-billion-capex-forecast/"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "SK하이닉스 뉴욕 ADR이 전날 급등분을 반납하며 2.16% 밀렸고, 국내에서는 삼성전자와 SK하이닉스가 머스크의 엔비디아 전용 발언(호재)과 AMD 급락, ADR 조정(경계감)이라는 엇갈린 신호 속에 오늘 개장을 맞는다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://kr.investing.com/equities/sk-hynix-adr"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "이란과 오만이 호르무즈 해협 항로 좌표에 합의하며 지정학 리스크가 완화됐다. 양국 공동성명은 검토 및 마무리 단계로, 국제유가는 합의 기대감에 급락한 뒤 75달러 선에서 보합권을 유지하고 있다.",
+      "tickers": [],
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "스페이스X 실적발표 자리에서 일론 머스크의 엔비디아 전용 발언에 힘입어 3.43% 오른 219.22달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "0.52% 오른 311.00달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "1.09% 내린 487.46달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "1.77% 내린 321.55달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "전일 실적발표發 급등분 일부를 되돌리며 2.60% 내린 158.43달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "미국 반도체주 폭등의 훈풍을 타고 2.50% 오른 24만6,000원 마감. 간밤 머스크의 엔비디아 전용 발언과 AMD 급락이 오늘 개장의 변수다.",
+      "source_url": "https://biz.heraldcorp.com/article/10832019"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "뉴욕 ADR 급등과 미국 반도체 랠리에 힘입어 5.77% 오른 166만8,000원 마감했지만, 간밤 ADR은 2.16% 밀리며 상승분 일부를 반납했다.",
+      "source_url": "https://kr.investing.com/equities/sk-hynix-adr"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2.13% 오른 33만5,500원으로 완만한 상승 마감했다.",
+      "source_url": "https://www.investing.com/equities/lg-energy-solution"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "3.06% 오른 40만4,500원 마감했다.",
+      "source_url": "https://www.investing.com/equities/hyundai-motor"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "전날 미국 반도체 랠리의 훈풍을 타고 2.50% 오른 24만6,000원에 마감했다. 간밤에는 스페이스X 실적발표 자리에서 일론 머스크가 엔비디아 전용 노선을 선언하며 AI 반도체 수요 기대가 커진 반면, AMD는 역대 최대 매출에도 급락하는 등 밸류체인 내 신호가 엇갈렸다. 오늘 개장에서 이 엇갈린 신호가 국내 반도체 대형주에 어떻게 반영될지가 관전포인트다.",
+      "catalysts": [
+        "머스크의 엔비디아 전용 발언에 따른 AI 반도체 수요 기대의 국내 반영 여부",
+        "SK하이닉스 ADR 조정의 국내 개장 이연 효과",
+        "8월7일(금) 미국 7월 비농업고용지표(NFP) 발표"
+      ],
+      "levels_watched": {
+        "support": "미확인",
+        "resistance": "8/5 종가 24만6,000원 위로는 신고가 영역",
+        "analyst_target_cited": "미확인(최근 목표주가는 8/3~4 브리핑에서 이미 다룸)"
+      },
+      "risk": "AMD 급락과 SK하이닉스 ADR 조정이 AI 반도체 밸류에이션 경계감으로 확산될 경우, 엔비디아發 훈풍에도 개장 상승폭이 제한될 수 있다.",
+      "sources": [
+        "https://biz.heraldcorp.com/article/10832019",
+        "https://www.newspim.com/news/view/20260805001522"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "전날 뉴욕 ADR 급등과 미국 반도체 랠리에 힘입어 5.77% 오른 166만8,000원에 마감했지만, 간밤 ADR은 154.38달러에서 151.05달러로 2.16% 밀리며 상승분 일부를 반납했다. AMD가 실적 호조에도 머스크의 엔비디아 전용 발언에 급락한 점이 메모리, AI 반도체 사이클 전반의 투자심리에 어떤 영향을 줄지가 오늘 개장의 관건이다.",
+      "catalysts": [
+        "SK하이닉스 ADR 조정의 국내 개장 이연 효과",
+        "하반기 HBM4 공급, 가격 가이던스",
+        "8월7일(금) 미국 7월 비농업고용지표(NFP) 발표"
+      ],
+      "levels_watched": {
+        "support": "미확인",
+        "resistance": "52주 최고가 298만7,000원(2026-06-25)",
+        "analyst_target_cited": "미확인(최근 목표주가는 8/3~4 브리핑에서 이미 다룸)"
+      },
+      "risk": "AMD발 AI 반도체 밸류에이션 경계감과 ADR 조정이 국내 개장까지 이어질 경우 반등이 지연될 수 있다.",
+      "sources": [
+        "https://kr.investing.com/equities/sk-hynix-adr",
+        "https://www.newspim.com/news/view/20260805001522"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "thesis": "스페이스X 실적발표 자리에서 일론 머스크가 \"앞으로 엔비디아만을 기반으로 시스템을 구축하기로 했다\"며 베라 루빈 AI 아키텍처를 최고로 꼽자 3.43% 오른 219.22달러로 마감했다. 머스크는 올해 말까지 약 2GW, 내년까지 최대 10GW의 AI 컴퓨팅 용량 확보 계획을 밝혔다.",
+      "catalysts": [
+        "스페이스X의 AI 컴퓨팅 용량 확대 계획(연내 2GW, 내년 최대 10GW) 실행 여부",
+        "8월6일 스페이스X 대규모 보호예수 해제에 따른 관련주 변동성",
+        "차기 분기 실적발표에서 데이터센터 매출 성장세 확인"
+      ],
+      "levels_watched": {
+        "support": "미확인",
+        "resistance": "미확인(8/5 종가 219.22달러가 최근 고점권)",
+        "analyst_target_cited": "미확인"
+      },
+      "risk": "스페이스X를 비롯한 대형 고객사들의 AI 설비투자 급증이 시장의 자본지출 부담 우려로 재부각될 경우, AMD처럼 밸류에이션 경계감이 엔비디아로도 확산될 수 있다.",
+      "sources": [
+        "https://stockanalysis.com/stocks/nvda/history/",
+        "https://www.newspim.com/news/view/20260805001522"
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "name": "SpaceX",
+      "market": "US",
+      "thesis": "상장 후 첫 실적발표에서 매출이 전년 대비 92% 급증한 78억달러로 예상을 웃돌았지만, AI 인프라 설비투자가 1분기 7억7,000만달러에서 158억달러로 급증하며 전체 지출이 183억달러(전년 대비 6배 이상)로 불어난 점이 부각돼 13.60% 급락했다.",
+      "catalysts": [
+        "8월6일 약 1,000억달러 규모 보호예수(락업) 해제",
+        "AI 인프라 투자에 따른 향후 잉여현금흐름 추이",
+        "스타링크, AI 인프라 사업의 매출 기여도 확대 여부"
+      ],
+      "levels_watched": {
+        "support": "미확인",
+        "resistance": "미확인(상장 후 첫 실적발표 직후로 변동성 확대)",
+        "analyst_target_cited": "미확인(실적 발표 직후로 목표주가 재조정이 진행 중)"
+      },
+      "risk": "8월6일 대규모 보호예수 해제로 매물 출회 우려가 있고, AI 인프라 투자에 따른 잉여현금흐름 부담이 이어질 경우 추가 조정 가능성이 있다.",
+      "sources": [
+        "https://www.forbes.com/sites/petercohan/2026/08/05/spacex-stock-down-9-on-184-billion-capex-forecast/",
+        "https://stockanalysis.com/stocks/spcx/history/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
