@@ -1,0 +1,266 @@
+{
+  "date": "2026-08-06",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-06T19:00:00+09:00",
+  "headline": "어제 미국 반도체 랠리를 등에 업고 매수 사이드카까지 발동하며 3.76% 급등했던 코스피가 하루 만에 4.58% 급락해 6,296.38로 밀렸다. 삼성전자(-6.30%)와 SK하이닉스(-10.37%)가 간밤 샌디스크의 실망스러운 가이던스에 이어, SK하이닉스는 미국 낸드 자회사 솔리다임의 프리IPO설과 주주환원 불확실성까지 겹치며 급락했고, 코스피200선물이 5%대 밀리자 오전 10시18분 매도 사이드카가 발동됐다.",
+  "mail_title": "어제 산 사이드카, 오늘은 팔았다",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 301.88포인트(4.58%) 내린 6,296.38로 마감했다. 어제 팔란티어 실적발 랠리로 3.76% 급등하며 매수 사이드카까지 발동됐던 것과 정반대로, 오늘은 개장 전부터 반도체 대형주 매물이 쏟아지며 오전 10시18분 매도 사이드카가 발동됐다. 올해 들어 46번째 사이드카(매도 24회, 매수 22회)로, 코스피200선물은 전일 종가 대비 5.12% 급락한 987.24까지 밀렸다. 간밤 미국에서는 낸드 플래시업체 샌디스크가 시장 예상을 웃도는 실적을 냈음에도 다음 분기 매출 가이던스(103억~108억달러)가 컨센서스(108억2,000만달러)를 밑돌며 정규장에서 5%대, 시간외에서 추가로 6%대 급락했다. 이 여진이 국내 메모리 반도체 투자심리를 얼어붙게 했고, 삼성전자는 6.30% 내린 23만500원, SK하이닉스는 10.37% 내린 149만5,000원에 마감했다. SK하이닉스는 여기에 두 가지 악재가 더해졌다. 회사가 \"사상 최대 수준의 현금창출력을 바탕으로 주주환원을 의미 있게 확대할 수 있다\"면서도 구체적 규모와 시행 방식은 연말까지 마련하겠다고 밝히며 불확실성을 키웠고, 미국 낸드 자회사 솔리다임이 최대 10조원 규모의 프리IPO를 거쳐 나스닥 상장을 추진한다는 보도가 나오며 핵심 자회사 분리 상장에 따른 모회사 지분가치 희석 우려가 부각됐다. 회사 측은 \"확정된 사항 없다\"고 해명했지만 투자 심리는 이미 얼어붙은 뒤였다. SK하이닉스 지분가치가 순자산의 대부분을 차지하는 지주사 격인 SK스퀘어는 13.32% 급락한 97만원까지 밀리며 반도체 대형주보다 더 큰 낙폭을 기록했다. 외국인은 코스피에서만 3조3,273억원을 순매도했는데 이 중 3조원 이상이 전기전자(반도체) 업종에 집중됐고, 개인이 3조3,387억원을 순매수하며 낙폭을 방어했지만 역부족이었다. 코스닥은 분위기가 달랐다. 알테오젠이 글로벌 제약사와 하이브로자임 플랫폼을 적용한 피하주사(SC) 제형 개발 독점 라이선스 계약(최대 3억6,500만달러, 약 5,219억원)을 체결했다는 소식에 5.96% 오르며 지수를 견인했고, 코스닥은 전 거래일보다 2.08포인트(0.26%) 오른 801.67로 15거래일 만에 800선을 지켰다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,296.38",
+        "change_pct": "-4.58%(-301.88p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260806001081",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=274297"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "801.67",
+        "change_pct": "+0.26%(+2.08p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260806001081",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=274297"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-10.37%(149만5,000원)",
+        "reason": "간밤 미국 낸드업체 샌디스크의 실망스러운 매출 가이던스에 메모리 반도체 투자심리가 위축된 데다, 회사의 주주환원 계획 발표가 연말로 미뤄지고 미국 낸드 자회사 솔리다임의 최대 10조원 규모 프리IPO 및 나스닥 상장 추진설이 나오며 모회사 지분가치 희석 우려가 겹쳤다. 프리마켓에서 저가 체결이 반복되며 변동성완화장치(VI)도 발동됐다.",
+        "source_url": "https://www.newspim.com/news/view/20260806000410",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260806000410",
+          "https://www.hankyung.com/article/202608056378i"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-6.30%(23만500원)",
+        "reason": "간밤 미국 낸드업체 샌디스크가 실적은 예상을 웃돌았지만 다음 분기 매출 가이던스가 컨센서스를 밑돌며 정규장 5%대, 시간외 추가 6%대 급락한 여파로 국내 메모리 반도체 투자심리가 위축됐다. 외국인이 전기전자 업종에서만 3조원 넘게 집중 매도했다.",
+        "source_url": "https://segye.com/newsView/20260806518026",
+        "source_urls": [
+          "https://segye.com/newsView/20260806518026",
+          "https://www.mt.co.kr/world/2026/08/06/2026080606554496638"
+        ]
+      },
+      {
+        "ticker": "402340",
+        "name": "SK스퀘어",
+        "change_pct": "-13.32%(97만원)",
+        "reason": "순자산의 대부분이 SK하이닉스 지분가치로 구성된 지주사 격 회사로, SK하이닉스의 급락과 자회사 솔리다임 프리IPO발 불확실성이 그대로 전이되며 반도체 대형주보다 더 큰 폭으로 하락했다.",
+        "source_url": "https://news.jkn.co.kr/post/947156",
+        "source_urls": [
+          "https://news.jkn.co.kr/post/947156",
+          "https://www.newspim.com/news/view/20260806001081"
+        ]
+      },
+      {
+        "ticker": "196170",
+        "name": "알테오젠",
+        "change_pct": "+5.96%",
+        "reason": "글로벌 제약사와 하이브로자임 플랫폼을 적용한 재조합 인간 히알루로니다제 'ALT-B4' 기반 피하주사(SC) 제형 개발, 상업화 독점 라이선스 계약(최대 3억6,500만달러, 약 5,219억원)을 체결했다고 밝히며 강세를 보였다. 올해에만 3건째 기술수출로 누적 기술수출액이 12조원을 돌파했다.",
+        "source_url": "https://pharm.edaily.co.kr/News/Read?newsId=04929846645544368",
+        "source_urls": [
+          "https://pharm.edaily.co.kr/News/Read?newsId=04929846645544368",
+          "https://news.mtn.co.kr/news-detail/2026080507555517198"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-8.04%",
+        "note": "KRX 반도체와반도체장비 업종지수. 샌디스크발 투자심리 위축에 삼성전자(-6.30%), SK하이닉스(-10.37%)가 동반 급락하며 지수를 끌어내렸다",
+        "source_url": "https://www.newspim.com/news/view/20260806001081"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-7.47%",
+        "note": "KRX 전자장비와기기 업종지수. 반도체 부품, 전자장비주가 반도체 대형주 급락에 동반 약세를 보였다",
+        "source_url": "https://www.newspim.com/news/view/20260806001081"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-0.75%",
+        "note": "SK텔레콤(-2.04%), LG유플러스(+0.54%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/sk-telecom-co-ltd"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+2.29%",
+        "note": "KRX 제약 업종지수. 알테오젠이 5,219억원 규모 기술이전 계약 소식에 5.96% 오르며 지수 상승을 이끌었다",
+        "source_url": "https://www.newspim.com/news/view/20260806001081"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.79%",
+        "note": "KRX 은행 업종지수. 반도체 급락 속 상대적으로 안전한 은행주로 매수세가 이동했다",
+        "source_url": "https://www.newspim.com/news/view/20260806001081"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+1.15%",
+        "note": "이마트(+2.13%), 롯데쇼핑(+0.17%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/e-mart"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.33%",
+        "note": "현대차(-1.11%), 기아(+0.45%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+2.21%",
+        "note": "LG에너지솔루션(+2.83%), 에코프로(+1.58%) 대표종목 평균. 반도체 약세 속 반사이익을 봤다 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/lg-energy-solution"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+1.68%",
+        "note": "한화오션(-1.31%), 한화에어로스페이스(+4.67%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+3.46%",
+        "note": "현대건설(+2.27%), GS건설(+4.65%) 대표종목 평균. 반도체 자금 이탈 속 반사이익을 봤다 (대표종목 기준)",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+1.94%",
+        "note": "LG화학(+2.15%), 롯데케미칼(+1.73%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+1.22%",
+        "note": "포스코홀딩스(+0.63%), 현대제철(+1.81%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.46%",
+        "note": "네이버(-1.31%), 카카오(+0.39%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/nhn-corp"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.09%",
+        "note": "하이브(-0.17%), 에스엠(0.00%) 대표종목 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/sm-entertainment-co"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,423.8원",
+      "change_pct": "-0.7원(-0.05%)",
+      "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274297"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.77",
+      "change_pct": "+0.08%",
+      "source_url": "https://www.investing.com/indices/usdollar"
+    },
+    {
+      "name": "금",
+      "value": "$4,327.40/oz",
+      "change_pct": "+0.52%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$75.06/배럴",
+      "change_pct": "-0.21%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$64,825.86",
+      "change_pct": "+1.0%",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,911.11",
+      "change_pct": "+2.2%",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.625%",
+      "change_pct": "+0.008%p",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원/달러 환율은 1,423.8원으로 전일 대비 0.7원 내렸다. 외국인이 국내 증시에서 반도체를 중심으로 대규모 매도에 나섰음에도 환율은 소폭 하락하며 큰 동요는 없었다. 국제유가는 75달러 선에서 보합권을 유지했고, 금값은 온스당 4,327달러대로 완만히 올랐다.",
+    "notes": "코스피에서 외국인이 3조3,273억원을 순매도했는데 이 중 3조원 이상이 전기전자(반도체) 업종에 집중됐고, 기관도 1,214억원을 순매도했다. 개인이 3조3,387억원을 순매수하며 낙폭 방어에 나섰지만 역부족이었다. 코스닥에서는 기관이 1,615억원, 개인이 860억원을 순매수한 반면 외국인은 2,482억원을 순매도했다. 코스피200선물이 전일 종가 대비 5.12% 급락한 상태가 1분간 지속되며 오전 10시18분 매도 사이드카가 발동됐다. 올해 들어 46번째 사이드카(매도 24회, 매수 22회)로, 지난달 29일 이후 6거래일 만이자 어제 매수 사이드카 발동 하루 만의 정반대 발동이었다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "간밤 미국 낸드업체 샌디스크가 실적은 예상을 웃돌았지만 다음 분기 매출 가이던스가 컨센서스를 밑돌며 급락한 여파로 국내 메모리 반도체 투자심리가 얼어붙었다. 삼성전자(-6.30%), SK하이닉스(-10.37%)가 급락하며 어제 사이드카 상승분을 하루 만에 반납했다.",
+      "source_url": "https://www.newspim.com/news/view/20260806000410"
+    },
+    {
+      "theme": "시장 안정화 장치 발동",
+      "summary": "코스피200선물이 전일 종가 대비 5.12% 급락한 상태가 1분간 지속되며 오전 10시18분 매도 사이드카가 발동됐다. 올해 들어 46번째(매도 24회, 매수 22회)로, 어제 매수 사이드카가 발동됐던 것과 정반대 방향으로 하루 만에 뒤집혔다.",
+      "source_url": "https://www.hankooki.com/news/articleView.html?idxno=340319"
+    },
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "SK하이닉스가 주주환원 계획의 구체적 규모와 시행 방식을 연말로 미룬 가운데, 미국 낸드 자회사 솔리다임이 최대 10조원 규모 프리IPO와 나스닥 상장을 추진한다는 보도가 나오며 모회사 지분가치 희석 우려가 부각됐다. SK하이닉스 지분가치가 순자산 대부분인 SK스퀘어는 13.32% 급락했다.",
+      "source_url": "https://www.hankyung.com/article/202608056378i"
+    },
+    {
+      "theme": "바이오와 제약",
+      "summary": "알테오젠이 글로벌 제약사와 하이브로자임 플랫폼을 적용한 SC제형 개발 독점 라이선스 계약(최대 3억6,500만달러, 약 5,219억원)을 체결했다고 밝히며 5.96% 올랐다. 올해 들어 세 번째 기술수출로 누적 기술수출액이 12조원을 넘어섰다.",
+      "source_url": "https://pharm.edaily.co.kr/News/Read?newsId=04929846645544368"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "샌디스크발 미국 반도체 투자심리 위축에 6.30% 내린 23만500원 마감",
+      "source_url": "https://segye.com/newsView/20260806518026"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "샌디스크 가이던스 실망에 솔리다임 프리IPO설, 주주환원 불확실성까지 겹치며 10.37% 급락한 149만5,000원 마감",
+      "source_url": "https://www.newspim.com/news/view/20260806000410"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "반도체 약세 속 반사이익으로 2.83% 오른 34만5,000원 마감",
+      "source_url": "https://www.investing.com/equities/lg-energy-solution"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "1.11% 내린 51만2,000원 마감",
+      "source_url": "https://kr.investing.com/indices/kospi-components"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
