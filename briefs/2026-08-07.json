@@ -1,0 +1,480 @@
+{
+  "date": "2026-08-07",
+  "generated_at_kst": "2026-08-07T08:30:00+09:00",
+  "mode": "new",
+  "headline": "간밤 미국에서 웨스턴디지털(-13.03%)과 샌디스크(-6.81%)가 견조한 실적에도 가이던스 실망으로 추가 급락하고 SK하이닉스 뉴욕ADR도 4.97% 밀리면서, 어제 사이드카까지 발동되며 급락했던 국내 반도체 대형주가 오늘 개장에서 또 한 번 조정 압력을 받을지가 최대 관전포인트다. 호르무즈 항로 합의가 완전한 재개방은 아니라는 점이 부각되고 예멘 후티의 홍해 유조선 공격이 이어지며 국제유가도 다시 올랐다.",
+  "mail_title": "메모리주, 미국서도 밤새 또 무너졌다",
+  "kr": {
+    "preview": "어제 코스피는 전날 팔란티어發 미국 반도체 랠리를 등에 업고 3.76% 급등하며 매수 사이드카까지 발동됐다가, 하루 만에 4.58% 급락해 6,296.38로 밀렸습니다. 간밤 샌디스크의 실망스러운 매출 가이던스 여파로 삼성전자(-6.30%)와 SK하이닉스(-10.37%)가 동반 급락했고, SK하이닉스는 미국 낸드 자회사 솔리다임의 프리IPO설과 주주환원 불확실성까지 겹치며 매도 사이드카까지 발동됐습니다.\n\n간밤 미국에서는 메모리, 저장장치주의 매도가 더 깊어졌습니다. 웨스턴디지털은 예상을 웃돈 실적에도 향후 가이던스가 시장 눈높이에 못 미치며 13.03% 급락했고, 샌디스크도 6.81% 추가로 밀렸습니다. 마이크론은 1.31% 내렸고, SK하이닉스 뉴욕 ADR도 4.97% 하락한 143.53달러로 마감하며 이틀 연속 조정을 받았습니다. 다우존스는 464.02포인트(0.85%) 내린 53,885.10, S&P500은 0.18%, 나스닥종합은 0.06% 밀리며 3대 지수가 모두 하락 마감했습니다. 이란과 오만의 호르무즈 항로 합의가 2~4개월짜리 임시 항로일 뿐 완전한 재개방은 아니라는 점이 부각되고, 예멘 후티 반군이 사우디 유조선을 향한 미사일 공격을 이어가며 WTI는 2.75% 오른 77.29달러로 마감했습니다. 유가 상승에 따른 인플레이션 우려로 미 10년물 국채금리도 4.679%까지 올랐습니다. 메모리 반도체 밸류체인 전반의 조정이 이어지는 가운데, 오늘 삼성전자와 SK하이닉스가 추가 하락 압력을 받을지, 아니면 낙폭과대 인식에 반등을 모색할지가 관전포인트입니다. 이날 저녁에는 7월 미국 비농업고용지표(NFP) 발표도 예정돼 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,296.38",
+        "change_pct": "-4.58%(-301.88p, 8/6 종가)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260806001081",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=274297"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "801.67",
+        "change_pct": "+0.26%(+2.08p, 8/6 종가)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260806001081",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=274297"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "미확인(개장전, 8/6 종가 -6.30%)",
+        "reason": "간밤 미국에서 웨스턴디지털(-13.03%), 샌디스크(-6.81%) 등 메모리, 저장장치주가 견조한 실적에도 가이던스 실망으로 추가 급락하며 메모리 반도체 밸류체인 전반의 투자심리가 계속 위축된 상태다. 오늘 개장에서 어제 급락분에 이어 추가 조정을 받을지가 관건이다.",
+        "source_url": "https://stockanalysis.com/stocks/wdc/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/wdc/history/",
+          "https://stockanalysis.com/stocks/sndk/history/"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "미확인(개장전, 8/6 종가 -10.37%)",
+        "reason": "뉴욕 ADR이 간밤 4.97% 추가 하락한 143.53달러로 마감하며 이틀 연속 조정을 받았다. 미국 메모리, 저장장치주 동반 약세가 이어지는 가운데, 자회사 솔리다임 프리IPO 이슈는 9월4일 재공시가 예정돼 있어 당분간 불확실성이 지속될 전망이다.",
+        "source_url": "https://stockanalysis.com/stocks/skhy/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/skhy/history/",
+          "https://www.newspim.com/news/view/20260806000792"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "6일(현지시간) 뉴욕증시는 3대 지수가 모두 하락하며 다우존스의 5거래일 연속 사상 최고치 행진이 끝났습니다. 다우존스는 464.02포인트(0.85%) 내린 53,885.10, S&P500은 13.59포인트(0.18%) 내린 7,709.96, 나스닥종합은 15.09포인트(0.06%) 내린 26,348.35로 마감했습니다. 이란과 오만의 호르무즈 항로 합의가 완전한 재개방이 아니라는 점이 부각되고 예멘 후티 반군의 홍해 사우디 유조선 공격이 이어지며 WTI는 2.75% 오른 77.29달러, 브렌트유는 3.83% 오른 82.49달러로 마감했습니다. 유가 상승에 따른 인플레이션 우려로 미 10년물 국채금리는 4.679%, 30년물은 5.21%까지 올랐습니다. 실적 발표주에서는 웨스턴디지털(-13.03%)과 샌디스크(-6.81%)가 예상을 웃돈 실적에도 향후 가이던스 실망으로 급락했고, 마이크론도 1.31% 내리며 메모리 밸류체인 전반이 약세를 보였습니다. 반면 마이크로소프트는 애저 클라우드, AI 모멘텀에 대한 투자심리가 이어지며 2.54% 올랐습니다. 시장은 7일 저녁(현지시간 아침) 발표될 7월 비농업고용지표(NFP)를 주시하고 있습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,709.96",
+        "change_pct": "-0.18%(-13.59p, 8/6)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260807000019",
+          "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-6-2026"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,348.35",
+        "change_pct": "-0.06%(-15.09p, 8/6)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260807000019",
+          "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-6-2026"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,885.10",
+        "change_pct": "-0.85%(-464.02p, 8/6, 5거래일 연속 최고치 행진 종료)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260807000019",
+          "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-6-2026"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "WDC",
+        "name": "Western Digital",
+        "change_pct": "-13.03%(8/6, 451.52달러)",
+        "reason": "2026회계연도 4분기 실적이 매출, 이익 모두 시장 예상을 웃돌았지만 향후 매출 가이던스가 시장의 높은 눈높이에 못 미치며 급락했다. HDD와 낸드 사업 분사 관련 세제, 규제 절차가 예상보다 복잡해 분리 일정이 지연될 수 있다는 우려도 부각됐다.",
+        "source_url": "https://stockanalysis.com/stocks/wdc/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/wdc/history/",
+          "https://www.benzinga.com/trading-ideas/movers/26/08/60983547/why-is-western-digital-stock-sinking-thursday"
+        ]
+      },
+      {
+        "ticker": "SNDK",
+        "name": "SanDisk",
+        "change_pct": "-6.81%(8/6, 1,258.58달러)",
+        "reason": "2026회계연도 4분기 매출이 전년 대비 372% 급증하는 등 실적은 예상을 웃돌았지만, 향후 매출, 이익 가이던스가 시장의 공격적인 눈높이를 밑돌며 이틀 연속 급락했다.",
+        "source_url": "https://stockanalysis.com/stocks/sndk/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/sndk/history/",
+          "https://www.tradingkey.com/analysis/stocks/us-stocks/262070803-stock-ai-chip-micron-mu-sndk-stx-skhy-wdc-tradingkey"
+        ]
+      },
+      {
+        "ticker": "MSFT",
+        "name": "Microsoft",
+        "change_pct": "+2.54%(8/6, 499.86달러)",
+        "reason": "지난주 발표한 2026회계연도 실적에서 애저 매출이 처음으로 1,000억달러를 돌파하고 클라우드 매출이 전년 대비 27% 성장한 데 힘입어, AI, 애저 모멘텀에 대한 투자심리가 이어지며 상승세를 지속했다.",
+        "source_url": "https://stockanalysis.com/stocks/msft/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/msft/history/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-8.04%(8/6)",
+        "note": "KRX 반도체와반도체장비 업종지수. 샌디스크발 투자심리 위축에 삼성전자(-6.30%), SK하이닉스(-10.37%)가 동반 급락하며 지수를 끌어내렸다",
+        "source_url": "https://www.newspim.com/news/view/20260806001081"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-7.47%(8/6)",
+        "note": "KRX 전자장비와기기 업종지수. 반도체 부품, 전자장비주가 반도체 대형주 급락에 동반 약세를 보였다",
+        "source_url": "https://www.newspim.com/news/view/20260806001081"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-0.75%(대표종목 기준, 8/6)",
+        "note": "SK텔레콤(-2.04%), LG유플러스(+0.54%) 평균",
+        "source_url": "https://www.investing.com/equities/sk-telecom-co-ltd"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+2.29%(8/6)",
+        "note": "KRX 제약 업종지수. 알테오젠이 5,219억원 규모 기술이전 계약 소식에 5.96% 오르며 지수 상승을 이끌었다",
+        "source_url": "https://www.newspim.com/news/view/20260806001081"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.79%(8/6)",
+        "note": "KRX 은행 업종지수. 반도체 급락 속 상대적으로 안전한 은행주로 매수세가 이동했다",
+        "source_url": "https://www.newspim.com/news/view/20260806001081"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+1.15%(대표종목 기준, 8/6)",
+        "note": "이마트(+2.13%), 롯데쇼핑(+0.17%) 평균",
+        "source_url": "https://www.investing.com/equities/e-mart"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.33%(대표종목 기준, 8/6)",
+        "note": "현대차(-1.11%), 기아(+0.45%) 평균",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+2.21%(대표종목 기준, 8/6)",
+        "note": "LG에너지솔루션(+2.83%), 에코프로(+1.58%) 평균. 반도체 약세 속 반사이익을 봤다",
+        "source_url": "https://www.investing.com/equities/lg-energy-solution"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+1.68%(대표종목 기준, 8/6)",
+        "note": "한화오션(-1.31%), 한화에어로스페이스(+4.67%) 평균",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+3.46%(대표종목 기준, 8/6)",
+        "note": "현대건설(+2.27%), GS건설(+4.65%) 평균. 반도체 자금 이탈 속 반사이익을 봤다",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+1.94%(대표종목 기준, 8/6)",
+        "note": "LG화학(+2.15%), 롯데케미칼(+1.73%) 평균",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+1.22%(대표종목 기준, 8/6)",
+        "note": "포스코홀딩스(+0.63%), 현대제철(+1.81%) 평균",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.46%(대표종목 기준, 8/6)",
+        "note": "네이버(-1.31%), 카카오(+0.39%) 평균",
+        "source_url": "https://www.investing.com/equities/nhn-corp"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.09%(대표종목 기준, 8/6)",
+        "note": "하이브(-0.17%), 에스엠(0.00%) 평균",
+        "source_url": "https://www.investing.com/equities/sm-entertainment-co"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.34%(SOXX, 8/6)",
+        "note": "메모리, 저장장치주 급락 속에서도 지수 전체는 소폭 상승 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-0.31%(XLK, 8/6)",
+        "note": "완만한 약세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.28%(XLC, 8/6)",
+        "note": "완만한 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+0.18%(XLV, 8/6)",
+        "note": "완만한 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.33%(XLF, 8/6)",
+        "note": "국채금리 상승 속 완만한 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-0.46%(XLY, 8/6)",
+        "note": "완만한 약세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.26%(XLP, 8/6)",
+        "note": "완만한 약세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.85%(XLI, 8/6)",
+        "note": "완만한 약세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.89%(XLB, 8/6)",
+        "note": "완만한 약세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+1.48%(XLE, 8/6)",
+        "note": "호르무즈, 홍해발 지정학 리스크에 유가가 오르며 12개 섹터 중 상승폭이 가장 컸다.",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-0.64%(XLU, 8/6)",
+        "note": "국채금리 상승 속 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.86%(XLRE, 8/6)",
+        "note": "국채금리 상승 속 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,423.19",
+      "change_pct": "+0.02%",
+      "source_url": "https://www.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.96",
+      "change_pct": "+0.02%",
+      "source_url": "https://www.investing.com/indices/usdollar"
+    },
+    {
+      "name": "금",
+      "value": "$4,298.97",
+      "change_pct": "+0.01%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$78.12",
+      "change_pct": "-0.20%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$64,287.42",
+      "change_pct": "-0.4%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,903.06",
+      "change_pct": "-0.1%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.679%",
+      "change_pct": "+0.3bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원/달러 환율은 1,423원대로 보합권을 유지하고 있다. 미 10년물 국채금리는 유가 상승에 따른 인플레이션 우려로 4.679%까지 올랐고, 30년물은 5.21%까지 상승했다. WTI는 호르무즈 항로 합의가 완전한 재개방이 아니라는 점과 후티 반군의 홍해 유조선 공격이 겹치며 77~78달러 선으로 다시 올랐다.",
+    "notes": "7월 미국 비농업고용지표(NFP)가 8월7일(금, 현지시간) 발표될 예정이며, 시장은 91,000명(전월 57,000명) 안팎의 증가와 실업률 4.3%로의 소폭 상승을 예상하고 있다. 8월 중 FOMC 정례회의는 없고 다음 회의는 9월15~16일이며, 연준 인사들의 잭슨홀 심포지엄은 8월28~29일 예정이다. SK하이닉스 자회사 솔리다임의 프리IPO 관련 재공시는 9월4일로 예정돼 있다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "간밤 미국에서 웨스턴디지털(-13.03%)과 샌디스크(-6.81%)가 예상을 웃돈 실적에도 가이던스 실망으로 급락했고, 마이크론(-1.31%)과 SK하이닉스 뉴욕 ADR(-4.97%)도 동반 약세를 보였다. 어제 사이드카까지 발동되며 급락했던 국내 반도체 대형주가 오늘 개장에서 추가 조정 압력을 받을지 주목된다.",
+      "source_url": "https://stockanalysis.com/stocks/wdc/history/"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "이란, 오만의 호르무즈 항로 합의가 2~4개월짜리 임시 항로일 뿐 완전한 재개방은 아니라는 점이 부각되고, 예멘 후티 반군이 사우디 유조선을 향한 미사일 공격을 이어가면서 WTI가 2.75% 오른 77.29달러로 마감했다. 유가 상승은 인플레이션 우려로 이어지며 미 국채금리도 밀어올렸다.",
+      "source_url": "https://www.newspim.com/news/view/20260807000019"
+    },
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "SK하이닉스 미국 낸드 자회사 솔리다임의 최대 10조원 규모 프리IPO, 나스닥 상장 추진설이 이어지는 가운데, 회사 측은 확정된 사항이 없다며 9월4일 재공시를 예고했다. 모회사 지분가치 희석 우려로 SK스퀘어는 어제 13.32% 급락했다.",
+      "source_url": "https://www.newspim.com/news/view/20260806000792"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "0.20% 내린 218.78달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "0.45% 오른 312.41달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "애저, AI 모멘텀에 대한 투자심리가 이어지며 2.54% 오른 499.86달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "0.63% 내린 319.53달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "1.58% 내린 155.92달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "샌디스크발 투자심리 위축에 6.30% 내린 23만500원 마감. 간밤 웨스턴디지털, 샌디스크 추가 급락이 오늘 개장의 변수다.",
+      "source_url": "https://segye.com/newsView/20260806518026"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "솔리다임 프리IPO설, 주주환원 불확실성까지 겹치며 10.37% 급락한 149만5,000원 마감. 뉴욕 ADR은 간밤 추가로 4.97% 밀렸다.",
+      "source_url": "https://www.newspim.com/news/view/20260806000410"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "반도체 약세 속 반사이익으로 2.83% 오른 34만5,000원 마감",
+      "source_url": "https://www.investing.com/equities/lg-energy-solution"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "1.11% 내린 51만2,000원 마감",
+      "source_url": "https://kr.investing.com/indices/kospi-components"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "어제 샌디스크발 미국 메모리 투자심리 위축으로 6.30% 급락한 23만500원에 마감한 데 이어, 간밤 미국에서 웨스턴디지털(-13.03%), 샌디스크(-6.81%)가 가이던스 실망으로 추가 급락하며 메모리 밸류체인 전반의 조정이 이어지고 있다. 노무라증권은 2027~2028년 메모리 공급부족 국면을 근거로 긍정적 전망을 유지하고 있어, 단기 조정과 중장기 강세론이 엇갈리는 구간이다.",
+      "catalysts": [
+        "오늘 개장에서 간밤 미국 메모리, 저장장치주 추가 급락의 반영 여부",
+        "8월7일(금) 저녁 미국 7월 비농업고용지표(NFP) 발표",
+        "메모리 반도체 밸류체인 전반의 낙폭과대 인식에 따른 반등 시도 여부"
+      ],
+      "levels_watched": {
+        "support": "미확인",
+        "resistance": "52주 최고가 37만4,500원",
+        "analyst_target_cited": "노무라증권, 2026-08-02, 목표주가 67만원(매수)"
+      },
+      "risk": "미국 메모리, 저장장치주 약세가 국내 개장까지 이어질 경우 어제에 이은 추가 조정이 나타날 수 있다.",
+      "sources": [
+        "https://segye.com/newsView/20260806518026",
+        "https://stockanalysis.com/stocks/wdc/history/",
+        "https://www.thecommoditiesnews.com/news/articleView.html?idxno=11596"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "어제 솔리다임 프리IPO설과 주주환원 불확실성이 겹치며 10.37% 급락, 매도 사이드카 발동의 진앙이 됐다. 간밤 뉴욕 ADR도 4.97% 추가 하락한 143.53달러로 마감하며 이틀 연속 조정을 받았다. 미래에셋증권은 목표주가를 420만원에서 280만원으로 33% 하향 조정한 바 있어, 단기 밸류에이션 부담에 대한 경계감이 남아있다.",
+      "catalysts": [
+        "9월4일 예정된 솔리다임 프리IPO 관련 재공시",
+        "뉴욕 ADR 조정의 국내 개장 이연 효과",
+        "8월7일(금) 저녁 미국 7월 비농업고용지표(NFP) 발표"
+      ],
+      "levels_watched": {
+        "support": "미확인",
+        "resistance": "52주 최고가 298만7,000원(2026-06-25)",
+        "analyst_target_cited": "미래에셋증권, 2026-07-29, 목표주가 280만원(하향)"
+      },
+      "risk": "솔리다임 프리IPO를 둘러싼 지분가치 희석 우려와 주주환원 불확실성이 재공시(9월4일) 전까지 해소되지 않을 경우 투자심리 위축이 지속될 수 있다.",
+      "sources": [
+        "https://stockanalysis.com/stocks/skhy/history/",
+        "https://www.hankyung.com/article/202607292047i",
+        "https://www.newspim.com/news/view/20260806000792"
+      ]
+    },
+    {
+      "ticker": "WDC",
+      "name": "Western Digital",
+      "market": "US",
+      "thesis": "2026회계연도 4분기 매출, 이익 모두 시장 예상을 웃돌았지만 향후 가이던스가 시장의 높은 눈높이에 못 미치며 13.03% 급락했다. HDD와 낸드 사업의 분사 관련 세제, 규제 절차가 예상보다 복잡해 분리 일정이 지연될 수 있다는 우려도 부각됐다.",
+      "catalysts": [
+        "HDD, 낸드 사업 분사 일정 및 절차 관련 후속 공시",
+        "차세대 HAMR 기술 전환에 따른 설비투자 부담과 잉여현금흐름 추이",
+        "하이퍼스케일러의 데이터센터 스토리지 대비 AI 가속기 예산 배분 변화"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 73.14달러",
+        "resistance": "52주 최고가 799.87달러",
+        "analyst_target_cited": "애널리스트 26인 평균, 2026-08-06 기준, 목표주가 665.25달러(매수)"
+      },
+      "risk": "분사 일정 지연과 AI 인프라向 예산 재배분으로 스토리지 수요 성장 둔화 우려가 부각될 경우 추가 조정 가능성이 있다.",
+      "sources": [
+        "https://stockanalysis.com/stocks/wdc/history/",
+        "https://www.benzinga.com/trading-ideas/movers/26/08/60983547/why-is-western-digital-stock-sinking-thursday"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
