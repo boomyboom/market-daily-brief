@@ -1,0 +1,528 @@
+{
+  "date": "2026-08-08",
+  "generated_at_kst": "2026-08-08T08:30:00+09:00",
+  "mode": "new",
+  "headline": "토요일로 휴장인 가운데, 지난 금요일 코스피는 SK하이닉스가 HBM 납품가 우려로 4.88% 밀리고 외국인이 8,625억원을 순매도하며 장중 2%대 급등분을 반납하고 0.60% 내린 6,258.77로 마감했다. 반면 간밤 미국에서는 7월 비농업고용이 2만3,000명 줄어 예상을 크게 밑돌았음에도 금리 인하 기대감에 3대 지수가 일제히 오르며 S&P500이 사상 최고치를 새로 썼다. 애틀라시안은 실적 서프라이즈에 35% 폭등했고 트레이드데스크는 가이던스 실망으로 22% 급락하는 등 실적 시즌 희비가 크게 엇갈렸다.",
+  "mail_title": "고용 줄었는데 뉴욕은 최고치 찍었다",
+  "kr": {
+    "preview": "코스피는 지난 금요일(8/7) 전 거래일보다 37.61포인트(0.60%) 내린 6,258.77로 마감했습니다. 전날 발표될 미국 고용지표에 대한 기대감으로 장중 한때 6,415.60까지 2%대 급등했지만, SK하이닉스가 고대역폭메모리(HBM) 납품가 협상 우려로 4.88% 밀리고 외국인이 코스피에서 8,625억원을 순매도하면서 상승분을 대부분 반납했습니다. 삼성전자는 0.22% 오른 23만1,000원으로 견조했던 반면 SK하이닉스는 142만2,000원까지 밀리며 반도체 투톱의 움직임이 엇갈렸습니다. 네이버는 2분기 영업이익이 전년 대비 10.5% 줄어든 실적에 7.08% 급락했고, 카카오는 목표주가 줄하향에도 영업이익률 13.2%의 역대급 실적에 4.18% 올랐습니다. 코스닥에서는 본느(범LG가의 아워홈 전 회장 경영권 인수설, 6거래일 연속 상한가), 상상인증권(Sh수협은행 인수설, 이틀 연속 상한가) 등 인수합병 테마주가 강세를 보였습니다.\n\n주말 사이 새로 나온 소식은 미국 노동시장입니다. 7일(현지시간) 발표된 7월 비농업고용은 2만3,000명 감소해 시장 전망치(+8만명 안팎)를 크게 밑돌았지만, 정부 부문에서만 5만3,000명이 줄어든 영향이 컸고 민간 부문은 오히려 3만명 늘어 헤드라인만큼 나쁘지 않다는 평가도 나왔습니다. 시장은 고용 둔화가 연준의 금리 인하 명분을 강화할 것으로 해석했고, 뉴욕 3대 지수는 일제히 상승해 S&P500(+0.62%)이 사상 최고치를 새로 썼습니다. 실적 발표주에서는 애틀라시안이 클라우드 매출 31% 성장과 서프라이즈 가이던스에 35.10% 폭등하며 상장 후 최대 일간 상승폭을 기록했고, 트레이드데스크는 3분기 매출 가이던스가 컨센서스를 크게 밑돌면서 22.01% 급락해 2019년 이후 최저 수준까지 밀렸습니다. 이 여파로 달러인덱스는 약세, 금값은 2%대 급등했고 미 10년물 국채금리도 4.65% 선으로 내려앉았습니다. 이번주 월요일 개장에서는 SK하이닉스의 HBM 가격 우려가 지속될지, 미국발 훈풍과 금리 인하 기대감이 국내 반도체 밸류체인에 반영될지가 관전포인트입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,258.77",
+        "change_pct": "-0.60%(-37.61p, 8/7 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026080709686",
+          "https://www.etoday.co.kr/news/view/2612253"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "798.81",
+        "change_pct": "-0.36%(-2.86p, 8/7 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.etnews.com/20260807000062",
+          "https://www.etoday.co.kr/news/view/2612253"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-4.88%(142만2,000원, 8/7 종가)",
+        "reason": "고대역폭메모리(HBM) 납품 가격 협상을 둘러싼 시장의 우려로 반도체 투톱 중 홀로 약세를 보였다. 이투데이 보도에 따르면 증권가는 HBM4와 장기공급계약(LTA) 구조가 펀더멘털의 안정판이라는 시각을 유지하고 있어, 단기 변동성과 중장기 강세론이 엇갈리고 있다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2612253",
+          "https://www.etoday.co.kr/news/view/2612288"
+        ]
+      },
+      {
+        "ticker": "035420",
+        "name": "네이버",
+        "change_pct": "-7.08%(21만원, 8/7 종가)",
+        "reason": "2분기 별도 기준 매출은 전년 동기 대비 13.1% 늘었지만 영업이익은 4,390억원으로 10.5% 줄어든 실적을 발표한 뒤 매물이 쏟아졌다.",
+        "source_url": "https://www.mt.co.kr/tech/2026/08/07/2026080708153478368",
+        "source_urls": [
+          "https://www.mt.co.kr/tech/2026/08/07/2026080708153478368"
+        ]
+      },
+      {
+        "ticker": "035720",
+        "name": "카카오",
+        "change_pct": "+4.18%(3만9,900원, 8/7 종가)",
+        "reason": "2분기 연결 영업이익 2,770억원, 영업이익률 13.2%로 역대급 실적을 냈다. 증권가는 상장 자회사 밸류에이션 부담 등을 들어 목표주가를 일제히 낮췄지만 실적 자체에 대한 안도감에 주가는 올랐다.",
+        "source_url": "https://www.newsway.co.kr/news/view?ud=2026080708324681331",
+        "source_urls": [
+          "https://www.newsway.co.kr/news/view?ud=2026080708324681331",
+          "https://www.etoday.co.kr/news/view/2612252"
+        ]
+      },
+      {
+        "ticker": "226340",
+        "name": "본느",
+        "change_pct": "+29.9%(상한가, 6거래일 연속, 6,200원, 8/7 종가)",
+        "reason": "범LG가 구미현 전 아워홈 회장이 최대주주 지분 인수 계약을 체결했다는 소식에 지난달 30일 1,290원이던 주가가 6거래일 연속 상한가를 기록하며 6,200원까지 올랐다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2612290",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2612290",
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1719054"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "7일(현지시간) 뉴욕증시는 예상 밖으로 부진했던 7월 고용지표에도 3대 지수가 일제히 상승 마감했습니다. S&P500은 47.68포인트(0.62%) 오른 7,757.64로 사상 최고치를 새로 썼고, 나스닥종합은 342.26포인트(1.30%) 오른 26,690.62, 다우존스는 151.83포인트(0.28%) 오른 54,036.93으로 마감했습니다. 3대 지수 모두 주간 기준으로는 4월 이후 최대 상승폭(S&P500 +3.58%, 나스닥 +5.19%, 다우 +2.96%)을 기록했습니다. 노동부에 따르면 7월 비농업고용은 2만3,000명 감소해 시장 전망치(+8만명 안팎)를 크게 밑돌았고 실업률은 4.1%로 소폭 낮아졌습니다. 정부 부문에서만 5만3,000명이 줄어든 영향이 컸던 반면 민간 부문 고용은 3만명 늘어 헤드라인만큼 나쁘지 않다는 평가도 나왔습니다. 시장은 고용 둔화가 연준의 금리 인하 명분을 강화할 것으로 해석했고, CME 페드워치 기준 다음 회의에서의 금리인상 가능성은 이날 44%로 낮아졌습니다(직전 세션 55%, 일주일 전 67%). 실적 시즌 최대 화제는 애틀라시안이었습니다. 4분기 매출이 전년 대비 28% 늘어난 17억6,600만달러로 컨센서스(16억6,300만달러)를 웃돌고 클라우드 매출이 31% 성장한 데다 2027회계연도 1분기 매출 가이던스도 시장 전망을 상회하면서 주가는 35.10% 폭등, 상장 후 최대 일간 상승폭을 기록했습니다. 에어비앤비도 2분기 매출이 36억1,000만달러로 예상(35억8,000만달러)을 웃돌고 3분기 매출 가이던스 하단이 시장 전망을 상회하면서 17.43% 올라 4년래 최고가를 새로 썼습니다. 반면 트레이드데스크는 2분기 매출이 7억1,500만달러로 전년 대비 3% 성장에 그쳤고 3분기 매출 가이던스(6억5,000만달러 이상)가 컨센서스(8억500만달러)를 크게 밑돌면서 22.01% 급락해 2019년 이후 최저 수준까지 밀렸습니다. 모펫네이슨은 목표주가를 23달러에서 6달러로 대폭 낮췄고 트루이스트, 웰스파고 등도 실적 반등에는 수개월이 걸릴 수 있다고 경고했습니다. 이 여파로 미 10년물 국채금리는 4.647%로 내려앉았고, 금값은 2.37% 급등한 온스당 4,401.30달러, 달러인덱스는 0.38% 내린 99.56을 기록했습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,757.64",
+        "change_pct": "+0.62%(+47.68p, 8/7, 사상 최고치)",
+        "source_urls": [
+          "https://www.goodreturns.in/news/us-stock-market-today-live-august-7-dow-jones-sp-500-nasdaq-updates-us-jobs-data-wall-street-futures-1527005.html",
+          "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-muted-095442868.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,690.62",
+        "change_pct": "+1.30%(+342.26p, 8/7)",
+        "source_urls": [
+          "https://www.goodreturns.in/news/us-stock-market-today-live-august-7-dow-jones-sp-500-nasdaq-updates-us-jobs-data-wall-street-futures-1527005.html",
+          "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-muted-095442868.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "54,036.93",
+        "change_pct": "+0.28%(+151.83p, 8/7)",
+        "source_urls": [
+          "https://www.goodreturns.in/news/us-stock-market-today-live-august-7-dow-jones-sp-500-nasdaq-updates-us-jobs-data-wall-street-futures-1527005.html",
+          "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-muted-095442868.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "TEAM",
+        "name": "Atlassian",
+        "change_pct": "+35.10%(8/7, 148.84달러)",
+        "reason": "4분기 매출이 전년 대비 28% 늘어난 17억6,600만달러, 클라우드 매출이 31% 성장하며 컨센서스를 크게 웃돌았다. 2027회계연도 1분기 매출 가이던스도 시장 전망을 상회했고, AI 기반 지라 코딩 에이전트 등 신기능 출시 소식도 투자심리를 자극했다. 상장 후 최대 일간 상승폭이다.",
+        "source_url": "https://www.fool.com/investing/2026/08/07/why-atlassian-stock-soared-today/",
+        "source_urls": [
+          "https://www.fool.com/investing/2026/08/07/why-atlassian-stock-soared-today/",
+          "https://finance.yahoo.com/markets/stocks/articles/atlassian-stock-jumps-36-cloud-184451504.html"
+        ]
+      },
+      {
+        "ticker": "TTD",
+        "name": "The Trade Desk",
+        "change_pct": "-22.01%(8/7, 13.78달러)",
+        "reason": "2분기 매출이 7억1,500만달러로 전년 대비 3% 성장에 그쳐 시장 기대를 밑돌았고, 3분기 매출 가이던스(6억5,000만달러 이상)가 컨센서스(8억500만달러)를 크게 밑돌면서 급락했다. 모펫네이슨이 목표주가를 23달러에서 6달러로 낮추는 등 다운그레이드가 잇따랐다.",
+        "source_url": "https://finance.yahoo.com/media-advertising/articles/trade-desk-plunges-28-earnings-133152192.html",
+        "source_urls": [
+          "https://finance.yahoo.com/media-advertising/articles/trade-desk-plunges-28-earnings-133152192.html",
+          "https://www.benzinga.com/trading-ideas/movers/26/08/61033823/trade-desk-blames-weak-consumer-spending-tariffs-and-oil-prices-for-slowing-growth"
+        ]
+      },
+      {
+        "ticker": "ABNB",
+        "name": "Airbnb",
+        "change_pct": "+17.43%(8/7, 178.07달러)",
+        "reason": "2분기 매출이 36억1,000만달러로 예상(35억8,000만달러)을 웃돌았고, 총예약액(GBV)이 16% 증가한 272억달러를 기록했다. 3분기 매출 가이던스 하단도 시장 전망을 상회하면서 4년래 최고가로 마감했다.",
+        "source_url": "https://www.benzinga.com/trading-ideas/movers/26/08/61045576/airbnb-stock-surges-after-strong-q2-results",
+        "source_urls": [
+          "https://www.benzinga.com/trading-ideas/movers/26/08/61045576/airbnb-stock-surges-after-strong-q2-results",
+          "https://www.stocktitan.net/news/ABNB/airbnb-announces-second-quarter-2026-236qugsa79yg.html"
+        ]
+      },
+      {
+        "ticker": "PLTR",
+        "name": "Palantir",
+        "change_pct": "+10.32%(8/7, 172.01달러)",
+        "reason": "2분기 매출이 전년 대비 93% 급증한 19억4,000만달러를 기록하며 2026년 매출 전망을 76.5억~76.6억달러에서 81.5억~81.6억달러로 상향했다. 뱅크오브아메리카가 매수 의견을 유지하며 목표주가를 255달러로 올린 점도 투자심리를 뒷받침했다.",
+        "source_url": "https://www.fool.com/investing/2026/08/07/why-palantir-technologies-stock-skyrocketed-again/",
+        "source_urls": [
+          "https://www.fool.com/investing/2026/08/07/why-palantir-technologies-stock-skyrocketed-again/",
+          "https://247wallst.com/investing/2026/08/07/palantir-surges-10-uipath-rises-7-c3-ai-gains-5-as-agentic-ai-stocks-rally-together/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.33%(대표종목 기준, 8/7)",
+        "note": "삼성전자(+0.22%), SK하이닉스(-4.88%) 평균. SK하이닉스가 HBM 가격 우려로 급락하며 지수를 끌어내렸다 (대표종목 기준)",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-1.29%(8/7)",
+        "note": "KRX 전기전자 업종지수. 반도체 대형주 약세에 동반 하락했다",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.72%(8/7)",
+        "note": "KRX 통신 업종지수",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+2.27%(8/7)",
+        "note": "KRX 제약 업종지수",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+2.47%(대표종목 기준, 8/7)",
+        "note": "KB금융(+2.51%), 신한지주(+2.42%) 평균. 반도체 약세 속 자금이 금융주로 이동했다 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/kb-financial-group"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-7.32%(대표종목 기준, 8/7)",
+        "note": "이마트(-1.7%), 롯데쇼핑(-12.93%) 평균. 두 회사 모두 2분기 실적이 시장 기대치를 밑돌았다 (대표종목 기준)",
+        "source_url": "https://www.hankyung.com/article/2026080700166"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.08%(대표종목 기준, 8/7)",
+        "note": "현대차(-1.13%), 기아(+0.97%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/hyundai-motor"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+3.61%(대표종목 기준, 8/7)",
+        "note": "LG에너지솔루션(+4.35%), 에코프로(+2.87%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/lg-energy-solution"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+1.33%(대표종목 기준, 8/7)",
+        "note": "한화오션(-1.43%), 한화에어로스페이스(+4.08%) 평균. 방산주는 강세, 조선주는 보합권에 머물렀다 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/hanwha-aerospace"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-2.07%(8/7)",
+        "note": "KRX 건설 업종지수",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+4.37%(8/7)",
+        "note": "KRX 화학 업종지수",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+2.15%(대표종목 기준, 8/7)",
+        "note": "포스코홀딩스(+3.76%), 현대제철(+0.53%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/posco-inc"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-1.45%(대표종목 기준, 8/7)",
+        "note": "네이버(-7.08%), 카카오(+4.18%) 평균. 2분기 실적 발표 이후 두 회사 주가가 엇갈렸다 (대표종목 기준)",
+        "source_url": "https://www.mt.co.kr/tech/2026/08/07/2026080708153478368"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+2.48%(대표종목 기준, 8/7)",
+        "note": "에스엠(+2.58%), 하이브(+2.38%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/sm-entertainment-co"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.02%(SOXX, 8/7)",
+        "note": "고용지표발 금리 인하 기대감에 랠리를 이어가며 12개 섹터 중 상승폭이 가장 컸다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+1.42%(XLK, 8/7)",
+        "note": "애틀라시안 실적 서프라이즈 등에 힘입어 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.06%(XLC, 8/7)",
+        "note": "보합권 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+0.75%(XLV, 8/7)",
+        "note": "완만한 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.36%(XLF, 8/7)",
+        "note": "국채금리 하락에도 완만한 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+1.49%(XLY, 8/7)",
+        "note": "에어비앤비 실적 서프라이즈 등에 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.01%(XLP, 8/7)",
+        "note": "보합권 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.23%(XLI, 8/7)",
+        "note": "완만한 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+1.32%(XLB, 8/7)",
+        "note": "달러 약세 속 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-1.13%(XLE, 8/7)",
+        "note": "유가 소폭 하락 속 12개 섹터 중 유일하게 1%대 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.53%(XLU, 8/7)",
+        "note": "국채금리 하락에 힘입어 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.38%(XLRE, 8/7)",
+        "note": "국채금리 하락에 힘입어 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,407.04",
+      "change_pct": "-1.13%(8/7, 24시간 기준 종가)",
+      "source_url": "https://kr.investing.com/currencies/usd-krw-historical-data"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.56",
+      "change_pct": "-0.38%",
+      "source_url": "https://www.investing.com/indices/usdollar"
+    },
+    {
+      "name": "금",
+      "value": "$4,401.30",
+      "change_pct": "+2.37%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$77.08",
+      "change_pct": "-0.27%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$64,845.56",
+      "change_pct": "+0.8%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,913.68",
+      "change_pct": "+0.5%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.647%",
+      "change_pct": "-1.1bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원달러 환율은 미국 고용지표 부진에 따른 달러 약세로 1,407원대까지 내려앉았다. 미 10년물 국채금리는 4.647%로 내렸고, 금값은 온스당 4,400달러를 넘어서며 2%대 급등했다. WTI는 77달러 선에서 소폭 보합권을 유지했다.",
+    "notes": "7월 비농업고용은 2만3,000명 감소해 시장 전망(+8만명 안팎)을 크게 밑돌았고 실업률은 4.1%로 소폭 낮아졌다. 정부 부문 고용이 5만3,000명 줄어든 영향이 컸던 반면 민간 고용은 3만명 늘었다. 다음 FOMC 정례회의는 9월15~16일이며, 연준 인사들의 잭슨홀 심포지엄은 8월28~29일 예정이다. SK하이닉스 자회사 솔리다임의 프리IPO 관련 재공시는 9월4일로 예정돼 있다."
+  },
+  "top_themes": [
+    {
+      "theme": "연준 통화정책",
+      "summary": "7월 비농업고용이 2만3,000명 감소해 시장 전망을 크게 밑돌면서, 시장은 연준의 금리 인하 명분이 강화됐다고 해석했다. CME 페드워치 기준 다음 회의에서의 금리인상 가능성은 44%로 낮아졌고(직전 세션 55%, 일주일 전 67%), 미 10년물 국채금리는 내리고 금값은 2%대 급등했다.",
+      "tickers": [],
+      "source_url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html"
+    },
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "간밤 미국 실적 발표주의 희비가 극명하게 갈렸다. 애틀라시안은 클라우드 매출 31% 성장과 서프라이즈 가이던스에 35.10% 폭등하며 상장 후 최대 일간 상승폭을 기록했고 에어비앤비도 실적 호조에 17.43% 올랐다. 반면 트레이드데스크는 3분기 가이던스가 컨센서스를 크게 밑돌며 22.01% 급락, 모펫네이슨이 목표주가를 23달러에서 6달러로 대폭 낮췄다.",
+      "tickers": [
+        "TEAM",
+        "ABNB",
+        "TTD"
+      ],
+      "source_url": "https://www.fool.com/investing/2026/08/07/why-atlassian-stock-soared-today/"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "금요일 국내 반도체 투톱은 엇갈렸다. 삼성전자는 0.22% 오른 반면 SK하이닉스는 HBM 납품가 우려로 4.88% 내렸다. 증권가는 HBM4와 장기공급계약(LTA) 구조가 펀더멘털 안정판이라는 시각을 유지하고 있어, 단기 변동성과 중장기 강세론이 엇갈리는 구간이다.",
+      "tickers": [
+        "000660",
+        "005930"
+      ],
+      "source_url": "https://www.etoday.co.kr/news/view/2612288"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "금요일 코스피에서 외국인이 8,625억원을 순매도하며 장중 2%대 급등분을 반납시킨 주역이 됐다. 다만 간밤 미국 고용지표 부진에 따른 달러 약세로 원달러 환율은 주말 사이 1,407원대까지 추가로 내려앉으며 월요일 개장을 앞두고 있다.",
+      "tickers": [],
+      "source_url": "https://kr.investing.com/currencies/usd-krw-historical-data"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "고용지표발 금리 인하 기대감에 반도체 섹터 랠리를 타고 2.27% 오른 223.96달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "0.29% 오른 313.33달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "0.03% 오른 499.99달러로 거의 보합 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "2.81% 오른 328.52달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "2분기 매출이 전년 대비 93% 급증하고 연간 가이던스를 상향한 데 이어 뱅크오브아메리카의 목표주가 상향(255달러) 소식에 10.32% 오른 172.01달러로 마감했다.",
+      "source_url": "https://www.fool.com/investing/2026/08/07/why-palantir-technologies-stock-skyrocketed-again/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "SK하이닉스와 달리 견조한 흐름을 유지하며 0.22% 오른 23만1,000원 마감",
+      "source_url": "https://www.hankyung.com/article/202608071015i"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "HBM 납품 가격 우려로 4.88% 내린 142만2,000원 마감",
+      "source_url": "https://www.etoday.co.kr/news/view/2612253"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "반도체 약세 속 자금 이동으로 4.35% 오른 36만원 마감",
+      "source_url": "https://www.investing.com/equities/lg-energy-solution"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "1.13% 내린 39만5,500원 마감",
+      "source_url": "https://www.investing.com/equities/hyundai-motor"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "금요일 고대역폭메모리(HBM) 납품 가격 협상 우려로 4.88% 밀리며 142만2,000원에 마감했다. 이투데이 보도에 따르면 증권가는 HBM4 양산 확대와 장기공급계약(LTA) 구조가 펀더멘털의 안정판이라는 시각을 유지하고 있어, 단기 가격 협상 변수와 중장기 강세론이 엇갈리는 구간이다. 한국투자증권은 3분기 D램 가격 상승과 HBM4 양산 효과가 동시에 반영되며 실적 개선폭이 확대될 것으로 내다봤다.",
+      "catalysts": [
+        "월요일(8/10) 개장에서 간밤 미국 반도체 섹터(SOXX +2.02%) 강세의 반영 여부",
+        "9월4일 예정된 자회사 솔리다임 프리IPO 관련 재공시",
+        "3분기 HBM4 양산 확대에 따른 실적 개선 가시화 여부"
+      ],
+      "levels_watched": {
+        "support": "미확인",
+        "resistance": "52주 최고가 298만7,000원(2026-06-25)",
+        "analyst_target_cited": "한국투자증권, 2026-07-30, 목표주가 470만원(상향)"
+      },
+      "risk": "HBM 납품 가격 협상을 둘러싼 불확실성이 지속되거나 미국 메모리, 저장장치주 약세가 재연될 경우 추가 조정 가능성이 있다.",
+      "sources": [
+        "https://www.etoday.co.kr/news/view/2612253",
+        "https://www.etoday.co.kr/news/view/2612288",
+        "https://www.ajunews.com/view/20260730085044364"
+      ]
+    },
+    {
+      "ticker": "TEAM",
+      "name": "Atlassian",
+      "market": "US",
+      "thesis": "4분기 매출이 전년 대비 28% 늘어난 17억6,600만달러, 클라우드 매출이 31% 성장하며 컨센서스를 크게 웃돌았다. 2027회계연도 1분기 매출 가이던스(17억500만~17억1,500만달러)도 시장 전망(약 16억7,000만달러)을 상회했고, AI 기반 지라 코딩 에이전트 등 신기능 출시 소식도 투자심리를 자극하며 상장 후 최대 일간 상승폭인 35.10% 폭등했다.",
+      "catalysts": [
+        "AI 기반 지라 코딩 에이전트 등 신기능의 유료 고객 확산 속도",
+        "데이터센터 매출 감소(FY27 가이던스 -17%)를 상쇄하는 클라우드 전환 속도",
+        "2027회계연도 1분기 실적 발표(가이던스 달성 여부)"
+      ],
+      "levels_watched": {
+        "support": "미확인",
+        "resistance": "미확인",
+        "analyst_target_cited": "모건스탠리, 2026-08-07, 목표주가 180달러(상향)"
+      },
+      "risk": "단 하루 만에 35% 급등한 만큼 밸류에이션 부담에 따른 차익실현 매물이 나올 수 있고, 데이터센터 매출 감소 속도가 예상보다 빠르면 우려가 재부각될 수 있다.",
+      "sources": [
+        "https://www.fool.com/investing/2026/08/07/why-atlassian-stock-soared-today/",
+        "https://finance.yahoo.com/markets/stocks/articles/atlassian-stock-jumps-36-cloud-184451504.html"
+      ]
+    },
+    {
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "market": "US",
+      "thesis": "2분기 매출이 7억1,500만달러로 전년 대비 3% 성장에 그쳐 시장 기대를 밑돌았고, 3분기 매출 가이던스(6억5,000만달러 이상, 전년 대비 12% 감소 시사)가 컨센서스(8억500만달러)를 크게 밑돌면서 22.01% 급락해 2019년 이후 최저 수준까지 밀렸다. 회사 측은 소비 둔화, 관세, 유가 상승을 성장 둔화의 배경으로 지목했다.",
+      "catalysts": [
+        "3분기 실적 발표에서 매출 감소 폭의 실제 확인",
+        "경쟁사 앱러빈, 매그나이트 등 애드테크 업계 전반의 상대적 흐름",
+        "새 경영진의 턴어라운드 전략 발표 여부"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 13.78달러(2026-08-07)",
+        "resistance": "미확인",
+        "analyst_target_cited": "모펫네이슨, 2026-08-07, 목표주가 6달러(하향, 중립)"
+      },
+      "risk": "가이던스대로 매출이 감소세로 전환할 경우 추가 하방 압력이 지속될 수 있고, 트루이스트와 웰스파고는 실적 반등에 수개월이 걸릴 수 있다고 경고했다.",
+      "sources": [
+        "https://finance.yahoo.com/media-advertising/articles/trade-desk-plunges-28-earnings-133152192.html",
+        "https://www.benzinga.com/trading-ideas/movers/26/08/61033823/trade-desk-blames-weak-consumer-spending-tariffs-and-oil-prices-for-slowing-growth"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
