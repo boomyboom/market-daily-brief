@@ -1,0 +1,446 @@
+{
+  "date": "2026-08-10",
+  "generated_at_kst": "2026-08-10T08:30:00+09:00",
+  "mode": "new",
+  "headline": "미국 7월 고용쇼크에 뉴욕 3대 지수가 사상 최고치를 새로 쓴 가운데, 국내 증시는 11일 반도체특별법 시행과 12일 미국 물가지표를 주시하며 이번주를 시작한다",
+  "mail_title": "삼전은 웃고 하이닉스는 울었다",
+  "kr": {
+    "preview": "지난 금요일 코스피는 SK하이닉스가 HBM 가격 협상 우려로 4.88% 밀리고 외국인이 8,625억원을 순매도하며 장중 6,415.60까지 올랐던 상승분을 반납해 0.60% 내린 6,258.77로 마감했습니다. 지난주 전체로는 코스피가 5.10% 밀린 반면 코스닥은 이차전지, 내수주 강세에 10.98% 오르며 극명하게 엇갈렸습니다.\n\n주말 사이 새로 나온 소식은 반도체 대장주 간 온도차입니다. 실적 발표 이후 이달 7일까지 삼성전자는 주주환원 기대감에 10.79% 오른 반면, 구체적 환원안을 내놓지 않은 SK하이닉스는 8.26% 내렸습니다. 이번주에는 11일 반도체특별법이 시행돼 정부의 반도체 클러스터 인프라 지원이 본격화되고, 12일에는 현지시간 기준 MSCI 8월 정기 리뷰 결과가 발표됩니다. 가장 큰 변수는 12일 밤 발표되는 미국 7월 소비자물가지수로, NH투자증권은 이번주 코스피 예상 밴드를 6,000~7,000포인트로 제시했습니다. 지난 금요일 미국에서는 7월 비농업 고용이 예상 밖 감소를 보이며 9월 금리 인하 기대가 커졌고, 이 여파로 뉴욕 3대 지수가 나란히 사상 최고치 부근에서 마감해 국내 증시에도 우호적인 환경을 만들 것으로 보입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,258.77",
+        "change_pct": "-0.60%(-37.61p, 8/7 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026080709686",
+          "https://www.etoday.co.kr/news/view/2612253"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "798.81",
+        "change_pct": "-0.36%(-2.86p, 8/7 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.etnews.com/20260807000062",
+          "https://www.etoday.co.kr/news/view/2612253"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+10.79%(7/30~8/7 누적)",
+        "reason": "2분기 영업이익 89조5,000억원으로 분기 사상 최대 실적을 낸 뒤 추가 주주환원 기대감이 부각되며 실적 발표일부터 7거래일간 꾸준히 올랐다.",
+        "source_url": "https://www.fnnews.com/news/202608091402351090",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608091402351090"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-8.26%(7/29~8/7 누적)",
+        "reason": "2분기 매출 79조3,187억원, 영업이익 60조5,426억원으로 사상 최대 실적을 냈지만 구체적인 주주환원 계획을 내놓지 않아 실적 발표 이후 8거래일간 하락세를 이어갔다.",
+        "source_url": "https://www.fnnews.com/news/202608091402351090",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608091402351090"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "지난 금요일(현지시간) 뉴욕증시는 7월 비농업 고용이 시장 예상을 크게 밑돈 것으로 나타나며 9월 연준 금리 인하 기대가 강화돼 3대 지수가 일제히 상승 마감했습니다. S&P500은 47.68포인트(0.62%) 오른 7,757.64로 사상 최고치를 새로 썼고, 나스닥종합은 342.26포인트(1.30%) 오른 26,690.62, 다우는 151.83포인트(0.28%) 오른 54,036.93으로 마감했습니다. 주간 기준으로도 S&P500이 3.58%, 나스닥이 5.19% 오르며 수개월 만에 최대 주간 상승폭을 기록했습니다. 팔란티어는 2분기 어닝서프라이즈 이후 랠리를 이어가며 지난주에만 약 40% 급등했고, 뱅크오브아메리카는 목표주가를 215달러에서 255달러로 상향했습니다. CME 페드워치 기준 9월 금리 인하 가능성은 90%를 넘어섰습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,757.64",
+        "change_pct": "+0.62%(+47.68p, 8/7 종가)",
+        "source_urls": [
+          "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-7-2026"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,690.62",
+        "change_pct": "+1.30%(+342.26p, 8/7 종가)",
+        "source_urls": [
+          "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-7-2026"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "54,036.93",
+        "change_pct": "+0.28%(+151.83p, 8/7 종가)",
+        "source_urls": [
+          "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-7-2026"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "PLTR",
+        "name": "팔란티어",
+        "change_pct": "+10.3%(일간)/+39.8%(주간, 8/7 종가 $172.01)",
+        "reason": "2분기 매출이 전년 대비 92.8% 급증하는 어닝서프라이즈를 낸 뒤 숏커버링과 함께 랠리가 이어졌다. 뱅크오브아메리카는 매수 의견을 유지하며 목표주가를 215달러에서 255달러로 올렸다.",
+        "source_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/07/spacex-and-palantir-lead-tech-stock-rally-after-underwhelming-jobs-report/",
+        "source_urls": [
+          "https://www.forbes.com/sites/antoniopequenoiv/2026/08/07/spacex-and-palantir-lead-tech-stock-rally-after-underwhelming-jobs-report/",
+          "https://www.investing.com/news/analyst-ratings/palantir-stock-price-target-raised-to-255-from-215-at-bofa-securities-93CH-4329632"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.33%(대표종목 기준, 8/7)",
+        "note": "삼성전자(+0.22%), SK하이닉스(-4.88%) 평균. SK하이닉스가 HBM 가격 우려로 급락하며 지수를 끌어내렸다",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-1.29%(8/7)",
+        "note": "KRX 전기전자 업종지수. 반도체 대형주 약세에 동반 하락했다",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.72%(8/7)",
+        "note": "KRX 통신 업종지수",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+2.27%(8/7)",
+        "note": "KRX 제약 업종지수",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+2.47%(대표종목 기준, 8/7)",
+        "note": "KB금융(+2.51%), 신한지주(+2.42%) 평균. 반도체 약세 속 자금이 금융주로 이동했다",
+        "source_url": "https://www.investing.com/equities/kb-financial-group"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-7.32%(대표종목 기준, 8/7)",
+        "note": "이마트(-1.7%), 롯데쇼핑(-12.93%) 평균. 두 회사 모두 2분기 실적이 시장 기대치를 밑돌았다",
+        "source_url": "https://www.hankyung.com/article/2026080700166"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.08%(대표종목 기준, 8/7)",
+        "note": "현대차(-1.13%), 기아(+0.97%) 평균",
+        "source_url": "https://www.investing.com/equities/hyundai-motor"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+3.61%(대표종목 기준, 8/7)",
+        "note": "LG에너지솔루션(+4.35%), 에코프로(+2.87%) 평균",
+        "source_url": "https://www.investing.com/equities/lg-energy-solution"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+1.33%(대표종목 기준, 8/7)",
+        "note": "한화오션(-1.43%), 한화에어로스페이스(+4.08%) 평균. 방산주는 강세, 조선주는 보합권에 머물렀다",
+        "source_url": "https://www.investing.com/equities/hanwha-aerospace"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-2.07%(8/7)",
+        "note": "KRX 건설 업종지수",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+4.37%(8/7)",
+        "note": "KRX 화학 업종지수",
+        "source_url": "https://www.etoday.co.kr/news/view/2612253"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+2.15%(대표종목 기준, 8/7)",
+        "note": "포스코홀딩스(+3.76%), 현대제철(+0.53%) 평균",
+        "source_url": "https://www.investing.com/equities/posco-inc"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-1.45%(대표종목 기준, 8/7)",
+        "note": "네이버(-7.08%), 카카오(+4.18%) 평균. 2분기 실적 발표 이후 두 회사 주가가 엇갈렸다",
+        "source_url": "https://www.mt.co.kr/tech/2026/08/07/2026080708153478368"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+2.48%(대표종목 기준, 8/7)",
+        "note": "에스엠(+2.58%), 하이브(+2.38%) 평균",
+        "source_url": "https://www.investing.com/equities/sm-entertainment-co"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.02%(SOXX, 8/7)",
+        "note": "고용지표발 금리 인하 기대감에 랠리를 이어가며 12개 섹터 중 상승폭이 가장 컸다",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+1.42%(XLK, 8/7)",
+        "note": "소프트웨어, 메가캡 기술주 강세에 힘입어 상승했다",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.06%(XLC, 8/7)",
+        "note": "보합권 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+0.75%(XLV, 8/7)",
+        "note": "완만한 강세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.36%(XLF, 8/7)",
+        "note": "국채금리 하락에도 완만한 약세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+1.49%(XLY, 8/7)",
+        "note": "에어비앤비 실적 서프라이즈 등에 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.01%(XLP, 8/7)",
+        "note": "보합권 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.23%(XLI, 8/7)",
+        "note": "완만한 강세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+1.32%(XLB, 8/7)",
+        "note": "달러 약세 속 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-1.13%(XLE, 8/7)",
+        "note": "유가 소폭 하락 속 12개 섹터 중 유일하게 1%대 약세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.53%(XLU, 8/7)",
+        "note": "국채금리 하락에 힘입어 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.38%(XLRE, 8/7)",
+        "note": "국채금리 하락에 힘입어 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,409.5",
+      "change_pct": "+0.18%(8/7 종가 대비, 최신 시세)",
+      "source_url": "https://kr.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.45",
+      "change_pct": "-0.11%(8/7 종가 대비)",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,402.67",
+      "change_pct": "+0.03%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$78.86",
+      "change_pct": "+2.31%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$65,011",
+      "change_pct": "+0.3%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,917.9",
+      "change_pct": "+0.2%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.664%",
+      "change_pct": "+1.7bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미국 7월 비농업 고용이 예상 밖으로 부진하게 나오면서 9월 연준 금리 인하 기대가 90%를 넘어섰고, 미 10년물 국채금리는 4.66%대에서 안정적인 흐름을 보이고 있다. 원/달러 환율은 1,409원대, 달러인덱스는 99.4대로 지난주 후반 수준에서 큰 변화가 없다. WTI는 중동發 지정학 리스크 재부각에 주말 사이 2%대 오르며 배럴당 79달러에 근접했다.",
+    "notes": "국내는 11일 반도체특별법 시행, 12일 미국 7월 CPI 발표(NH투자증권 코스피 예상 밴드 6,000~7,000)와 MSCI 8월 정기 리뷰 결과가 이번주 최대 변수로 꼽힌다. 삼성전자와 SK하이닉스는 나란히 2분기 사상 최대 실적을 냈지만 주주환원 정책 유무에 따라 주가 흐름이 엇갈리고 있다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "삼성전자와 SK하이닉스 모두 2분기 사상 최대 실적을 냈지만, 삼성전자는 주주환원 기대감에 실적 발표 후 7거래일간 10.79% 오른 반면 SK하이닉스는 구체적 환원안 부재로 8거래일간 8.26% 내렸다. 11일 반도체특별법 시행으로 정부의 클러스터 인프라 지원이 본격화된다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.fnnews.com/news/202608091402351090"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "7월 비농업 고용이 시장 예상을 크게 밑돌며 9월 금리 인하 가능성이 CME 페드워치 기준 90%를 넘어섰다. 뉴욕 3대 지수는 이 여파로 나란히 강세 마감했고, 12일 발표될 미국 7월 CPI가 이번주 방향성의 핵심 변수로 꼽힌다.",
+      "tickers": [],
+      "source_url": "https://finance.yahoo.com/economy/policy/articles/us-rate-futures-cut-chances-124656547.html"
+    },
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "삼성전자와 SK하이닉스의 주가 디커플링 핵심은 주주환원 정책 차이다. 삼성전자는 추가 환원 기대감이 부각된 반면 SK하이닉스는 구체적 계획을 내놓지 못해 투자심리가 갈렸다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217228"
+    },
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "팔란티어는 2분기 매출이 전년 대비 92.8% 급증하는 어닝서프라이즈를 낸 뒤 지난주에만 약 40% 급등했고, 뱅크오브아메리카는 목표주가를 255달러로 상향했다.",
+      "tickers": [
+        "PLTR"
+      ],
+      "source_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/07/spacex-and-palantir-lead-tech-stock-rally-after-underwhelming-jobs-report/"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "8/7 2.27% 오른 223.96달러로 마감하며 최근 1년래 최대 주간 시가총액 증가폭을 기록했다. 카운터포인트 조사에 따르면 55개국 170개 소버린 LLM 배치의 92%가 엔비디아 프로세서를 사용 중인 것으로 나타났다.",
+      "source_url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61031005/whats-going-on-with-nvidia-stock-friday-7"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "8/7 종가 313.33달러. 6월분기 매출이 전년 대비 16% 늘어난 1,094억달러, 아이폰 매출도 22% 성장했지만 메모리 가격 상승과 공급 제약을 반영한 9월분기 가이던스가 시장 기대를 밑돌아 투자심리가 갈렸다. 0.27달러 현금배당의 배당락일은 8월 10일이다.",
+      "source_url": "https://www.fool.com/investing/2026/08/03/should-you-buy-the-dip-in-apple-stock/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "7월 29일 발표한 FY26 4분기 실적에서 AI 클라우드 성장에 힘입어 매출과 이익이 시장 예상을 상회했고, 이후 완만한 강세 흐름을 이어가고 있다.",
+      "source_url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "8/7 3.31% 오르며 기술주 전반의 고용지표발 랠리에 동참했다.",
+      "source_url": "https://www.tradingkey.com/news/market-movers/262089226-market-movers-tsla-20260807"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "us.notable 참조. 2분기 어닝서프라이즈 이후 랠리가 지속되며 지난주에만 약 40% 급등, 뱅크오브아메리카가 목표주가를 255달러로 상향했다.",
+      "source_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/07/spacex-and-palantir-lead-tech-stock-rally-after-underwhelming-jobs-report/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "kr.hot_stocks 참조. 실적 발표 후 주주환원 기대감에 7거래일간 10.79% 상승했다. 11일 시행되는 반도체특별법 수혜 기대도 있다.",
+      "source_url": "https://www.fnnews.com/news/202608091402351090"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "kr.hot_stocks 참조. 사상 최대 실적에도 주주환원 계획 부재로 8거래일간 8.26% 하락했다.",
+      "source_url": "https://www.fnnews.com/news/202608091402351090"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "8월 첫째 주 5거래일 연속 상승하며 31만6,000원에서 36만원까지 올랐다.",
+      "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=538706"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "현대차와 기아 합산 8월 미국 판매량이 17만9,455대로 전년 동월 대비 10.9% 늘며 그룹 기준 역대 월간 최다 기록을 세웠다. 다만 국내 생산분의 미국 수출에는 여전히 15% 관세가 부과돼 수익성 부담이 이어진다.",
+      "source_url": "https://www.sankyungtoday.com/news/articleView.html?idxno=55768"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "PLTR",
+      "name": "팔란티어",
+      "market": "US",
+      "thesis": "2분기 매출이 전년 대비 92.8% 급증하고 미국 상업 부문 계약 규모가 153% 확대되는 어닝서프라이즈를 낸 뒤 숏커버링과 매수세가 겹치며 8/7 종가 기준 지난주에만 약 40% 급등했다.",
+      "catalysts": [
+        "3분기 실적 발표(일정 미정)",
+        "정부와 소버린 AI 계약 확대 여부"
+      ],
+      "levels_watched": {
+        "support": "8/4 실적 발표 직후 급등 시작 구간",
+        "resistance": "8/7 종가 172.01달러 대비 뱅크오브아메리카 신규 목표주가 255달러",
+        "analyst_target_cited": "뱅크오브아메리카, 2026-08-07, 목표주가 255달러(기존 215달러에서 상향)"
+      },
+      "risk": "매출 대비 밸류에이션 고평가 논쟁이 지속되고 있고, 최근 급등이 숏커버링 성격이 강해 되돌림 가능성이 있다.",
+      "sources": [
+        "https://www.forbes.com/sites/antoniopequenoiv/2026/08/07/spacex-and-palantir-lead-tech-stock-rally-after-underwhelming-jobs-report/",
+        "https://www.investing.com/news/analyst-ratings/palantir-stock-price-target-raised-to-255-from-215-at-bofa-securities-93CH-4329632"
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "2분기 영업이익 89조5,000억원으로 분기 사상 최대 실적을 낸 뒤 추가 주주환원 기대감이 부각되며 실적 발표일부터 8/7까지 7거래일간 10.79% 상승했다. 같은 기간 구체적 환원안을 내놓지 못한 SK하이닉스와 대조를 이뤘다.",
+      "catalysts": [
+        "8/11 반도체특별법 시행(반도체 클러스터 인프라 지원 본격화)",
+        "8/12(현지시간) MSCI 8월 정기 리뷰 결과 발표"
+      ],
+      "levels_watched": {
+        "support": "8/7 종가 23만1,000원",
+        "resistance": "증권사 목표주가 상단 65만원(한국투자증권)",
+        "analyst_target_cited": "한국투자증권, 2026-08-03, 목표주가 65만원(다년 공급계약 확대 및 2027년 HBM 가격 상승 가능성 반영)"
+      },
+      "risk": "메모리 가격 사이클이 정점을 지났다는 시각과 하이퍼스케일러의 AI 투자 지속성에 대한 우려, 중국 CXMT의 증설 가능성이 부담 요인으로 남아있다.",
+      "sources": [
+        "https://www.fnnews.com/news/202608091402351090",
+        "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217228"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스, 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
