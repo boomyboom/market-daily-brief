@@ -1,0 +1,430 @@
+{
+  "date": "2026-08-11",
+  "generated_at_kst": "2026-08-11T08:15:00+09:00",
+  "mode": "new",
+  "headline": "이란이 호르무즈 해협 재개방 조건을 다시 강경하게 내걸며 국제유가가 5% 넘게 튀자 뉴욕증시가 숨 고르기에 들어간 가운데, 국내 증시는 오늘 시행되는 반도체특별법과 12일 예정된 미국 소비자물가지수 발표를 주시하며 하루를 시작한다",
+  "mail_title": "유가 5% 튀자 뉴욕증시 숨고르기",
+  "kr": {
+    "preview": "어제 코스피는 외국인이 1조4,887억원을 순매도했음에도 개인과 기관 매수에 힘입어 0.65% 오른 6,299.66으로 마감했습니다. 애플의 중국 CXMT 메모리 칩 채용 검토 보도에 삼성전자(-0.43%)와 SK하이닉스(-0.14%)가 나란히 약보합에 그친 사이, 코스닥은 반도체 소부장과 제약바이오로 수급이 옮겨가며 매수 사이드카까지 발동돼 6.97% 급등한 854.47을 기록했습니다.\n\n밤사이 뉴욕증시는 새로운 변수를 던졌습니다. 이란이 호르무즈 해협 재개방에 까다로운 조건을 내걸며 협상이 다시 교착되자 국제유가가 5% 넘게 튀었고(WTI 배럴당 82.13달러), 이 여파로 물가 우려가 되살아나며 다우(-0.11%), S&P500(-0.06%), 나스닥(-0.32%)이 나란히 소폭 하락했습니다. 유가 급등은 국내 정유주(에쓰오일, SK이노베이션, GS 등)에는 재고평가이익과 정제마진 개선 기대로 호재가 될 전망입니다. 오늘부터는 반도체 클러스터 인프라 비용을 최대 100% 지원하는 반도체특별법이 시행돼 정부의 반도체 생태계 육성 정책이 본격화됩니다. 이번 주 최대 변수는 12일 발표되는 미국 7월 소비자물가지수(CPI)와 생산자물가지수(PPI)로 꼽힙니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,299.66",
+        "change_pct": "+0.65%(+40.89p, 8/10 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260810001178",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=274498"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "854.47",
+        "change_pct": "+6.97%(+55.66p, 8/10 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260810001180",
+          "https://www.seoul.co.kr/news/economy/securities/2026/08/10/20260810500172"
+        ]
+      }
+    ],
+    "hot_stocks": []
+  },
+  "us": {
+    "recap": "10일(현지시간) 뉴욕증시는 이란이 호르무즈 해협 재개방 조건을 다시 까다롭게 내걸며 국제유가가 5% 넘게 급등해 인플레이션 우려가 되살아나면서 3대 지수가 나란히 소폭 하락했습니다. 다우존스는 60.95포인트(0.11%) 내린 53,975.98로, S&P500은 4.53포인트(0.06%) 내린 7,753.11로, 나스닥종합은 85.26포인트(0.32%) 밀린 26,605.36으로 마감했습니다. 애플은 고가 아이폰 판매 부진 우려에 1.62% 내렸고, 인텔은 1971년 상장 이후 처음으로 150억달러 규모 보통주 발행 계획을 발표하며 주식 가치 희석 우려에 4.06% 하락했습니다. 반면 마이크로소프트는 엔비디아 의존도를 낮추기 위한 자체 AI 칩 개발 확대 소식에 1.21% 올랐습니다. 에너지 섹터는 유가 급등 수혜에 4.66% 뛰며 12개 섹터 중 가장 강한 상승세를 보였습니다. 투자자들은 12일 발표될 7월 CPI와 PPI에 주목하고 있습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,753.11",
+        "change_pct": "-0.06%(-4.53p, 8/10 종가)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260811000029"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,605.36",
+        "change_pct": "-0.32%(-85.26p, 8/10 종가)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260811000029"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,975.98",
+        "change_pct": "-0.11%(-60.95p, 8/10 종가)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260811000029"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "INTC",
+        "name": "인텔",
+        "change_pct": "-4.06%(97.52달러)",
+        "reason": "AI 컴퓨팅 수요에 대응할 설비투자, 첨단 패키징 자금을 마련하기 위해 상장 후 처음으로 150억달러 규모 보통주 발행을 발표했다. 대규모 신주 발행에 따른 주식 가치 희석 우려로 하락했다.",
+        "source_url": "https://v.daum.net/v/20260811032240654",
+        "source_urls": [
+          "https://v.daum.net/v/20260811032240654",
+          "https://www.newspim.com/news/view/20260810001349"
+        ]
+      },
+      {
+        "ticker": "AAPL",
+        "name": "애플",
+        "change_pct": "-1.62%(308.26달러)",
+        "reason": "고가 아이폰 판매 부진 우려가 부각되며 하락했다.",
+        "source_url": "https://stockanalysis.com/stocks/aapl/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/aapl/history/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-0.29%(대표종목 기준, 8/10)",
+        "note": "삼성전자(-0.43%), SK하이닉스(-0.14%) 평균. 애플의 중국 CXMT 메모리 칩 채용 검토 보도에 경계감이 부각됐다 (대표종목 기준)",
+        "source_url": "https://www.hankyung.com/article/2026081032646"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-0.07%(대표종목 기준, 8/10)",
+        "note": "삼성전기(-0.31%), LG이노텍(+0.18%) 평균 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260810001159"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-2.66%(대표종목 기준, 8/10)",
+        "note": "SK텔레콤(-3.63%), KT(-1.69%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/sk-telecom-co-ltd"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.85%(대표종목 기준, 8/10)",
+        "note": "삼성바이오로직스(+0.84%), 셀트리온(+0.85%) 평균. 코스닥 제약바이오(알테오젠, HLB 등)의 강한 상승과 달리 코스피 대형 바이오주는 완만한 강세에 그쳤다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260810001159"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-3.08%(대표종목 기준, 8/10)",
+        "note": "KB금융(-2.33%), 신한지주(-3.82%) 평균. 반도체, 소부장, 바이오 등으로 수급이 쏠리며 금융주는 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260810001159"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+3.49%(대표종목 기준, 8/10)",
+        "note": "이마트(+0.25%), 롯데쇼핑(+6.72%) 평균. 롯데쇼핑이 실적 부진 급락에 대한 과매도 인식으로 반등했다 (대표종목 기준)",
+        "source_url": "https://www.etoday.co.kr/news/view/2612578"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+1.80%(대표종목 기준, 8/10)",
+        "note": "현대차(+3.16%), 기아(+0.44%) 평균. 미국 고용지표발 위험자산 선호 회복에 현대차가 강세를 보였다 (대표종목 기준)",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=596796"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+5.40%(대표종목 기준, 8/10)",
+        "note": "LG에너지솔루션(+2.08%), 에코프로(+8.72%) 평균. 코스닥 순환매 장세에 2차전지주가 동반 강세를 보였다 (대표종목 기준)",
+        "source_url": "https://biz.heraldcorp.com/article/10836334"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+5.30%(대표종목 기준, 8/10)",
+        "note": "한화오션(+5.59%), 한화에어로스페이스(+5.01%) 평균. 조선, 방산 수주 기대감에 동반 강세를 보였다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260810001159"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+4.96%(대표종목 기준, 8/10)",
+        "note": "GS건설(+10.27%), 현대건설(-0.36%) 평균. AI 데이터센터 증설 수혜 기대에 GS건설이 급등하며 종목별 온도차가 컸다 (대표종목 기준)",
+        "source_url": "https://www.businesspost.co.kr/BP?command=article_view&num=444360"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-4.05%(대표종목 기준, 8/10)",
+        "note": "LG화학(-3.99%), 롯데케미칼(-4.10%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/lotte-chemical-corp"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+1.82%(대표종목 기준, 8/10)",
+        "note": "포스코홀딩스(+1.51%), 현대제철(+2.12%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/posco-inc"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.09%(대표종목 기준, 8/10)",
+        "note": "카카오(-0.88%), 네이버(+0.71%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/kakao-corp"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.17%(대표종목 기준, 8/10)",
+        "note": "에스엠(+0.93%), 하이브(-0.59%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/sm-entertainment-co"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.55%(SOXX, 8/10)",
+        "note": "마이크로소프트의 자체 AI 칩 개발 확대 소식과 AI 밸류에이션 우려가 겹치며 12개 섹터 중 낙폭이 가장 컸다",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-0.88%(XLK, 8/10)",
+        "note": "엔비디아 약세 등 반도체 부진에 동반 하락했다",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.52%(XLC, 8/10)",
+        "note": "완만한 강세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+1.67%(XLV, 8/10)",
+        "note": "12개 섹터 중 두 번째로 강한 상승세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.36%(XLF, 8/10)",
+        "note": "완만한 강세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-0.16%(XLY, 8/10)",
+        "note": "애플 약세 속 보합권에 머물렀다",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.20%(XLP, 8/10)",
+        "note": "보합권 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.31%(XLI, 8/10)",
+        "note": "완만한 약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+0.61%(XLB, 8/10)",
+        "note": "완만한 강세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+4.66%(XLE, 8/10)",
+        "note": "호르무즈 해협 재개방 협상 교착으로 유가가 5% 넘게 급등하며 12개 섹터 중 상승폭이 가장 컸다",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-1.10%(XLU, 8/10)",
+        "note": "국채금리 상승 부담에 약세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-1.29%(XLRE, 8/10)",
+        "note": "국채금리 상승 부담에 약세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,418.0",
+      "change_pct": "+0.04%",
+      "source_url": "https://kr.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.70",
+      "change_pct": "+0.27%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,459.72/oz",
+      "change_pct": "+0.25%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$82.13/배럴",
+      "change_pct": "+5.05%",
+      "source_url": "https://www.etoday.co.kr/news/view/2612967"
+    },
+    {
+      "name": "비트코인",
+      "value": "$63,956.18",
+      "change_pct": "+1.7%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,874.43",
+      "change_pct": "-2.3%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.707%",
+      "change_pct": "+5bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "이란이 호르무즈 해협 재개방 조건을 다시 까다롭게 내걸며 협상이 교착되자 WTI가 배럴당 82.13달러로 5.05% 급등했다. 미국 전략비축유가 1983년 1월 이후 최저치인 3억배럴 아래로 떨어진 상태여서 유가 변동성에 대한 민감도가 높아진 상황이다. 유가발 인플레이션 우려에 미 10년물 국채금리는 4.707%로 올랐고, 달러인덱스도 99.70으로 강세를 보였다. 원/달러 환율은 1,418원대에서 안정적인 흐름을 이어가고 있다.",
+    "notes": "12일 발표될 미국 7월 CPI와 PPI가 이번 주 최대 변수로 꼽힌다. 국내에서는 11일 반도체특별법이 시행돼 반도체 클러스터 산업기반시설 조성, 운영 비용을 국가와 지방정부가 최대 100%까지 지원하는 정책이 본격화된다."
+  },
+  "top_themes": [
+    {
+      "theme": "국제유가",
+      "summary": "이란이 호르무즈 해협 재개방에 까다로운 조건을 내걸며 협상이 다시 교착되자 WTI가 배럴당 82.13달러(+5.05%), 브렌트유가 87.72달러(+4.99%)로 급등했다. 이란 외무장관은 미국이 양해각서 위반을 중단하지 않는 한 대화 재개 가능성이 없다고 밝혔고, 트럼프 대통령도 부분 협상 중이라고만 언급해 조속한 타결 기대는 후퇴했다. 국내 정유주에는 재고평가이익과 정제마진 개선 기대로 호재가 될 전망이다.",
+      "tickers": [
+        "010950",
+        "096770"
+      ],
+      "source_url": "https://www.etoday.co.kr/news/view/2612967"
+    },
+    {
+      "theme": "AI 자본지출 논쟁",
+      "summary": "인텔이 AI 컴퓨팅 수요에 대응할 설비투자, 첨단 패키징 자금을 마련하기 위해 상장 후 처음으로 150억달러 규모 보통주 발행을 발표했지만 주식 가치 희석 우려에 주가는 4.06% 하락했다. 마이크로소프트는 엔비디아 의존도를 낮추기 위한 자체 AI 칩 개발 확대 소식에 1.21% 올랐고, 엔비디아는 이 소식과 대규모 AI 인프라 파이낸싱에 대한 우려가 겹치며 2.87% 내렸다.",
+      "tickers": [
+        "INTC",
+        "MSFT",
+        "NVDA"
+      ],
+      "source_url": "https://v.daum.net/v/20260811032240654"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "유가 급등이 인플레이션 우려를 되살리면서 12일 발표될 미국 7월 CPI와 PPI에 시장의 관심이 집중되고 있다. 키움증권은 시장 전망이 이미 'CPI 둔화'로 형성돼 있어 예상에 부합할 경우 증시 반응은 제한적일 수 있다고 분석했다.",
+      "tickers": [],
+      "source_url": "https://v.daum.net/v/20260810090539015"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "8/10 2.87% 내린 217.54달러로 마감했다. 마이크로소프트의 자체 AI 칩 개발 확대 소식과 대규모 AI 인프라 파이낸싱에 대한 밸류에이션 우려가 겹쳤다.",
+      "source_url": "https://www.marketbeat.com/instant-alerts/nvidia-nasdaqnvda-trading-down-29-heres-what-happened-2026-08-10/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "us.notable 참조. 고가 아이폰 판매 부진 우려에 8/10 1.62% 내린 308.26달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "엔비디아 의존도를 낮추기 위한 자체 AI 칩 개발 확대 소식에 8/10 1.21% 오른 506.06달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "8/10 0.70% 오른 330.88달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "8/10 1.87% 오른 175.23달러로 마감하며 강세 흐름을 이어갔다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "kr.preview 참조. 애플의 중국 CXMT 메모리 칩 채용 검토 보도로 8/10 0.43% 내린 채 마감했다. 오늘 시행되는 반도체특별법의 클러스터 인프라 지원 수혜가 기대된다.",
+      "source_url": "https://www.hankyung.com/article/2026081032646"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "삼성전자와 함께 애플발 CXMT 우려로 8/10 0.14% 내린 채 마감했다.",
+      "source_url": "https://www.hankyung.com/article/2026081032646"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "코스닥 2차전지주 순환매 강세 속 8/10 2.08% 오른 채 마감했다.",
+      "source_url": "https://www.newspim.com/news/view/20260810001159"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "미국 고용지표발 위험자산 선호 회복에 8/10 3.16% 오른 채 마감했다.",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=596796"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "010950",
+      "name": "에쓰오일",
+      "market": "KR",
+      "thesis": "이란이 호르무즈 해협 재개방에 까다로운 조건을 내걸며 협상이 교착되자 WTI가 배럴당 82.13달러로 5.05% 급등했다. 정제마진 강세와 재고평가이익 확대 기대가 겹치며 증권가의 목표주가 상향이 이어지고 있다.",
+      "catalysts": [
+        "12일 미국 CPI, PPI 발표(유가발 인플레이션 우려 확인 여부)",
+        "호르무즈 해협 재개방 협상 진전 여부"
+      ],
+      "levels_watched": {
+        "support": "8/4 종가 12만5,800원",
+        "resistance": "52주 최고가 17만7,100원",
+        "analyst_target_cited": "하나증권, 2026-08-04, 목표주가 22만원(기존 20만원에서 상향)"
+      },
+      "risk": "호르무즈 해협 협상이 예상보다 빨리 타결되면 유가 상승분이 되돌려지며 정유주 강세도 함께 꺾일 수 있다.",
+      "sources": [
+        "https://www.etoday.co.kr/news/view/2612967",
+        "https://www.hankyung.com/article/2026080441546",
+        "https://www.businesspost.co.kr/BP?command=article_view&num=443032"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "name": "인텔",
+      "market": "US",
+      "thesis": "AI 컴퓨팅 수요 급증에 대응할 설비투자와 첨단 패키징 확대 자금을 마련하기 위해 1971년 상장 이후 처음으로 150억달러 규모 보통주 발행을 발표했다. 대규모 신주 발행에 따른 주식 가치 희석 우려로 발표 당일 주가는 4.06% 하락했다.",
+      "catalysts": [
+        "신주 발행 물량, 가격 확정 일정",
+        "파운드리 사업 수익성 개선 여부"
+      ],
+      "levels_watched": {
+        "support": "8/10 종가 97.52달러",
+        "resistance": "TipRanks 12개월 목표주가 상단 200달러",
+        "analyst_target_cited": "S&P Global 애널리스트 컨센서스(48개 증권사, 2026-08-10 기준), 평균 목표주가 115.27달러, 투자의견 Hold"
+      },
+      "risk": "파운드리 사업의 지속적인 수익성이 입증되기 전까지는 밸류에이션에 대한 회의적 시각이 남아있어, 신주 발행이 단기 주가에 추가 부담이 될 수 있다.",
+      "sources": [
+        "https://v.daum.net/v/20260811032240654",
+        "https://www.newspim.com/news/view/20260810001349",
+        "https://stockanalysis.com/stocks/intc/forecast/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
