@@ -1,0 +1,295 @@
+{
+  "date": "2026-08-10",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-10T19:00:00+09:00",
+  "headline": "애플이 중국 CXMT 메모리 칩 채용을 검토한다는 보도에 삼성전자와 SK하이닉스가 나란히 약보합에 그쳤지만, 코스피는 외국인의 1조4,887억원 순매도에도 개인과 기관 매수에 힘입어 0.65% 오른 6,299.66으로 마감했다. 대형 반도체주 부진 속에 반도체 소부장과 제약바이오로 수급이 옮겨간 코스닥은 매수 사이드카가 발동되며 6.97% 급등한 854.47을 기록했다.",
+  "mail_title": "코스닥, 오늘 왜 7%나 뛰었나",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 40.89포인트(0.65%) 오른 6,299.66으로 마감했다. 미국 7월 비농업 고용이 예상치를 크게 밑돌면서 9월 연준 금리 인하 기대가 커진 여파로 투자심리가 회복돼 상승 출발했지만, 상승폭은 하루 종일 크지 않았다. 시가총액 대장주인 삼성전자와 SK하이닉스가 각각 0.43%, 0.14% 내리며 발목을 잡았기 때문이다. 월스트리트저널은 애플이 아이폰과 맥북에 중국 메모리 반도체 기업 창신메모리(CXMT)의 칩을 시험 중이며 초기 공급 협의도 진행했다고 보도했다. CXMT의 기술력이 아직 삼성전자, SK하이닉스, 마이크론에는 못 미치고 대규모 공급 여력도 부족하다는 평가가 나오지만, 국내 반도체 양강 체제에 대한 경계감이 부각되며 두 종목 모두 약세로 마감했다. 반면 현대차는 미국 고용 지표발 위험자산 선호 회복에 3.16% 올랐고, 한화에어로스페이스(5.01%)와 한화오션(5.59%)은 방산, 조선 수주 기대감에 동반 강세를 보였다. 코스피에서 외국인은 1조4,887억원을 순매도했지만 개인이 8,998억원, 기관이 5,674억원을 순매수하며 지수를 방어했다. 반도체 대형주가 숨 고르기에 들어가자 저가 매수세는 코스닥의 반도체 소재, 부품, 장비주와 제약바이오주로 몰렸다. 코스닥은 오전 9시50분 매수 사이드카가 발동된 뒤 상승폭을 키워 전 거래일보다 55.66포인트(6.97%) 오른 854.47로 마감했다. 이달 코스닥시장이 열린 6거래일 중 3거래일에서 매수 사이드카가 발동될 만큼 과열 양상이다. 코스닥 대장주 알테오젠은 블랙록펀드어드바이저스가 지분을 5.03%로 늘렸다는 공시가 알려지며 14.10% 급등했고, 주성엔지니어링(13.30%)과 원익IPS(11.44%)는 반도체 소부장 순환매를 타고 두 자릿수 상승했다. HLB(8.85%)를 비롯한 제약바이오주도 일제히 올랐다. 코스닥에서는 기관이 5,661억원, 외국인이 1,031억원을 순매수했지만 개인은 6,729억원을 순매도해 차익 실현에 나섰다. 건설업종에서는 정부의 AI 데이터센터 증설 정책 수혜 기대감에 데이터센터 준공 실적이 많은 GS건설이 10.27% 급등했다. 롯데쇼핑은 2분기 실적 부진으로 최근 급락했던 데서 '주가 조정이 과도했다'는 증권가 평가에 6.72% 반등했다. 원달러 환율은 나흘 만에 반등해 전장보다 2.3원(0.16%) 오른 1,418.4원에 마감했다. 12일 미국 7월 소비자물가지수 발표를 앞둔 경계감과, 그동안 강세를 보였던 엔화가 약세로 돌아선 영향이 겹쳤다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,299.66",
+        "change_pct": "+0.65%(+40.89p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260810001159",
+          "https://www.etoday.co.kr/news/view/2612867"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "854.47",
+        "change_pct": "+6.97%(+55.66p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260810001180",
+          "https://biz.heraldcorp.com/article/10836334"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-0.14%",
+        "reason": "삼성전자와 함께 반도체 대형주 약세를 이끌었다. 월스트리트저널이 애플이 아이폰, 맥북에 중국 CXMT의 메모리 칩을 시험하고 초기 공급 협의도 진행했다고 보도하면서 국내 메모리 양강 체제에 대한 경계감이 부각됐다.",
+        "source_url": "https://www.hankyung.com/article/2026081032646",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026081032646",
+          "https://biz.heraldcorp.com/article/10836334"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-0.43%",
+        "reason": "SK하이닉스와 마찬가지로 애플의 중국 CXMT 메모리 칩 채용 검토 보도에 약보합으로 마감했다. CXMT의 기술력과 공급 여력은 아직 삼성전자, SK하이닉스에 못 미친다는 평가지만 시장은 경계감을 먼저 반영했다.",
+        "source_url": "https://www.hankyung.com/article/2026081032646",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026081032646",
+          "https://biz.heraldcorp.com/article/10836334"
+        ]
+      },
+      {
+        "ticker": "196170",
+        "name": "알테오젠",
+        "change_pct": "+14.10%(35만1,500원)",
+        "reason": "코스닥 시가총액 1위 종목으로, 블랙록펀드어드바이저스가 지분을 5.03%로 확대했다는 공시가 알려지며 매수세가 몰렸다. 코스닥 전반의 제약바이오 강세도 겹쳤다.",
+        "source_url": "https://www.newspim.com/news/view/20260810000388",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260810000388",
+          "https://www.hankyung.com/article/2026080568326"
+        ]
+      },
+      {
+        "ticker": "006360",
+        "name": "GS건설",
+        "change_pct": "+10.27%(34,900원)",
+        "reason": "정부가 지난 6월 AI 데이터센터 18.4기가와트 증설을 정책 목표로 제시한 가운데, 국내 데이터센터 준공 실적이 가장 많은 건설사로 꼽히며 수혜 기대감이 부각됐다.",
+        "source_url": "https://www.businesspost.co.kr/BP?command=article_view&num=444360",
+        "source_urls": [
+          "https://www.businesspost.co.kr/BP?command=article_view&num=444360"
+        ]
+      },
+      {
+        "ticker": "023530",
+        "name": "롯데쇼핑",
+        "change_pct": "+6.72%(106,400원)",
+        "reason": "2분기 실적 부진으로 최근 급락했던 데 대해 증권가에서 '주가 조정이 과도하다'는 평가가 나오며 저가 매수세가 유입돼 반등했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2612578",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2612578"
+        ]
+      },
+      {
+        "ticker": "036930",
+        "name": "주성엔지니어링",
+        "change_pct": "+13.30%",
+        "reason": "대형 반도체주가 애플발 CXMT 우려로 숨 고르기에 들어간 사이 저가 매수세가 반도체 소재, 부품, 장비주로 옮겨가며 원익IPS(+11.44%)와 함께 두 자릿수 급등했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2612862",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2612862"
+        ]
+      },
+      {
+        "ticker": "086520",
+        "name": "에코프로",
+        "change_pct": "+8.72%(93,500원)",
+        "reason": "코스닥 시가총액 상위 30개 종목이 모두 오른 순환매 장세 속에 2차전지 대표주로 강세를 보였다.",
+        "source_url": "https://biz.heraldcorp.com/article/10836334",
+        "source_urls": [
+          "https://biz.heraldcorp.com/article/10836334"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-0.29%(대표종목 기준)",
+        "note": "삼성전자(-0.43%), SK하이닉스(-0.14%) 평균. 애플의 중국 CXMT 메모리 칩 채용 검토 보도에 경계감이 부각됐다 (대표종목 기준)",
+        "source_url": "https://www.hankyung.com/article/2026081032646"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-0.07%(대표종목 기준)",
+        "note": "삼성전기(-0.31%), LG이노텍(+0.18%) 평균 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260810001159"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-2.66%(대표종목 기준)",
+        "note": "SK텔레콤(-3.63%), KT(-1.69%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/sk-telecom-co-ltd"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.85%(대표종목 기준)",
+        "note": "삼성바이오로직스(+0.84%), 셀트리온(+0.85%) 평균. 코스닥 제약바이오(알테오젠, HLB 등)의 강한 상승과 달리 코스피 대형 바이오주는 완만한 강세에 그쳤다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260810001159"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-3.08%(대표종목 기준)",
+        "note": "KB금융(-2.33%), 신한지주(-3.82%) 평균. 반도체, 소부장, 바이오 등으로 수급이 쏠리며 금융주는 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260810001159"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+3.49%(대표종목 기준)",
+        "note": "이마트(+0.25%), 롯데쇼핑(+6.72%) 평균. 롯데쇼핑이 실적 부진 급락에 대한 과매도 인식으로 반등했다 (대표종목 기준)",
+        "source_url": "https://www.etoday.co.kr/news/view/2612578"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+1.80%(대표종목 기준)",
+        "note": "현대차(+3.16%), 기아(+0.44%) 평균. 미국 고용지표발 위험자산 선호 회복에 현대차가 강세를 보였다 (대표종목 기준)",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=596796"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+5.40%(대표종목 기준)",
+        "note": "LG에너지솔루션(+2.08%), 에코프로(+8.72%) 평균. 코스닥 순환매 장세에 2차전지주가 동반 강세를 보였다 (대표종목 기준)",
+        "source_url": "https://biz.heraldcorp.com/article/10836334"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+5.30%(대표종목 기준)",
+        "note": "한화오션(+5.59%), 한화에어로스페이스(+5.01%) 평균. 조선, 방산 수주 기대감에 동반 강세를 보였다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260810001159"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+4.96%(대표종목 기준)",
+        "note": "GS건설(+10.27%), 현대건설(-0.36%) 평균. AI 데이터센터 증설 수혜 기대에 GS건설이 급등하며 종목별 온도차가 컸다 (대표종목 기준)",
+        "source_url": "https://www.businesspost.co.kr/BP?command=article_view&num=444360"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-4.05%(대표종목 기준)",
+        "note": "LG화학(-3.99%), 롯데케미칼(-4.10%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/lotte-chemical-corp"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+1.82%(대표종목 기준)",
+        "note": "포스코홀딩스(+1.51%), 현대제철(+2.12%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/posco-inc"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.09%(대표종목 기준)",
+        "note": "카카오(-0.88%), 네이버(+0.71%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/kakao-corp"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.17%(대표종목 기준)",
+        "note": "에스엠(+0.93%), 하이브(-0.59%) 평균 (대표종목 기준)",
+        "source_url": "https://www.investing.com/equities/sm-entertainment-co"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,418.4원",
+      "change_pct": "+0.16%(+2.3원)",
+      "source_url": "https://www.etoday.co.kr/news/view/2612858"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.49",
+      "change_pct": "+0.06%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,414.30/oz",
+      "change_pct": "+0.33%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$78.76/배럴",
+      "change_pct": "+0.74%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$65,239.33",
+      "change_pct": "+0.6%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,926.74",
+      "change_pct": "+0.3%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.655%",
+      "change_pct": "-0.3bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원달러 환율은 나흘 만에 반등해 1,418.4원으로 마감했다. 12일 예정된 미국 7월 소비자물가지수 발표를 앞둔 경계감과 그동안 강세였던 엔화가 약세로 돌아선 영향이 겹쳤다. 달러인덱스는 99.49로 소폭 올랐고, 미 10년물 국채금리는 4.655%로 안정적인 흐름을 이어갔다. 금은 온스당 4,414달러대로 7주 고점 근처에서 강세를 보였고, WTI는 배럴당 78달러 후반으로 소폭 올랐다.",
+    "notes": "코스피에서는 외국인이 1조4,887억원을 순매도했지만 개인이 8,998억원, 기관이 5,674억원을 순매수하며 방어했다. 코스닥에서는 기관이 5,661억원, 외국인이 1,031억원을 순매수했지만 개인이 6,729억원을 순매도해 차익 실현에 나섰다. 코스닥은 오전 9시50분 매수 사이드카가 발동됐는데, 이달 들어 열린 6거래일 중 3거래일에서 매수 사이드카가 나올 만큼 과열 양상이 이어지고 있다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "월스트리트저널이 애플이 아이폰과 맥북에 중국 CXMT의 메모리 칩을 시험하고 초기 공급 협의도 진행했다고 보도하면서 삼성전자와 SK하이닉스가 나란히 약보합에 그쳤다. CXMT의 기술력과 공급 여력은 아직 국내 양강에 못 미친다는 평가지만 시장은 경계감을 먼저 반영했다.",
+      "source_url": "https://www.hankyung.com/article/2026081032646"
+    },
+    {
+      "theme": "바이오와 제약",
+      "summary": "코스닥 대장주 알테오젠이 블랙록펀드어드바이저스의 지분 5.03% 확대 공시에 14.10% 급등했고, HLB 등 다른 제약바이오주도 동반 강세를 보이며 코스닥 상승을 이끌었다.",
+      "source_url": "https://www.newspim.com/news/view/20260810000388"
+    },
+    {
+      "theme": "개인 수급 소형주 장세",
+      "summary": "대형 반도체주가 숨 고르기에 들어간 사이 저가 매수세가 코스닥 반도체 소부장과 바이오주로 몰리며 코스닥이 매수 사이드카를 동반한 채 6.97% 급등했다. 이달 열린 6거래일 중 3거래일에서 매수 사이드카가 발동될 만큼 개인, 기관, 외국인 모두 코스닥으로 자금을 옮기는 순환매 장세가 이어지고 있다.",
+      "source_url": "https://biz.heraldcorp.com/article/10836334"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "코스피에서 외국인이 1조4,887억원을 순매도했음에도 개인과 기관 매수에 힘입어 지수는 소폭 상승 마감했다. 원달러 환율은 미 CPI 발표를 앞둔 경계감과 엔화 약세 전환 영향으로 나흘 만에 반등했다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2612858"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "애플의 중국 CXMT 메모리 칩 채용 검토 보도에 경계감이 부각되며 0.43% 내린 채 마감",
+      "source_url": "https://www.hankyung.com/article/2026081032646"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "삼성전자와 함께 애플발 CXMT 우려로 0.14% 내린 채 마감",
+      "source_url": "https://www.hankyung.com/article/2026081032646"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "코스닥 2차전지주 순환매 강세 속 2.08% 오른 채 마감",
+      "source_url": "https://www.newspim.com/news/view/20260810001159"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "미국 고용지표발 위험자산 선호 회복에 3.16% 오른 채 마감",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=596796"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
