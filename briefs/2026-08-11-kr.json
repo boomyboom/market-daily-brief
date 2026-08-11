@@ -1,0 +1,296 @@
+{
+  "date": "2026-08-11",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-11T19:00:00+09:00",
+  "headline": "관세청이 이달 1~10일 반도체 수출이 역대 최대치를 기록했다고 발표하자 삼성전자가 4%대 급등했고, 코스피는 장 초반 1%대 하락을 딛고 6,345.53으로 반등 마감했다",
+  "mail_title": "반도체 수출 역대급, 삼성전자 4% 급등",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 45.87포인트(0.73%) 오른 6,345.53으로 마감했다. 오늘 지수는 순탄치 않은 하루를 보냈다. 밤사이 뉴욕증시가 국제유가 급등발 인플레이션 우려와 엔비디아, 인텔 등 AI와 반도체주 차익실현 압력으로 소폭 하락한 여파가 이어지며 코스피는 0.95% 내린 6,240.06으로 출발했고, 장 초반에는 1.36% 밀린 6,213.78까지 낙폭을 키웠다. 분위기를 바꾼 건 반도체 수출 지표였다. 관세청에 따르면 이달 1~10일 반도체 수출액이 100억달러에 육박해 전년 동기 대비 155.4% 급증하며 이 기간 기준 역대 최대치를 기록했다. 삼성전자는 메모리 업황 개선과 고대역폭메모리(HBM) 경쟁력 회복 기대, 주주환원 확대 가능성까지 겹치며 4.13% 급등했고 외국인이 이날 하루에만 5,841억원어치를 사들여 유가증권시장 외국인 순매수 1위에 올랐다. SK하이닉스는 지난 7일 이사회에서 결정한 용인, 청주 신규 팹에 총 54조3000억원을 투자하겠다는 계획이 재부각되며 0.35% 오르는 데 그쳤지만, 이 투자 소식은 주성엔지니어링(12.15%), 원익IPS(6.40%) 등 반도체 소부장주로 매수세를 확산시켰다. 코스피에서는 외국인이 446억원, 기관이 319억원을 순매수하며 지수를 끌어올렸고 개인은 724억원을 순매도했다. 반면 롯데쇼핑은 지난 7일 2분기 영업이익이 시장 기대치를 20%가량 밑돈 실적 쇼크 이후 급락과 반등을 오가며 이날도 7.14% 내렸고, 한화오션(-5.72%)과 한화에어로스페이스(-4.69%)는 최근 가파른 상승에 따른 차익실현 매물에 밀렸다. 코스닥은 3.37포인트(0.39%) 오른 857.84로 소폭 상승 마감했다. 개인이 4,352억원을 순매수하며 지수를 지지한 반면 외국인은 3,581억원, 기관은 967억원을 순매도했다. 전날 블랙록펀드어드바이저스의 지분 확대 공시로 14% 급등했던 알테오젠은 차익실현 매물에 5.89% 밀렸고, 코스닥 시가총액 상위 2차전지주인 에코프로(-3.42%), 에코프로비엠(-4.36%)도 약세를 보였다. 금호건설은 장 초반 두 차례 정적 변동성완화장치(VI)가 발동될 정도로 매수세가 몰리며 상한가(29.98%)로 직행했는데, 뚜렷한 재료는 확인되지 않았고 13일로 예정된 2분기 실적 기업설명회를 앞둔 관심이 배경으로 거론된다. 원달러 환율은 장초반 네고 물량 출회와 미국 7월 소비자물가지수 발표를 앞둔 관망 심리 속에 2.5원(0.18%) 내린 1,415.9원으로 마감해 지난해 10월 2일 이후 10개월 만에 최저치를 기록했다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,345.53",
+        "change_pct": "+0.73%(+45.87p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260811000889",
+          "https://www.investing.com/indices/south-korea-indices"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "857.84",
+        "change_pct": "+0.39%(+3.37p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260811000889",
+          "https://www.investing.com/indices/south-korea-indices"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+4.13%(23만9,500원)",
+        "reason": "관세청 발표로 이달 1~10일 반도체 수출액이 100억달러에 육박해 전년 동기 대비 155.4% 급증한 역대 최대치를 기록한 것이 확인되면서 메모리 업황 개선과 HBM 경쟁력 회복 기대, 주주환원 확대 가능성까지 부각됐다. 외국인이 5,841억원을 순매수하며 유가증권시장 외국인 순매수 1위에 올랐다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2613348",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2613348",
+          "https://www.etoday.co.kr/news/view/2613050"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+0.35%(142만5,000원)",
+        "reason": "지난 7일 이사회에서 결정한 용인 반도체 클러스터 Y2, 청주 M17 팹 건설에 총 54조3,000억원을 투자하는 계획이 재부각됐다. 신규 팹 발주 기대가 관련 장비주로 확산되는 동안 정작 SK하이닉스 자체 상승폭은 크지 않았다.",
+        "source_url": "https://www.econonews.co.kr/news/articleView.html?idxno=442611",
+        "source_urls": [
+          "https://www.econonews.co.kr/news/articleView.html?idxno=442611"
+        ]
+      },
+      {
+        "ticker": "036930",
+        "name": "주성엔지니어링",
+        "change_pct": "+12.15%(16만2,400원)",
+        "reason": "SK하이닉스의 54조원대 신규 팹 투자 소식에 증착, 식각 등 반도체 장비 발주 확대 기대가 커지며 원익IPS(+6.40%) 등과 함께 반도체 소부장주로 매수세가 몰렸다.",
+        "source_url": "https://www.econonews.co.kr/news/articleView.html?idxno=442611",
+        "source_urls": [
+          "https://www.econonews.co.kr/news/articleView.html?idxno=442611"
+        ]
+      },
+      {
+        "ticker": "002990",
+        "name": "금호건설",
+        "change_pct": "상한가 +29.98%(1만1,490원)",
+        "reason": "장 초반 오전 9시 7분과 9시 28분 두 차례 정적 변동성완화장치(VI)가 발동될 정도로 매수세가 몰리며 상한가에 도달했다. 보도에서 뚜렷한 재료는 확인되지 않았고, 13일로 예정된 2분기 실적 기업설명회(IR)를 앞둔 관심이 배경으로 거론된다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=597065",
+        "source_urls": [
+          "https://www.cbci.co.kr/news/articleView.html?idxno=597065",
+          "https://www.topstarnews.net/news/articleView.html?idxno=16160331"
+        ]
+      },
+      {
+        "ticker": "023530",
+        "name": "롯데쇼핑",
+        "change_pct": "-7.14%(9만8,800원)",
+        "reason": "지난 7일 2분기 영업이익이 시장 컨센서스를 20.65% 밑돈 실적 쇼크 이후 희망퇴직 비용 등 일회성 비용 부담에 대한 우려가 이어지며 급락과 반등을 오가는 변동성 장세가 계속되고 있다.",
+        "source_url": "https://www.hankyung.com/article/2026080700166",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026080700166",
+          "https://markets.hankyung.com/stock/023530"
+        ]
+      },
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "change_pct": "-5.72%(8만9,000원)",
+        "reason": "캐나다 잠수함 사업 수주 불발 이후 이어진 조정 속에 최근 급등분에 대한 차익실현 매물이 나왔다. 일부에서는 노란봉투법 시행 이후 하청노조의 쟁의 확대 가능성도 부담 요인으로 거론된다.",
+        "source_url": "https://markets.hankyung.com/stock/042660",
+        "source_urls": [
+          "https://markets.hankyung.com/stock/042660",
+          "https://biz.heraldcorp.com/article/10794782"
+        ]
+      },
+      {
+        "ticker": "196170",
+        "name": "알테오젠",
+        "change_pct": "-5.89%",
+        "reason": "전날 블랙록펀드어드바이저스의 지분 확대 공시로 14% 급등한 데 따른 차익실현 매물이 나왔다.",
+        "source_url": "https://www.newspim.com/news/view/20260811000889",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260811000889"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.24%(대표종목 기준)",
+        "note": "삼성전자(+4.13%), SK하이닉스(+0.35%) 평균. 반도체 수출 역대 최대 발표에 삼성전자가 견인했다 (대표종목 기준)",
+        "source_url": "https://www.etoday.co.kr/news/view/2613348"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-1.01%(대표종목 기준)",
+        "note": "삼성전기(-0.94%), LG이노텍(-1.08%) 평균. 반도체 대형주 강세와 달리 부품주는 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/011070"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.97%(대표종목 기준)",
+        "note": "SK텔레콤(+1.18%), KT(+0.76%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+3.02%",
+        "note": "KRX 제약 업종지수 기준. 의료, 정밀기기(+2.26%)도 함께 강세를 보였다",
+        "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05910566645546336"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-2.38%(대표종목 기준)",
+        "note": "KB금융(-2.97%), 신한지주(-1.79%) 평균. 반도체로 수급이 쏠리며 은행주는 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260811000889"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-4.31%(대표종목 기준)",
+        "note": "이마트(-1.47%), 롯데쇼핑(-7.14%) 평균. 롯데쇼핑의 실적 쇼크 여진이 이어졌다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/023530"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-3.97%",
+        "note": "KRX 운송장비, 부품 업종지수 기준. 현대차(-1.23%) 등 대형주보다 부품주 낙폭이 컸다",
+        "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05910566645546336"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-3.48%(대표종목 기준)",
+        "note": "LG에너지솔루션(-3.54%), 에코프로(-3.42%) 평균. 코스닥 2차전지주에서 차익실현 매물이 나왔다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260811000889"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-5.21%(대표종목 기준)",
+        "note": "한화오션(-5.72%), 한화에어로스페이스(-4.69%) 평균. 최근 급등에 따른 차익실현 매물이 나왔다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/012450"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+0.56%(대표종목 기준)",
+        "note": "현대건설(+1.54%), GS건설(-0.43%) 평균. 개별 이슈로 상한가를 기록한 금호건설은 평균에서 제외했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/000720"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-1.06%(대표종목 기준)",
+        "note": "LG화학(-1.44%), 롯데케미칼(-0.68%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/051910"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-2.67%",
+        "note": "KRX 금속 업종지수 기준",
+        "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05910566645546336"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+2.05%(대표종목 기준)",
+        "note": "카카오(+2.91%), 네이버(+1.18%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/035720"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.97%",
+        "note": "KRX 오락, 문화 업종지수 기준",
+        "source_url": "https://www.etoday.co.kr/news/view/2613348"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,415.9원",
+      "change_pct": "-0.18%(-2.5원)",
+      "source_url": "https://www.etoday.co.kr/news/view/2613334"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.76",
+      "change_pct": "+0.05%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,428.65/oz",
+      "change_pct": "+0.20%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$84.28/배럴",
+      "change_pct": "+2.62%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$64,006.86",
+      "change_pct": "+1.9%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,875.23",
+      "change_pct": "-2.7%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.735%",
+      "change_pct": "+3.7bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원달러 환율은 장초반 네고 물량 출회와 미국 7월 CPI 발표를 앞둔 관망 심리 속에 1,415.9원으로 마감해 지난해 10월 2일 이후 10개월 만에 최저치를 기록했다. 호르무즈 해협을 둘러싼 미국, 이란 간 긴장이 이어지며 WTI는 배럴당 84달러 선까지 추가로 올랐고, 유가발 인플레이션 우려에 미 10년물 국채금리도 4.7%대 중반으로 올랐다. 금은 온스당 4,428달러대에서 강세를 이어갔다.",
+    "notes": "코스피에서는 외국인이 446억원, 기관이 319억원을 순매수했고 개인은 724억원을 순매도했다. 코스닥에서는 개인이 4,352억원을 순매수한 반면 외국인은 3,581억원, 기관은 967억원을 순매도했다. 반도체 수출 호조와 SK하이닉스의 대규모 투자 발표가 장중 반전의 계기가 됐다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "관세청 발표로 이달 1~10일 반도체 수출액이 100억달러에 육박해 전년 동기 대비 155.4% 급증한 역대 최대치를 기록한 것이 확인되면서 삼성전자가 4.13% 급등했다. SK하이닉스는 지난 7일 결정한 용인, 청주 신규 팹 54조3,000억원 투자 계획이 재부각되며 주성엔지니어링, 원익IPS 등 반도체 소부장주로 매수세가 확산됐다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2613348"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "코스피에서 외국인이 446억원을 순매수하며 지수 반전을 이끌었다. 원달러 환율은 네고 물량과 미 CPI 발표 대기 심리 속에 1,415.9원으로 마감해 10개월 만에 최저치를 기록했다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2613334"
+    },
+    {
+      "theme": "조선과 방산",
+      "summary": "한화오션(-5.72%)과 한화에어로스페이스(-4.69%)는 최근 가파른 상승에 따른 차익실현 매물에 밀렸다. 한화오션은 앞서 캐나다 잠수함 사업 수주 불발 여파가 이어지는 가운데 노란봉투법 시행 이후 하청노조 쟁의 확대 가능성도 부담 요인으로 거론된다.",
+      "source_url": "https://markets.hankyung.com/stock/042660"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "호르무즈 해협 재개방을 둘러싼 미국과 이란의 긴장이 이어지며 WTI가 배럴당 84달러 선까지 추가로 올랐다. 유가발 인플레이션 우려가 미 10년물 국채금리를 4.7%대 중반까지 끌어올렸다.",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "반도체 수출 역대 최대치와 외국인 5,841억원 순매수에 힘입어 4.13% 오른 채 마감",
+      "source_url": "https://www.etoday.co.kr/news/view/2613348"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "용인, 청주 신규 팹 54조3,000억원 투자 계획이 재부각되며 0.35% 오른 채 마감",
+      "source_url": "https://www.econonews.co.kr/news/articleView.html?idxno=442611"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "코스닥 2차전지주 차익실현 분위기 속 3.54% 내린 채 마감",
+      "source_url": "https://www.newspim.com/news/view/20260811000889"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "운송장비, 부품 업종 전반의 약세 속 1.23% 내린 채 마감",
+      "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05910566645546336"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
