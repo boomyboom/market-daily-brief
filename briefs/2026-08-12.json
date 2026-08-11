@@ -1,0 +1,428 @@
+{
+  "date": "2026-08-12",
+  "generated_at_kst": "2026-08-12T08:30:00+09:00",
+  "mode": "new",
+  "headline": "미국과 이란의 호르무즈 해협 재개방 협상이 다시 교착되고 알파벳이 AI 투자 확대 우려에 3%대 급락하며 뉴욕증시가 소폭 밀린 가운데, 국내 증시는 어제 반도체 수출 훈풍에 힘입은 상승세를 이어받아 오늘 밤 발표될 미국 7월 소비자물가지수(CPI)를 주시하며 하루를 시작한다",
+  "mail_title": "알파벳 3%대 급락, 오늘 밤 CPI 대기",
+  "kr": {
+    "preview": "어제(11일) 코스피는 관세청이 발표한 이달 1~10일 반도체 수출액이 전년 동기 대비 155.4% 급증한 역대 최대치를 기록했다는 소식에 삼성전자가 4.13% 급등하며 0.73% 오른 6,345.53으로 마감해 4거래일 만에 6,300선을 되찾았습니다. SK하이닉스는 지난 7일 결정한 용인, 청주 신규 팹에 54조3,000억원을 투자하는 계획이 재부각되며 주성엔지니어링, 원익IPS 등 반도체 소부장주로 매수세가 확산됐습니다. 코스닥은 개인 순매수에 힘입어 0.39% 오른 857.84로 마감했습니다.\n\n밤사이 뉴욕증시는 새로운 변수를 던졌습니다. 이란이 미국의 태도 변화와 동결자산 해제 없이는 호르무즈 해협을 열지 않겠다고 재차 못박으며 협상 교착이 이어졌고, 국제유가는 WTI 기준 배럴당 83달러 선으로 다시 올랐습니다. 여기에 알파벳이 2026년 자본지출 전망을 195억에서 205억달러로 상향하며 마진 압박, 잉여현금흐름 적자 우려가 부각돼 3.84% 급락했고, 애플, 아마존 등 대형 기술주도 동반 약세를 보이며 다우, S&P500, 나스닥이 나란히 소폭 하락했습니다. 반면 장 마감 후 실적을 발표한 AI 인프라 업체 코어위브는 매출이 시장 예상치를 웃돌고 수주잔고가 1,040억달러에 달한다고 밝히며 시간외 거래에서 13% 급등했습니다. 오늘 밤에는 이번 주 최대 변수로 꼽혀온 미국 7월 소비자물가지수(CPI)가 발표됩니다. 시장은 헤드라인 CPI가 전년 대비 3.4%, 근원 CPI는 2.5%로 둔화할 것으로 예상하고 있어, 예상치 부합 여부에 따라 밤사이 국내 증시의 방향성이 달라질 수 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,345.53",
+        "change_pct": "+0.73%(+45.87p, 8/11 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260811000889",
+          "https://www.m-i.kr/news/articleView.html?idxno=1401171"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "857.84",
+        "change_pct": "+0.39%(+3.37p, 8/11 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260811000889"
+        ]
+      }
+    ],
+    "hot_stocks": []
+  },
+  "us": {
+    "recap": "11일(현지시간) 뉴욕증시는 미국과 이란의 호르무즈 해협 재개방 협상이 다시 교착되고, 알파벳이 2026년 자본지출 전망을 195억에서 205억달러로 상향하며 마진 압박 우려에 3.84% 급락한 여파로 3대 지수가 나란히 소폭 하락했습니다. 다우존스는 184.13포인트(0.34%) 내린 53,791.85로, S&P500은 24.91포인트(0.32%) 내린 7,728.20으로, 나스닥종합은 159.91포인트(0.60%) 밀린 26,445.45로 마감했습니다. 애플(-1.09%), 아마존 등 대형 기술주가 동반 약세를 보였고, 알파벳은 리더십 변화와 광고, 데이터 관행에 대한 규제 압박까지 겹치며 낙폭을 키웠습니다. 반면 장 마감 후 실적을 내놓은 AI 인프라 업체 코어위브는 2분기 매출이 25억8,000만달러로 시장 예상(25억6,000만달러)을 웃돌고 수주잔고가 1,040억달러에 달한다고 밝히며 시간외 거래에서 13% 급등했고, 서버 업체 슈퍼마이크로컴퓨터도 견조한 가이던스에 시간외 강세를 보였습니다. 투자자들은 12일 발표될 7월 CPI에 촉각을 곤두세우고 있습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,728.20",
+        "change_pct": "-0.32%(-24.91p, 8/11 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,445.45",
+        "change_pct": "-0.60%(-159.91p, 8/11 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,791.85",
+        "change_pct": "-0.34%(-184.13p, 8/11 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "GOOGL",
+        "name": "알파벳",
+        "change_pct": "-3.84%(343.80달러)",
+        "reason": "2026년 자본지출 전망을 195억에서 205억달러로 상향 조정한 데 대해 마진 압박과 잉여현금흐름 적자 우려가 커졌다. 여기에 AI 부문 리더십 변화와 디지털 광고, 데이터 관행에 대한 규제 압박까지 겹치며 기관 투자자들의 매도가 이어졌다.",
+        "source_url": "https://www.tradingkey.com/news/market-movers/262096865-market-movers-googl-20260811",
+        "source_urls": [
+          "https://www.tradingkey.com/news/market-movers/262096865-market-movers-googl-20260811",
+          "https://stockanalysis.com/stocks/googl/forecast/"
+        ]
+      },
+      {
+        "ticker": "CRWV",
+        "name": "코어위브",
+        "change_pct": "+13%(시간외 거래)",
+        "reason": "2분기 매출이 25억8,000만달러로 시장 예상치(25억6,000만달러)를 웃돌았고 수주잔고가 1,040억달러에 달한다고 밝히며 AI 인프라 수요 둔화 우려를 씻어냈다.",
+        "source_url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+        "source_urls": [
+          "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.24%(대표종목 기준, 8/11)",
+        "note": "삼성전자(+4.13%), SK하이닉스(+0.35%) 평균. 반도체 수출 역대 최대 발표에 삼성전자가 견인했다 (대표종목 기준)",
+        "source_url": "https://www.etoday.co.kr/news/view/2613348"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-1.01%(대표종목 기준, 8/11)",
+        "note": "삼성전기(-0.94%), LG이노텍(-1.08%) 평균. 반도체 대형주 강세와 달리 부품주는 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/011070"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.97%(대표종목 기준, 8/11)",
+        "note": "SK텔레콤(+1.18%), KT(+0.76%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+3.02%(8/11)",
+        "note": "KRX 제약 업종지수 기준. 의료, 정밀기기(+2.26%)도 함께 강세를 보였다",
+        "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05910566645546336"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-2.38%(대표종목 기준, 8/11)",
+        "note": "KB금융(-2.97%), 신한지주(-1.79%) 평균. 반도체로 수급이 쏠리며 은행주는 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260811000889"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-4.31%(대표종목 기준, 8/11)",
+        "note": "이마트(-1.47%), 롯데쇼핑(-7.14%) 평균. 롯데쇼핑의 실적 쇼크 여진이 이어졌다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/023530"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-3.97%(8/11)",
+        "note": "KRX 운송장비, 부품 업종지수 기준. 현대차(-1.23%) 등 대형주보다 부품주 낙폭이 컸다",
+        "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05910566645546336"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-3.48%(대표종목 기준, 8/11)",
+        "note": "LG에너지솔루션(-3.54%), 에코프로(-3.42%) 평균. 코스닥 2차전지주에서 차익실현 매물이 나왔다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260811000889"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-5.21%(대표종목 기준, 8/11)",
+        "note": "한화오션(-5.72%), 한화에어로스페이스(-4.69%) 평균. 최근 급등에 따른 차익실현 매물이 나왔다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/012450"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+0.56%(대표종목 기준, 8/11)",
+        "note": "현대건설(+1.54%), GS건설(-0.43%) 평균. 개별 이슈로 상한가를 기록한 금호건설은 평균에서 제외했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/000720"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-1.06%(대표종목 기준, 8/11)",
+        "note": "LG화학(-1.44%), 롯데케미칼(-0.68%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/051910"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-2.67%(8/11)",
+        "note": "KRX 금속 업종지수 기준",
+        "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05910566645546336"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+2.05%(대표종목 기준, 8/11)",
+        "note": "카카오(+2.91%), 네이버(+1.18%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/035720"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.97%(8/11)",
+        "note": "KRX 오락, 문화 업종지수 기준",
+        "source_url": "https://www.etoday.co.kr/news/view/2613348"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.91%(SOXX, 8/11)",
+        "note": "엔비디아가 약보합에 머문 가운데 필라델피아 반도체 지수는 완만한 강세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-0.12%(XLK, 8/11)",
+        "note": "애플 약세 속 보합권에 머물렀다",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-0.50%(XLC, 8/11)",
+        "note": "알파벳의 자본지출 우려발 급락이 섹터 전반에 부담을 줬다",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.26%(XLV, 8/11)",
+        "note": "완만한 약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.02%(XLF, 8/11)",
+        "note": "보합권 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-0.36%(XLY, 8/11)",
+        "note": "완만한 약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.31%(XLP, 8/11)",
+        "note": "완만한 약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.60%(XLI, 8/11)",
+        "note": "완만한 강세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+0.11%(XLB, 8/11)",
+        "note": "보합권 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+1.25%(XLE, 8/11)",
+        "note": "호르무즈 해협 협상 교착으로 유가가 다시 오르며 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+1.16%(XLU, 8/11)",
+        "note": "국채금리가 소폭 진정되며 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.72%(XLRE, 8/11)",
+        "note": "약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,412.77",
+      "change_pct": "+0.12%",
+      "source_url": "https://kr.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.80",
+      "change_pct": "+0.18%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,435.87/oz",
+      "change_pct": "+0.18%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$83.14/배럴",
+      "change_pct": "+1.23%",
+      "source_url": "https://www.newspim.com/news/view/20260812000016"
+    },
+    {
+      "name": "비트코인",
+      "value": "$63,613.78",
+      "change_pct": "-0.5%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,880.46",
+      "change_pct": "+0.3%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.690%",
+      "change_pct": "-0.8bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "이란이 미국의 태도 변화와 동결자산 해제 없이는 호르무즈 해협을 열지 않겠다고 재차 못박으며 WTI가 배럴당 83달러 선으로 다시 올랐다. 다만 국채금리는 CPI 발표를 앞두고 4.69%대로 소폭 진정됐고, 달러인덱스는 99.8 부근에서 강보합을 유지했다. 원달러 환율은 1,412원대로 전일보다 소폭 오른 채 거래되고 있다.",
+    "notes": "12일(현지시간) 발표되는 미국 7월 CPI가 이번 주 최대 변수다. 시장은 헤드라인 CPI 전년 대비 3.4%, 근원 CPI 2.5%로의 둔화를 예상하고 있으며, 예상을 상회할 경우 국채금리 상승과 함께 증시 조정 압력이 커질 수 있다."
+  },
+  "top_themes": [
+    {
+      "theme": "국제유가",
+      "summary": "이란 국가안보최고회의 사무총장이 미국이 전쟁을 끝내고 해외 동결 자산을 풀지 않는 한 호르무즈 해협을 열지 않을 것이라고 밝히며 협상 교착이 이어졌다. WTI는 배럴당 83.14달러(+1.23%), 브렌트유는 88.66달러(+1.07%)로 올랐다. 호르무즈 해협은 전 세계 원유, LNG의 약 5분의 1이 통과하는 길목으로, 봉쇄 여파에 초대형 유조선 일일 용선료가 전쟁 전의 두 배 수준인 50만달러 안팎까지 뛴 상태다.",
+      "tickers": [
+        "010950",
+        "096770"
+      ],
+      "source_url": "https://www.newspim.com/news/view/20260812000016"
+    },
+    {
+      "theme": "AI 자본지출 논쟁",
+      "summary": "알파벳이 2026년 자본지출 전망을 195억에서 205억달러로 상향하자 마진 압박과 잉여현금흐름 적자 우려가 부각되며 주가가 3.84% 급락했다. 반면 장 마감 후 실적을 발표한 코어위브는 매출이 시장 예상을 웃돌고 수주잔고가 1,040억달러에 달한다고 밝히며 시간외 거래에서 13% 급등해, AI 인프라 투자 확대에 대한 투자자들의 시각이 종목별로 엇갈리고 있음을 보여줬다.",
+      "tickers": [
+        "GOOGL",
+        "CRWV"
+      ],
+      "source_url": "https://www.tradingkey.com/news/market-movers/262096865-market-movers-googl-20260811"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "12일(현지시간) 발표되는 미국 7월 CPI에 시장의 관심이 집중되고 있다. 로이터 조사에서 헤드라인 CPI는 전년 대비 3.4%, 근원 CPI는 2.5%로 각각 둔화할 것으로 전망됐다. 지난주 발표된 고용지표가 예상보다 부진했던 점도 9월 연준 금리 결정 기대에 영향을 미치고 있다.",
+      "tickers": [],
+      "source_url": "https://www.kbthink.com/news-list/view.html?newsId=20260810223735475"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "8/11 0.02% 내린 217.50달러로 마감하며 보합권에 머물렀다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "대형 기술주 동반 약세 속 8/11 1.09% 내린 304.91달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "8/11 0.44% 내린 503.81달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "8/11 0.58% 오른 332.81달러로 마감하며 시장 대비 견조한 흐름을 보였다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "8/11 0.17% 내린 174.94달러로 마감하며 보합권에 머물렀다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "kr.preview 참조. 반도체 수출 역대 최대치와 외국인 5,841억원 순매수에 힘입어 8/11 4.13% 오른 23만9,500원으로 마감했다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2613348"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "용인, 청주 신규 팹 54조3,000억원 투자 계획이 재부각되며 8/11 0.35% 오른 142만5,000원으로 마감했다.",
+      "source_url": "https://www.econonews.co.kr/news/articleView.html?idxno=442611"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "코스닥 2차전지주 차익실현 분위기 속 8/11 3.54% 내린 채 마감했다.",
+      "source_url": "https://www.newspim.com/news/view/20260811000889"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "운송장비, 부품 업종 전반의 약세 속 8/11 1.23% 내린 채 마감했다.",
+      "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05910566645546336"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "GOOGL",
+      "name": "알파벳",
+      "market": "US",
+      "thesis": "2026년 자본지출 전망을 195억에서 205억달러로 상향하면서 마진 압박과 잉여현금흐름 적자 우려가 부각돼 8/11 3.84% 급락했다. AI 부문 리더십 변화, 광고와 데이터 관행에 대한 규제 압박도 겹쳤지만, 클라우드 매출 성장세 등 펀더멘털은 견조하다는 평가도 함께 나온다.",
+      "catalysts": [
+        "12일 미국 7월 CPI 발표(성장주 밸류에이션에 미칠 영향)",
+        "차기 실적 발표에서의 AI 관련 매출 기여, 마진 가이던스"
+      ],
+      "levels_watched": {
+        "support": "8/11 종가 343.80달러",
+        "resistance": "52주 최고가 408.61달러(2026-05-18)",
+        "analyst_target_cited": "S&P Global 애널리스트 컨센서스(64개 증권사, 2026-08-11 기준), 평균 목표주가 428.04달러, 투자의견 Strong Buy"
+      },
+      "risk": "AI 자본지출 확대에 대한 시장의 마진 압박 우려가 장기화되거나 규제 리스크가 추가로 부각되면 주가 조정이 이어질 수 있다.",
+      "sources": [
+        "https://www.tradingkey.com/news/market-movers/262096865-market-movers-googl-20260811",
+        "https://stockanalysis.com/stocks/googl/forecast/",
+        "https://stockanalysis.com/stocks/googl/history/"
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "관세청이 발표한 이달 1~10일 반도체 수출액이 전년 동기 대비 155.4% 급증한 역대 최대치를 기록한 것이 확인되면서 메모리 업황 개선과 HBM 경쟁력 회복 기대가 부각돼 8/11 4.13% 급등했다. 외국인이 하루 만에 5,841억원을 순매수하며 유가증권시장 순매수 1위에 올랐다.",
+      "catalysts": [
+        "12일 미국 7월 CPI 발표(위험자산 전반의 수급에 영향)",
+        "HBM4 공급계약 확대, 주주환원 정책 발표 여부"
+      ],
+      "levels_watched": {
+        "support": "8/11 종가 23만9,500원",
+        "resistance": "52주 최고가 37만4,500원(2026-06-19, 장중)",
+        "analyst_target_cited": "한국투자증권, 2026-07-31, 목표주가 65만원(기존 59만원에서 상향)"
+      },
+      "risk": "반도체 업종 전반의 밸류에이션 부담이 재부각되거나 CPI가 예상치를 상회해 위험자산 선호가 후퇴하면 단기 차익실현 매물이 나올 수 있다.",
+      "sources": [
+        "https://www.etoday.co.kr/news/view/2613348",
+        "https://news.nate.com/view/20260731n06189",
+        "https://www.mt.co.kr/stock/2026/06/19/2026061914552469467"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
