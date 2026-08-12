@@ -1,0 +1,473 @@
+{
+  "date": "2026-08-13",
+  "generated_at_kst": "2026-08-13T08:30:00+09:00",
+  "mode": "new",
+  "headline": "미국 7월 소비자물가지수가 시장 예상치에 부합하며 안도감이 확산된 가운데, 코어위브와 네비우스, 슈퍼마이크로컴퓨터 등 AI 인프라 기업들의 실적 서프라이즈에 필라델피아 반도체지수가 2.49% 오르고 마이크론도 4.92% 급등하면서, 어제 사이드카까지 발동되며 3.68% 급등한 코스피의 반도체 랠리가 오늘도 이어질지 주목된다",
+  "mail_title": "CPI 부합, 코어위브 19% 급등",
+  "kr": {
+    "preview": "어제(12일) 코스피는 엔비디아가 골드만삭스, 블랙록 등 월가 6곳과 손잡고 710조원 규모의 AI 인프라 자금조달 동맹을 맺었다는 소식과 삼성전자, SK하이닉스의 대규모 주주환원 기대가 겹치며 매수 사이드카까지 발동된 끝에 3.68% 급등한 6,579.04로 마감했습니다. 삼성전자는 6.68% 오른 25만5,500원, SK하이닉스는 5.54% 오른 150만4,000원으로 마감하며 코스피 상승을 이끌었고, 외국인이 2조8,357억원을 순매수했습니다.\n\n밤사이 뉴욕증시에서는 미국 7월 소비자물가지수(CPI)가 시장 예상치에 부합하는 결과를 내놓으며 안도감이 확산됐습니다. 헤드라인 CPI는 전년 대비 3.4%로 6월(3.5%)보다 둔화했고 근원 CPI도 2.5%로 낮아지며, 9월 연방공개시장위원회(FOMC)에서 기준금리를 동결할 확률이 CME 페드워치 기준 62%로 높아졌습니다. 여기에 AI 인프라 기업들의 실적이 시장 예상을 크게 웃돌면서 반도체, AI 관련주가 급등했습니다. 클라우드 업체 코어위브는 2분기 매출이 전년 대비 112% 급증한 26억달러를 기록하고 수주잔고가 1,040억달러에 달한다고 밝히며 19.28% 급등했고, 암스테르담에 본사를 둔 네비우스 그룹은 매출이 514% 급증하며 34.14% 뛰었습니다. 서버업체 슈퍼마이크로컴퓨터도 최근 1년간 신규 수주가 600억달러를 넘었다고 밝히며 19.02% 상승했습니다. 이 여파로 필라델피아 반도체지수는 2.49% 올랐고 메모리 업체 마이크론도 4.92% 상승했습니다. 다만 마이크로소프트는 AI 투자 확대에 따른 잉여현금흐름 부담 우려가 재부각되며 2.26% 내렸고, 다우지수는 소폭(0.04%) 하락하며 나스닥, S&P500과 엇갈린 흐름을 보였습니다. 반도체와 AI 인프라 업황에 대한 안도감이 확산된 만큼, 오늘 국내 증시에서도 삼성전자, SK하이닉스를 중심으로 한 반도체 랠리가 사흘 연속 이어질지 주목됩니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,579.04",
+        "change_pct": "+3.68%(+233.51p, 8/12 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2613802",
+          "https://www.newspim.com/news/view/20260812001083"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "858.91",
+        "change_pct": "+0.12%(+1.07p, 8/12 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2613802",
+          "https://www.newspim.com/news/view/20260812001083"
+        ]
+      }
+    ],
+    "hot_stocks": []
+  },
+  "us": {
+    "recap": "12일(현지시간) 뉴욕증시는 미국 7월 소비자물가지수(CPI)가 시장 예상치에 부합하며 안도감이 확산된 가운데 AI 인프라 기업들의 실적 호조에 힘입어 나스닥과 S&P500이 상승했습니다. S&P500은 20.30포인트(0.26%) 오른 7,748.50으로 마감했고, 나스닥종합은 143.04포인트(0.54%) 오른 26,588.49를 기록했습니다. 다우존스는 21.58포인트(0.04%) 내린 53,770.27로 소폭 밀렸습니다. 노동부가 발표한 7월 CPI는 전월 대비 0.1%, 전년 대비 3.4% 올라 6월(3.5%)보다 둔화했고 근원 CPI도 전년 대비 2.5%로 낮아지며 예상치에 부합했습니다. 휘발유 가격이 2개월 연속 하락한 것이 물가 둔화를 이끌었고, CME 페드워치 기준 9월 FOMC에서 기준금리를 동결할 확률은 62%로 높아졌습니다. 클라우드 업체 코어위브는 2분기 매출이 전년 대비 112% 급증한 26억달러, 수주잔고 1,040억달러를 기록하며 19.28% 급등했고, 네비우스 그룹은 매출이 514% 급증하며 34.14% 뛰었습니다. 서버업체 슈퍼마이크로컴퓨터도 최근 1년 신규 수주가 600억달러를 웃돈다고 밝히며 19.02% 상승했습니다. 엔비디아는 3.03% 오른 224.09달러, 마이크론은 4.92% 오른 911.29달러로 마감하며 반도체 전반이 강세를 보였고 필라델피아 반도체지수는 2.49% 상승했습니다. 반면 마이크로소프트는 AI 투자 확대에 따른 마진 압박 우려가 재부각되며 2.26% 내렸고, 애플(-0.87%), 테슬라(-1.59%), 팔란티어(-2.23%)도 약세를 보였습니다. 국채금리는 4.68%대로 안정됐고, 국제유가는 중동 지정학 리스크 속 WTI 기준 배럴당 83.27달러로 소폭 올랐습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,748.50",
+        "change_pct": "+0.26%(+20.30p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260813000024",
+          "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,588.49",
+        "change_pct": "+0.54%(+143.04p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260813000024",
+          "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,770.27",
+        "change_pct": "-0.04%(-21.58p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260813000024",
+          "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "CRWV",
+        "name": "코어위브",
+        "change_pct": "+19.28%",
+        "reason": "2분기 매출이 전년 대비 112% 급증한 26억달러를 기록하고 수주잔고가 1,040억달러에 달한다고 밝히며 AI 인프라 수요 둔화 우려를 씻어냈다.",
+        "source_url": "https://www.newspim.com/news/view/20260813000024",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260813000024",
+          "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html"
+        ]
+      },
+      {
+        "ticker": "NBIS",
+        "name": "네비우스 그룹",
+        "change_pct": "+34.14%",
+        "reason": "2분기 매출이 전년 대비 514% 급증하고 수주 총액이 4배로 늘었다고 밝히며 급등했다.",
+        "source_url": "https://www.newspim.com/news/view/20260813000024",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260813000024",
+          "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html"
+        ]
+      },
+      {
+        "ticker": "SMCI",
+        "name": "슈퍼마이크로컴퓨터",
+        "change_pct": "+19.02%",
+        "reason": "최근 1년간 신규 수주가 600억달러를 넘었다고 밝히며 2027회계연도 매출 전망을 상향했다.",
+        "source_url": "https://www.newspim.com/news/view/20260813000024",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260813000024",
+          "https://finance.yahoo.com/markets/article/ai-infrastructure-stocks-surge-after-strong-earnings-from-coreweave-supermicro-142304399.html"
+        ]
+      },
+      {
+        "ticker": "MSFT",
+        "name": "마이크로소프트",
+        "change_pct": "-2.26%(492.43달러)",
+        "reason": "4분기 실적과 클라우드 성장세는 견조했지만, 2026년 자본지출 가이던스가 1,900억달러에 달하는 등 AI 투자 확대에 따른 잉여현금흐름 압박 우려가 재부각되며 하락했다.",
+        "source_url": "https://www.benzinga.com/trading-ideas/movers/26/08/61156185/microsoft-stock-is-falling-whats-going-on-today",
+        "source_urls": [
+          "https://www.benzinga.com/trading-ideas/movers/26/08/61156185/microsoft-stock-is-falling-whats-going-on-today"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+6.11%(대표종목 기준, 8/12)",
+        "note": "삼성전자(+6.68%), SK하이닉스(+5.54%) 평균. AI 인프라 자금조달 안도와 주주환원 기대가 겹치며 코스피 상승을 견인했다 (대표종목 기준)",
+        "source_url": "https://www.etoday.co.kr/news/view/2613802"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+7.90%(대표종목 기준, 8/12)",
+        "note": "삼성전기(+5.78%), LG이노텍(+10.02%) 평균. 반도체 부품, 전장 부품 수요 기대에 동반 강세를 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/009150"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.95%(대표종목 기준, 8/12)",
+        "note": "SK텔레콤(+2.09%), KT(-0.19%) 평균. SK텔레콤은 AI 데이터센터 사업 확대 기대에 상대적 강세를 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-3.39%(대표종목 기준, 8/12)",
+        "note": "삼성바이오로직스(-3.73%), 알테오젠(-3.05%) 평균. 반도체로 수급이 쏠리며 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260812001083"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.52%(대표종목 기준, 8/12)",
+        "note": "KB금융(-0.36%), 신한지주(-0.67%) 평균. 반도체로 수급이 쏠리며 은행주는 약보합을 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-1.20%(대표종목 기준, 8/12)",
+        "note": "이마트(-0.87%), 롯데쇼핑(-1.52%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/023530"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+1.29%(대표종목 기준, 8/12)",
+        "note": "현대차(+1.61%), 기아(+0.97%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005380"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+1.12%(대표종목 기준, 8/12)",
+        "note": "LG에너지솔루션(+1.13%), 에코프로(+1.11%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+3.26%(대표종목 기준, 8/12)",
+        "note": "한화에어로스페이스(+5.28%), 한화오션(+1.24%) 평균. 방산주가 반도체 랠리 속에서도 강세를 이어갔다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260812001083"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.32%(대표종목 기준, 8/12)",
+        "note": "현대건설(+1.34%), GS건설(+1.29%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/000720"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+0.11%(대표종목 기준, 8/12)",
+        "note": "LG화학(+0.55%), 롯데케미칼(-0.34%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/051910"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-0.23%(대표종목 기준, 8/12)",
+        "note": "POSCO홀딩스(-0.46%), 현대제철(0.00%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005490"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-1.07%(대표종목 기준, 8/12)",
+        "note": "카카오(-2.83%), 네이버(+0.70%) 평균. 반도체로 수급이 쏠리며 카카오가 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/035720"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-3.01%(대표종목 기준, 8/12)",
+        "note": "YG엔터테인먼트(-1.85%), CJ ENM(-4.17%) 평균 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/035760"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.32%(SOXX, 8/12)",
+        "note": "코어위브, 네비우스, 슈퍼마이크로 등 AI 인프라 기업의 실적 서프라이즈에 힘입어 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+1.49%(XLK, 8/12)",
+        "note": "엔비디아(+3.03%) 강세 속에서도 마이크로소프트(-2.26%)가 상승폭을 제한했다",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-0.90%(XLC, 8/12)",
+        "note": "약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+0.26%(XLV, 8/12)",
+        "note": "완만한 강세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.21%(XLF, 8/12)",
+        "note": "완만한 강세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-1.13%(XLY, 8/12)",
+        "note": "약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.46%(XLP, 8/12)",
+        "note": "완만한 강세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.10%(XLI, 8/12)",
+        "note": "보합권 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-1.24%(XLB, 8/12)",
+        "note": "약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+0.16%(XLE, 8/12)",
+        "note": "국제유가 소폭 상승 속 보합권 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.48%(XLU, 8/12)",
+        "note": "국채금리가 안정되며 완만한 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.93%(XLRE, 8/12)",
+        "note": "국채금리 안정에 강세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,417.26",
+      "change_pct": "-0.05%",
+      "source_url": "https://kr.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.80",
+      "change_pct": "+0.18%",
+      "source_url": "https://kr.investing.com/indices/usdollar"
+    },
+    {
+      "name": "금",
+      "value": "$4,461.32/oz(선물)",
+      "change_pct": "-0.18%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$83.27/배럴",
+      "change_pct": "+0.08%",
+      "source_url": "https://www.newspim.com/news/view/20260813000024"
+    },
+    {
+      "name": "비트코인",
+      "value": "$63,369.42",
+      "change_pct": "-0.4%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,876.48",
+      "change_pct": "-0.1%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.684%",
+      "change_pct": "-0.6bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미국 7월 CPI가 헤드라인 3.4%, 근원 2.5%로 각각 전월보다 둔화하며 예상치에 부합하자 미 10년물 국채금리는 4.68%대에서 안정됐다. CME 페드워치 기준 9월 FOMC에서 기준금리를 동결할 확률은 62%로 높아졌다. 국제유가는 중동 지정학 리스크가 이어지는 가운데 WTI 기준 배럴당 83.27달러, 브렌트유는 88.98달러로 소폭 올랐다. 원달러 환율은 1,417원대로 큰 변동 없이 거래되고 있다.",
+    "notes": "9일 발표된 7월 CPI에서 휘발유 가격이 2개월 연속 하락하며 물가 둔화를 이끌었지만, 근원 물가는 여전히 연준 목표치를 웃돌고 있다. 시장은 예상치 부합을 안도 재료로 받아들이며 위험자산 선호를 강화했다."
+  },
+  "top_themes": [
+    {
+      "theme": "연준 통화정책",
+      "summary": "미국 노동부가 발표한 7월 CPI가 헤드라인 3.4%, 근원 2.5%로 각각 전월보다 둔화하며 시장 예상치에 부합했다. 휘발유 가격 2개월 연속 하락이 물가 둔화를 이끌었고, CME 페드워치 기준 9월 FOMC에서 기준금리를 동결할 확률이 62%로 높아지며 뉴욕증시 위험자산 선호를 뒷받침했다.",
+      "tickers": [],
+      "source_url": "https://www.newspim.com/news/view/20260813000024"
+    },
+    {
+      "theme": "AI 자본지출 논쟁",
+      "summary": "클라우드 업체 코어위브가 2분기 매출 112% 급증과 1,040억달러 수주잔고를 발표하며 19.28% 급등했고, 네비우스 그룹은 매출이 514% 급증하며 34.14% 뛰었다. 서버업체 슈퍼마이크로컴퓨터도 600억달러 규모 신규 수주를 밝히며 19.02% 상승해, 전날 알파벳의 자본지출 우려로 흔들렸던 AI 인프라 투자 지속성에 대한 시장의 신뢰가 실적으로 확인됐다.",
+      "tickers": [
+        "CRWV",
+        "NBIS",
+        "SMCI"
+      ],
+      "source_url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "AI 인프라 실적 서프라이즈에 필라델피아 반도체지수가 2.49% 오르고 메모리 업체 마이크론도 4.92% 급등하며 글로벌 메모리 업황 개선 기대가 재확인됐다. 국내에서도 삼성전자와 SK하이닉스가 각각 8월 말, 3분기 중 대규모 주주환원 방안을 내놓을 것으로 예상되며 반도체 랠리가 이어질지 주목된다.",
+      "tickers": [
+        "005930",
+        "000660",
+        "MU"
+      ],
+      "source_url": "https://www.newspim.com/news/view/20260813000024"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "AI 인프라 기업들의 실적 호조 속 8/12 3.03% 오른 224.09달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "8/12 0.87% 내린 302.25달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "AI 투자 확대에 따른 마진 압박 우려가 재부각되며 8/12 2.26% 내린 492.43달러로 마감했다.",
+      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/08/61156185/microsoft-stock-is-falling-whats-going-on-today"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "8/12 1.59% 내린 327.51달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "8/12 2.23% 내린 171.04달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "AI 인프라 자금조달 안도와 주주환원 기대에 8/12 6.68% 오른 25만5,500원으로 마감했다. kr.preview 참조.",
+      "source_url": "https://www.etoday.co.kr/news/view/2613802"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "3분기 최대 40조원 주주환원 기대에 8/12 5.54% 오른 150만4,000원으로 마감했다.",
+      "source_url": "https://biz.heraldcorp.com/article/10838818"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "반도체로 수급이 쏠린 가운데 8/12 1.13% 오른 35만8,500원으로 마감했다.",
+      "source_url": "https://markets.hankyung.com/stock/373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "코스피 전반 강세 속 8/12 1.61% 오른 40만9,500원으로 마감했다.",
+      "source_url": "https://markets.hankyung.com/stock/005380"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "엔비디아의 710조원 규모 AI 인프라 자금조달 동맹과 잉여현금흐름의 50%를 주주환원에 쓰는 3개년 정책 마지막 해를 맞아 8월 말 대규모 주주환원안 발표가 예정된 데 힘입어 8/12 6.68% 급등했다. 밤사이 마이크론 등 글로벌 메모리 업체의 실적 서프라이즈로 메모리 업황 개선 기대가 재확인되며 반도체 랠리가 이어질지 주목된다.",
+      "catalysts": [
+        "8월 말 주주환원 정책 구체안 발표(특별배당 비중 등)",
+        "HBM4 공급계약 확대 여부"
+      ],
+      "levels_watched": {
+        "support": "8/12 종가 25만5,500원",
+        "resistance": "52주 최고가 37만4,500원(2026-06-19, 장중)",
+        "analyst_target_cited": "노무라증권, 2026-07-31, 목표주가 67만원(매수)"
+      },
+      "risk": "반도체 업종 전반의 밸류에이션 부담이 재부각되거나 CPI 이후 위험자산 선호가 후퇴하면 단기 차익실현 매물이 나올 수 있다.",
+      "sources": [
+        "https://www.etoday.co.kr/news/view/2613802",
+        "https://www.thecommoditiesnews.com/news/articleView.html?idxno=11596"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "3분기 중 최대 40조원 규모의 추가 주주환원 방안을 내놓을 것이라는 관측과 키옥시아 간접 최대주주 지위, 솔리다임 중국 낸드 공장 재가동 소식에 8/12 5.54% 급등했다. 밤사이 마이크론이 4.92% 급등하며 글로벌 메모리 업황 개선을 재확인해 반도체 랠리에 우호적인 환경이 이어지고 있다.",
+      "catalysts": [
+        "3분기 주주환원 방안 발표",
+        "솔리다임 프리IPO 및 미국 상장 논의 진행 상황"
+      ],
+      "levels_watched": {
+        "support": "8/12 종가 150만4,000원",
+        "resistance": "사상 최고가 298만7,000원(2026-06-25, 장중)",
+        "analyst_target_cited": "미래에셋증권, 2026-07-29, 목표주가 280만원(기존 420만원에서 하향, 매수 유지)"
+      },
+      "risk": "중국 창신메모리(CXMT) 등 경쟁 심화 우려로 목표주가 하향 조정이 8개 증권사에서 이어진 만큼, 밸류에이션 재조정이 추가로 나올 수 있다.",
+      "sources": [
+        "https://biz.heraldcorp.com/article/10838818",
+        "https://www.hankyung.com/article/202607292047i"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "마이크론",
+      "market": "US",
+      "thesis": "글로벌 메모리 업체 마이크론이 AI 인프라 기업들의 실적 서프라이즈 속 8/12 4.92% 오른 911.29달러로 마감하며 메모리 업황 개선 기대를 재확인시켰다. 삼성전자, SK하이닉스와 함께 메모리 3사 중 하나로, 국내 반도체 랠리와 같은 방향의 움직임을 보이고 있다.",
+      "catalysts": [
+        "다음 분기 실적 발표",
+        "HBM4 공급 확대 및 고객사 계약 진행 상황"
+      ],
+      "levels_watched": {
+        "support": "8/12 종가 911.29달러",
+        "resistance": "52주 최고가 1,255.00달러(2026-06-25)",
+        "analyst_target_cited": "S&P Global 애널리스트 컨센서스(46개 증권사, 2026-08-10 기준), 평균 목표주가 1,502달러, 투자의견 Strong Buy"
+      },
+      "risk": "메모리 가격 사이클이 예상보다 빨리 꺾이거나 중국 경쟁사의 공급 확대가 가속화되면 밸류에이션 부담이 커질 수 있다.",
+      "sources": [
+        "https://stockanalysis.com/stocks/mu/forecast/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
