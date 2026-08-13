@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-13",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-13T19:00:00+09:00",
+  "headline": "미국 CPI 안도와 반도체 실적 훈풍에 코스피 3.56% 급등해 6,813으로 4거래일째 상승했지만, 대형 반도체주에 수급이 쏠리며 상장사 10곳 중 6곳은 오히려 하락했다",
+  "mail_title": "코스피 6800 넘었는데 왜 60%는 하락했나",
+  "kr": {
+    "preview": "코스피는 어제(12일)에 이어 오늘도 삼성전자(+4.89%)와 SK하이닉스(+5.92%)가 지수를 밀어올린 끝에 전 거래일보다 234.30포인트(3.56%) 오른 6,813.34로 마감했다. 4거래일 연속 상승이자 사흘 만에 6,800선을 회복한 것이다. 밤사이 뉴욕증시에서 미국 7월 소비자물가지수가 시장 예상에 부합하며 9월 연방공개시장위원회 기준금리 동결 기대가 확산된 데다, 코어위브와 네비우스, 슈퍼마이크로컴퓨터 등 AI 인프라 기업들의 실적이 예상을 웃돌면서 마이크론과 엔비디아 등 미국 반도체주가 급등한 영향이 국내 증시로 그대로 이어졌다. 특히 모건스탠리가 최선호주를 삼성전자에서 삼성전기로 바꾸며 MLCC 가격 강세와 ABF 기판 수요 개선을 근거로 목표주가를 262만원으로 상향하자 삼성전기가 12.58% 급등했고, SK하이닉스 지분가치가 순자산의 95%를 넘게 차지하는 SK스퀘어도 하이닉스 강세와 증권사 목표주가 상향(대신증권 150만원에서 187만원으로) 소식에 9.08% 뛰었다. 외국인이 2조950억원, 기관이 6,800억원을 순매수하며 지수를 끌어올린 반면 개인은 2조7,230억원을 순매도했다. 다만 대형 반도체주로 수급이 쏠리면서 코스피 상장사 901개 중 59.1%인 533개 종목은 오히려 하락해, 지수 상승률과 체감 온도차가 유독 컸던 하루였다. 코스닥은 861.37로 0.29% 오르는 데 그쳤다. 원달러 환율은 1,415.70원으로 7.70원 내렸다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,813.34",
+        "change_pct": "+3.56%(+234.30p)",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2614293",
+          "https://www.newspim.com/news/view/20260813001119"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "861.37",
+        "change_pct": "+0.29%(+2.46p)",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2614293",
+          "https://kr.investing.com/indices/kospi"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+4.89%(268,000원)",
+        "reason": "미국 7월 CPI가 예상에 부합해 9월 금리동결 기대가 커진 데다 마이크론, 엔비디아 등 미국 반도체주가 급등한 영향으로 대형 반도체주에 매수세가 몰렸다.",
+        "source_url": "https://www.newspim.com/news/view/20260813001127",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260813001127",
+          "https://www.etoday.co.kr/news/view/2614293"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+5.92%(1,593,000원)",
+        "reason": "코어위브, 네비우스, 슈퍼마이크로컴퓨터 등 AI 인프라 기업들의 실적이 시장 예상을 웃돌면서 메모리 수요 기대가 커진 영향으로 삼성전자와 동반 급등했다.",
+        "source_url": "https://www.newspim.com/news/view/20260813001127",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260813001127",
+          "https://www.etoday.co.kr/news/view/2614293"
+        ]
+      },
+      {
+        "ticker": "009150",
+        "name": "삼성전기",
+        "change_pct": "+12.58%",
+        "reason": "모건스탠리가 최선호주를 삼성전자에서 삼성전기로 변경하며 MLCC 가격 강세와 ABF 기판 수요 개선을 근거로 목표주가를 256만원에서 262만원으로 상향한 데다, 반도체주 전반의 강세가 겹쳤다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2613937",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2613937",
+          "https://www.etoday.co.kr/news/view/2614293"
+        ]
+      },
+      {
+        "ticker": "402340",
+        "name": "SK스퀘어",
+        "change_pct": "+9.08%",
+        "reason": "SK하이닉스 지분가치가 순자산의 95% 이상을 차지하는 가운데 하이닉스가 급등했고, 대신증권이 목표주가를 150만원에서 187만원으로 25% 상향한 점도 반영됐다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614293",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2614293"
+        ]
+      },
+      {
+        "ticker": "032830",
+        "name": "삼성생명",
+        "change_pct": "-3.64%",
+        "reason": "대형 반도체주로 수급이 집중되면서 상대적으로 소외되며 하락했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614293",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2614293"
+        ]
+      },
+      {
+        "ticker": "240810",
+        "name": "원익IPS",
+        "change_pct": "+7.62%",
+        "reason": "반도체 장비주로서 삼성전자, SK하이닉스 등 대형 반도체주 강세에 코스닥에서도 동반 상승했다.",
+        "source_url": "https://www.newspim.com/news/view/20260813001127",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260813001127"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+5.41%(대표종목 기준)",
+        "note": "삼성전자(+4.89%), SK하이닉스(+5.92%) 평균. 미국 CPI 안도와 마이크론, 엔비디아 등 미국 반도체주 급등에 힘입어 급등했다.",
+        "source_url": "https://www.newspim.com/news/view/20260813001127"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+3.16%",
+        "note": "코스피 전기전자 업종지수 기준. 반도체 대형주 강세가 전자부품, 디스플레이 등 전방위로 확산됐다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614293"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+1.49%",
+        "note": "코스피 통신 업종지수 기준. 대형주 강세장에 동반 상승했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614293"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+1.87%(대표종목 기준)",
+        "note": "삼성바이오로직스(+0.97%), HLB(+2.76%) 평균. 반도체 대형주 랠리 속에 상대적으로 완만한 상승에 그쳤다.",
+        "source_url": "https://www.newspim.com/news/view/20260813001127"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+2.06%",
+        "note": "코스피 금융 업종지수 기준. KB금융(+1.27%), 신한지주(+2.70%) 등이 상승을 이끌었다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614293"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+1.68%",
+        "note": "코스피 유통 업종지수 기준. 광복절 연휴를 앞둔 대형마트 할인전 등 소비 이슈 속에 완만히 상승했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614170"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+2.01%(대표종목 기준)",
+        "note": "현대차(+2.20%), 기아(+1.33%), 현대모비스(+2.51%) 평균. 시장 전반의 상승 분위기에 동반 강세를 보였다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614293"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+1.42%(대표종목 기준)",
+        "note": "LG에너지솔루션(+1.95%), 에코프로(+0.88%) 평균. 반도체 랠리에 가려 상대적으로 소외됐다.",
+        "source_url": "https://www.newspim.com/news/view/20260813001127"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+1.69%(운송장비부품 업종지수 기준)",
+        "note": "방산 대표주 한화에어로스페이스가 +2.51% 상승하는 등 운송장비부품 업종 전반이 강세를 보였다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614293"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.10%",
+        "note": "코스피 건설 업종지수 기준. 시장 전반의 상승 흐름에 동반 상승했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614293"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+0.55%(대표종목 기준)",
+        "note": "LG화학이 소폭 상승 마감하는 등 반도체 랠리에 가려 상대적으로 부진했다.",
+        "source_url": "https://news.jkn.co.kr/post/955915"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+2.01%",
+        "note": "코스피 금속 업종지수 기준. 시장 전반의 상승 흐름에 동반 강세를 보였다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614293"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+3.25%(대표종목 기준)",
+        "note": "네이버(+5.10%), 카카오(+1.39%) 평균. 네이버는 엔비디아와의 AI 데이터센터 협력 기대가 이어지며 강세를 보였다.",
+        "source_url": "https://www.investing.com/equities/nhn-corp"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.73%(대표종목 기준)",
+        "note": "하이브가 하락하는 등 반도체 대형주로 수급이 쏠리며 소외됐다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,415.70원",
+      "change_pct": "-0.54%(-7.70원)",
+      "source_url": "https://www.newspim.com/news/view/20260813001127"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.99",
+      "change_pct": "+0.01%",
+      "source_url": "https://kr.investing.com/indices/usdollar"
+    },
+    {
+      "name": "금",
+      "value": "$4,430.87/oz(선물)",
+      "change_pct": "-0.82%",
+      "source_url": "https://kr.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$81.78/배럴",
+      "change_pct": "-1.79%",
+      "source_url": "https://kr.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$63,827.0",
+      "change_pct": "+0.02%(24시간)",
+      "source_url": "https://www.investing.com/crypto/bitcoin/btc-usd"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,892.72",
+      "change_pct": "+0.09%(24시간)",
+      "source_url": "https://www.investing.com/crypto/ethereum/eth-usd"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.664%",
+      "change_pct": "-0.60%(-2.8bp)",
+      "source_url": "https://kr.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미국 7월 CPI가 시장 예상에 부합하며 9월 FOMC 기준금리 동결 기대가 커졌고, 미 10년물 국채금리는 4.664%로 소폭 하락했다. 원달러 환율은 외국인 순매수 유입 속에 1,415.70원으로 7.70원 내렸다. WTI는 -1.79%, 금은 -0.82% 하락했다.",
+    "notes": "외국인이 2조950억원, 기관이 6,800억원을 순매수하며 지수를 끌어올린 반면 개인은 2조7,230억원을 순매도했다. 대형 반도체주로 수급이 쏠리면서 코스피 상장사 901개 중 59.1%(533개)가 오히려 하락해, 지수 상승폭과 체감 지수 사이 괴리가 컸다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "삼성전자, SK하이닉스가 미국 반도체주 급등과 AI 인프라 기업 실적 서프라이즈에 힘입어 각각 4.89%, 5.92% 오르며 코스피 상승을 견인했다. 모건스탠리의 삼성전기 최선호주 변경(MLCC, ABF 기판 수요 개선 근거)에 삼성전기가 12.58% 급등했고, SK스퀘어도 하이닉스 지분가치 부각과 목표주가 상향에 9.08% 뛰었다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2614293"
+    },
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "간밤 뉴욕증시에서 코어위브, 네비우스, 슈퍼마이크로컴퓨터 등 AI 인프라 기업들의 실적이 예상을 웃돌면서 AI 투자 지속성에 대한 안도감이 확산됐고, 이 훈풍이 국내 반도체, AI 관련주로 그대로 옮겨붙었다.",
+      "source_url": "https://www.newspim.com/news/view/20260813001127"
+    },
+    {
+      "theme": "개인 수급 소형주 장세",
+      "summary": "외국인과 기관이 삼성전자, SK하이닉스 등 대형 반도체주에 집중 매수하며 코스피를 끌어올린 반면, 개인은 2조7,230억원을 순매도했다. 그 결과 코스피 상장사 901개 중 59.1%(533개)는 지수 급등에도 오히려 하락해 대형주 쏠림 현상이 두드러졌다.",
+      "source_url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143030"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "간밤 미국 증시에서 코어위브, 네비우스 등 AI 인프라 기업 실적 서프라이즈로 엔비디아를 비롯한 반도체주가 급등하며 국내 반도체주 강세로 이어졌다.",
+      "source_url": "https://www.newspim.com/news/view/20260813001127"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "미국 CPI 안도와 반도체주 급등 영향으로 4.89% 오른 268,000원에 마감하며 코스피 상승을 이끌었다.",
+      "source_url": "https://www.newspim.com/news/view/20260813001127"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "AI 인프라 기업 실적 서프라이즈로 메모리 수요 기대가 커지며 5.92% 오른 1,593,000원에 마감했다.",
+      "source_url": "https://www.newspim.com/news/view/20260813001127"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "반도체 대형주로 수급이 쏠린 가운데 1.95% 상승에 그치며 상대적으로 소외됐다.",
+      "source_url": "https://www.newspim.com/news/view/20260813001127"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "시장 전반의 상승 분위기 속에 2.20% 올랐다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2614293"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
