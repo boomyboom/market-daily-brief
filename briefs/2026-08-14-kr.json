@@ -1,0 +1,282 @@
+{
+  "date": "2026-08-14",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-14T19:00:00+09:00",
+  "headline": "외국인이 사흘 넘게 매수 우위를 이어가며 코스피가 장중 7,000선을 다시 터치하고 5거래일 연속 상승한 6,977.94로 마감했지만, 어제까지 지수를 이끌던 반도체 대신 로봇 사업 확대 소식의 현대차와 앤스로픽 지분가치가 부각된 SK텔레콤이 오늘의 주인공이었다",
+  "mail_title": "코스피 7000 터치, 오늘 주인공은 삼전이 아니었다",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 164.60포인트(2.42%) 오른 6,977.94로 마감해 이번 주 5거래일 연속 상승했다. 장 초반에는 182.33포인트(2.68%) 오른 6,995.67로 출발해 장중 한때 7,010.86까지 오르며 15거래일 만에 장중 7,000선을 다시 터치했지만, 오후 들어 상승폭을 일부 반납하며 6,900대 후반에서 마감했다. 이번 주에만 코스피는 10%대 넘게 올라 7월 30일 저점 대비로는 20% 넘게 반등한 상태다. 외국인이 유가증권시장에서 3조원 넘게 순매수하며 지수를 끌어올린 반면, 개인은 1조9,820억원, 기관은 1조298억원을 각각 순매도했다. 외국인은 이번 주 11일부터 14일까지 4거래일 연속 매수 우위를 보이며 총 6조원 넘게 사들여 이번 주 상승랠리를 사실상 혼자 이끌었다.\n\n전날까지 지수 상승을 주도했던 삼성전자(+2.43%, 274,500원)와 SK하이닉스(+3.26%, 1,645,000원)는 오늘도 올랐지만 상승폭은 하루 전(각각 4.89%, 5.92%)보다 크게 둔화됐다. 대신 이날 시장의 주인공은 현대차그룹과 SK텔레콤이었다. 현대차그룹이 1차 협력사들의 휴머노이드 로봇 사업 계획을 점검하고 2028년부터 단계적 양산에 나선다는 소식이 전해지며 로봇 부품 공급망 재편 기대감이 부각되자 현대차가 8.24% 급등한 453,000원에 마감했고, 현대모비스도 7.05% 올랐다. 통신업종에서는 SK텔레콤이 보유 중인 앤스로픽 지분가치가 재부각된 데다 AI 데이터센터(AIDC) 사업과 AI 결합요금제 확대 기대감이 겹치며 10.32% 급등해, 통신업종 지수를 하루 만에 6.10% 끌어올렸다. 배터리 업종에서도 AI 데이터센터용 ESS(에너지저장장치) 수요 증가 기대감에 삼성SDI가 5.95% 뛰었다. 코스닥은 864.65로 0.38% 오르는 데 그쳐 코스피와 온도차를 보였다. 원달러 환율은 1,418.30원으로 전일 대비 소폭(-0.3원) 내렸다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,977.94",
+        "change_pct": "+2.42%(+164.60p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260814001037",
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "864.65",
+        "change_pct": "+0.38%(+3.28p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260814001037",
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005380",
+        "name": "현대차",
+        "change_pct": "+8.24%(453,000원)",
+        "reason": "현대차그룹이 1차 협력사들의 휴머노이드 로봇 사업 계획을 점검하고 2028년부터 단계적 양산에 나선다는 소식이 전해지며 로봇 부품 공급망 재편 기대감이 부각됐다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614845",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2614845",
+          "https://www.newspim.com/news/view/20260814001037"
+        ]
+      },
+      {
+        "ticker": "017670",
+        "name": "SK텔레콤",
+        "change_pct": "+10.32%",
+        "reason": "SK텔레콤이 보유한 앤스로픽 지분가치가 재부각된 가운데 AI 데이터센터(AIDC) 사업 확대와 AI 결합요금제 출시 기대감이 겹치며 급등했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446",
+        "source_urls": [
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446",
+          "https://www.etoday.co.kr/news/view/2614845"
+        ]
+      },
+      {
+        "ticker": "012330",
+        "name": "현대모비스",
+        "change_pct": "+7.05%",
+        "reason": "현대차그룹의 로봇 부품 공급망 재편 기대감에 현대차와 동반 급등했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614845",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2614845",
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+        ]
+      },
+      {
+        "ticker": "006400",
+        "name": "삼성SDI",
+        "change_pct": "+5.95%",
+        "reason": "AI 데이터센터용 ESS(에너지저장장치) 수요 증가 기대감이 부각되며 상승했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446",
+        "source_urls": [
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+2.43%(274,500원)",
+        "reason": "전날에 이어 메모리 반도체 업황 개선 기대가 이어졌지만, 로봇과 통신주로 수급이 옮겨가며 상승폭은 전일(+4.89%)보다 크게 둔화됐다.",
+        "source_url": "https://www.newspim.com/news/view/20260814001037",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260814001037",
+          "https://biz.heraldcorp.com/article/10841843"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+3.26%(1,645,000원)",
+        "reason": "메모리 업황 개선 기대가 이어지며 상승했지만, 상승폭은 전일(+5.92%)보다 둔화됐다.",
+        "source_url": "https://www.newspim.com/news/view/20260814001037",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260814001037",
+          "https://biz.heraldcorp.com/article/10841843"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.85%(대표종목 기준)",
+        "note": "삼성전자(+2.43%), SK하이닉스(+3.26%) 평균. 메모리 업황 개선 기대가 이어졌지만 로봇, 통신주로 수급이 분산되며 전일보다 상승폭이 줄었다.",
+        "source_url": "https://www.newspim.com/news/view/20260814001037"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+2.68%",
+        "note": "코스피 전기/전자 업종지수 기준. 반도체 대형주 강세가 전자부품 전반으로 확산됐다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+6.10%",
+        "note": "코스피 통신업 업종지수 기준. SK텔레콤이 앤스로픽 지분가치 재부각과 AI 데이터센터, AI 결합요금제 기대감에 10.32% 급등하며 업종 전체를 끌어올렸다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-0.52%",
+        "note": "코스피 제약 업종지수 기준. 로봇, 통신주 랠리에 가려 소외되며 하락했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.50%(대표종목 기준)",
+        "note": "KB금융(+0.24%), 신한지주(+0.75%) 평균. 시장 전반의 상승 분위기 속에 완만한 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+1.15%",
+        "note": "코스피 유통업 업종지수 기준. 시장 전반의 상승 흐름에 동반 상승했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+6.14%(대표종목 기준)",
+        "note": "현대차(+8.24%), 기아(+3.13%), 현대모비스(+7.05%) 평균. 현대차그룹의 로봇 부품 공급망 재편 소식에 급등했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2614845"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+3.52%(대표종목 기준)",
+        "note": "삼성SDI(+5.95%), LG에너지솔루션(+1.09%) 평균. AI 데이터센터용 ESS 수요 증가 기대감에 삼성SDI가 강세를 보였다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+3.58%(운송장비/부품 업종지수 기준)",
+        "note": "현대차그룹 로봇 관련 강세와 함께 조선, 방산을 포함한 운송장비/부품 업종 전반이 동반 상승했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+0.31%",
+        "note": "코스피 건설업 업종지수 기준. 시장 전반의 상승 흐름 속에 소폭 상승에 그쳤다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+1.40%",
+        "note": "코스피 화학 업종지수 기준. 시장 전반의 상승 흐름에 동반 상승했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-0.34%",
+        "note": "코스피 금속 업종지수 기준. 로봇, 통신주 랠리에 가려 소외되며 하락했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+1.03%(대표종목 기준)",
+        "note": "네이버(+0.66%), 카카오(+1.39%) 평균. 시장 전반의 상승 흐름 속에 완만히 상승했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+1.10%(대표종목 기준)",
+        "note": "하이브(+1.70%), JYP Ent.(+0.49%) 평균. 시장 전반의 상승 흐름 속에 완만히 상승했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,418.30원",
+      "change_pct": "-0.02%(-0.3원)",
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.96",
+      "change_pct": "+0.02%",
+      "source_url": "https://www.newspim.com/news/view/20260814000257"
+    },
+    {
+      "name": "금",
+      "value": "$4,420.40/oz(선물)",
+      "change_pct": "-1.1%",
+      "source_url": "https://www.newspim.com/news/view/20260814000257"
+    },
+    {
+      "name": "WTI",
+      "value": "$81.25/배럴",
+      "change_pct": "-2.4%",
+      "source_url": "https://www.newspim.com/news/view/20260814000257"
+    },
+    {
+      "name": "비트코인",
+      "value": "$63,370.58",
+      "change_pct": "-0.18%(24시간)",
+      "source_url": "https://www.tokenpost.kr/news/briefing/390613"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,883.57",
+      "change_pct": "+0.17%(24시간)",
+      "source_url": "https://www.tokenpost.kr/news/briefing/390613"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.639%",
+      "change_pct": "-5.3bp",
+      "source_url": "https://www.newspim.com/news/view/20260814000257"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "달러인덱스는 99.96으로 소폭 상승했고 미 10년물 국채금리는 4.639%로 하락세를 이어갔다. 국제유가는 글로벌 수요 둔화 우려와 미국 원유재고 급증에 WTI 기준 2.4% 내렸고, 금은 최근 랠리에 따른 차익실현 매물에 1.1% 하락했다. 원달러 환율은 1,418.30원으로 전일과 큰 차이 없이 마감했다.",
+    "notes": "외국인이 유가증권시장에서 3조원 넘게 순매수하며 이번 주 4거래일 연속 매수 우위를 이어간 반면, 개인은 1조9,820억원, 기관은 1조298억원을 순매도해 외국인 홀로 지수 상승을 이끈 하루였다. 코스닥에서는 반대로 개인이 3,151억원을 순매수하고 외국인과 기관이 매도 우위를 보였다."
+  },
+  "top_themes": [
+    {
+      "theme": "로봇과 휴머노이드",
+      "summary": "현대차그룹이 1차 협력사들의 휴머노이드 로봇 사업 계획을 점검하고 2028년부터 단계적 양산에 나선다는 소식이 전해지며 현대차(+8.24%), 현대모비스(+7.05%) 등 그룹주가 일제히 급등해 자동차 업종 상승을 이끌었다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2614845"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "외국인이 유가증권시장에서 3조원 넘게 순매수하며 이번 주 11일부터 14일까지 4거래일 연속 매수 우위를 보였고, 이 기간 총 6조원 넘게 사들이며 코스피의 5거래일 연속 상승과 장중 7,000선 터치를 사실상 혼자 이끌었다. 반면 개인은 1조9,820억원을 순매도했다.",
+      "source_url": "https://biz.heraldcorp.com/article/10841843"
+    },
+    {
+      "theme": "AI 데이터센터 전력",
+      "summary": "SK텔레콤이 보유한 앤스로픽 지분가치가 재부각된 데다 AI 데이터센터(AIDC) 사업 확대와 AI 결합요금제 출시 기대감이 겹치며 10.32% 급등해 통신업종 지수를 6.10% 끌어올렸다. 데이터센터 전력망보다는 통신사의 AI 지분투자, 수익모델 확대 성격이 강해, 이런 흐름이 반복되면 '통신주 AI 수익화' 같은 별도 테마명을 검토할 필요가 있다.",
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "메모리 업황 개선 기대가 이어지며 2.43% 오른 274,500원에 마감했지만 상승폭은 전일보다 둔화됐다.",
+      "source_url": "https://www.newspim.com/news/view/20260814001037"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "메모리 업황 개선 기대 속에 3.26% 오른 1,645,000원에 마감했다.",
+      "source_url": "https://www.newspim.com/news/view/20260814001037"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "AI 데이터센터용 ESS 수요 기대감 속에 1.09% 상승에 그쳐 같은 업종 삼성SDI(+5.95%)보다 상대적으로 소외됐다.",
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217446"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "1차 협력사 휴머노이드 로봇 사업 계획과 2028년 단계적 양산 소식에 8.24% 급등한 453,000원에 마감하며 오늘 코스피 상승을 이끈 주인공이 됐다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2614845"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
