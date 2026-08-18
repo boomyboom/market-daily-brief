@@ -1,0 +1,509 @@
+{
+  "date": "2026-08-19",
+  "generated_at_kst": "2026-08-19T08:00:00+09:00",
+  "mode": "new",
+  "headline": "미국 빅테크 9곳이 AI 관련 3조달러 규모의 부외 약정을 지고 있다는 월스트리트저널 보도에 간밤 뉴욕증시에서 마이크론이 7%, SK하이닉스 나스닥 예탁증서(ADR)가 9%대 급락하는 등 반도체, 메모리주가 일제히 투매되면서 전날 기관 매물에 6,800선까지 밀렸던 코스피가 오늘도 반도체 대형주 부담 속에 출발할 전망이다",
+  "mail_title": "SK하이닉스 ADR 하루새 9% 급락",
+  "kr": {
+    "preview": "코스피는 어제(18일) 개장 초 반도체 강세로 장중 3.42% 오른 7,216.62까지 치솟으며 17거래일 만에 7,200선을 터치했지만, 오후 들어 기관이 1조1,926억원어치를 순매도하며 상승분을 모두 반납해 1.55% 내린 6,869.83으로 마감했습니다. 코스닥도 장중 866선까지 올랐다가 3.52% 내린 834.20으로 마쳐 6거래일 만에 하락 전환했습니다. 현대차그룹 로봇주(현대차 -3.97%, 현대모비스 -5.30%)와 2차전지(LG에너지솔루션 -5.01%, 삼성SDI -5.43%)가 기관 매도세에 특히 크게 밀렸고, 중국의 7월 산업생산(+4.5%, 전망치 5.0% 하회), 소매판매(+0.6%, 전망치 1.5% 하회) 부진도 오후 낙폭을 키운 배경으로 꼽혔습니다.\n\n간밤 미국 증시는 이보다 더 크게 흔들렸습니다. 월스트리트저널이 마이크로소프트, 메타 등 주요 빅테크 9곳이 AI 관련 부외(off-balance-sheet) 약정을 3조달러 규모로 짊어지고 있으며, 이는 이들 기업의 리스와 장기차입금을 합친 것보다 약 3배 크다고 보도하면서 반도체, 메모리주에 매물이 쏟아졌습니다. 마이크론은 전날 종가 기준 사상 처음 1,000달러를 돌파한 지 하루 만에 7.02% 급락한 940.76달러로 밀렸고, 샌디스크(-9.1%)와 웨스턴디지털(-5.3%)도 동반 급락했습니다. 지난달 10일 나스닥에 상장한 SK하이닉스의 미국 예탁증서(ADR, 티커 SKHY)도 9.20% 급락한 155.62달러로 마감해, 국내 정규장이 열리는 오늘 삼성전자, SK하이닉스 등 반도체 대형주에 부담으로 작용할 가능성이 높습니다. 필라델피아반도체지수(SOXX)는 4.96% 급락해 지난 2주 사이 가장 큰 하루 낙폭을 기록했고, 엔비디아(-2.34%), 인텔, AMD도 5~6%대 밀렸습니다. 다만 마이크론 CEO는 최근 실적발표에서 \"D램과 낸드 수요가 공급을 계속 웃돌고 있다\"고 밝힌 바 있어, 이번 급락은 실적 훼손이 아니라 단기 급등에 따른 차익실현과 금리 부담이 겹친 결과로 풀이됩니다.\n\n같은 날 앤스로픽과 오픈AI가 각각 연환산매출(ARR)을 공개했는데, 앤스로픽은 7월 말 기준 650억달러로 지난해 말(약 90억달러) 대비 7배 넘게 늘었고 오픈AI는 400억달러 수준이었습니다. 절대 수치는 크지만 시장의 기대치에는 못 미쳤고, 로이터는 앤스로픽이 투자자들에게 2028년 매출을 1,900억~2,000억달러 수준으로 제시했다고 보도했는데 이는 투자자들이 기대했던 2026년 말 연환산매출 4,000억~5,000억달러에 크게 못 미치는 수준입니다. 이 여파로 코어위브(-11.8%), 네비우스(-8%대), 테라울프(-12%대) 등 AI 데이터센터(네오클라우드) 관련주가 급락했습니다. 여기에 미 국채 30년물 금리가 장중 5.32%까지 오르며 2007년 이후 최고치 부근에서 계속 머물렀고(종가 기준 소폭 반락), 10년물도 4.70%대를 유지해 금리 부담이 반도체, 성장주 전반의 투매를 부추겼습니다. 국제유가는 미국과 이란의 지정학 긴장이 이어지며 WTI가 84.42달러(+0.81%), 브렌트유가 배럴당 91달러 선을 웃돌았습니다. 이 여파로 S&P500은 0.69%, 나스닥은 1.33%, 다우는 0.22% 각각 밀렸습니다.\n\n국내에서는 삼성전자와 SK하이닉스의 주주환원 발표가 이달 안으로 임박했다는 관측이 이어지고 있습니다. 하나증권 김록호 리서치센터 팀장은 삼성전자가 최소 130조원(자사주 취득 약 60조원, 연말 특별배당 약 70조원) 규모의 환원을, SK하이닉스는 하반기 영업이익과 설비투자를 고려할 때 40조~60조원 규모의 환원 재원을 활용할 수 있다고 전망했습니다. 오늘 개장 후에는 간밤 반도체 투매 여파로 삼성전자, SK하이닉스가 얼마나 조정을 받을지, 그리고 대규모 환원 기대감이 이를 얼마나 상쇄할 수 있을지가 최대 관전포인트로 꼽힙니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,869.83",
+        "change_pct": "-1.55%(-108.11p, 8/18 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2615590",
+          "https://www.newspim.com/news/view/20260818001094"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "834.20",
+        "change_pct": "-3.52%(-30.45p, 8/18 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2615590",
+          "https://www.newspim.com/news/view/20260818001094"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "ADR -9.20%($155.62, 8/18, 코스피 종가는 +1.03% 1,662,000원)",
+        "reason": "월스트리트저널이 미국 빅테크 9곳의 3조달러 규모 AI 부외 약정을 지적하며 반도체, 메모리주에 매물이 쏟아졌다. 지난달 나스닥에 상장한 SK하이닉스 ADR(SKHY)도 9.20% 급락해, 전날 코스피 정규장에서 나 홀로 상승했던 것과 달리 오늘 국내 정규장에는 부담으로 작용할 가능성이 크다.",
+        "source_url": "https://stockanalysis.com/stocks/skhy/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/skhy/",
+          "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-2.19%(268,500원, 8/18 종가, 최근 거래일)",
+        "reason": "하나증권 김록호 리서치센터 팀장이 자사주 취득 약 60조원과 연말 특별배당 약 70조원을 더해 최소 130조원 규모의 주주환원이 가능하다고 전망하며 이르면 8월 안에 구체안이 발표될 것으로 내다봤다. 간밤 반도체 투매 여파와 환원 기대감이 오늘 개장 후 팽팽히 맞설 것으로 보인다.",
+        "source_url": "https://www.g-enews.com/article/Securities/2026/08/20260812132652366153ddfb15a_1",
+        "source_urls": [
+          "https://www.g-enews.com/article/Securities/2026/08/20260812132652366153ddfb15a_1"
+        ]
+      },
+      {
+        "ticker": "017670",
+        "name": "SK텔레콤",
+        "change_pct": "8/18 미국장 기준 관련 소식 (코스피는 전날 -0.70%대 약세)",
+        "reason": "앤스로픽이 투자자들에게 7월 말 기준 연환산매출(ARR)이 650억달러로 지난해 말 대비 7배 넘게 늘었다고 밝혔다. 다만 로이터는 앤스로픽이 2028년 매출을 1,900억~2,000억달러로 제시했다고 보도했는데, 이는 투자자들이 기대했던 2026년 말 ARR 4,000억~5,000억달러에 못 미쳐 이르면 올가을로 예상되는 IPO 밸류에이션 눈높이 조정 가능성도 함께 거론된다.",
+        "source_url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+        "source_urls": [
+          "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+          "https://www.investing.com/news/stock-market-news/anthropic-revenue-run-rate-passed-65-billion-in-july--report-4863865"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "18일(현지시간) 뉴욕증시는 반도체와 메모리주 급락에 3대 지수가 일제히 하락했습니다. S&P500은 0.69%(-53.30p) 내린 7,691.76, 나스닥은 1.33%(-355.20p) 내린 26,289.71, 다우는 0.22%(-116.38p) 내린 53,343.40으로 마감했습니다. 월스트리트저널이 마이크로소프트, 메타 등 미국 주요 빅테크 9곳이 인공지능(AI) 관련 부외(off-balance-sheet) 약정을 3조달러 규모로 짊어지고 있으며 이는 이들 기업의 리스와 장기차입금을 합친 것보다 약 3배 크다고 보도하면서 투자심리가 급격히 얼어붙었습니다. 전날 종가 기준 사상 처음 1,000달러를 돌파했던 마이크론은 하루 만에 7.02% 급락한 940.76달러로 밀렸고, 샌디스크(-9.1%)와 웨스턴디지털(-5.3%)도 동반 급락했습니다. 필라델피아반도체지수(SOXX)는 4.96% 급락해 최근 2주 사이 가장 큰 낙폭을 기록했고, 엔비디아(-2.34%, 219.74달러)를 비롯해 인텔, AMD, 마벨 등도 5~6%대 밀렸습니다. 같은 날 앤스로픽과 오픈AI가 나란히 연환산매출(ARR)을 공개했는데(앤스로픽 650억달러, 오픈AI 400억달러) 시장의 기대치에는 못 미쳤고, 로이터가 보도한 앤스로픽의 2028년 매출 전망(1,900억~2,000억달러)도 투자자들이 기대했던 2026년 말 ARR(4,000억~5,000억달러)에 크게 못 미쳐 코어위브(-11.8%), 네비우스(-8%대), 테라울프(-12%대) 등 AI 데이터센터(네오클라우드) 관련주가 급락했습니다. 미 국채 30년물 금리는 장중 5.32%까지 올라 2007년 이후 최고치 부근에서 계속 머물렀고, 10년물도 4.70%대를 유지했습니다. 국제유가는 미국과 이란의 지정학 긴장 속에 WTI가 84.42달러(+0.81%), 브렌트유가 배럴당 91달러 선을 웃돌았습니다. 금은 온스당 4,389.50달러(-1.88%)로 반락했고 VIX 지수는 15.84로 4.28% 올랐습니다. 개별 종목에서는 클라르나가 예상보다 낮춘 연간 가이던스에 20%대 급락했고, 홈디포는 예상을 웃돈 실적에도 보합권에 머물렀습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,691.76",
+        "change_pct": "-0.69%(-53.30p, 8/18)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,289.71",
+        "change_pct": "-1.33%(-355.20p, 8/18)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,343.40",
+        "change_pct": "-0.22%(-116.38p, 8/18)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "MU",
+        "name": "Micron",
+        "change_pct": "-7.02%(8/18, 940.76달러)",
+        "reason": "월스트리트저널의 빅테크 9곳 3조달러 규모 부외 약정 보도로 반도체, 메모리주 전반에 매물이 쏟아지며 전날 사상 처음 1,000달러를 돌파한 지 하루 만에 급락했다. 넷리스트가 12일 마이크론을 상대로 특허침해 관련 국제무역위원회(ITC) 제소를 제기한 점도 부담으로 거론된다.",
+        "source_url": "https://247wallst.com/investing/2026/08/18/wsj-report-sends-memory-stocks-down-sandisk-down-9-micron-down-7-western-digital-down-5/",
+        "source_urls": [
+          "https://247wallst.com/investing/2026/08/18/wsj-report-sends-memory-stocks-down-sandisk-down-9-micron-down-7-western-digital-down-5/",
+          "https://stockanalysis.com/stocks/mu/"
+        ]
+      },
+      {
+        "ticker": "CRWV",
+        "name": "CoreWeave",
+        "change_pct": "-11.8%(8/18)",
+        "reason": "앤스로픽과 오픈AI의 연환산매출(ARR)이 시장 기대치를 밑돌고 미 국채 금리가 계속 오르는 가운데, 차입 비용 부담이 큰 AI 데이터센터(네오클라우드) 관련주에 대한 우려가 부각되며 급락했다.",
+        "source_url": "https://www.fool.com/investing/2026/08/18/why-coreweave-stock-is-down-11/",
+        "source_urls": [
+          "https://www.fool.com/investing/2026/08/18/why-coreweave-stock-is-down-11/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-0.58%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "삼성전자(-2.19%), SK하이닉스(+1.03%) 평균. 장중 앤스로픽 실적 호조에 급등했으나 오후 기관 매물에 상승폭 대부분을 반납했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005930"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-5.39%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "삼성전기(-7.57%), LG이노텍(-3.21%) 평균. 반도체 기판, 부품주가 기관 매도세에 코스피 내에서 가장 크게 밀렸다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/009150"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.50%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "SK텔레콤(-0.70%), KT(+1.69%) 평균. 시장 전반의 약세 속에서도 방어적 흐름을 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/030200"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.92%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "삼성바이오로직스(-1.10%), 셀트리온(-2.74%) 평균. 시장 전반의 하락 흐름에 동반 하락했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/068270"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.42%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "KB금융(0.00%), 신한지주(-0.84%) 평균. 시장 전반보다 상대적으로 낙폭이 작았다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-1.73%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "이마트(-3.55%), 롯데쇼핑(+0.10%) 평균. 종목별로 등락이 엇갈렸다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/139480"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-4.15%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "현대차(-3.97%), 기아(-3.18%), 현대모비스(-5.30%) 평균. 지난주 로봇 기대감에 급등했던 것을 하루 만에 대부분 반납했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005380"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-5.22%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "LG에너지솔루션(-5.01%), 삼성SDI(-5.43%) 평균. 기관 매도세에 성장주 전반이 약세를 보인 가운데 낙폭이 컸다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/006400"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-2.10%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "HD한국조선해양(-2.98%), 한화에어로스페이스(-1.21%) 평균. 시장 전반의 하락 흐름에 동반 하락했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/009540"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-4.92%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "현대건설 기준. 시장 전반보다 낙폭이 컸다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/000720"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-3.57%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "LG화학 기준. 시장 전반의 하락 흐름에 동반 하락했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/051910"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-3.51%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "POSCO홀딩스(-2.84%), 현대제철(-4.18%) 평균. 시장 전반의 하락 흐름에 동반 하락했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005490"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-4.60%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "네이버(-4.82%), 카카오(-4.38%) 평균. 기관 매도세에 성장주 전반이 약세를 보인 가운데 낙폭이 컸다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-4.19%(대표종목 기준, 8/18 종가, 최근 거래일)",
+        "note": "하이브(-4.24%), JYP Ent.(-4.14%) 평균. 기관 매도세에 성장주 전반이 약세를 보인 가운데 낙폭이 컸다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-4.96%(SOXX, 8/18)",
+        "note": "월스트리트저널의 빅테크 부외 약정 보도로 최근 2주 사이 가장 큰 하루 낙폭을 기록했다",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-2.47%(XLK, 8/18)",
+        "note": "반도체 투매 여파로 12개 섹터 중 낙폭이 두 번째로 컸다",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-0.31%(XLC, 8/18)",
+        "note": "완만한 약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+1.60%(XLV, 8/18)",
+        "note": "반도체 약세 속에 상대적으로 강세를 보이며 방어주로 자금이 이동했다",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.45%(XLF, 8/18)",
+        "note": "국채금리 부담 속에서도 소폭 상승했다",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-0.33%(XLY, 8/18)",
+        "note": "완만한 약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+1.06%(XLP, 8/18)",
+        "note": "반도체 약세 속에 방어주로 자금이 이동하며 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-1.48%(XLI, 8/18)",
+        "note": "시장 전반의 약세 흐름에 동반 하락했다",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.84%(XLB, 8/18)",
+        "note": "완만한 약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+1.76%(XLE, 8/18)",
+        "note": "국제유가 강세에 힘입어 12개 섹터 중 상승폭이 가장 컸다",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-0.36%(XLU, 8/18)",
+        "note": "완만한 약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.45%(XLRE, 8/18)",
+        "note": "국채금리 부담 속에 약세로 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,412.57",
+      "change_pct": "-0.21%(-2.91원, 8/18 KST 19시 기준)",
+      "source_url": "https://www.newspim.com/news/view/20260818001094"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.64",
+      "change_pct": "-0.02%(8/18)",
+      "source_url": "https://www.investing.com/indices/usdollar"
+    },
+    {
+      "name": "금",
+      "value": "$4,389.50/oz(선물)",
+      "change_pct": "-1.88%(8/18)",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$84.42/배럴",
+      "change_pct": "+0.81%(8/18)",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$64,423",
+      "change_pct": "+2.2%(24시간)",
+      "source_url": "https://sundayguardianlive.com/business/crypto-price-prediction-august-19-2026-bitcoin-eyes-64k-ethereum-tests-1900-and-xrp-defends-1-ahead-of-fed-minutes-263681/"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,910.88",
+      "change_pct": "+0.3%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.70%",
+      "change_pct": "-1.8bp(8/18)",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 국채 30년물 금리는 18일 장중 5.32%까지 올라 2007년 이후 최고치 부근에서 계속 머물렀고, 10년물은 4.70%대로 소폭(-1.8bp) 내렸다. 달러인덱스는 99.64로 보합권, 금은 온스당 4,389.50달러(-1.88%)로 반락했다. 국제유가는 미국과 이란의 지정학 긴장 속에 WTI가 84.42달러(+0.81%), 브렌트유가 배럴당 91달러 선을 웃돌았다. 원달러 환율은 전날 KST 19시 기준 1,412.57원으로 소폭(-0.21%) 내렸다.",
+    "notes": "월스트리트저널이 마이크로소프트, 메타 등 미국 빅테크 9곳이 AI 관련 부외(off-balance-sheet) 약정을 3조달러 규모로 짊어지고 있다고 보도하며(이들 기업의 리스와 장기차입금 합계의 약 3배 규모) 반도체, 메모리, AI 데이터센터 관련주에 광범위한 투매가 나타났다. 같은 날 앤스로픽(연환산매출 650억달러)과 오픈AI(400억달러)가 나란히 성장세를 공개했지만 시장 기대치에는 못 미쳤고, 로이터가 보도한 앤스로픽의 2028년 매출 전망(1,900억~2,000억달러)도 투자자들이 기대했던 2026년 말 연환산매출(4,000억~5,000억달러)에 크게 못 미쳐 AI 밸류에이션 눈높이 조정 우려를 키웠다. 국내에서는 삼성전자(하나증권 추정 최소 130조원)와 SK하이닉스(40조~60조원)의 주주환원 구체안이 이달 안으로 발표될 수 있다는 관측이 이어지고 있어, 오늘 개장 후 반도체 투매 여파와 환원 기대감이 어떻게 맞설지가 관전포인트다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "월스트리트저널이 미국 빅테크 9곳의 3조달러 규모 AI 부외 약정을 보도하면서 전날 사상 처음 1,000달러를 돌파했던 마이크론이 하루 만에 7.02% 급락했고, 샌디스크(-9.1%), 웨스턴디지털(-5.3%)도 동반 하락했다. 지난달 나스닥에 상장한 SK하이닉스 ADR(SKHY)도 9.20% 급락해 오늘 국내 반도체 대형주에 부담으로 작용할 가능성이 크다. 다만 마이크론 CEO는 최근 실적발표에서 D램, 낸드 수요가 공급을 계속 웃돌고 있다고 밝혀, 이번 급락은 펀더멘털 훼손보다 차익실현과 금리 부담이 겹친 결과로 풀이된다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://247wallst.com/investing/2026/08/18/wsj-report-sends-memory-stocks-down-sandisk-down-9-micron-down-7-western-digital-down-5/"
+    },
+    {
+      "theme": "AI 자본지출 논쟁",
+      "summary": "월스트리트저널이 마이크로소프트, 메타 등 미국 빅테크 9곳이 AI 관련 부외 약정을 3조달러 규모로 짊어지고 있으며 이는 이들 기업의 리스, 장기차입금 합계의 약 3배에 달한다고 보도했다. 같은 날 앤스로픽(ARR 650억달러)과 오픈AI(400억달러)의 성장세가 시장 기대치에 못 미치고, 앤스로픽의 2028년 매출 전망(1,900억~2,000억달러)도 투자자들이 기대했던 2026년 말 ARR(4,000억~5,000억달러)에 크게 못 미친 것으로 알려지며 코어위브(-11.8%), 네비우스(-8%대), 테라울프(-12%대) 등 AI 데이터센터 관련주가 급락했다.",
+      "tickers": [],
+      "source_url": "https://www.fool.com/investing/2026/08/18/why-coreweave-stock-is-down-11/"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "미 국채 30년물 금리가 18일 장중 5.32%까지 올라 2007년 이후 최고치 부근에서 계속 머물렀고, 10년물도 4.70%대를 유지했다. 재정적자 확대 우려와 AI 기업들의 대규모 회사채 발행이 맞물리며 장기금리 부담이 반도체, 성장주 전반의 투매를 부추기는 요인으로 지목된다.",
+      "tickers": [],
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
+    },
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "하나증권 김록호 리서치센터 팀장은 삼성전자가 자사주 취득(약 60조원)과 연말 특별배당(약 70조원)을 더해 최소 130조원 규모의 주주환원을, SK하이닉스는 하반기 영업이익과 설비투자를 고려할 때 40조~60조원 규모의 환원 재원을 활용할 수 있다고 전망했다. 이르면 8월 안에 양사의 구체안이 발표될 수 있다는 관측이 이어지고 있다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.g-enews.com/article/Securities/2026/08/20260812132652366153ddfb15a_1"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "반도체 섹터(SOXX -4.96%) 투매 속에 8/18 2.34% 내린 219.74달러로 마감했다. 8월27일 실적 발표를 앞두고 있다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "8/18 1.45% 오른 310.03달러로 반도체 약세 속에서도 상승했다. 초당적 상원의원들이 요구한 중국산 메모리 배제 서약 시한(8월21일)을 앞두고 있다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "8/18 0.27% 오른 481.63달러로 전날 급락분 일부를 회복했다. 월스트리트저널의 빅테크 부외 약정 보도에 마이크로소프트도 거론됐다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "8/18 0.70% 내린 336.93달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "8/18 0.59% 내린 171.54달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "8/18 2.19% 내린 268,500원으로 마감했다. 하나증권은 최소 130조원 규모의 주주환원이 이르면 8월 안에 발표될 수 있다고 전망했다.",
+      "source_url": "https://www.g-enews.com/article/Securities/2026/08/20260812132652366153ddfb15a_1"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "8/18 코스피 정규장에서는 1.03% 오른 1,662,000원에 마감했지만, 같은 날 미국 ADR(SKHY)은 9.20% 급락한 155.62달러로 마쳐 오늘 국내 개장 후 흐름이 주목된다.",
+      "source_url": "https://stockanalysis.com/stocks/skhy/"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "삼성SDI(-5.43%)와 함께 기관 매도세에 밀리며 8/18 5.01% 내린 351,000원에 마감했다.",
+      "source_url": "https://markets.hankyung.com/stock/373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "지난주 14일 로봇 기대감에 급등한 것을 하루 만에 대부분 반납하며 8/18 3.97% 내린 435,000원에 마감했다.",
+      "source_url": "https://markets.hankyung.com/stock/005380"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "지난달 10일 나스닥에 상장한 미국 예탁증서(ADR, 티커 SKHY)가 18일 월스트리트저널의 빅테크 부외 약정 보도發 반도체 투매 속에 9.20% 급락하며 155.62달러로 마감했다. 같은 날 코스피 정규장에서는 1.03% 오른 1,662,000원으로 대형주 중 거의 유일하게 상승 마감했던 것과 대비되는 흐름으로, 오늘 국내 정규장 개장 후 조정 압력으로 작용할 가능성이 크다. 하나증권은 하반기 영업이익과 설비투자를 고려할 때 40조~60조원 규모의 주주환원 재원을 활용할 수 있다고 전망했다.",
+      "catalysts": [
+        "8월 중(늦어도 9월 이전) 주주환원 구체안 발표 전망",
+        "HBM4 공급 확대 및 마이크론 등 경쟁사 동향",
+        "375원 분기배당 8/31 기준일"
+      ],
+      "levels_watched": {
+        "support": "코스피 종가 1,662,000원 / ADR 8/18 종가 $155.62",
+        "resistance": "코스피 사상 최고가 298만7,000원(2026-06-25, 장중) / ADR 52주 최고 $194.80",
+        "analyst_target_cited": "미확인"
+      },
+      "risk": "월스트리트저널 보도발 반도체, 메모리 투매가 이어지거나 예고된 주주환원 규모가 시장 기대(40조~60조원)에 못 미치면 추가 조정이 나올 수 있다.",
+      "sources": [
+        "https://stockanalysis.com/stocks/skhy/",
+        "https://www.g-enews.com/article/Securities/2026/08/20260812132652366153ddfb15a_1"
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "하나증권 김록호 리서치센터 팀장은 자사주 취득 약 60조원과 연말 특별배당 약 70조원을 더해 삼성전자가 최소 130조원 규모의 주주환원에 나설 수 있다고 전망하며, 이르면 8월 안에 구체안이 발표될 것으로 내다봤다. 다만 18일 간밤 미국 반도체주 투매 여파가 오늘 개장 직후 주가에 부담을 줄 수 있다.",
+      "catalysts": [
+        "8월 중 주주환원 정책 구체안 발표 전망",
+        "2분기 현금배당(보통주, 우선주 각 374원) 지급",
+        "HBM4 공급계약 확대 여부"
+      ],
+      "levels_watched": {
+        "support": "8/18 종가 268,500원",
+        "resistance": "52주 최고가 37만4,500원(2026-06-19, 장중)",
+        "analyst_target_cited": "하나증권(김록호), 2026-08-12, 최소 130조원(자사주 약 60조원, 특별배당 약 70조원) 규모 환원 전망"
+      },
+      "risk": "예고된 주주환원 규모가 시장 기대에 못 미치거나 발표 시점이 지연되면, 간밤 반도체 투매 여파와 겹쳐 단기 조정폭이 커질 수 있다.",
+      "sources": [
+        "https://www.g-enews.com/article/Securities/2026/08/20260812132652366153ddfb15a_1"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "market": "US",
+      "thesis": "18일 월스트리트저널이 미국 빅테크 9곳의 3조달러 규모 AI 부외 약정을 보도하면서 전날 사상 처음 1,000달러를 돌파했던 마이크론이 하루 만에 7.02% 급락해 940.76달러로 마감했다. 넷리스트가 12일 마이크론을 상대로 DDR5 RDIMM, MRDIMM 관련 특허침해로 국제무역위원회(ITC)에 제소한 점도 부담으로 거론된다. 다만 회사 측은 최근 실적발표에서 D램, 낸드 수요가 공급을 계속 웃돌고 있다고 밝혀, 이번 급락은 펀더멘털 훼손보다는 단기 급등에 따른 차익실현과 금리 부담이 겹친 결과로 해석된다.",
+      "catalysts": [
+        "8월21일 애플의 중국산 메모리 배제 서약 시한",
+        "넷리스트發 ITC 특허침해 제소 진행 상황",
+        "HBM4 램프업 및 고객사향 공급계약 확대"
+      ],
+      "levels_watched": {
+        "support": "$900(8/18 장중 근접, 심리적 지지선)",
+        "resistance": "종가 기준 사상 최고가 $1,011.75(2026-08-17)",
+        "analyst_target_cited": "New Street Research(Pierre Ferragu), 2026-08-13, 목표주가 $1,250(매수, 상향)"
+      },
+      "risk": "월스트리트저널發 AI 부외 약정 우려나 반도체 밸류에이션 재조정이 이어지면 추가 하락 압력이 커질 수 있다.",
+      "sources": [
+        "https://247wallst.com/investing/2026/08/18/wsj-report-sends-memory-stocks-down-sandisk-down-9-micron-down-7-western-digital-down-5/",
+        "https://stockanalysis.com/stocks/mu/"
+      ]
+    },
+    {
+      "ticker": "017670",
+      "name": "SK텔레콤",
+      "market": "KR",
+      "thesis": "앤스로픽이 투자자들에게 7월 말 기준 연환산매출(ARR)이 650억달러로 지난해 말(약 90억달러) 대비 7배 넘게 늘었다고 밝히며 보유 지분가치가 다시 주목받고 있다. 다만 로이터는 앤스로픽이 2028년 매출을 1,900억~2,000억달러 수준으로 제시했다고 보도했는데, 이는 투자자들이 기대했던 2026년 말 ARR(4,000억~5,000억달러)에 크게 못 미쳐 이르면 올가을 예상되는 IPO를 앞두고 밸류에이션 눈높이 조정 논쟁도 함께 커지고 있다.",
+      "catalysts": [
+        "앤스로픽 IPO 시기(이르면 올가을) 및 공모가 확정",
+        "AIDC(AI데이터센터) 사업 수주 확대",
+        "AI 결합요금제 정식 출시 및 가입자 확산"
+      ],
+      "levels_watched": {
+        "support": "미확인",
+        "resistance": "미확인",
+        "analyst_target_cited": "미확인"
+      },
+      "risk": "앤스로픽 지분가치는 비상장 기업 밸류에이션 추정에 기반한 만큼, 2028년 매출 전망이 투자자 기대에 못 미친 점이 부각되며 IPO 공모가가 기대보다 낮게 형성되면 평가액이 낮아질 수 있다.",
+      "sources": [
+        "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+        "https://www.investing.com/news/stock-market-news/anthropic-revenue-run-rate-passed-65-billion-in-july--report-4863865"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
