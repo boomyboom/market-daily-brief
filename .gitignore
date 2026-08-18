@@ -4,7 +4,6 @@
 !/.gitignore
 !/index.html
 !/briefs/
-!/cards/
 
 # 내부 중복 방지 데이터
 /briefs/seen_urls.json
