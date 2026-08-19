@@ -1,0 +1,481 @@
+{
+  "date": "2026-08-20",
+  "generated_at_kst": "2026-08-20T08:00:00+09:00",
+  "mode": "new",
+  "headline": "미 재무부가 장기국채 바이백 규모를 두 배로 늘리겠다고 발표하자 국채금리가 진정되면서 뉴욕증시 3대 지수가 3거래일 만에 반등했고, 전날 사이드카 발동 속에 5.80% 급락했던 코스피는 반도체 낙폭이 진정된 가운데 반등을 시도할 전망이다",
+  "mail_title": "국채금리 진정, 코스피 반등 시도할까",
+  "kr": {
+    "preview": "코스피는 어제(19일) 미 국채금리 쇼크와 반도체 대형주 차익실현 매물이 겹치며 매도 사이드카까지 발동된 끝에 하루 만에 5.80% 급락한 6,471.17로 마감했습니다. 삼성전자(-7.82%)와 SK하이닉스(-9.75%)가 낙폭을 주도했고, SK하이닉스 지분가치 비중이 큰 SK스퀘어(-11.54%)와 삼성전자 지분가치 비중이 큰 삼성생명(-11.11%)도 동반 급락했습니다. 코스닥은 상대적으로 선방해 1.17% 내린 824.46으로 마쳤습니다.\n\n간밤 미국에서는 분위기가 반전됐습니다. 미 재무부가 10년물부터 30년물까지 장기국채 바이백 규모를 최소 두 배로 늘리겠다고 발표하면서, 장중 2007년 이후 최고 수준까지 올랐던 국채금리가 진정됐습니다. 10년물 국채 수익률은 1.6bp 내린 4.708%, 30년물은 2.6bp 내린 5.284%로 마감했고, 이 여파로 S&P500(+0.21%), 나스닥(+0.16%), 다우(+0.22%)가 모두 3거래일 만에 반등에 성공했습니다. 다만 반도체는 이 반등에서 소외됐습니다. 필라델피아반도체지수 추종 ETF인 SOXX는 2.21% 추가 하락했고 인텔(-4.02%), 마이크론 등 반도체주는 약세를 이어갔습니다. 그나마 국내 시장과 직결되는 SK하이닉스 나스닥 예탁증서(ADR, SKHY)는 0.39% 소폭 반등한 156.22달러로 마감해, 전날 국내 정규장을 덮쳤던 급락세가 일단 진정되는 신호로 해석됩니다.\n\n같은 날 모더나는 머크와 함께 진행한 흑색종(피부암) mRNA 백신의 임상 3상에서 주요 목표를 달성했다는 소식에 주가가 176.97% 폭등했고, 헬스케어, 경기소비재 업종이 강세를 이끌며 지수 반등에 기여했습니다. 국내에서는 삼성전자가 특별배당을 포함한 주주환원 정책 구체안을 이르면 이달 중 공개할 것이라는 관측이 이어지고 있어, 오늘 장에서 반도체 대형주가 간밤 진정된 미국발 훈풍과 주주환원 기대감을 얼마나 반영할지가 관전포인트입니다. 다만 증권가에서는 금리 상승 경계감이 남아 있는 만큼 빠른 V자 반등보다는 점진적 회복 가능성에 무게를 두고 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,471.17",
+        "change_pct": "-5.80%(-398.66p, 8/19 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260819001007",
+          "https://www.etoday.co.kr/news/view/2616038"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "824.46",
+        "change_pct": "-1.17%(-9.74p, 8/19 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260819001007",
+          "https://www.etoday.co.kr/news/view/2616038"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "ADR +0.39%($156.22, 8/19)",
+        "reason": "전날 코스피 정규장에서 9.75% 급락하며 지수 낙폭을 주도했으나, 간밤 뉴욕증시에서 SK하이닉스 ADR(SKHY)이 0.39% 소폭 반등해 마감하며 급락세가 일단 진정되는 신호를 보였다. 다만 필라델피아반도체지수 ETF(SOXX)는 2.21% 추가 하락해 반도체 업종 전반은 여전히 약세다.",
+        "source_url": "https://kr.investing.com/equities/sk-hynix-adr",
+        "source_urls": [
+          "https://kr.investing.com/equities/sk-hynix-adr",
+          "https://stockanalysis.com/etf/soxx/"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "8/19 종가 -7.82%(247,500원)",
+        "reason": "전날 반도체 투매 속에 7.82% 급락했지만, 특별배당을 포함한 주주환원 정책 구체안을 이르면 이달 중 공개할 것이라는 관측이 이어지고 있다. 삼성전자 CFO는 지난달 30일 실적 컨퍼런스콜에서 이사회와 경영진이 특별배당을 포함한 차기 주주환원 정책을 논의 중이라고 밝혔다.",
+        "source_url": "https://www.mt.co.kr/industry/2026/08/19/2026081916150537741",
+        "source_urls": [
+          "https://www.mt.co.kr/industry/2026/08/19/2026081916150537741",
+          "https://www.etoday.co.kr/news/view/2616038"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "뉴욕증시 3대 지수가 3거래일 만에 일제히 반등했습니다. 다우는 119.65포인트(0.22%) 오른 53,463.05, S&P500은 16.22포인트(0.21%) 오른 7,707.98, 나스닥은 41.38포인트(0.16%) 오른 26,331.09로 마감했습니다. 미 재무부가 장기국채 바이백 규모를 최소 두 배로 늘리겠다고 발표하면서 국채금리가 다중연도 고점에서 후퇴한 것이 반등의 배경입니다. 모더나가 머크와 함께 진행한 흑색종 mRNA 백신 임상 3상 성공 소식에 176.97% 폭등하며 헬스케어 업종을 이끌었고, 머크도 12.60% 동반 상승했습니다. 다만 반도체는 소외돼 인텔이 4.02% 내리는 등 필라델피아반도체지수 ETF(SOXX)가 2.21% 추가 하락했습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,707.98",
+        "change_pct": "+0.21%(+16.22p)",
+        "source_urls": [
+          "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-19-2026",
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-19-135024947.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,331.09",
+        "change_pct": "+0.16%(+41.38p)",
+        "source_urls": [
+          "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-19-2026",
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-19-135024947.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,463.05",
+        "change_pct": "+0.22%(+119.65p)",
+        "source_urls": [
+          "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-19-2026",
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-19-135024947.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "MRNA",
+        "name": "Moderna",
+        "change_pct": "+176.97%($174.38)",
+        "reason": "머크와 공동 개발한 개인맞춤형 mRNA 흑색종(피부암) 백신이 임상 3상에서 키트루다 단독 대비 무재발생존기간(RFS)을 유의하게 연장하는 주요 목표를 달성했다고 발표했다. mRNA 기반 항암 치료제가 임상 3상을 통과한 것은 이번이 처음이다.",
+        "source_url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+        "source_urls": [
+          "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-19-212102683.html"
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "-0.99%($217.56)",
+        "reason": "국채금리 진정에도 반도체 업종 전반이 반등에서 소외되며 소폭 하락했다. 8월26일로 예정된 실적발표를 앞두고 있다.",
+        "source_url": "https://stockanalysis.com/stocks/nvda/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/nvda/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-8.79%(대표종목 기준)",
+        "note": "삼성전자(-7.82%), SK하이닉스(-9.75%) 평균. 미 국채금리 쇼크와 차익실현 매물에 코스피 낙폭을 주도했다 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/005930"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-4.21%(대표종목 기준)",
+        "note": "삼성전기(-3.68%), LG이노텍(-4.74%) 평균. 반도체 부품, 기판주도 동반 약세 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/009150"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-2.47%(대표종목 기준)",
+        "note": "SK텔레콤(-1.80%), KT(-3.13%) 평균. 시장 전반의 하락 흐름에 동반 하락 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.07%(대표종목 기준)",
+        "note": "삼성바이오로직스(+0.85%), 셀트리온(-0.72%) 평균. 반도체 급락 속 상대적으로 방어적 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/207940"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.33%(대표종목 기준)",
+        "note": "KB금융(-1.25%), 신한지주(-1.41%) 평균. 시장 전반보다 낙폭이 작았음 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-5.23%(대표종목 기준)",
+        "note": "이마트(-4.73%), 롯데쇼핑(-5.73%) 평균. 시장 전반의 매도세에 낙폭이 컸음 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/139480"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-3.21%(대표종목 기준)",
+        "note": "현대차(-4.83%), 기아(-3.06%), 현대모비스(-1.74%) 평균 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/005380"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+0.83%(대표종목 기준)",
+        "note": "LG에너지솔루션(+1.85%), 삼성SDI(-0.20%) 평균. 반도체 급락 속에도 드물게 상승 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/006400"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+0.36%(대표종목 기준)",
+        "note": "HD한국조선해양(-2.00%), 한화에어로스페이스(+2.71%) 평균. 방산주가 시장 대비 견조 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/009540"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+5.81%(대표종목 기준)",
+        "note": "현대건설 기준. 원전 수주 기대감에 목표주가 상향이 이어지며 시장 급락 속 급등 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/000720"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-1.66%(대표종목 기준)",
+        "note": "LG화학 기준. 시장 전반의 하락 흐름에 동반 하락 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/051910"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-1.74%(대표종목 기준)",
+        "note": "POSCO홀딩스(-1.39%), 현대제철(-2.09%) 평균 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/005490"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-3.19%(대표종목 기준)",
+        "note": "네이버(-4.15%), 카카오(-2.22%) 평균. 성장주 전반의 매도세에 동반 하락 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.88%(대표종목 기준)",
+        "note": "하이브(+0.23%), JYP Ent.(+1.52%) 평균. 시장 급락 속에도 상대적으로 견조 (대표종목 기준, 8/19)",
+        "source_url": "https://markets.hankyung.com/stock/352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.21%",
+        "note": "SOXX 기준. 국채금리 진정에도 인텔(-4.02%) 등 반도체는 반등에서 소외됐다",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-1.07%",
+        "note": "XLK 기준. 반도체 약세가 기술 섹터 전반을 끌어내렸다",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.76%",
+        "note": "XLC 기준",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+3.51%",
+        "note": "XLV 기준. 모더나(+176.97%), 머크(+12.60%)의 흑색종 백신 임상 3상 성공 소식이 섹터 전체를 견인했다",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.62%",
+        "note": "XLF 기준",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+1.92%",
+        "note": "XLY 기준",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+1.12%",
+        "note": "XLP 기준",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.88%",
+        "note": "XLI 기준",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+1.43%",
+        "note": "XLB 기준",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.16%",
+        "note": "XLE 기준",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "0.00%",
+        "note": "XLU 기준. 보합 마감",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.81%",
+        "note": "XLRE 기준. 금리 진정에 완만한 상승",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,387.76",
+      "change_pct": "-0.71%(전일 국내 종가 1,397.7원 대비)",
+      "source_url": "https://kr.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "98.69",
+      "change_pct": "-0.87%",
+      "source_url": "https://kr.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,580.75/oz",
+      "change_pct": "+3.62%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$84.40/배럴",
+      "change_pct": "+0.40%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$69,559.91",
+      "change_pct": "+7.8%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,280.56",
+      "change_pct": "+19.4%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.708%",
+      "change_pct": "-1.6bp",
+      "source_url": "https://www.newspim.com/news/view/20260819000028"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 재무부가 10년물부터 30년물까지 장기국채 바이백 규모를 최소 두 배로 늘리겠다고 발표하면서 국채금리가 다중연도 고점에서 후퇴했다. 10년물은 1.6bp 내린 4.708%, 30년물은 2.6bp 내린 5.284%로 마감했다. 국채금리 진정에 금과 비트코인 등 대체자산도 동반 강세를 보여 금은 온스당 4,580.75달러(+3.62%), 비트코인은 6만9,559.91달러(+7.8%)까지 올랐다. 원/달러는 1,387원대로 전일 국내 종가 대비 소폭 하락했고, WTI는 배럴당 84.40달러로 보합권에 머물렀다.",
+    "notes": "미 재무부의 국채 바이백 확대 발표는 다중연도 고점까지 치솟은 장기금리로 인한 이자 부담과 차입 비용을 낮추려는 신호로 해석된다. 같은 날 실시된 20년물 국채 입찰 결과도 향후 장기금리 흐름을 좌우할 변수로 꼽힌다. 국내에서는 삼성전자, SK하이닉스가 3분기 중 배당 확대와 자사주 매입, 소각 등 주주환원 방안을 공개할 것으로 알려져 있어, 전날 급락 이후 반등 시도의 재료로 작용할 수 있다는 분석이 나온다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "전날 국내 반도체 대형주 급락을 이끌었던 매물이 간밤 미국장에서는 일부 진정되는 모습을 보였다. SK하이닉스 ADR은 0.39% 소폭 반등해 마감했지만, 필라델피아반도체지수 ETF(SOXX)는 2.21% 추가 하락해 인텔 등 반도체주 전반의 약세는 이어졌다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://kr.investing.com/equities/sk-hynix-adr"
+    },
+    {
+      "theme": "반도체 밸류에이션 논쟁",
+      "summary": "미래에셋증권은 지난달 29일 삼성전자와 SK하이닉스의 목표주가를 각각 55만원에서 37만원, 420만원에서 280만원으로 33% 하향 조정했다. 실적 전망 악화가 아니라 업종 전반의 밸류에이션(P/B, P/E) 배수 조정을 반영한 결과라는 설명이지만, 투자의견은 두 종목 모두 매수를 유지했다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.fnnews.com/news/202607290929317152"
+    },
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "삼성전자 CFO는 지난달 30일 실적 컨퍼런스콜에서 특별배당을 포함한 차기 주주환원 정책을 이사회, 경영진이 논의 중이라고 밝혔고, 이르면 이달 중 구체안이 공개될 것이라는 관측이 이어지고 있다. SK하이닉스도 3분기 중 자사주 매입, 소각 등 주주가치 제고 방안을 검토 중인 것으로 알려졌다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.mt.co.kr/industry/2026/08/19/2026081916150537741"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "미 재무부가 장기국채 바이백 규모를 최소 두 배로 늘리겠다고 발표하면서 장중 2007년 이후 최고 수준까지 치솟았던 국채금리가 진정됐다. 10년물은 1.6bp 내린 4.708%, 30년물은 2.6bp 내린 5.284%로 마감하며 뉴욕증시 3대 지수의 3거래일 만의 반등을 이끌었다.",
+      "tickers": [],
+      "source_url": "https://www.newspim.com/news/view/20260819000028"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "국채금리 진정에도 반도체 업종 반등에서 소외되며 0.99% 내린 217.56달러로 마감했다. 8월26일 실적발표를 앞두고 있다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "시장 전반의 반등 속에 2.19% 오른 316.83달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "0.56% 오른 484.31달러로 마감해 완만한 반등에 동참했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "경기소비재 업종 강세 속에 4.23% 오른 351.12달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "시장 전반의 반등 속에 2.13% 오른 175.19달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "전날 반도체 투매 여파로 7.82% 급락한 247,500원으로 마감했으나, 특별배당을 포함한 주주환원 정책 발표가 이달 중 예상돼 오늘 반등 재료로 주목된다.",
+      "source_url": "https://www.mt.co.kr/industry/2026/08/19/2026081916150537741"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "전날 9.75% 급락했지만 간밤 ADR은 0.39% 소폭 반등해 마감하며 급락세 진정 신호를 보였다.",
+      "source_url": "https://kr.investing.com/equities/sk-hynix-adr"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "전날 시장 전반의 급락 속에서도 1.85% 오르며 성장주 중 드물게 강세를 보였다.",
+      "source_url": "https://markets.hankyung.com/stock/373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "전날 시장 전반의 매도세에 4.83% 내리며 코스피 대형주 중 낙폭이 큰 편에 속했다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2616038"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "전날 반도체 투매 여파로 7.82% 급락했지만, CFO가 지난달 30일 실적 컨퍼런스콜에서 특별배당을 포함한 차기 주주환원 정책을 논의 중이라고 밝힌 뒤 이르면 이달 중 구체안이 공개될 것이라는 관측이 이어지고 있다. 6월말 기준 연결 현금성 자산과 단기금융상품 합계가 190조원에 달해 재원은 충분하다는 평가다.",
+      "catalysts": [
+        "이달 중 예상되는 주주환원 정책(특별배당, 자사주 매입) 공식 발표"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 67,500원",
+        "resistance": "52주 최고가 374,500원",
+        "analyst_target_cited": "미래에셋증권, 2026-07-29, 목표주가 37만원(기존 55만원에서 하향)"
+      },
+      "risk": "미 국채금리가 다시 상승 전환할 경우 반도체 등 고밸류에이션 성장주에 대한 매도 압력이 재현될 수 있고, 주주환원 정책의 실제 규모가 시장 기대에 못 미칠 경우 반등 재료로서의 효과가 제한될 수 있다.",
+      "sources": [
+        "https://www.mt.co.kr/industry/2026/08/19/2026081916150537741",
+        "https://www.fnnews.com/news/202607290929317152",
+        "https://www.etoday.co.kr/news/view/2616038"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "전날 코스피 낙폭을 주도하며 9.75% 급락했지만, 간밤 뉴욕증시에서 SK하이닉스 ADR(SKHY)이 0.39% 반등해 마감하며 급락세 진정 신호를 보였다. 3분기 중 자사주 매입, 소각 등 주주가치 제고 방안을 검토 중인 것으로 알려졌다.",
+      "catalysts": [
+        "3분기 중 예상되는 주주가치 제고 방안 발표"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 245,000원",
+        "resistance": "52주 최고가 2,987,000원",
+        "analyst_target_cited": "미래에셋증권, 2026-07-29, 목표주가 280만원(기존 420만원에서 하향)"
+      },
+      "risk": "메모리 반도체 가격이나 AI 데이터센터 투자 위축 우려가 재부각될 경우 ADR과 국내 정규장 모두에서 추가 조정 가능성이 있다.",
+      "sources": [
+        "https://kr.investing.com/equities/sk-hynix-adr",
+        "https://www.fnnews.com/news/202607290929317152",
+        "https://alphasquare.co.kr/home/stock-summary?code=000660"
+      ]
+    },
+    {
+      "ticker": "MRNA",
+      "name": "Moderna",
+      "market": "US",
+      "thesis": "머크와 공동 개발한 개인맞춤형 mRNA 흑색종(피부암) 백신이 임상 3상에서 키트루다 단독요법 대비 무재발생존기간을 유의하게 연장하는 주요 목표를 달성했다고 발표했다. mRNA 기반 항암 치료제가 임상 3상을 통과한 것은 이번이 처음으로, 회사 시가총액은 하루 만에 약 250억달러에서 약 690억달러로 늘었다.",
+      "catalysts": [
+        "향후 예상되는 규제당국 허가 신청 및 후속 임상 데이터 공개"
+      ],
+      "levels_watched": {
+        "support": "급등 전 8/18 종가 약 62.96달러",
+        "resistance": "관찰 가능한 구체적 저항선 데이터 없음(신고가 경신)",
+        "analyst_target_cited": "확인된 증권사 목표주가 없음"
+      },
+      "risk": "하루 만에 176.97% 급등한 데 따른 단기 변동성이 매우 크고, 최종 규제 승인과 상업화까지는 추가 임상, 심사 절차가 남아 있다.",
+      "sources": [
+        "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+        "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-19-212102683.html"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
