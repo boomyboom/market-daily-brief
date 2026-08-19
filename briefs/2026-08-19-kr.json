@@ -1,0 +1,328 @@
+{
+  "date": "2026-08-19",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-19T19:00:00+09:00",
+  "headline": "미 국채 30년물 금리가 장중 5.33%까지 치솟아 2007년 이후 최고치를 기록하고 중동 정세 불안까지 겹치자 개장 직후 매도 사이드카가 발동됐고, 최근 가파르게 올랐던 반도체 대형주에서 대규모 차익실현 매물이 쏟아지며 코스피가 하루 만에 5.80% 급락해 6,471.17로 마감했다",
+  "mail_title": "미국채 5.33%, 코스피 하루새 5.8%↓",
+  "kr": {
+    "preview": "코스피가 전 거래일보다 398.66포인트(5.80%) 내린 6,471.17로 마감했습니다. 개장 직후인 오전 9시 6분, 코스피200 선물이 기준가 대비 6.02% 급락하면서 프로그램 매도호가의 효력을 일시 정지하는 매도 사이드카가 발동됐는데, 이는 올해 들어 48번째(매도 25회, 매수 23회) 발동입니다. 코스닥은 상대적으로 낙폭이 작아 1.17% 내린 824.46으로 마쳤습니다. 원달러 환율은 1,397.7원으로 전일보다 14.1원 내렸습니다.\n\n급락을 이끈 것은 반도체 대형주였습니다. 삼성전자는 7.82% 내린 24만7,500원, SK하이닉스는 9.75% 내린 150만원으로 마감했습니다. 간밤 미국에서 마이크론이 국채금리 상승과 AI 투자 위축 우려에 7% 급락하고 필라델피아반도체지수(SOXX)가 4.98% 밀린 데다, 지난달 나스닥에 상장한 SK하이닉스 예탁증서(ADR)도 전날 9.20% 급락한 여파가 국내 정규장까지 이어졌습니다. 최근 가파르게 상승했던 반도체주에 대규모 차익실현 매물이 나온 것이 지수에 가장 큰 부담으로 작용했다는 분석입니다. SK하이닉스 지분가치가 순자산의 대부분을 차지하는 지주회사 SK스퀘어는 11.54% 급락했고, 삼성전자 지분가치 비중이 큰 삼성생명도 11.11% 밀리며 반도체 대형주의 낙폭이 계열, 지분구조를 타고 증폭됐습니다.\n\n급락의 근본 배경은 국채금리였습니다. 미국 30년물 국채금리는 장중 5.33%까지 올라 2007년 이후 19년 만에 최고 수준을 기록했고, 10년물도 4.71%대로 2005년 1월 이후 최고치권까지 상승했습니다. 중동에서는 이란 측이 지난 6월 체결된 잠정합의 조건이 충족될 때까지 호르무즈 해협 폐쇄 상태를 유지하겠다고 밝히고 일부 강경파는 군사 태세를 전면공세로 전환하겠다고 경고하면서, 국제유가가 오르고 안전자산 선호가 약화되며 장기금리 상승을 부추겼습니다. 재정적자 확대 우려와 연준의 금리 인하 사이클이 사실상 끝났다는 인식도 금리 하방을 막는 요인으로 꼽힙니다.\n\n수급을 보면 외국인이 4조242억원, 기관이 1조7,926억원을 순매도했고 개인이 5조6,403억원을 순매수하며 낙폭을 방어했지만 역부족이었습니다. 다만 모든 종목이 밀린 것은 아닙니다. 원전 수주 확대 기대감에 증권사 11곳이 일제히 목표주가를 상향한 현대건설은 5.81% 오른 11만6,500원으로 마감했고, LG에너지솔루션(1.85%)과 한화에어로스페이스(2.71%)도 시장 전반의 매도세 속에서 상승했습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,471.17",
+        "change_pct": "-5.80%(-398.66p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260819001007",
+          "https://www.etoday.co.kr/news/view/2616038"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "824.46",
+        "change_pct": "-1.17%(-9.74p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260819001007",
+          "https://www.etoday.co.kr/news/view/2616038"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-9.75%(1,500,000원)",
+        "reason": "간밤 미국에서 마이크론이 국채금리 상승과 AI 투자 위축 우려에 7% 급락하고 필라델피아반도체지수가 4.98% 밀린 데다, 나스닥 상장 SK하이닉스 ADR도 전날 9.20% 급락한 여파가 이어지며 최근 가파른 상승분에 대한 차익실현 매물이 쏟아졌다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2616038",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2616038",
+          "https://www.gukjenews.com/news/articleView.html?idxno=3668582"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-7.82%(247,500원)",
+        "reason": "글로벌 반도체주 동반 급락과 국채금리 쇼크 속에 대형주 전반의 매도세를 그대로 받았다. 이달 안으로 예상되던 대규모 주주환원 기대감도 이날은 낙폭을 막지 못했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2616038",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2616038",
+          "https://www.gukjenews.com/news/articleView.html?idxno=3668582"
+        ]
+      },
+      {
+        "ticker": "402340",
+        "name": "SK스퀘어",
+        "change_pct": "-11.54%",
+        "reason": "순자산가치(NAV)의 대부분이 SK하이닉스 지분가치로 구성된 지주회사 특성상, SK하이닉스(-9.75%) 급락이 지분법 평가가치를 통해 증폭되며 코스피 대형주 중 가장 큰 낙폭을 기록했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2616038",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2616038"
+        ]
+      },
+      {
+        "ticker": "032830",
+        "name": "삼성생명",
+        "change_pct": "-11.11%",
+        "reason": "보유한 삼성전자 지분가치가 기업가치 평가에서 큰 비중을 차지하는데, 삼성전자(-7.82%) 급락으로 비금융 지분가치가 축소되며 동반 급락했다. 2분기 보험 본업 실적이 시장 기대를 밑돈 점도 부담으로 거론된다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2616038",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2616038"
+        ]
+      },
+      {
+        "ticker": "000720",
+        "name": "현대건설",
+        "change_pct": "+5.81%(116,500원)",
+        "reason": "원전 수주 확대에 따른 실적 개선 기대감에 올해 목표주가를 제시한 증권사 11곳이 모두 목표가를 상향하면서, 시장 전반의 매도세 속에서도 KRX 건설업종(+1.80%)과 함께 강세를 보였다.",
+        "source_url": "https://m.joseilbo.com/news/view.htm?newsid=561034",
+        "source_urls": [
+          "https://m.joseilbo.com/news/view.htm?newsid=561034",
+          "https://www.newspim.com/news/view/20260819001007"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-8.79%(대표종목 기준)",
+        "note": "삼성전자(-7.82%), SK하이닉스(-9.75%) 평균. 간밤 미국 메모리, 반도체주 급락과 국채금리 쇼크에 코스피 낙폭을 주도했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005930"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-4.21%(대표종목 기준)",
+        "note": "삼성전기(-3.68%), LG이노텍(-4.74%) 평균. 반도체 부품, 기판주도 동반 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/009150"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-2.47%(대표종목 기준)",
+        "note": "SK텔레콤(-1.80%), KT(-3.13%) 평균. 시장 전반의 하락 흐름에 동반 하락했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.07%(대표종목 기준)",
+        "note": "삼성바이오로직스(+0.85%), 셀트리온(-0.72%) 평균. 반도체 급락 속에서도 상대적으로 방어적인 흐름을 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/207940"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.33%(대표종목 기준)",
+        "note": "KB금융(-1.25%), 신한지주(-1.41%) 평균. 시장 전반보다 낙폭이 작았지만 보험업(KRX -5.98%)은 삼성생명 급락 여파로 크게 밀렸다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-5.23%(대표종목 기준)",
+        "note": "이마트(-4.73%), 롯데쇼핑(-5.73%) 평균. 시장 전반의 매도세에 낙폭이 컸다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/139480"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-3.21%(대표종목 기준)",
+        "note": "현대차(-4.83%), 기아(-3.06%), 현대모비스(-1.74%) 평균. 시장 전반의 하락 흐름에 동반 하락했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005380"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+0.83%(대표종목 기준)",
+        "note": "LG에너지솔루션(+1.85%), 삼성SDI(-0.20%) 평균. 반도체 급락 속에서도 성장주 중 드물게 상승세를 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/006400"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+0.36%(대표종목 기준)",
+        "note": "HD한국조선해양(-2.00%), 한화에어로스페이스(+2.71%) 평균. 방산주가 중동 지정학 리스크 속에 시장 대비 견조했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/009540"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+5.81%(대표종목 기준)",
+        "note": "현대건설 기준. 원전 수주 기대감에 증권사 11곳이 목표주가를 일제히 상향하며 시장 전반의 급락 속에서도 급등했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/000720"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-1.66%(대표종목 기준)",
+        "note": "LG화학 기준. 시장 전반의 하락 흐름에 동반 하락했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/051910"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-1.74%(대표종목 기준)",
+        "note": "POSCO홀딩스(-1.39%), 현대제철(-2.09%) 평균. 시장 전반의 하락 흐름에 동반 하락했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005490"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-3.19%(대표종목 기준)",
+        "note": "네이버(-4.15%), 카카오(-2.22%) 평균. 성장주 전반의 매도세에 동반 하락했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.88%(대표종목 기준)",
+        "note": "하이브(+0.23%), JYP Ent.(+1.52%) 평균. 시장 전반의 급락 속에서도 상대적으로 견조한 흐름을 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/352820"
+      }
+    ],
+    "us": []
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,397.7",
+      "change_pct": "-1.00%(-14.1원)",
+      "source_url": "https://www.etnews.com/20260819000341"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.63",
+      "change_pct": "+0.09%",
+      "source_url": "https://www.newspim.com/news/view/20260819000021"
+    },
+    {
+      "name": "금",
+      "value": "$4,364.90/oz(현물)",
+      "change_pct": "-1.1%",
+      "source_url": "https://www.newspim.com/news/view/20260819000021"
+    },
+    {
+      "name": "WTI",
+      "value": "$84.94/배럴",
+      "change_pct": "+0.52%",
+      "source_url": "https://www.newspim.com/news/view/20260819000021"
+    },
+    {
+      "name": "비트코인",
+      "value": "$64,238.97",
+      "change_pct": "+0.1%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,915.73",
+      "change_pct": "+1.0%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.71%",
+      "change_pct": "+1bp(2005년 1월 이후 최고치권)",
+      "source_url": "https://kr.investing.com/news/stock-market-news/article-2059476"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 국채 30년물 금리는 장중 5.33%까지 올라 2007년 이후 19년 만에 최고치를, 10년물도 4.71%대로 2005년 1월 이후 최고치권을 기록했다. 재정적자 확대 우려와 연준의 금리 인하 사이클 종료 인식, 중동 지정학 리스크가 겹치며 장기금리 하방이 막힌 결과로 풀이된다. 국제유가는 WTI가 84.94달러(+0.52%)로 상승했고, 금은 온스당 4,364.90달러(-1.1%)로 금리 부담에 하락했다. 원달러 환율은 1,397.7원으로 전일보다 14.1원 내렸다.",
+    "notes": "코스피에서 외국인이 4조242억원, 기관이 1조7,926억원을 순매도했고 개인이 5조6,403억원을 순매수하며 낙폭을 방어했지만 역부족이었다. 오전 9시 6분 코스피200 선물이 기준가 대비 6.02% 급락하며 매도 사이드카가 발동됐는데, 올해 들어 48번째(매도 25회, 매수 23회) 발동이다. 중국 증시도 같은 날 국채금리 충격에 성장주 중심으로 6%대 급락하며 아시아 증시 전반이 약세를 보였다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "간밤 미국에서 마이크론이 국채금리 상승과 AI 투자 위축 우려에 7% 급락하고 필라델피아반도체지수가 4.98% 밀린 여파가 국내로 이어지며, 삼성전자(-7.82%)와 SK하이닉스(-9.75%)가 동반 급락했다. SK하이닉스 지분가치가 순자산 대부분을 차지하는 SK스퀘어(-11.54%)와 삼성전자 지분가치 비중이 큰 삼성생명(-11.11%)도 지분구조를 타고 낙폭이 증폭됐다.",
+      "tickers": [
+        "005930",
+        "000660",
+        "402340"
+      ],
+      "source_url": "https://www.etoday.co.kr/news/view/2616038"
+    },
+    {
+      "theme": "반도체 밸류에이션 논쟁",
+      "summary": "최근 가파르게 상승했던 반도체 대형주에서 대규모 차익실현 매물이 쏟아진 것이 이날 코스피 낙폭에 가장 큰 부담이 됐다는 분석이 나온다. 국채금리 쇼크를 계기로 그간의 급등에 대한 밸류에이션 눈높이 조정이 함께 나타난 것으로 풀이된다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3668582"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "미 국채 30년물 금리가 장중 5.33%까지 올라 2007년 이후 19년 만에 최고치를, 10년물도 4.71%대로 2005년 1월 이후 최고치권을 기록했다. 재정적자 확대 우려와 연준의 금리 인하 사이클이 사실상 끝났다는 인식이 장기금리 상승을 부추기며 전세계 위험자산에 매도 압력을 가했다.",
+      "tickers": [],
+      "source_url": "https://kr.investing.com/news/stock-market-news/article-2059476"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "이란 측이 지난 6월 체결된 잠정합의 조건이 충족될 때까지 호르무즈 해협 폐쇄 상태를 유지하겠다고 밝히고 일부 강경파가 군사 태세를 전면공세로 전환하겠다고 경고하면서, 국제유가가 3주래 최고 수준으로 오르고 국채금리 상승과 겹쳐 위험자산 회피 심리를 키웠다.",
+      "tickers": [],
+      "source_url": "https://www.newspim.com/news/view/20260819000021"
+    },
+    {
+      "theme": "시장 안정화 장치 발동",
+      "summary": "오전 9시 6분 코스피200 선물이 기준가 대비 6.02% 급락하며 프로그램 매도호가 효력을 일시 정지하는 매도 사이드카가 발동됐다. 올해 들어 48번째(매도 25회, 매수 23회) 발동으로, 최근 시장 변동성이 그만큼 커졌음을 보여준다.",
+      "tickers": [],
+      "source_url": "https://biz.heraldcorp.com/article/10844929"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "미국 증시 개장 전. 간밤 필라델피아반도체지수가 4.98% 급락한 여파가 이어질지, 8월27일 예정된 실적 발표를 앞두고 오늘 밤 흐름이 주목된다.",
+      "source_url": "https://www.newspim.com/news/view/20260819000020"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "미국 증시 개장 전. 국채금리 쇼크 속에 오늘 밤 뉴욕증시 3거래일 연속 하락 여부가 관건이다.",
+      "source_url": "https://www.newspim.com/news/view/20260819000020"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "미국 증시 개장 전. 국채금리 급등 여파로 그간 강세를 보였던 기술주 전반에 차익실현 압력이 이어질지 주목된다.",
+      "source_url": "https://www.newspim.com/news/view/20260819000020"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "미국 증시 개장 전. 특별한 국내 관련 뉴스는 없었다.",
+      "source_url": "https://www.newspim.com/news/view/20260819000020"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "미국 증시 개장 전. 특별한 국내 관련 뉴스는 없었다.",
+      "source_url": "https://www.newspim.com/news/view/20260819000020"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "간밤 미국 반도체주 급락 여파와 국채금리 쇼크에 7.82% 내린 247,500원으로 마감했다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2616038"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "마이크론 급락, ADR 급락 여파가 이어지며 9.75% 내린 1,500,000원으로 마감했다. 최근 급등에 대한 차익실현 매물이 집중됐다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2616038"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "시장 전반의 급락 속에서도 1.85% 오른 것으로 마감해 성장주 중 드물게 강세를 보였다.",
+      "source_url": "https://markets.hankyung.com/stock/373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "시장 전반의 매도세에 4.83% 내리며 코스피 대형주 중 낙폭이 큰 편에 속했다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2616038"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
