@@ -1,0 +1,316 @@
+{
+  "date": "2026-08-20",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-20T19:00:00+09:00",
+  "headline": "SK하이닉스가 40조원 규모 자사주 매입 후 전량 소각을 발표한 데 이어 삼성전자도 100조원대 사상 최대 주주환원 공식화가 임박했다는 보도가 나오자 외국인이 1조7000억원 넘게 사들이며 코스피가 하루 만에 5.89% 급등해 6,852.58로 마감했다",
+  "mail_title": "SK하이닉스 40조 소각에 코스피 5.9%↑",
+  "kr": {
+    "preview": "코스피가 전 거래일보다 381.41포인트(5.89%) 오른 6,852.58로 마감했습니다. 장 초반 코스피200 선물이 5% 넘게 급등하면서 오전 9시57분 매수 사이드카가 발동됐는데, 올해 들어 매수 사이드카만 24번째, 매도까지 합치면 49번째 발동입니다. 코스닥도 1.99% 오른 840.89로 함께 상승 마감했습니다. 원달러 환율은 1,392.6원으로 전일보다 5.1원 내려 11개월 만에 최저 수준을 기록했습니다.\n\n급등을 이끈 것은 전날 밤 나온 반도체 대장주의 주주환원 소식이었습니다. SK하이닉스는 전날(19일) 이사회를 열어 국내 상장사 사상 최대 규모인 40조43억원어치 자사주를 오늘부터 11월19일까지 장내매수해 전량 소각하기로 결정하고, 주주환원 목표도 누적 잉여현금흐름(FCF)의 '50% 이내'에서 '50% 이상'으로 상향했습니다. AI 메모리 호황으로 현금창출력이 커진 만큼 환원을 앞당긴다는 설명입니다. 이 소식에 SK하이닉스는 12.73% 오른 169만1000원으로 마감했습니다. 여기에 삼성전자도 8월 중 이사회를 열어 자유현금흐름의 50%를 활용한 100조원 초과 규모의 주주환원 정책을 특별현금배당 중심으로 공식화할 것이라는 보도가 겹치며 삼성전자는 9.49% 오른 27만1000원, 삼성전자우는 10.07% 오른 19만1200원으로 동반 강세를 보였습니다.\n\n지분구조를 타고 상승폭이 증폭된 종목도 있었습니다. 순자산가치 대부분이 SK하이닉스 지분으로 구성된 지주회사 SK스퀘어는 11.85% 급등했는데, 이는 지난 19일 SK하이닉스 급락 때 가장 크게 밀렸던 것과 같은 원리가 반대 방향으로 작용한 결과입니다. 외국인은 코스피에서 1조7117억원을 순매수하며 지수 상승을 주도한 반면, 개인은 2조2791억원, 기관은 4874억원을 순매도해 차익실현에 나섰습니다.\n\n다만 상승세가 시장 전반으로 고르게 퍼지지는 않았습니다. KB금융(-3.85%)과 신한지주(-3.71%) 등 금융주는 반도체로 쏠린 수급 속에 오히려 하락했고, 전날 원전 수주 기대감에 급등했던 현대건설도 2.32% 밀리며 차익실현 매물을 받았습니다. 반면 네이버(5.53%)와 카카오(3.48%)는 시장 전반의 위험선호 심리 속에 반도체 못지않은 강세를 보였습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,852.58",
+        "change_pct": "+5.89%(+381.41p)",
+        "source_urls": [
+          "https://www.wikitree.co.kr/articles/1153692",
+          "https://kr.investing.com/indices/kospi-historical-data"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "840.89",
+        "change_pct": "+1.99%(+16.43p)",
+        "source_urls": [
+          "https://www.wikitree.co.kr/articles/1153692"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+12.73%(1,691,000원)",
+        "reason": "전날(19일) 이사회에서 국내 상장사 사상 최대 규모인 40조43억원어치 자사주를 오늘부터 11월19일까지 장내매수해 전량 소각하기로 결정하고, 주주환원 목표도 누적 잉여현금흐름(FCF)의 '50% 이내'에서 '50% 이상'으로 상향하면서 외국인 매수가 집중됐다.",
+        "source_url": "https://www.newspim.com/news/view/20260819001013",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260819001013",
+          "https://www.wikitree.co.kr/articles/1153692"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+9.49%(271,000원)",
+        "reason": "8월 중 이사회를 열어 자유현금흐름의 50%를 활용한 사상 최대 100조원 초과 규모의 주주환원 정책을 특별현금배당 중심으로 공식화할 것이라는 보도가 나오며, SK하이닉스발 주주환원 기대감과 맞물려 매수세가 몰렸다.",
+        "source_url": "https://www.mt.co.kr/industry/2026/08/20/2026082009501899910",
+        "source_urls": [
+          "https://www.mt.co.kr/industry/2026/08/20/2026082009501899910",
+          "https://www.wikitree.co.kr/articles/1153692"
+        ]
+      },
+      {
+        "ticker": "402340",
+        "name": "SK스퀘어",
+        "change_pct": "+11.85%(1,123,000원)",
+        "reason": "순자산가치 대부분이 SK하이닉스 지분으로 구성된 지주회사 특성상, SK하이닉스의 자사주 소각 발표에 따른 급등이 지분법 평가가치를 통해 그대로 증폭됐다. 지난 19일 SK하이닉스 급락 때 코스피 대형주 중 가장 크게 밀렸던 것과 같은 원리가 이날은 반대로 작용했다.",
+        "source_url": "https://www.wikitree.co.kr/articles/1153692",
+        "source_urls": [
+          "https://www.wikitree.co.kr/articles/1153692"
+        ]
+      },
+      {
+        "ticker": "005935",
+        "name": "삼성전자우",
+        "change_pct": "+10.07%(191,200원)",
+        "reason": "삼성전자 보통주와 함께 100조원대 주주환원 기대감에 동반 강세를 보이며 보통주보다도 높은 상승률을 기록했다.",
+        "source_url": "https://www.wikitree.co.kr/articles/1153692",
+        "source_urls": [
+          "https://www.wikitree.co.kr/articles/1153692"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+11.11%(대표종목 기준)",
+        "note": "삼성전자(+9.49%), SK하이닉스(+12.73%) 평균. SK하이닉스의 40조원 자사주 소각과 삼성전자의 100조원대 주주환원 기대감이 겹치며 코스피 상승을 주도했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005930"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-1.00%(대표종목 기준)",
+        "note": "삼성전기(+0.65%), LG이노텍(-2.65%) 평균. 반도체 대장주로 수급이 쏠리면서 부품, 기판주는 오히려 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/009150"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.19%(대표종목 기준)",
+        "note": "SK텔레콤(-1.43%), KT(-0.95%) 평균. 반도체로 자금이 몰리며 통신주는 시장 상승세에서 소외됐다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.97%(대표종목 기준)",
+        "note": "삼성바이오로직스(+1.94%), 셀트리온(0.00%) 평균. 시장 상승세에 소폭 동참했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/207940"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-3.78%(대표종목 기준)",
+        "note": "KB금융(-3.85%), 신한지주(-3.71%) 평균. 반도체 대장주로 수급이 집중되며 은행주는 코스피 급등 속에서도 큰 폭으로 밀렸다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+0.05%(대표종목 기준)",
+        "note": "이마트(0.00%), 롯데쇼핑(+0.10%) 평균. 시장 전반의 상승세와 무관하게 보합권에 머물렀다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/139480"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.33%(대표종목 기준)",
+        "note": "현대차(+0.85%), 기아(-1.43%), 현대모비스(-0.39%) 평균. 반도체로 수급이 쏠리며 대체로 보합권에 머물렀다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005380"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+1.36%(대표종목 기준)",
+        "note": "LG에너지솔루션(+0.14%), 삼성SDI(+2.57%) 평균. 시장 상승세에 완만하게 동참했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/006400"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-1.31%(대표종목 기준)",
+        "note": "HD한국조선해양(-1.77%), 한화에어로스페이스(-0.85%) 평균. 반도체로 자금이 이동하며 최근 강세였던 조선, 방산주는 차익실현 매물을 받았다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/009540"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-2.32%(대표종목 기준)",
+        "note": "현대건설 기준. 전날 원전 수주 기대감에 급등했던 데 따른 차익실현 매물이 나오며 시장 상승세와 반대로 움직였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/000720"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-0.75%(대표종목 기준)",
+        "note": "LG화학 기준. 반도체로 수급이 쏠리며 시장 상승세에서 소외됐다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/051910"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+0.24%(대표종목 기준)",
+        "note": "POSCO홀딩스(+0.47%), 현대제철(0.00%) 평균. 보합권에 머물렀다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/005490"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+4.51%(대표종목 기준)",
+        "note": "네이버(+5.53%), 카카오(+3.48%) 평균. 시장 전반의 위험선호 심리가 살아나며 반도체 못지않은 강세를 보였다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.54%(대표종목 기준)",
+        "note": "하이브(+0.70%), JYP Ent.(+0.38%) 평균. 시장 상승세에 완만하게 동참했다 (대표종목 기준)",
+        "source_url": "https://markets.hankyung.com/stock/352820"
+      }
+    ],
+    "us": []
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,392.6",
+      "change_pct": "-0.37%(-5.1원)",
+      "source_url": "https://www.mt.co.kr/economy/2026/08/20/2026082016032830389"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "98.64",
+      "change_pct": "-0.09%",
+      "source_url": "https://kr.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,547.44/oz",
+      "change_pct": "+0.05%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$86.32/배럴",
+      "change_pct": "+2.29%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$71,211.82",
+      "change_pct": "+10.9%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,273.54",
+      "change_pct": "+18.6%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.67%",
+      "change_pct": "+2.4bp",
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 국채금리는 재무부의 장기국채 바이백 확대 발표 여파가 이어지며 안정세를 보였고, 이에 따른 달러 약세로 원달러 환율은 1,392.6원까지 내려 11개월 만에 최저 수준을 기록했다. 국제유가는 중동 공급 불안이 이어지며 WTI가 배럴당 86.32달러(+2.29%)로 3주래 최고 수준까지 올랐고, 비트코인(+10.9%)과 이더리움(+18.6%)도 위험자산 선호 속에 급등했다.",
+    "notes": "코스피에서 외국인이 1조7117억원을 순매수하며 지수 상승을 주도한 반면, 개인은 2조2791억원, 기관은 4874억원을 순매도해 차익실현에 나섰다. 오전 9시57분에는 코스피200 선물이 기준가 대비 5.10% 급등하며 매수 사이드카가 발동됐는데, 올해 매수 사이드카만 24번째, 매도까지 합친 전체 사이드카 발동 횟수는 49회로 2002년 현행 기준 도입 이후 이례적인 수준이다."
+  },
+  "top_themes": [
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "SK하이닉스가 전날 이사회에서 국내 상장사 사상 최대 규모인 40조43억원어치 자사주를 전량 소각하기로 결정하고 주주환원 목표를 FCF의 '50% 이상'으로 상향했다. 삼성전자도 8월 중 이사회를 열어 특별현금배당을 중심으로 한 100조원 초과 규모의 주주환원 정책을 공식화할 것이라는 보도가 겹치며 두 대장주가 코스피 상승을 주도했다.",
+      "tickers": [
+        "000660",
+        "005930",
+        "402340"
+      ],
+      "source_url": "https://www.newspim.com/news/view/20260819001013"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "SK하이닉스는 AI 메모리 호황으로 잉여현금흐름(FCF)이 크게 늘어난 것이 자사주 소각을 앞당긴 배경이라고 설명했다. 메모리 업황 호조가 실적을 넘어 주주환원 확대로 이어지며 반도체 대장주 전반의 재평가로 연결됐다.",
+      "tickers": [
+        "000660",
+        "005930"
+      ],
+      "source_url": "https://www.newspim.com/news/view/20260819001013"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "외국인이 코스피에서 1조7117억원을 순매수하며 지수 상승을 이끌었고, 미 국채금리 안정에 따른 달러 약세로 원달러 환율은 1,392.6원까지 내려 11개월 만에 최저 수준을 기록했다.",
+      "tickers": [],
+      "source_url": "https://www.mt.co.kr/economy/2026/08/20/2026082016032830389"
+    },
+    {
+      "theme": "시장 안정화 장치 발동",
+      "summary": "오전 9시57분 코스피200 선물이 기준가 대비 5.10% 급등하며 매수 사이드카가 발동됐다. 올해 매수 사이드카만 24번째로, 매도까지 합친 전체 발동 횟수는 49회에 달해 최근 시장 변동성이 극심하다는 점을 보여준다.",
+      "tickers": [],
+      "source_url": "https://www.etnews.com/20260820000137"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "중동 공급 불안이 이어지며 WTI 국제유가가 배럴당 86.32달러로 3주래 최고 수준까지 올랐다.",
+      "tickers": [],
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "미국 증시 개장 전. 국채금리가 안정세를 이어가는 가운데 8월26일 예정된 실적 발표를 앞두고 오늘 밤 흐름이 주목된다.",
+      "source_url": "https://www.mt.co.kr/economy/2026/08/20/2026082016032830389"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "미국 증시 개장 전. 특별한 국내 관련 뉴스는 없었다.",
+      "source_url": "https://www.mt.co.kr/economy/2026/08/20/2026082016032830389"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "미국 증시 개장 전. 특별한 국내 관련 뉴스는 없었다.",
+      "source_url": "https://www.mt.co.kr/economy/2026/08/20/2026082016032830389"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "미국 증시 개장 전. 특별한 국내 관련 뉴스는 없었다.",
+      "source_url": "https://www.mt.co.kr/economy/2026/08/20/2026082016032830389"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "미국 증시 개장 전. 특별한 국내 관련 뉴스는 없었다.",
+      "source_url": "https://www.mt.co.kr/economy/2026/08/20/2026082016032830389"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "100조원대 주주환원 공식화가 임박했다는 보도 속에 9.49% 오른 271,000원으로 마감했다.",
+      "source_url": "https://www.mt.co.kr/industry/2026/08/20/2026082009501899910"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "40조원 규모 자사주 매입 소각 발표에 12.73% 급등한 1,691,000원으로 마감했다.",
+      "source_url": "https://www.newspim.com/news/view/20260819001013"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "시장 전반의 급등 속에서도 0.14% 오르는 데 그치며 상대적으로 소외됐다.",
+      "source_url": "https://markets.hankyung.com/stock/373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "반도체로 수급이 쏠린 가운데 0.85% 오르며 시장 상승률을 밑돌았다.",
+      "source_url": "https://markets.hankyung.com/stock/005380"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
