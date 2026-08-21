@@ -1,0 +1,318 @@
+{
+  "date": "2026-08-21",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-21T19:00:00+09:00",
+  "headline": "미 국채금리 재상승 여파로 장 초반 1.35% 급락했던 코스피가 오늘 오후 예정된 삼성전자 이사회의 최대 110조원 규모 주주환원 발표 기대감에 반도체 대장주가 반등을 이끌며 0.88% 오른 6,912.95로 마쳤지만, 코스닥은 최근 급등 종목의 차익실현 매물이 쏟아지며 4.63% 급락해 매도 사이드카가 발동됐다",
+  "mail_title": "코스피 웃고 코스닥 운 하루, 무슨 일",
+  "kr": {
+    "preview": "코스피는 오늘 개장 초반 미국 국채금리 재상승 여파로 1.35% 하락 출발했다가 반도체 대장주 강세에 힘입어 낙폭을 만회하고 0.88% 오른 6,912.95로 마감했습니다. 반면 코스닥은 최근 급등한 종목들의 차익실현 매물이 쏟아지며 4.63% 급락한 801.94로 마쳐, 두 지수가 극명하게 엇갈렸습니다. 코스닥에서는 오전 10시5분 프로그램매도호가 일시효력정지(매도 사이드카)가 발동됐는데, 올해 코스닥 시장에서만 32번째 발동입니다.\n\n간밤 뉴욕증시에서는 미 재무부의 국채 바이백 효과가 하루 만에 옅어지며 10년물 국채금리가 다시 4.7%대로 반등했고, 이 여파로 코스피도 장 초반 큰 폭으로 밀렸습니다. 하지만 삼성전자(+3.78%, 281,500원)와 SK하이닉스(+2.19%, 1,730,000원)가 반등을 주도하며 지수를 끌어올렸습니다. 두 종목 강세의 배경에는 오늘 오후 4시경 예정된 삼성전자 이사회가 있습니다. 블룸버그는 삼성전자가 90조에서 최대 110조원 규모의 역대 최대 주주환원 계획을 이날 발표할 것으로 보인다고 보도했고, 국내 증권가에서는 잉여현금흐름의 50%를 기준으로 최대 150조원까지도 거론하고 있습니다. SK하이닉스는 전날 결정한 40조원 규모 자사주 소각 효과가 이어지며 동반 강세를 보였습니다.\n\n코스닥 급락은 단일 악재보다는 최근 급등에 따른 차익실현 심리가 시가총액 상위 성장주 전반으로 번진 결과에 가깝습니다. 알테오젠, 에코프로, 에코프로비엠 등 바이오와 2차전지 대장주가 일제히 하락했고, 코스피에서도 LG에너지솔루션(-4.05%), 삼성SDI(-4.30%) 등 2차전지 대형주가 동반 약세를 보였습니다.\n\n개별 종목 중에서는 카카오가 가장 큰 화제를 모았습니다. 카카오는 이날 이사회를 열어 카카오톡, AI, 커머스를 담당할 카카오AI(신설법인)와 테크핀, 콘텐츠, 모빌리티 투자를 맡을 카카오X(존속법인)로 인적분할하기로 결의했다고 공시했습니다. 회사분할 결정에 따라 오전 한때 매매가 30분간 정지되기도 했는데, 시장은 과거 반복된 계열사 쪼개기 상장에 대한 학습효과로 반응하며 카카오 주가는 7.49% 급락한 35,800원으로 마감했습니다. 이 밖에 한화에어로스페이스(-7.03%)와 현대건설(-7.21%)도 최근 급등에 따른 차익실현과 밸류에이션 부담에 큰 폭으로 조정받았습니다.\n\n수급 면에서는 코스피에서 기관이 2,480억원을 순매수한 반면 개인은 1조1700억원, 외국인은 1,761억원을 순매도했습니다. 코스닥에서는 개인이 6,237억원을 순매수했지만 외국인과 기관이 각각 2,836억원, 3,464억원을 순매도하며 낙폭을 키웠습니다. 원달러 환율은 6.1원 내린 1,386.5원으로 마감해 원화 강세가 이어졌습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,912.95",
+        "change_pct": "+0.88%(+60.37p)",
+        "source_urls": [
+          "https://www.ytn.co.kr/_ln/0102_202608211540374294",
+          "https://alphasquare.co.kr/home/market-summary"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "801.94",
+        "change_pct": "-4.63%(-38.95p)",
+        "source_urls": [
+          "https://www.ytn.co.kr/_ln/0102_202608211540374294",
+          "https://alphasquare.co.kr/home/market-summary"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "035720",
+        "name": "카카오",
+        "change_pct": "-7.49%(35,800원)",
+        "reason": "이사회에서 카카오톡, AI, 커머스를 맡을 카카오AI(신설법인, 분할비율 36%)와 테크핀, 콘텐츠, 모빌리티 투자를 맡을 카카오X(존속법인, 64%)로 인적분할하기로 결의했다고 공시했다. 회사분할 결정에 따라 오전 10시4분부터 30분간 매매가 일시정지됐고, 과거 반복된 계열사 분할, 쪼개기 상장에 대한 시장의 학습효과가 반영되며 급락했다.",
+        "source_url": "https://www.newspim.com/news/view/20260821000365",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260821000365",
+          "https://www.businesspost.co.kr/BP?command=article_view&num=445290"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+2.19%(1,730,000원)",
+        "reason": "전날 결정한 40조원 규모 자사주 소각 발표 효과가 이어지는 가운데, 오늘 오후 예정된 삼성전자 이사회의 대규모 주주환원 발표 기대감까지 겹치며 반도체 대장주로 매수세가 몰렸다.",
+        "source_url": "https://www.newsis.com/view/NISX20260821_0003757159",
+        "source_urls": [
+          "https://www.newsis.com/view/NISX20260821_0003757159"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+3.78%(281,500원)",
+        "reason": "오늘 오후 4시경 열리는 이사회에서 90조에서 최대 110조원 규모의 역대 최대 주주환원 정책을 발표할 것이라는 블룸버그 보도가 나오면서 장중 매수세가 집중됐다. 국내 증권가에서는 잉여현금흐름의 50% 기준으로 최대 150조원까지도 거론된다.",
+        "source_url": "https://www.newspim.com/news/view/20260821000372",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260821000372",
+          "https://news.bizwatch.co.kr/article/industry/2026/08/21/0009"
+        ]
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "change_pct": "-7.03%(1,085,000원)",
+        "reason": "특별한 개별 악재 없이, 최근 단기 급등에 따른 밸류에이션 부담과 차익실현 매물이 겹치며 조선, 방산 업종 전반이 조정받았다.",
+        "source_url": "https://news.jkn.co.kr/post/960399",
+        "source_urls": [
+          "https://news.jkn.co.kr/post/960399"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.99%(대표종목 기준)",
+        "note": "삼성전자(+3.78%), SK하이닉스(+2.19%) 평균. 오늘 오후 예정된 삼성전자 이사회의 대규모 주주환원 발표 기대감이 반영되며 코스피 반등을 주도했다 (대표종목 기준)",
+        "source_url": "https://www.newsis.com/view/NISX20260821_0003757159"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-6.02%(대표종목 기준)",
+        "note": "삼성전기(-5.73%), LG이노텍(-6.30%) 평균. 반도체 대장주로 수급이 집중되고 최근 급등에 따른 차익실현 매물이 겹치며 부품, 기판주는 큰 폭으로 하락했다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=009150"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+2.81%(대표종목 기준)",
+        "note": "SK텔레콤(+5.80%), KT(-0.19%) 평균. SK텔레콤이 뚜렷한 개별 재료 없이 급등하며 업종 평균을 끌어올렸다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.20%(대표종목 기준)",
+        "note": "삼성바이오로직스(-1.46%), 셀트리온(-0.93%) 평균. 코스닥 바이오 대장주들의 급락 여파가 코스피 바이오주에도 일부 번졌다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=207940"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+2.83%(대표종목 기준)",
+        "note": "KB금융(+2.69%), 신한지주(+2.97%) 평균. 반도체발 지수 반등 속에서도 은행주는 견조한 강세를 이어갔다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-0.67%(대표종목 기준)",
+        "note": "이마트(-0.83%), 롯데쇼핑(-0.51%) 평균. 시장 전반의 차익실현 분위기 속에 소폭 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=139480"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.97%(대표종목 기준)",
+        "note": "현대차(-0.60%), 기아(-0.15%), 현대모비스(-2.17%) 평균. 반도체로 수급이 쏠리며 대체로 약보합권에 머물렀다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-4.18%(대표종목 기준)",
+        "note": "LG에너지솔루션(-4.05%), 삼성SDI(-4.30%) 평균. 코스닥 2차전지 대장주(에코프로, 에코프로비엠)의 급락과 함께 코스피 대형주도 동반 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-5.18%(대표종목 기준)",
+        "note": "HD한국조선해양(-3.33%), 한화에어로스페이스(-7.03%) 평균. 최근 단기 급등에 따른 밸류에이션 부담과 차익실현 매물이 겹치며 급락했다 (대표종목 기준)",
+        "source_url": "https://news.jkn.co.kr/post/960399"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-7.21%(대표종목 기준)",
+        "note": "현대건설 기준. 특별한 개별 악재 없이 최근 상승분에 대한 차익실현 매물이 나오며 급락했다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=000720"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-4.36%(대표종목 기준)",
+        "note": "LG화학 기준. 2차전지 소재 관련 약세와 함께 시장 전반의 차익실현 매물에 하락했다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=051910"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-3.66%(대표종목 기준)",
+        "note": "POSCO홀딩스(-3.58%), 현대제철(-3.74%) 평균. 시장 전반의 차익실현 분위기 속에 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005490"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-3.18%(대표종목 기준)",
+        "note": "네이버(+1.14%), 카카오(-7.49%) 평균. 카카오가 인적분할 발표로 급락하며 업종 평균을 끌어내렸다 (대표종목 기준)",
+        "source_url": "https://www.newspim.com/news/view/20260821000365"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-3.21%(대표종목 기준)",
+        "note": "하이브(-3.17%), JYP Ent.(-3.24%) 평균. 코스닥 성장주 전반의 차익실현 매물 속에 동반 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ],
+    "us": []
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,386.5",
+      "change_pct": "-0.44%(-6.1원)",
+      "source_url": "https://www.etoday.co.kr/news/view/2616681"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "98.69",
+      "change_pct": "-0.12%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,636.96/oz",
+      "change_pct": "+1.43%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$86.27/배럴",
+      "change_pct": "-0.64%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$77,397.57",
+      "change_pct": "+8.5%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,392.39",
+      "change_pct": "+5.2%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.697%",
+      "change_pct": "-0.9bp",
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 재무부의 국채 바이백 효과가 하루 만에 옅어지며 10년물 국채금리가 4.7%대로 반등한 영향으로 코스피는 장 초반 큰 폭으로 밀렸다가 반도체 강세에 낙폭을 만회했다. 달러인덱스는 98.69로 소폭 내렸고, 이에 따른 달러 약세와 외국인의 최근 순매수 기조 속에 원/달러 환율은 6.1원 내린 1,386.5원으로 마감했다. 금은 온스당 4,636달러대로 1%대 상승했고, 비트코인(+8.5%)과 이더리움(+5.2%)은 24시간 기준 큰 폭으로 올랐다.",
+    "notes": "코스피에서는 기관이 2,480억원을 순매수한 반면 개인은 1조1700억원, 외국인은 1,761억원을 순매도했다. 코스닥에서는 개인이 6,237억원을 순매수했지만 외국인과 기관이 각각 2,836억원, 3,464억원을 순매도하며 지수 낙폭을 키웠다. 코스닥은 오전 10시5분 코스닥150 선물, 현물지수 급락으로 매도 사이드카가 발동됐는데, 올해 코스닥 시장에서만 32번째 발동이다."
+  },
+  "top_themes": [
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "오늘 오후 4시경 열리는 삼성전자 이사회에서 90조에서 최대 110조원(블룸버그 추산) 규모의 역대 최대 주주환원 정책이 발표될 것으로 알려지며 삼성전자, SK하이닉스 강세를 이끌었다. 국내 증권가에서는 잉여현금흐름의 50% 기준으로 최대 150조원까지도 거론한다. SK하이닉스는 전날 결정한 40조원 규모 자사주 소각 효과가 이어졌다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.newspim.com/news/view/20260821000372"
+    },
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "카카오가 이사회에서 카카오AI(신설법인, AI/카카오톡/커머스)와 카카오X(존속법인, 테크핀/콘텐츠/모빌리티 투자)로의 인적분할을 결의했다고 공시했다. 과거 반복된 계열사 분할에 대한 시장의 학습효과가 반영되며 주가는 7.49% 급락했고, 회사분할 결정으로 오전 한때 매매가 30분간 정지되기도 했다.",
+      "tickers": [
+        "035720"
+      ],
+      "source_url": "https://www.newspim.com/news/view/20260821000365"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "미 재무부의 국채 바이백 효과가 하루 만에 옅어지며 10년물 국채금리가 다시 4.7%대로 반등했고, 이 여파로 코스피는 장 초반 1.35% 급락 출발했다가 반도체 강세에 힘입어 낙폭을 만회했다.",
+      "tickers": [],
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    },
+    {
+      "theme": "시장 안정화 장치 발동",
+      "summary": "코스닥이 최근 급등 종목의 차익실현 매물로 장중 5% 가까이 급락하자 오전 10시5분 프로그램매도호가 일시효력정지(매도 사이드카)가 발동됐다. 올해 코스닥 시장에서만 32번째 발동으로, 최근 시장 변동성이 여전히 크다는 점을 보여준다.",
+      "tickers": [],
+      "source_url": "https://kr.investing.com/news/stock-market-news/article-2070184"
+    },
+    {
+      "theme": "2차전지 업황",
+      "summary": "코스닥 2차전지 대장주인 에코프로(-7.04%), 에코프로비엠(-7.62%)이 급락했고, 코스피에서도 LG에너지솔루션(-4.05%), 삼성SDI(-4.30%) 등 대형주가 동반 약세를 보였다.",
+      "tickers": [
+        "373220",
+        "006400"
+      ],
+      "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3667967"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "미국 증시 개장 전. 8월26일 예정된 실적 발표를 앞두고 오늘 밤 흐름이 주목된다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "미국 증시 개장 전. 특별한 국내 관련 뉴스는 없었다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "미국 증시 개장 전. 특별한 국내 관련 뉴스는 없었다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "미국 증시 개장 전. 특별한 국내 관련 뉴스는 없었다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "미국 증시 개장 전. 특별한 국내 관련 뉴스는 없었다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "오늘 오후 예정된 이사회에서 최대 110조원 규모 주주환원 발표 기대감에 3.78% 오른 281,500원으로 마감했다.",
+      "source_url": "https://www.newspim.com/news/view/20260821000372"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "전날 40조원 자사주 소각 효과가 이어지며 2.19% 오른 1,730,000원으로 마감했다.",
+      "source_url": "https://www.newsis.com/view/NISX20260821_0003757159"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "코스닥 2차전지주 급락 여파로 4.05% 내린 343,500원에 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "반도체로 수급이 쏠린 가운데 0.60% 내린 415,000원으로 약보합 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
