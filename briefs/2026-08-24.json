@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-24",
+  "generated_at_kst": "2026-08-24T08:00:00+09:00",
+  "mode": "new",
+  "headline": "카카오는 주말 내내 인적분할에 대한 주주 반발이 커진 채 월요일 장을 맞고, 베선트 미 재무장관이 오늘 오후(한국시간 새벽) 대이란 경제제재 세부안을 발표할 예정이어서 국제유가 흐름이 변수로 떠오른 가운데, 삼성전자와 SK하이닉스는 26일 엔비디아 실적발표를 앞두고 반도체 심리 시험대에 오른다",
+  "mail_title": "카카오 주주들 화났다, 월요일엔",
+  "kr": {
+    "preview": "지난 금요일(21일) 코스피는 미 국채금리 재상승으로 장 초반 1.35% 급락 출발했다가, 오후 삼성전자 이사회의 대규모 주주환원 기대감에 반도체 대장주가 반등을 이끌며 0.88% 오른 6,912.95로 마감했습니다. 반면 코스닥은 최근 급등 종목의 차익실현 매물이 쏟아지며 4.63% 급락한 801.94로 마쳐 매도 사이드카가 발동됐고, 카카오는 이날 이사회에서 카카오AI(신설법인)와 카카오X(존속법인)로의 인적분할을 결의했다고 공시하며 7.49% 급락했습니다.\n\n주말 사이 새로 확인된 변수는 두 가지입니다. 첫째, 카카오 인적분할에 대한 시장 반응이 주말 내내 싸늘하게 이어졌습니다. 22일 보도에 따르면 투자자들 사이에서는 과거 반복된 계열사 쪼개기 상장의 학습효과가 재부각되며 장기 주주에 대한 배려가 부족하다는 불만이 커졌고, 오늘 개장 이후 추가 매물 출회 여부가 주목됩니다. 둘째, 스콧 베선트 미 재무장관이 오늘(24일) 오후 2시(미 동부시간, 한국시간으로는 25일 새벽 3시) 기자회견을 열어 이란을 겨냥한 초강도 경제제재 세부안을 발표할 예정입니다. 호르무즈 해협 통항 제한이 이어지는 가운데 국제유가는 최근 한 주간 큰 폭으로 올랐고, 발표 내용에 따라 유가와 정유, 조선, 방산 관련주의 변동성이 커질 수 있습니다.\n\n간밤 뉴욕증시는 주말이라 휴장이었지만, 지난 금요일 3대 지수는 국채 바이백 기대와 비트코인 급등(+7.3%)에 힘입은 로빈후드 등 가상자산 관련주 강세 속에 일제히 반등했습니다(다우 +0.98%, S&P500, 나스닥 각 +0.43%). 다만 3대 지수 모두 주간 기준으로는 하락 마감했습니다. 이번 주에는 26일 엔비디아 실적발표와 27일에서 29일 예정된 잭슨홀 미팅(케빈 워시 신임 연준 의장 연설)이라는 대형 이벤트가 겹쳐, 국내 반도체 대형주와 코스피 전반의 방향성도 이 흐름에 연동될 가능성이 큽니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,912.95",
+        "change_pct": "+0.88%(+60.37p, 8/21 종가)",
+        "source_urls": [
+          "https://www.ytn.co.kr/_ln/0102_202608211540374294",
+          "https://alphasquare.co.kr/home/market-summary"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "801.94",
+        "change_pct": "-4.63%(-38.95p, 8/21 종가)",
+        "source_urls": [
+          "https://www.ytn.co.kr/_ln/0102_202608211540374294",
+          "https://alphasquare.co.kr/home/market-summary"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "035720",
+        "name": "카카오",
+        "change_pct": "8/21 종가 -7.49%(35,800원)",
+        "reason": "지난 금요일 이사회에서 카카오톡, AI, 커머스를 맡을 카카오AI(신설법인)와 테크핀, 콘텐츠, 모빌리티 투자를 맡을 카카오X(존속법인)로 인적분할하기로 결의했다고 공시하며 급락했다. 주말 내내 과거 반복된 계열사 분할에 대한 학습효과가 재부각되며 장기 주주 사이에서 반발이 커졌고, 오늘 개장 이후 추가 매물 출회 여부가 주목된다.",
+        "source_url": "https://www.fnnews.com/news/202608220901087681",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608220901087681",
+          "https://www.newspim.com/news/view/20260821000365"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "8/21 종가 +3.78%(281,500원)",
+        "reason": "지난 금요일 오후 이사회에서 올해 90조에서 110조원 규모의 역대 최대 주주환원을 공식 확정하며 강세를 보였다. 이번 주에는 26일 예정된 엔비디아 실적발표와 베선트 재무장관의 대이란 경제제재 발표가 겹치며 반도체, 위험자산 심리 전반의 변동성이 커질 수 있다.",
+        "source_url": "https://www.hankyung.com/article/202608215371g",
+        "source_urls": [
+          "https://www.hankyung.com/article/202608215371g"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "ADR +0.20%($163.41, 8/21 뉴욕 마감)",
+        "reason": "이사회에서 결정한 40조43억원 규모 자사주 소각 프로그램(11월19일까지 장내매수 후 전량 소각)이 진행 중인 가운데, 나스닥 예탁증서(ADR)가 소폭 추가 상승했다. 26일 엔비디아 실적발표를 앞두고 메모리 업황 센티먼트가 시험대에 오를 전망이다.",
+        "source_url": "https://kr.investing.com/equities/sk-hynix-adr",
+        "source_urls": [
+          "https://kr.investing.com/equities/sk-hynix-adr"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "미국 증시는 주말이라 휴장이었습니다. 지난 금요일 뉴욕증시 3대 지수는 국채금리 변동성 속에서도 일제히 반등해 다우는 0.98% 오른 53,277.01, S&P500과 나스닥은 각각 0.43% 올라 7,674.37과 26,180.46으로 마감했습니다. 비트코인이 미 재무부의 국채 바이백 확대 기대와 숏스퀴즈가 겹치며 7.3% 급등해 78,000달러를 넘어서자 로빈후드(+13.70%) 등 가상자산 관련주가 크게 올랐고, 테슬라는 네바다주의 로보택시 상업운행 승인 소식에 5.14% 상승했습니다. 다만 3대 지수 모두 주간 기준으로는 하락 마감했으며, 이번 주 26일 엔비디아 실적발표와 27일에서 29일 잭슨홀 미팅을 앞두고 시장의 긴장감이 이어지고 있습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,674.37",
+        "change_pct": "+0.43%(8/21 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,180.46",
+        "change_pct": "+0.43%(8/21 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,277.01",
+        "change_pct": "+0.98%(8/21 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "8/21 종가 -0.98%($214.72)",
+        "reason": "26일 예정된 2분기 실적발표를 앞두고 실적 시즌 경계감에 지난 한 주간 4.6% 하락해 시가총액 약 2,360억달러가 증발했다. 옵션시장은 실적발표 후 주가가 약 6%(시가총액 기준 약 3,130억달러) 안팎 움직일 것으로 내다보고 있다.",
+        "source_url": "https://ts2.tech/en/nvidia-earnings-preview-options-price-a-313-billion-market-value-swing/",
+        "source_urls": [
+          "https://ts2.tech/en/nvidia-earnings-preview-options-price-a-313-billion-market-value-swing/",
+          "https://stockanalysis.com/stocks/nvda/"
+        ]
+      },
+      {
+        "ticker": "TSLA",
+        "name": "Tesla",
+        "change_pct": "8/21 종가 +5.14%($362.86)",
+        "reason": "네바다주가 클라크 카운티에서 테슬라, 우버, 웨이모의 로보택시 상업운행을 승인하면서 향후 1년간 최대 5,000대의 테슬라 차량이 투입될 수 있게 됐다는 소식에 급등했다.",
+        "source_url": "https://en.wikipedia.org/wiki/Tesla_Robotaxi",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tesla_Robotaxi",
+          "https://stockanalysis.com/stocks/tsla/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.99%(대표종목 기준)",
+        "note": "삼성전자(+3.78%), SK하이닉스(+2.19%) 평균. 삼성전자의 대규모 주주환원 확정이 코스피 반등을 주도했다 (대표종목 기준, 8/21)",
+        "source_url": "https://www.newsis.com/view/NISX20260821_0003757159"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-6.02%(대표종목 기준)",
+        "note": "삼성전기(-5.73%), LG이노텍(-6.30%) 평균. 반도체 대장주로 수급이 집중되며 부품, 기판주는 차익실현 매물에 큰 폭으로 하락했다 (대표종목 기준, 8/21)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=009150"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+2.81%(대표종목 기준)",
+        "note": "SK텔레콤(+5.80%), KT(-0.19%) 평균. SK텔레콤이 뚜렷한 개별 재료 없이 급등하며 업종 평균을 끌어올렸다 (대표종목 기준, 8/21)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.20%(대표종목 기준)",
+        "note": "삼성바이오로직스(-1.46%), 셀트리온(-0.93%) 평균. 코스닥 바이오 대장주 급락 여파가 코스피 바이오주에도 일부 번졌다 (대표종목 기준, 8/21)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=207940"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+2.83%(대표종목 기준)",
+        "note": "KB금융(+2.69%), 신한지주(+2.97%) 평균. 반도체발 지수 반등 속에서도 은행주는 견조한 강세를 이어갔다 (대표종목 기준, 8/21)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-0.67%(대표종목 기준)",
+        "note": "이마트(-0.83%), 롯데쇼핑(-0.51%) 평균. 시장 전반의 차익실현 분위기 속에 소폭 약세를 보였다 (대표종목 기준, 8/21)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=139480"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.97%(대표종목 기준)",
+        "note": "현대차(-0.60%), 기아(-0.15%), 현대모비스(-2.17%) 평균. 반도체로 수급이 쏠리며 대체로 약보합권에 머물렀다 (대표종목 기준, 8/21)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-4.18%(대표종목 기준)",
+        "note": "LG에너지솔루션(-4.05%), 삼성SDI(-4.30%) 평균. 코스닥 2차전지 대장주 급락과 함께 코스피 대형주도 동반 약세를 보였다 (대표종목 기준, 8/21)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-5.18%(대표종목 기준)",
+        "note": "HD한국조선해양(-3.33%), 한화에어로스페이스(-7.03%) 평균. 단기 급등에 따른 밸류에이션 부담과 차익실현 매물이 겹치며 급락했다 (대표종목 기준, 8/21)",
+        "source_url": "https://news.jkn.co.kr/post/960399"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-7.21%(대표종목 기준)",
+        "note": "현대건설 기준. 특별한 개별 악재 없이 최근 상승분에 대한 차익실현 매물이 나오며 급락했다 (대표종목 기준, 8/21)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=000720"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-4.36%(대표종목 기준)",
+        "note": "LG화학 기준. 2차전지 소재 관련 약세와 함께 시장 전반의 차익실현 매물에 하락했다 (대표종목 기준, 8/21)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=051910"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-3.66%(대표종목 기준)",
+        "note": "POSCO홀딩스(-3.58%), 현대제철(-3.74%) 평균. 시장 전반의 차익실현 분위기 속에 약세를 보였다 (대표종목 기준, 8/21)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005490"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-3.18%(대표종목 기준)",
+        "note": "네이버(+1.14%), 카카오(-7.49%) 평균. 카카오가 인적분할 발표로 급락하며 업종 평균을 끌어내렸다 (대표종목 기준, 8/21)",
+        "source_url": "https://www.newspim.com/news/view/20260821000365"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-3.21%(대표종목 기준)",
+        "note": "하이브(-3.17%), JYP Ent.(-3.24%) 평균. 코스닥 성장주 전반의 차익실현 매물 속에 동반 약세를 보였다 (대표종목 기준, 8/21)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-0.44%(8/21 종가)",
+        "note": "SOXX 기준. 실적 시즌을 앞둔 차익실현 매물에 지수 반등에도 소폭 하락했다",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+0.11%(8/21 종가)",
+        "note": "XLK 기준",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.65%(8/21 종가)",
+        "note": "XLC 기준",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+1.29%(8/21 종가)",
+        "note": "XLV 기준. 모더나가 8.86% 추가 상승하며 섹터 전체를 끌어올렸다",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.93%(8/21 종가)",
+        "note": "XLF 기준",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+1.15%(8/21 종가)",
+        "note": "XLY 기준. 로빈후드 등 가상자산 관련주 강세가 반영됐다",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.79%(8/21 종가)",
+        "note": "XLP 기준",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.27%(8/21 종가)",
+        "note": "XLI 기준",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+2.14%(8/21 종가)",
+        "note": "XLB 기준. 달러 약세와 금값 강세 속에 섹터 전체가 강했다",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.17%(8/21 종가)",
+        "note": "XLE 기준. 호르무즈 해협 리스크로 유가는 강세였지만 에너지 섹터 ETF는 소폭 하락 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-2.28%(8/21 종가)",
+        "note": "XLU 기준. 국채금리 재상승 여파로 금리 민감 업종인 유틸리티가 약세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "0.00%(8/21 종가)",
+        "note": "XLRE 기준. 보합 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,386.24",
+      "change_pct": "+0.03%",
+      "source_url": "https://kr.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "98.77",
+      "change_pct": "-0.05%(8/21 종가)",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,661.60/oz",
+      "change_pct": "+1.97%(8/21 종가)",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$86.64/배럴",
+      "change_pct": "-0.22%(8/21 종가)",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$77,689.05",
+      "change_pct": "+0.9%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,464.58",
+      "change_pct": "+2.1%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.74%",
+      "change_pct": "+3bp(8/21 종가)",
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 국채 10년물 금리는 지난 금요일 4.74%로 20개월 만의 고점을 다시 시험했다. 달러인덱스는 98.77로 소폭 내렸고, 원/달러 환율은 1,386원대에서 소폭 상승 출발했다. 국제유가는 호르무즈 해협 통항 제한이 이어지며 최근 한 주간 WTI 기준 6% 가까이 올랐고, 브렌트유는 배럴당 93달러대까지 상승했다. 오늘 베선트 재무장관의 대이란 경제제재 발표를 앞두고 유가 변동성이 커질 수 있다. 금은 온스당 4,661달러대로 강세를 이어갔고, 비트코인과 이더리움은 국채 바이백발 유동성 기대 속에 24시간 기준 각각 0.9%, 2.1% 올랐다.",
+    "notes": "스콧 베선트 미 재무장관이 24일 오후 2시(미 동부시간, 한국시간 25일 새벽 3시) 기자회견을 열어 이란을 겨냥한 초강도 경제제재 세부안을 발표할 예정이다. 트럼프 대통령이 이를 '경제적 D데이'라 칭한 만큼 발표 내용에 따라 국제유가와 위험자산 전반의 변동성이 커질 수 있다. 이번 주에는 26일 엔비디아 실적발표와 27일에서 29일 잭슨홀 미팅(케빈 워시 신임 연준 의장 연설 예정)도 예정돼 있어 국내외 증시 모두 굵직한 이벤트가 몰려 있다."
+  },
+  "top_themes": [
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "카카오가 지난 금요일 이사회에서 카카오AI(신설법인)와 카카오X(존속법인)로의 인적분할을 결의했다고 공시하며 7.49% 급락했다. 주말 내내 과거 반복된 계열사 분할에 대한 학습효과가 재부각되며 장기 주주 사이에서 반발이 커졌고, 오늘 개장 이후 추가 매물 출회 여부가 주목된다. 삼성전자는 90조에서 110조원 규모의 역대 최대 주주환원을 공식 확정했으며, 세부 방식은 10월 말과 내년 1월 이사회에서 순차 결정된다.",
+      "tickers": [
+        "035720",
+        "005930"
+      ],
+      "source_url": "https://www.fnnews.com/news/202608220901087681"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "SK하이닉스의 40조43억원 규모 자사주 소각 프로그램이 진행 중인 가운데, 26일 예정된 엔비디아 실적발표를 앞두고 반도체 업황 센티먼트가 시험대에 오른다. 나스닥 예탁증서(ADR)는 8/21 소폭 상승한 163.41달러로 마감했다.",
+      "tickers": [
+        "000660",
+        "005930"
+      ],
+      "source_url": "https://kr.investing.com/equities/sk-hynix-adr"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "스콧 베선트 미 재무장관이 24일 오후(한국시간 25일 새벽) 이란을 겨냥한 초강도 경제제재 세부안을 발표할 예정이다. 트럼프 대통령이 이를 '경제적 D데이'라 칭했고, 호르무즈 해협 통항 제한이 이어지며 국제유가 변동성이 커질 수 있다.",
+      "tickers": [],
+      "source_url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "호르무즈 해협 통항 제한이 이어지며 WTI는 최근 한 주간 6% 가까이, 브렌트유는 배럴당 93달러대까지 올랐다. 사우디아람코 등은 푸자이라 등 대체 경로로 원유를 조달하고 있지만 정상적인 물동량 회복에는 못 미치고 있다.",
+      "tickers": [],
+      "source_url": "https://oilprice.com/Energy/Energy-General/Oil-Bulls-Take-Control-as-Iran-Deal-Collapses-and-Hormuz-Stays-Restricted.html"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "27일에서 29일 예정된 잭슨홀 미팅에서는 지난 5월 임기를 마친 파월 전 의장 대신 케빈 워시 신임 연준 의장의 연설이 시장의 주목을 받을 전망이다.",
+      "tickers": [],
+      "source_url": "https://www.hankyung.com/article/2026082371571"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "8/21 0.98% 내린 214.72달러로 마감했다. 26일 실적발표를 앞두고 지난 한 주간 4.6% 하락했고, 옵션시장은 실적 발표 후 약 6% 안팎의 주가 변동을 예상하고 있다.",
+      "source_url": "https://ts2.tech/en/nvidia-earnings-preview-options-price-a-313-billion-market-value-swing/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "8/21 0.63% 내린 309.35달러로 마감했다. 주말 특별한 국내 관련 뉴스는 없었다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "8/21 0.43% 오른 483.24달러로 마감해 시장 반등에 동참했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "네바다주의 로보택시 상업운행 승인 소식에 8/21 5.14% 오른 362.86달러로 마감했다.",
+      "source_url": "https://en.wikipedia.org/wiki/Tesla_Robotaxi"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "8/21 3.44% 오른 179.94달러로 마감했다. 8월 한 달간 주가가 약 46% 오르며 강세를 이어가고 있다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "지난 금요일 이사회에서 90조에서 110조원 규모 역대 최대 주주환원을 공식 확정하며 3.78% 오른 281,500원으로 마감했다.",
+      "source_url": "https://www.hankyung.com/article/202608215371g"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "40조원 자사주 소각 프로그램이 진행 중인 가운데 8/21 2.19% 오른 1,730,000원으로 마감했다. ADR도 소폭 상승했다.",
+      "source_url": "https://kr.investing.com/equities/sk-hynix-adr"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "8/21 코스닥 2차전지주 급락 여파로 4.05% 내린 343,500원에 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "8/21 반도체로 수급이 쏠린 가운데 0.60% 내린 415,000원으로 약보합 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "035720",
+      "name": "카카오",
+      "market": "KR",
+      "thesis": "지난 금요일 이사회에서 카카오톡, AI, 커머스를 맡을 카카오AI(신설법인, 분할비율 36%)와 테크핀, 콘텐츠, 모빌리티 투자를 맡을 카카오X(존속법인, 64%)로 인적분할하기로 결의했다고 공시했다. 발표 직후 주가는 장중 13% 넘게 급락했다가 7.49% 하락한 35,800원으로 마감했고, 주말 내내 계열사 쪼개기 상장에 대한 학습효과가 재부각되며 투자자들의 반발이 이어졌다.",
+      "catalysts": [
+        "인적분할 관련 주주총회 및 세부 일정 공개",
+        "카카오AI, 카카오X 각 법인의 사업 전략 및 지배구조 공개"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 32,050원",
+        "resistance": "52주 최고가 87,900원",
+        "analyst_target_cited": "확인된 최신 목표주가 인용 없음"
+      },
+      "risk": "장기 주주의 반발이 매물 출회로 이어질 경우 추가 하락 압력이 커질 수 있고, 인적분할 이후 두 법인의 개별 기업가치 산정이 시장 기대에 못 미칠 경우 밸류에이션 재조정이 나타날 수 있다.",
+      "sources": [
+        "https://www.fnnews.com/news/202608220901087681",
+        "https://www.newspim.com/news/view/20260821000365"
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "지난 금요일 오후 이사회에서 올해 90조에서 110조원 규모의 역대 최대 주주환원을 공식 확정했다. 3분기에 약 30조원의 현금배당을 실시하고 임직원 보상용 자사주 매입 15조원도 별도 의결했으며, 배당과 자사주 소각 비중을 포함한 나머지 규모는 10월 말과 내년 1월 이사회에서 순차 결정한다.",
+      "catalysts": [
+        "10월 말 이사회의 3분기 배당 세부 확정",
+        "26일 예정된 엔비디아 실적발표에 따른 반도체 업황 센티먼트 변화"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 67,500원",
+        "resistance": "52주 최고가 374,500원",
+        "analyst_target_cited": "한국투자증권, 2026-08-21, 목표주가 65만원(기존 대비 10% 상향)"
+      },
+      "risk": "발표된 90~110조원 규모가 시장 일각에서 거론되던 150조원에는 못 미쳐, 삼성증권과 신한투자증권 등 일부 증권사는 오히려 목표주가를 낮췄다. 미 국채금리가 다시 상승 전환하며 고밸류에이션 성장주에 대한 매도 압력이 재현될 수도 있다.",
+      "sources": [
+        "https://www.hankyung.com/article/202608215371g",
+        "https://www.newsis.com/view/NISX20260821_0003757731"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "thesis": "26일로 예정된 2분기 실적발표를 앞두고 지난 한 주간 주가가 4.6% 하락해 시가총액 약 2,360억달러가 증발했다. 옵션시장은 실적발표 후 주가가 약 6%(시가총액 기준 약 3,130억달러) 안팎 움직일 것으로 내다보고 있다.",
+      "catalysts": [
+        "8월26일 2분기 실적발표 및 가이던스(미 동부시간 오후장 마감 후, 한국시간 27일 오전)"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 164.07달러",
+        "resistance": "52주 최고가 236.54달러",
+        "analyst_target_cited": "확인된 개별 증권사 목표주가 인용 없음(다수 월가 애널리스트 평균 약 305달러, 2026-08-21 기준 보도)"
+      },
+      "risk": "실적이나 가이던스가 시장 기대에 못 미칠 경우 반도체 섹터 전반의 밸류에이션 재조정 압력이 커질 수 있고, 이는 국내 SK하이닉스, 삼성전자 등 공급망 종목의 수급에도 영향을 줄 수 있다.",
+      "sources": [
+        "https://ts2.tech/en/nvidia-earnings-preview-options-price-a-313-billion-market-value-swing/",
+        "https://stockanalysis.com/stocks/nvda/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
