@@ -1,0 +1,481 @@
+{
+  "date": "2026-08-25",
+  "generated_at_kst": "2026-08-25T08:00:00+09:00",
+  "mode": "new",
+  "headline": "엔비디아가 메모리 공급 부족을 이유로 내년 초 출하될 AI 서버 가격을 15% 이상 올리겠다고 주요 고객사에 통보하며 삼성전자와 SK하이닉스의 가격 협상력이 부각된 가운데, 전날 삼성전자 급락으로 3.12% 밀린 코스피는 베선트 재무장관의 이란 제재와 야간선물 약세를 안고 엔비디아 실적발표를 이틀 앞두고 개장한다",
+  "mail_title": "엔비디아도 두 손 든 메모리값",
+  "kr": {
+    "preview": "어제(24일) 코스피는 지난 금요일 발표된 삼성전자의 90조에서 110조원 규모 주주환원책이 자사주 소각 없는 배당 중심으로 짜여져 재료 소멸로 인식되며 삼성전자가 8.70% 급락한 여파로 3.12% 밀린 6,696.96으로 마감했습니다. 다만 반도체에서 이탈한 수급이 2차전지와 철강, 화학으로 옮겨가는 순환매 속에 코스닥은 1.42% 오른 813.33으로 대조를 이뤘습니다.\n\n간밤 새로 확인된 변수는 두 가지입니다. 첫째, 엔비디아가 메모리 공급 부족을 이유로 내년 초 출하되는 AI 서버 시스템 '베라 루빈'과 '그레이스 블랙웰' 가격을 15% 이상 인상하겠다고 주요 고객사에 통보한 것으로 알려졌습니다. 블룸버그는 이번 조치로 삼성전자, SK하이닉스, 마이크론 등 메모리 업체들이 전례 없는 가격 협상력을 갖게 됐다고 평가했는데, 전날 주주환원 실망감에 급락했던 삼성전자와 SK하이닉스에는 반등 재료로 작용할 가능성이 있습니다. 둘째, 스콧 베선트 미 재무장관이 이란을 겨냥한 광범위한 제재 '오퍼레이션 이코노믹 아웃캐스트'를 공식 발표했습니다. 해운, 원유, 가상자산, 금, 항공 등 5개 분야에 걸쳐 60여개 기업과 개인, 선박을 제재 대상에 올렸고, 이란산 원유의 약 90%를 사들이는 중국도 예외가 아니라고 경고했습니다.\n\n간밤 뉴욕증시는 이 여파로 반도체주가 약세를 보이며 나스닥이 0.76% 내렸지만, 다우는 0.26% 올라 지수별로 엇갈렸습니다. 아주경제 보도에 따르면 이날 새벽 코스피200 야간선물은 2.29% 하락한 상태로, 국내 증시도 약세 출발이 예상됩니다. NH투자증권은 이번 주 코스피 예상 범위로 6,500에서 7,500을 제시했습니다. 이번 주에는 26일(현지시간) 예정된 엔비디아 실적발표와 미국 개인소비지출(PCE) 물가지수, 27일에서 29일 예정된 잭슨홀 미팅(케빈 워시 신임 연준 의장 첫 연설)이라는 대형 이벤트가 겹쳐 있어 반도체주를 중심으로 변동성 장세가 이어질 가능성이 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,696.96",
+        "change_pct": "-3.12%(-215.99p, 8/24 종가)",
+        "source_urls": [
+          "https://segye.com/newsView/20260824513899",
+          "https://www.ddaily.co.kr/page/view/2026082416243575221"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "813.33",
+        "change_pct": "+1.42%(+11.39p, 8/24 종가)",
+        "source_urls": [
+          "https://segye.com/newsView/20260824513899",
+          "https://www.ddaily.co.kr/page/view/2026082416243575221"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "8/24 종가 -8.70%(257,000원)",
+        "reason": "지난 금요일 발표한 90조에서 110조원 규모 주주환원책이 배당 중심으로 짜여지며 재료 소멸로 인식돼 급락했지만, 간밤 엔비디아가 메모리 공급 부족을 이유로 내년 초 출하되는 AI 서버 가격을 15% 이상 올리겠다고 주요 고객사에 통보한 것으로 알려지며 메모리 3사의 가격 협상력이 부각되고 있다. 블룸버그는 이를 두고 메모리 업체들이 전례 없는 협상력을 갖게 됐다고 평가했다.",
+        "source_url": "https://www.hankyung.com/article/2026082366417",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026082366417",
+          "https://biz.heraldcorp.com/article/10849063"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "8/24 종가 -3.41%(1,671,000원)",
+        "reason": "40조원 규모 자사주 소각을 진행 중인 가운데, 엔비디아의 AI 서버 가격 인상 움직임으로 메모리 가격 협상력이 한층 강화될 것이라는 전망이 나온다. 26일 예정된 엔비디아 실적발표에서 HBM 공급 부족과 관련한 발언이 나올지 주목된다.",
+        "source_url": "https://biz.heraldcorp.com/article/10849063",
+        "source_urls": [
+          "https://biz.heraldcorp.com/article/10849063",
+          "https://www.hankyung.com/article/2026082366417"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "간밤 뉴욕증시는 반도체주 약세 속에 지수별로 엇갈렸습니다. 다우는 0.26% 오른 53,417.16으로 마감했지만, 나스닥은 0.76% 내린 25,980.19, S&P500은 0.28% 내린 7,652.86으로 마쳤습니다. 엔비디아가 메모리 공급 부족을 이유로 내년 초 출하되는 AI 서버 가격을 15% 이상 인상하겠다고 통보했다는 보도가 나오며 정작 엔비디아 자신은 2.91% 내렸고, 마이크론은 5.8%, AMD와 브로드컴도 각각 3%, 2% 넘게 떨어졌습니다. 애플은 메모리 가격 급등에 대응해 중국 D램업체 창신메모리(CXMT)와 낸드업체 양쯔메모리(YMTC) 제품을 테스트하며 공급망 다변화를 검토하고 있는 것으로 알려졌습니다.\n\n스콧 베선트 미 재무장관은 이날 이란을 겨냥한 광범위한 제재 '오퍼레이션 이코노믹 아웃캐스트'를 발표했습니다. 해운, 원유, 가상자산, 금, 항공 5개 분야의 60여개 기업과 개인, 선박이 제재 대상에 올랐고, 이란산 원유의 약 90%를 사들이는 중국도 예외가 아니라고 경고했습니다. 트럼프 대통령은 지난 주말 무역 협상 결렬 이후 2027년 1월 1일부터 캐나다산 자동차와 부품, 철강에 대한 관세를 50%로 인상하겠다고 밝히며 GM(-1%대)과 포드(-3%대) 등 자동차주가 하락했습니다. 비트코인은 1.40% 오른 78,925.54달러로 마감해 3년 만에 최고 수준의 주간 상승률(약 23%)을 기록했고, 금은 온스당 4,700달러를 넘어서며 강세를 이어갔습니다. 시장은 26일 엔비디아 2분기 실적발표와 27일에서 29일 잭슨홀 미팅을 주시하고 있습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,652.86",
+        "change_pct": "-0.28%(8/24 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
+          "https://www.fool.com/coverage/stock-market-today/2026/08/24/stock-market-today-aug-24-nvidia-extends-losses-as-tech-stocks-retreat/"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "25,980.19",
+        "change_pct": "-0.76%(8/24 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
+          "https://www.fool.com/coverage/stock-market-today/2026/08/24/stock-market-today-aug-24-nvidia-extends-losses-as-tech-stocks-retreat/"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,417.16",
+        "change_pct": "+0.26%(8/24 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "8/24 종가 -2.91%($208.48)",
+        "reason": "메모리 공급 부족을 이유로 내년 초 출하되는 AI 서버 시스템 '베라 루빈'과 '그레이스 블랙웰' 가격을 주요 고객사에 15% 이상 인상하겠다고 통보한 것으로 알려지며, 26일 예정된 2분기 실적발표를 앞두고 하락했다.",
+        "source_url": "https://www.hankyung.com/article/2026082366417",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026082366417",
+          "https://stockanalysis.com/stocks/nvda/history/"
+        ]
+      },
+      {
+        "ticker": "TSLA",
+        "name": "Tesla",
+        "change_pct": "8/24 종가 -3.8%($348.95)",
+        "reason": "트럼프 대통령이 지난 주말 무역 협상 결렬 이후 2027년 1월 1일부터 캐나다산 자동차와 부품, 철강에 대한 관세를 50%로 인상하겠다고 밝히며 자동차 업종 전반에 매도세가 나타났다. 9월3일로 예정된 사이버캡 생산모델 공개를 앞두고 있다.",
+        "source_url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+        "source_urls": [
+          "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-6.06%(대표종목 기준)",
+        "note": "삼성전자(-8.70%), SK하이닉스(-3.41%) 평균. 삼성전자 주주환원책 실망 매물에 반도체 투톱이 동반 급락했다. 간밤 엔비디아의 AI 서버 가격 인상 소식은 오늘 반등 재료로 작용할 가능성이 있다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005930"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+1.90%(대표종목 기준)",
+        "note": "삼성전기(+0.15%), LG이노텍(+3.64%) 평균. 반도체 대형주 약세와 달리 부품주는 견조한 강세를 보였다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=011070"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.15%(대표종목 기준)",
+        "note": "SK텔레콤(+0.10%), KT(+0.19%) 평균. 특별한 개별 재료 없이 소폭 강보합권에 머물렀다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+1.15%(대표종목 기준)",
+        "note": "삼성바이오로직스(+1.42%), 셀트리온(+0.88%) 평균. 반도체發 순환매 수혜 속에 완만한 강세를 보였다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=207940"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.75%(대표종목 기준)",
+        "note": "KB금융(-0.73%), 신한지주(-0.77%) 평균. 지수 전반의 약세 속에 은행주도 동반 하락했다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+0.23%(대표종목 기준)",
+        "note": "이마트(+0.97%), 롯데쇼핑(-0.52%) 평균. 종목별로 등락이 엇갈리며 보합권에 머물렀다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=139480"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+0.11%(대표종목 기준)",
+        "note": "현대차(-0.24%), 기아(+0.46%) 평균. 특별한 개별 재료 없이 보합권에서 등락했다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+6.57%(대표종목 기준)",
+        "note": "LG에너지솔루션(+5.39%), 삼성SDI(+7.74%) 평균. 삼성SDI의 삼성디스플레이 지분 매각발 배터리 투자 기대와 반도체發 순환매가 겹치며 급등했다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://biz.heraldcorp.com/article/10849728"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+1.64%(대표종목 기준)",
+        "note": "HD한국조선해양(+1.43%), 한화에어로스페이스(+1.84%) 평균. HD한국조선해양은 오세아니아 선사와 5,154억원 규모 LPG운반선 4척 수주를 공시했다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=009540"
+      },
+      {
+        "name": "건설",
+        "change_pct": "0.00%(현대건설 기준)",
+        "note": "현대건설 기준. 특별한 개별 재료 없이 보합 마감했다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=000720"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+8.12%(LG화학 기준)",
+        "note": "LG화학 기준. 2차전지 소재 계열사 보유 기대와 반도체發 순환매 수급이 유입되며 급등했다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=051910"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+4.68%(대표종목 기준)",
+        "note": "POSCO홀딩스(+5.65%), 현대제철(+3.70%) 평균. 반도체에서 이탈한 자금이 소재, 철강주로 유입되며 강세를 보였다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005490"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+0.34%(대표종목 기준)",
+        "note": "네이버(+0.68%), 카카오(0.00%) 평균. 카카오는 지난주 인적분할 급락 이후 반등하지 못하고 보합권에 머물렀다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://www.asiae.co.kr/article/2026082410084555220"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+2.84%(대표종목 기준)",
+        "note": "하이브(+3.99%), JYP Ent.(+1.68%) 평균. 반도체發 순환매 수혜 속에 강세를 보였다 (8/24 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.67%(8/24 종가)",
+        "note": "SOXX 기준. 엔비디아의 AI 서버 가격 15% 인상 소식과 메모리 공급 부족 우려로 마이크론(-5.8%) 등 메모리 관련주가 급락하며 섹터 전체를 끌어내렸다",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-1.78%(8/24 종가)",
+        "note": "XLK 기준. 반도체 약세가 대형 기술주 전반에 부담을 줬다",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.84%(8/24 종가)",
+        "note": "XLC 기준",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+0.05%(8/24 종가)",
+        "note": "XLV 기준. 보합권에서 소폭 상승 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.29%(8/24 종가)",
+        "note": "XLF 기준. 국채금리 소폭 하락 속에서도 견조한 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+0.16%(8/24 종가)",
+        "note": "XLY 기준",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+1.70%(8/24 종가)",
+        "note": "XLP 기준. 반도체 약세 속 방어주로 자금이 이동하며 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.69%(8/24 종가)",
+        "note": "XLI 기준. 캐나다산 자동차 관세 인상 소식에 GM, 포드 등이 하락하며 업종 전반에 부담을 줬다",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+0.07%(8/24 종가)",
+        "note": "XLB 기준. 금값 강세 속에 소폭 상승 마감했다",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.83%(8/24 종가)",
+        "note": "XLE 기준. WTI가 이란 제재 발표에도 차익실현 매물에 하락하며 동반 약세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+1.05%(8/24 종가)",
+        "note": "XLU 기준. 국채금리 하락에 금리 민감 업종인 유틸리티가 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.58%(8/24 종가)",
+        "note": "XLRE 기준. 국채금리 하락 속에 완만한 강세를 보였다",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,385.84(NDF)",
+      "change_pct": "+0.25%(NDF 1개월물, 전일 종가 대비)",
+      "source_url": "https://m.joseilbo.com/news/view.htm?newsid=574314&class2=&class=2"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "98.92",
+      "change_pct": "+0.19%(8/24 종가)",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,706.30/oz",
+      "change_pct": "+0.55%(8/24 종가)",
+      "source_url": "https://www.business-standard.com/markets/news/gold-crosses-4-700-on-comex-silver-trades-above-69-amid-us-bond-buybacks-126082400155_1.html"
+    },
+    {
+      "name": "WTI",
+      "value": "$84.98/배럴",
+      "change_pct": "-2.39%(8/24 종가)",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$78,944.33",
+      "change_pct": "+1.5%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,482.60",
+      "change_pct": "+0.4%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.700%",
+      "change_pct": "-3.8bp(8/24 종가)",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원/달러 환율은 역외차액결제선물환(NDF) 1개월물이 1,385.84원으로 마감해 전일 종가(1,382.40원) 대비 소폭 상승 출발이 예상된다. 달러인덱스는 미 국채금리 하락에도 재정건전성 우려와 주요국 통화 강세에 98.92로 소폭 올랐다. 미 10년물 국채금리는 이틀 연속 상승 후 4.700%로 소폭 반락했다. WTI는 이란 제재 발표에도 차익실현 매물에 2.39% 내린 배럴당 84.98달러로 마감했고, 금은 달러 약세 기대(디베이스먼트 트레이드)를 타고 온스당 4,700달러를 넘어섰다. 비트코인은 78,944달러로 3년 만에 최고 수준의 주간 상승률(약 23%)을 기록했다.",
+    "notes": "스콧 베선트 미 재무장관이 이란을 겨냥한 광범위한 제재 '오퍼레이션 이코노믹 아웃캐스트'를 발표했다. 해운, 원유, 가상자산, 금, 항공 5개 분야의 60여개 기업과 개인, 선박이 제재 대상에 올랐고, 이란산 원유의 약 90%를 사들이는 중국도 예외가 아니라고 경고했다. 트럼프 대통령은 지난 주말 무역 협상 결렬 이후 2027년 1월 1일부터 캐나다산 자동차와 부품, 철강에 대한 관세를 50%로 인상하겠다고 밝혔다. 이번 주에는 26일 엔비디아 2분기 실적발표와 미국 PCE 물가지수, 27일에서 29일 잭슨홀 미팅(케빈 워시 신임 연준 의장 첫 연설)이 예정돼 있어 국내외 증시 모두 변동성이 커질 수 있다. 코스피200 야간선물은 2.29% 하락한 상태로, NH투자증권은 이번 주 코스피 예상 범위로 6,500에서 7,500을 제시했다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "엔비디아가 메모리 공급 부족을 이유로 내년 초 출하되는 AI 서버 시스템 가격을 15% 이상 인상하겠다고 주요 고객사에 통보한 것으로 알려졌다. 블룸버그는 삼성전자, SK하이닉스, 마이크론 등 메모리 업체들이 전례 없는 가격 협상력을 갖게 됐다고 평가했으며, 이는 전날 주주환원 실망감에 급락한 삼성전자와 SK하이닉스에 반등 재료로 작용할 가능성이 있다.",
+      "tickers": [
+        "005930",
+        "000660",
+        "NVDA"
+      ],
+      "source_url": "https://www.hankyung.com/article/2026082366417"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "스콧 베선트 미 재무장관이 이란을 겨냥한 광범위한 제재 '오퍼레이션 이코노믹 아웃캐스트'를 발표했다. 해운, 원유, 가상자산, 금, 항공 5개 분야의 60여개 기업과 개인, 선박이 제재 대상에 올랐고, 이란산 원유의 약 90%를 사들이는 중국도 예외가 아니라고 경고했다.",
+      "tickers": [],
+      "source_url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "베선트 재무장관의 대이란 제재 발표에도 WTI는 두 주간의 강한 상승 이후 차익실현 매물에 2.39% 내린 배럴당 84.98달러로 마감했다. 호르무즈 해협 통항 제한이 이어지고 있어 향후 유가 변동성은 여전히 큰 상태다.",
+      "tickers": [],
+      "source_url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "역외차액결제선물환(NDF) 달러-원 1개월물이 1,385.84원으로 마감해, 국내 개장 전 소폭의 하락세(원화 강세) 지속이 전망된다. 미 달러화는 국채금리 상승에도 재정건전성 우려와 주요국 통화 강세 영향으로 약보합권에 머물렀다.",
+      "tickers": [],
+      "source_url": "https://m.joseilbo.com/news/view.htm?newsid=574314&class2=&class=2"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "27일에서 29일 예정된 잭슨홀 미팅에서는 케빈 워시 신임 연준 의장의 첫 주요 연설이 시장의 주목을 받을 전망이다. 26일 엔비디아 실적발표와 미국 PCE 물가지수 발표까지 겹치며 이번 주는 변동성 장세가 이어질 가능성이 있다.",
+      "tickers": [],
+      "source_url": "https://www.hankyung.com/article/2026082151136"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "메모리 공급 부족을 이유로 내년 초 출하되는 AI 서버 가격을 15% 이상 인상하겠다고 주요 고객사에 통보한 것으로 알려지며 8/24 2.91% 내린 208.48달러로 마감했다. 26일 2분기 실적발표를 앞두고 있다.",
+      "source_url": "https://www.hankyung.com/article/2026082366417"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "8/24 0.3% 오른 310.34달러로 마감했다. 메모리 가격 급등에 대응해 중국 D램업체 창신메모리(CXMT)와 낸드업체 양쯔메모리(YMTC) 제품을 테스트하며 공급망 다변화를 검토하고 있는 것으로 알려졌다.",
+      "source_url": "https://www.g-enews.com/article/Global-Biz/2026/08/202608160655409742fbbec65dfb_1"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "8/24 0.8% 오른 487.31달러로 마감했다. 특별한 개별 재료 없이 시장 전반의 흐름을 따랐다.",
+      "source_url": "https://finance.yahoo.com/quote/MSFT/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "트럼프 행정부의 캐나다산 자동차 관세 50% 인상 발표에 따른 업종 전반 매도세 속에 8/24 3.8% 내린 348.95달러로 마감했다. 9월3일 사이버캡 생산모델 공개를 앞두고 있다.",
+      "source_url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "8/24 1.93% 내린 176.47달러로 마감했다. 특별한 개별 재료 없이 반도체發 매도세에 동반 하락했다.",
+      "source_url": "https://easternherald.com/2026/08/25/pltr-stock-price-today-august-24-2026/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "지난 금요일 발표한 주주환원책이 배당 중심으로 짜여지며 재료 소멸로 인식돼 8/24 8.70% 급락한 257,000원으로 마감했다. 간밤 엔비디아의 AI 서버 가격 인상 소식은 오늘 반등 재료로 작용할 가능성이 있다.",
+      "source_url": "https://www.hankyung.com/article/2026082366417"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "삼성전자 급락 여파로 8/24 3.41% 내린 1,671,000원으로 마감했다. 40조원 자사주 소각이 진행 중인 가운데, 엔비디아의 AI 서버 가격 인상 소식으로 메모리 가격 협상력이 부각되고 있다.",
+      "source_url": "https://biz.heraldcorp.com/article/10849063"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "삼성전자에서 이탈한 수급이 2차전지로 유입되며 8/24 5.39% 오른 362,000원으로 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "8/24 특별한 개별 재료 없이 0.24% 내린 414,000원으로 약보합 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "지난 금요일 발표한 90조에서 110조원 규모 주주환원책이 배당 중심으로 짜여지며 재료 소멸로 인식돼 8/24 8.70% 급락했다. 다만 간밤 엔비디아가 메모리 공급 부족을 이유로 AI 서버 가격을 15% 이상 인상하겠다고 예고하며 메모리 업체들의 가격 협상력이 부각돼, 오늘 반등 시도 여부가 주목된다.",
+      "catalysts": [
+        "10월 말 이사회의 3분기 배당 세부 확정",
+        "26일 예정된 엔비디아 실적발표에 따른 반도체 업황 센티먼트 변화"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 67,500원",
+        "resistance": "52주 최고가 374,500원",
+        "analyst_target_cited": "한국투자증권, 2026-08-21, 목표주가 65만원"
+      },
+      "risk": "10월 말 이사회에서 발표될 배당 및 자사주 소각 세부안이 시장 기대에 못 미칠 경우 추가 실망 매물이 나올 수 있고, 엔비디아 실적이나 가이던스가 부진할 경우 메모리 협상력 부각 효과가 희석될 수 있다.",
+      "sources": [
+        "https://www.hankyung.com/article/2026082366417",
+        "https://www.mt.co.kr/stock/2026/08/24/2026082409120855682"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "이미 40조원 규모 자사주 소각을 장내매수 즉시 실행에 옮기고 있는 가운데, 엔비디아가 메모리 공급 부족을 이유로 AI 서버 가격을 15% 이상 인상하겠다고 예고하며 메모리 업체의 가격 협상력이 부각되고 있다. 26일 예정된 엔비디아 실적발표에서 HBM 관련 발언이 나올지 주목된다.",
+      "catalysts": [
+        "26일 예정된 엔비디아 2분기 실적발표 및 HBM 관련 코멘트",
+        "11월19일까지 진행되는 40조원 자사주 소각 프로그램"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 245,000원",
+        "resistance": "52주 최고가 2,987,000원",
+        "analyst_target_cited": "개별 증권사 목표주가 인용 없음(글로벌 컨센서스 12개월 평균 약 316만원, 2026년 8월 집계)"
+      },
+      "risk": "엔비디아 실적이나 가이던스가 시장 기대에 못 미칠 경우 반도체 섹터 전반의 밸류에이션 재조정 압력이 커질 수 있다.",
+      "sources": [
+        "https://biz.heraldcorp.com/article/10849063",
+        "https://segye.com/newsView/20260824513899"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "thesis": "메모리 공급 부족을 이유로 내년 초 출하되는 AI 서버 시스템 '베라 루빈'과 '그레이스 블랙웰' 가격을 주요 고객사에 15% 이상 인상하겠다고 통보한 것으로 알려지며 8/24 2.91% 내린 208.48달러로 마감했다. 26일 예정된 2분기 실적발표가 최대 변수다.",
+      "catalysts": [
+        "8월26일 2분기 실적발표 및 가이던스(미 동부시간 장 마감 후, 한국시간 27일 오전)"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 164.07달러",
+        "resistance": "52주 최고가 236.54달러",
+        "analyst_target_cited": "확인된 개별 증권사 목표주가 인용 없음(다수 월가 애널리스트 평균 약 305달러, 2026-08-21 기준 보도)"
+      },
+      "risk": "실적이나 가이던스가 시장 기대에 못 미칠 경우 반도체 섹터 전반의 밸류에이션 재조정 압력이 커질 수 있고, 이는 국내 SK하이닉스, 삼성전자 등 공급망 종목의 수급에도 영향을 줄 수 있다.",
+      "sources": [
+        "https://www.hankyung.com/article/2026082366417",
+        "https://stockanalysis.com/stocks/nvda/history/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
