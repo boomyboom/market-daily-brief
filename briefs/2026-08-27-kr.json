@@ -1,0 +1,280 @@
+{
+  "date": "2026-08-27",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-27T19:00:00+09:00",
+  "headline": "코스피가 엔비디아의 압도적 실적 서프라이즈에 반도체와 2차전지가 함께 뛰며 6,912선까지 올랐지만, 한국은행이 기준금리를 두 달 연속 올려 3%로 만들자 상승폭을 일부 반납했다",
+  "mail_title": "한은 기준금리 3%로 인상, 코스피는 왜 올랐나",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 104.16포인트(1.53%) 오른 6,912.37로 마감했습니다. 장 초반에는 7,000선 회복을 시도할 정도로 강했지만, 오후 들어 한국은행이 기준금리를 연 3.0%로 올렸다는 소식에 상승폭을 절반 가까이 줄였습니다. 코스닥은 10.78포인트(1.30%) 오른 837.65로 함께 강세 마감했습니다.\n\n오늘 장을 움직인 첫 번째 재료는 엔비디아였습니다. 엔비디아는 한국시간 오늘 오전 2027 회계연도 2분기(5~7월) 실적을 발표했는데, 매출이 962억2000만달러로 전년 동기 대비 106% 늘며 시장 예상을 뛰어넘었습니다. 데이터센터 부문 매출만 890억달러(전체의 92%)로 전년 대비 117% 성장했고, 3분기 매출 가이던스도 1,080억달러를 제시해 시장 전망치(1,040억달러)를 웃돌았습니다. 시간외 거래에서 주가가 4.4% 뛰었고, 젠슨 황 CEO는 \"AI가 변곡점에 도달했다\"고 말했습니다. 이 소식에 국내 증시에서도 삼성전자(+1.72%), SK하이닉스(+2.49%), 삼성전기(+4.13%)가 동반 강세를 보이며 KRX 반도체 지수가 2.48% 올랐습니다.\n\n두 번째 재료는 한국은행 금융통화위원회였습니다. 한은은 이날 기준금리를 기존 연 2.75%에서 연 3.0%로 0.25%포인트 올렸습니다. 지난달에 이어 두 달 연속 인상으로, 물가 오름세가 목표 수준을 상당 기간 웃돌 것으로 전망되는 가운데 수출 호조와 내수 회복에 힘입어 올해 성장률 전망치도 기존 2.6%에서 3.3%로 큰 폭 상향했습니다. 시장에서는 이 소식이 전해지자 코스피의 상승폭이 장중 고점 대비 줄어드는 모습이 나타났습니다. 다만 은행주는 대출금리 상승에 따른 이자이익 확대 기대로 오히려 강세를 보여, KRX 은행지수는 0.64% 올랐고 우리금융지주는 7.29% 급등했습니다.\n\n수급 측면에서는 유가증권시장에서 기관이 1,814억원, 외국인이 1,456억원을 각각 순매수한 반면 개인은 1조9,120억원을 순매도해 지수를 사실상 개인 매도를 기관과 외국인이 받아내는 흐름이었습니다. 코스닥에서도 외국인(+891억원)과 기관(+620억원)이 매수 우위, 개인(-1,492억원)이 매도 우위를 보였습니다.\n\n종목별로는 2차전지주가 특히 강했습니다. 삼성SDI는 지난 24일 삼성디스플레이 지분 매각으로 4조원 이상의 재원을 확보하며 에너지저장장치(ESS) 사업 확대 기대가 커졌고, 이 흐름이 오늘까지 이어지며 10.27% 급등했습니다. 에코프로(+5.75%), LG에너지솔루션(+5.56%)도 함께 올랐습니다. 반면 현대차는 이날 2030년 영업이익률 목표를 9% 이상으로 상향하고 4조원 규모 자사주 매입 계획을 내놨음에도, 로보틱스와 자율주행, 소프트웨어 중심 차량(SDV) 등 신사업 전략에서 시장이 기대한 구체적 내용이 부족했다는 평가에 3%대 하락했습니다. NH투자증권은 현대차 목표주가를 76만원에서 62만원으로, 삼성증권은 65만원에서 60만원으로 낮췄습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,912.37",
+        "change_pct": "+1.53%(+104.16p)",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608271559481033"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "837.65",
+        "change_pct": "+1.30%(+10.78p)",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608271559481033"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "006400",
+        "name": "삼성SDI",
+        "change_pct": "+10.27%(569,000원)",
+        "reason": "지난 24일 삼성디스플레이 지분 매각으로 4조원 이상의 사업 재원을 확보했다는 소식에 에너지저장장치(ESS) 사업 확대 기대가 커졌고, 오늘 엔비디아 실적 서프라이즈로 AI 데이터센터발 전력 수요 기대까지 겹치며 강세가 이어졌다.",
+        "source_url": "https://www.fnnews.com/news/202608241048543786",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608241048543786",
+          "https://www.investing.com/equities/samsung-sdi"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+1.72%",
+        "reason": "엔비디아가 2분기 매출 962억달러(전년비 106%↑), 3분기 가이던스 1,080억달러를 발표하며 시장 예상을 크게 웃돌자, 메모리 수요 확대 기대에 반도체 대형주가 동반 상승했다.",
+        "source_url": "https://www.fnnews.com/news/202608271559481033",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608271559481033",
+          "https://v.daum.net/v/20260827065843460"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+2.49%",
+        "reason": "엔비디아의 데이터센터 매출이 전년 대비 117% 급증했다는 실적 발표에 HBM과 D램 수요 기대가 재부각되며 상승했다.",
+        "source_url": "https://www.fnnews.com/news/202608271559481033",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608271559481033",
+          "https://v.daum.net/v/20260827065843460"
+        ]
+      },
+      {
+        "ticker": "005380",
+        "name": "현대차",
+        "change_pct": "-3.19%(395,000원)",
+        "reason": "2030년 영업이익률 9% 이상 목표와 4조원 자사주 매입 계획을 발표했지만, 로보틱스와 자율주행, SDV 등 신사업 전략에 구체성이 부족했다는 평가에 증권사들의 목표주가 하향이 이어지며 하락했다.",
+        "source_url": "https://www.mediawatch.kr/news/article.html?no=260803",
+        "source_urls": [
+          "https://www.mediawatch.kr/news/article.html?no=260803"
+        ]
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "change_pct": "+5.80%",
+        "reason": "미국 육군의 차세대 차륜형 자주포(MTC) 시제품 개발 계약을 자회사 한화디펜스USA가 체결한 데 따른 수주 기대감이 이어지며 방산주 강세를 이끌었다.",
+        "source_url": "https://www.fnnews.com/news/202608190954338000",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608190954338000",
+          "https://www.fnnews.com/news/202608271559481033"
+        ]
+      },
+      {
+        "ticker": "035420",
+        "name": "NAVER",
+        "change_pct": "+8.43%(225,000원)",
+        "reason": "지난달 엔비디아가 유상증자에 참여해 4.5% 지분을 보유한 3대 주주가 되는 AI 인프라 파트너십을 맺은 가운데, 오늘 엔비디아의 실적 서프라이즈에 AI 밸류체인 관련주로 동반 강세를 보였다.",
+        "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717958",
+        "source_urls": [
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1717958",
+          "https://www.newsis.com/view/NISX20260727_0003725052"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.48%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 엔비디아 2분기 실적 서프라이즈(매출 106%↑)에 삼성전자(+1.72%), SK하이닉스(+2.49%) 등 메모리 대형주가 동반 강세.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+1.27%",
+        "note": "하드웨어/IT장비 업종 기준(대표종목 집계). 반도체 대형주보다는 상대적으로 완만한 상승.",
+        "source_url": "https://alphasquare.co.kr/home/market-summary"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-0.79%",
+        "note": "SK텔레콤(-0.50%), LG유플러스(-1.07%) 평균(대표종목 기준). 반도체와 2차전지로 수급이 쏠리며 통신주는 소외.",
+        "source_url": "https://www.investing.com/equities/lg-uplus"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-0.75%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 반도체와 2차전지 랠리에 상대적으로 자금이 이탈.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.40%",
+        "note": "KRX 은행(+0.64%), 증권(-0.30%), 보험(-1.54%) 평균. 한은 기준금리 인상에 은행주는 이자이익 확대 기대로 강세, 보험주는 조달비용 부담에 약세.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-1.23%",
+        "note": "롯데쇼핑(-0.95%), BGF(-1.51%) 평균(대표종목 기준). 금리 인상에 소비 관련주 약세.",
+        "source_url": "https://kr.investing.com/equities/lotte-shopping"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-2.59%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차가 2030년 신사업 전략 실망감에 3%대 급락하며 업종 전체를 끌어내렸다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+7.19%",
+        "note": "LG에너지솔루션(+5.56%), 삼성SDI(+10.27%), 에코프로(+5.75%) 평균(대표종목 기준). 삼성SDI의 재원 확보발 ESS 기대감이 업종 전반으로 확산.",
+        "source_url": "https://www.investing.com/equities/samsung-sdi"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+3.20%",
+        "note": "한화오션(+2.63%), HD현대중공업(+1.18%), 한화에어로스페이스(+5.80%) 평균(대표종목 기준). 방산 수주 기대가 업종을 견인.",
+        "source_url": "https://www.investing.com/equities/daewoo-shipbuilding"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.60%",
+        "note": "KRX 건설지수(KRXCNST) 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+1.04%",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+2.91%",
+        "note": "KRX 철강지수(KRXSTL) 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-2.08%",
+        "note": "카카오(-0.96%), 크래프톤(-3.73%), NC소프트(-1.55%) 평균(대표종목 기준). NAVER는 엔비디아 실적 훈풍에 홀로 강세를 보였으나 나머지 인터넷과 게임주는 약세.",
+        "source_url": "https://www.investing.com/equities/krafton"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.16%",
+        "note": "JYP(-0.75%), 하이브(-0.34%), CJ ENM(-2.39%) 평균(대표종목 기준).",
+        "source_url": "https://www.investing.com/equities/jyp-entertainment-corp"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,386.00",
+      "change_pct": "약세(달러 강세)",
+      "source_url": "https://www.newspim.com/news/view/20260827000040"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.145",
+      "change_pct": "+0.24%",
+      "source_url": "https://www.newspim.com/news/view/20260827000040"
+    },
+    {
+      "name": "금",
+      "value": "4,602.33달러",
+      "change_pct": "+0.17%",
+      "source_url": "https://kr.investing.com/currencies/xau-usd"
+    },
+    {
+      "name": "WTI",
+      "value": "81.84달러",
+      "change_pct": "-0.62%",
+      "source_url": "https://www.dailyforex.com/forex-technical-analysis/2026/08/wti-crudeoil-analysis-26-august-2026/249039"
+    },
+    {
+      "name": "비트코인",
+      "value": "79,027달러",
+      "change_pct": "+0.59%",
+      "source_url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-thursday-august-27-2026/"
+    },
+    {
+      "name": "이더리움",
+      "value": "2,506달러",
+      "change_pct": "+2.58%",
+      "source_url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-thursday-august-27-2026/"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.668%",
+      "change_pct": "+2.93bp",
+      "source_url": "https://www.newspim.com/news/view/20260827000040"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "한국은행이 기준금리를 연 2.75%에서 연 3.0%로 0.25%포인트 인상(두 달 연속 백투백 인상)했다. 미국에서는 7월 PCE 물가지수가 예상(3.6%)을 웃돈 3.7%로 나오며 9월 연준 금리인상 확률이 40%대로 높아졌고, 미 10년물 금리와 달러인덱스가 함께 상승했다.",
+    "notes": "유가증권시장 수급은 기관(+1,814억원)과 외국인(+1,456억원) 순매수, 개인(-1조9,120억원) 순매도로 개인 매물을 기관과 외국인이 받아내는 구조였다. 코스닥도 외국인(+891억원)과 기관(+620억원) 순매수, 개인(-1,492억원) 순매도로 같은 흐름을 보였다."
+  },
+  "top_themes": [
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "엔비디아가 2027 회계연도 2분기 매출 962억달러(전년비 106%↑), 데이터센터 매출 890억달러(전년비 117%↑)를 발표하고 3분기 가이던스도 시장 예상을 상회하는 1,080억달러를 제시했다. 시간외 주가가 4.4% 오르며 국내 반도체와 AI 밸류체인 전반에 훈풍이 이어졌다.",
+      "source_url": "https://v.daum.net/v/20260827065843460"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "엔비디아 실적에서 확인된 AI 서버 수요 확대가 메모리 수요 기대로 이어지며 삼성전자, SK하이닉스가 동반 상승했고 KRX 반도체지수는 2.48% 올랐다.",
+      "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+    },
+    {
+      "theme": "2차전지 업황",
+      "summary": "삼성SDI가 삼성디스플레이 지분 매각으로 확보한 재원을 바탕으로 ESS 사업 확대 기대가 커지며 10%대 급등했고, 에코프로와 LG에너지솔루션도 동반 상승하며 2차전지 업종 전체가 강세를 보였다.",
+      "source_url": "https://www.fnnews.com/news/202608241048543786"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "엔비디아 실적 서프라이즈에 반도체 대형주 동반 상승, +1.72%",
+      "source_url": "https://www.fnnews.com/news/202608271559481033"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "엔비디아 데이터센터 매출 117%↑ 발표에 HBM 수요 기대 재부각, +2.49%",
+      "source_url": "https://www.fnnews.com/news/202608271559481033"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 강세 속 삼성SDI발 ESS 기대감 확산으로 +5.56%",
+      "source_url": "https://www.fnnews.com/news/202608241048543786"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "2030년 수익성 목표 상향에도 신사업 전략 부재 실망에 -3.19%, 목표주가 잇달아 하향",
+      "source_url": "https://www.mediawatch.kr/news/article.html?no=260803"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
