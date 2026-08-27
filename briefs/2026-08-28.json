@@ -1,0 +1,531 @@
+{
+  "date": "2026-08-28",
+  "generated_at_kst": "2026-08-28T08:00:00+09:00",
+  "mode": "new",
+  "headline": "간밤 뉴욕증시에서 엔비디아가 정규장 기준 8.74% 급등해 실적 서프라이즈가 실제 매수세로 확인됐고 세일즈포스와 크라우드스트라이크 등 소프트웨어주까지 20%대 폭등하며 나스닥이 1.57% 오른 가운데, 국내에서는 어제 한국은행이 기준금리를 3.0%로 두 달 연속 올린 여파가 남아 있고 오늘 밤에는 케빈 워시 신임 연준 의장의 첫 잭슨홀 연설이 예정돼 있다",
+  "mail_title": "엔비디아 8%, 오늘밤 워시 첫 연설",
+  "kr": {
+    "preview": "어제(27일) 코스피는 한국은행이 기준금리를 연 2.75%에서 3.0%로 두 달 연속 인상했음에도 엔비디아 실적 훈풍에 힘입어 전 거래일보다 1.53%(+104.16포인트) 오른 6,912.37로 마감했습니다. 삼성SDI가 삼성디스플레이 지분 매각으로 확보한 재원을 바탕으로 에너지저장장치 사업 확대 기대에 10.27% 급등했고, 2차전지 업종 전체가 7% 넘게 올랐습니다. 삼성전자(+1.72%), SK하이닉스(+2.49%)도 함께 상승했지만, 현대차는 신사업 전략에 대한 실망감에 3.19% 내렸습니다.\n\n간밤 새로 확인된 가장 큰 변수는 미국 정규장에서 실제로 확인된 실적 랠리입니다. 엔비디아는 정규장에서 8.74% 오른 227.98달러로 마감하며 시가총액 5조5000억달러 선을 다시 넘어섰고, 웨드부시는 목표주가를 330달러에서 345달러로, 로젠블랫은 325달러에서 390달러로 상향했습니다. 세일즈포스는 2분기 매출이 예상을 웃돌고 앤트로픽과의 파트너십 확대 소식까지 겹치며 22.58% 폭등했고, 크라우드스트라이크(+20.50%), 오크타(+28%대)도 실적과 가이던스 호조에 급등해 S&P500 11개 섹터 가운데 기술(XLK, +3.16%) 섹터만 유일하게 올랐습니다. 이 여파로 나스닥은 1.57% 오른 26,541.35, S&P500은 0.72% 오른 7,730.99로 마감해 오늘 국내 개장에서도 반도체와 소프트웨어 관련주에 대한 투자심리가 이어질 가능성이 있습니다.\n\n한편 PC 제조사 HP는 D램과 낸드 가격 상승이 부품 원가 부담으로 작용한다는 우려에 12.5% 급락했는데, 이는 역설적으로 메모리 가격 상승 사이클이 계속되고 있다는 신호로 국내 삼성전자, SK하이닉스에는 우호적인 재료로 해석될 수 있습니다. 오늘 밤 11시(한국시간)에는 케빈 워시 신임 연준 의장이 취임 후 첫 잭슨홀 연설에 나서는 만큼, 고물가 대응 방향에 대한 힌트가 환율과 금리 전반에 영향을 줄 수 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,912.37",
+        "change_pct": "+1.53%(+104.16p, 8/27 종가)",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608271559481033",
+          "https://www.hankyung.com/article/2026082760446"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "837.65",
+        "change_pct": "+1.30%(+10.78p, 8/27 종가)",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608271559481033"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "006400",
+        "name": "삼성SDI",
+        "change_pct": "8/27 종가 +10.27%(569,000원)",
+        "reason": "지난 24일 삼성디스플레이 지분 매각으로 4조원 이상의 사업 재원을 확보했다는 소식에 에너지저장장치(ESS) 사업 확대 기대가 커졌고, 엔비디아 실적 서프라이즈로 AI 데이터센터발 전력 수요 기대까지 겹치며 2차전지 업종 전체가 동반 강세를 보이는 가운데 가장 큰 폭으로 올랐다.",
+        "source_url": "https://www.fnnews.com/news/202608241048543786",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608241048543786",
+          "https://www.investing.com/equities/samsung-sdi"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "8/27 종가 +1.72%",
+        "reason": "엔비디아가 2분기 매출과 3분기 가이던스에서 시장 예상을 크게 웃돌자 메모리 수요 확대 기대에 반도체 대형주가 동반 상승했다. 간밤 미국 정규장에서 엔비디아가 실제로 8.74% 급등하며 훈풍이 오늘 개장에도 이어질 가능성이 있다.",
+        "source_url": "https://www.fnnews.com/news/202608271559481033",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608271559481033",
+          "https://stockanalysis.com/stocks/nvda/"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "8/27 종가 +2.49%",
+        "reason": "엔비디아의 데이터센터 매출이 전년 대비 117% 급증했다는 실적 발표에 HBM과 D램 수요 기대가 재부각되며 상승했다. 간밤 PC 제조사 HP가 메모리 가격 상승을 원가 부담 요인으로 지목하며 급락한 점도 역설적으로 메모리 공급 부족 지속을 시사한다.",
+        "source_url": "https://www.fnnews.com/news/202608271559481033",
+        "source_urls": [
+          "https://www.fnnews.com/news/202608271559481033",
+          "https://www.hankyung.com/article/2026082758076"
+        ]
+      },
+      {
+        "ticker": "005380",
+        "name": "현대차",
+        "change_pct": "8/27 종가 -3.19%(395,000원)",
+        "reason": "2030년 영업이익률 9% 이상 목표와 4조원 규모 자사주 매입 계획을 발표했지만, 로보틱스와 자율주행, 소프트웨어 중심 차량(SDV) 등 신사업 전략에서 시장이 기대한 구체성이 부족했다는 평가에 증권사들의 목표주가 하향이 이어지며 하락했다.",
+        "source_url": "https://www.mediawatch.kr/news/article.html?no=260803",
+        "source_urls": [
+          "https://www.mediawatch.kr/news/article.html?no=260803"
+        ]
+      },
+      {
+        "ticker": "035420",
+        "name": "NAVER",
+        "change_pct": "8/27 종가 +8.43%(225,000원)",
+        "reason": "지난달 엔비디아가 유상증자에 참여해 4.5% 지분을 보유한 3대 주주가 되는 AI 인프라 파트너십을 맺은 가운데, 엔비디아의 실적 서프라이즈에 AI 밸류체인 관련주로 동반 강세를 보였다.",
+        "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717958",
+        "source_urls": [
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1717958"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "간밤 뉴욕증시는 엔비디아, 세일즈포스, 크라우드스트라이크 등 실적을 발표한 대형 기술과 소프트웨어 기업들이 일제히 시장 예상을 뛰어넘으며 3대 지수가 동반 상승했습니다. S&P500은 0.72% 오른 7,730.99, 나스닥은 1.57% 오른 26,541.35로 마감했고, 다우는 0.2%(+105.56포인트) 오른 53,569.44를 기록했습니다.\n\n엔비디아는 정규장에서 8.74% 급등한 227.98달러로 마감하며 시가총액을 5조5000억달러 위로 되돌렸습니다. 세일즈포스는 2분기 매출이 시장 예상을 웃돌고 앤트로픽과의 파트너십 확대 소식이 더해지며 22.58% 폭등했고, 크라우드스트라이크는 실적과 연간 가이던스 상향에 20.50%, 오크타도 28%대 급등하며 에이전틱 AI 수요 확대 기대를 뒷받침했습니다. 반면 PC, 프린터 제조사 HP는 메모리 가격 상승이 원가 부담으로 작용할 것이라는 우려에 12.5% 급락했고, 웬디스는 트라이언 펀드매니지먼트가 인수 검토에서 손을 뗐다는 로이터 보도에 12.5% 하락했습니다. 이 여파로 S&P500 11개 섹터 가운데 기술 섹터만 유일하게 상승 마감했습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,730.99",
+        "change_pct": "+0.72%(8/27 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,541.35",
+        "change_pct": "+1.57%(8/27 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,569.44",
+        "change_pct": "+0.2%(+105.56p, 8/27 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "8/27 종가 +8.74%($227.98)",
+        "reason": "2분기 매출, 데이터센터 매출, 3분기 가이던스가 모두 시장 예상을 웃돈 실적 서프라이즈가 정규장에서 실제 매수세로 확인됐다. 웨드부시(330→345달러), 로젠블랫(325→390달러) 등 다수 애널리스트가 목표주가를 상향했다.",
+        "source_url": "https://stockanalysis.com/stocks/nvda/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/nvda/",
+          "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61475969/nvidia-stock-valuation-remains-conservative-early-2028-guidance-has-analysts-increasing-price-targets"
+        ]
+      },
+      {
+        "ticker": "CRM",
+        "name": "Salesforce",
+        "change_pct": "8/27 종가 +22.58%($252.05)",
+        "reason": "2분기 매출이 시장 예상을 웃돌았고 앤트로픽과의 파트너십 확대 소식이 더해지며 에이전틱 AI 수요 기대가 커졌다.",
+        "source_url": "https://stockanalysis.com/stocks/crm/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/crm/",
+          "https://www.investing.com/news/stock-market-news/software-earnings-show-ai-as-a-revenue-driver-with-salesforce-and-crowdstrike-leading-gains-93CH-4879994"
+        ]
+      },
+      {
+        "ticker": "CRWD",
+        "name": "CrowdStrike",
+        "change_pct": "8/27 종가 +20.50%($227.96)",
+        "reason": "실적이 예상을 웃돌고 연간 가이던스를 상향하며 AI 기반 보안 수요 확대 기대가 반영됐다.",
+        "source_url": "https://stockanalysis.com/stocks/crwd/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/crwd/"
+        ]
+      },
+      {
+        "ticker": "HPQ",
+        "name": "HP",
+        "change_pct": "8/27 -12.5%",
+        "reason": "PC, 프린터 출하량 감소와 메모리 칩 원가 상승 우려가 최근 실적 호조 효과를 상쇄하며 급락했다.",
+        "source_url": "https://www.benzinga.com/markets/equities/26/08/61452319/nvidia-salesforce-crowdstrike-okta-and-abercrombie-fitch-why-these-5-stocks-are-on-investors-radars-today",
+        "source_urls": [
+          "https://www.benzinga.com/markets/equities/26/08/61452319/nvidia-salesforce-crowdstrike-okta-and-abercrombie-fitch-why-these-5-stocks-are-on-investors-radars-today"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.48%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 엔비디아 2분기 실적 서프라이즈(매출 106%↑)에 삼성전자(+1.72%), SK하이닉스(+2.49%) 등 메모리 대형주가 동반 강세 (8/27 종가)",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+1.27%",
+        "note": "하드웨어, IT장비 업종 기준(대표종목 집계). 반도체 대형주보다는 상대적으로 완만한 상승 (8/27 종가, 대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/market-summary"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-0.79%",
+        "note": "SK텔레콤(-0.50%), LG유플러스(-1.07%) 평균(대표종목 기준). 반도체와 2차전지로 수급이 쏠리며 통신주는 소외 (8/27 종가)",
+        "source_url": "https://www.investing.com/equities/lg-uplus"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-0.75%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 반도체와 2차전지 랠리에 상대적으로 자금이 이탈 (8/27 종가)",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.40%",
+        "note": "KRX 은행(+0.64%), 증권(-0.30%), 보험(-1.54%) 평균. 한은 기준금리 인상에 은행주는 이자이익 확대 기대로 강세, 보험주는 조달비용 부담에 약세 (8/27 종가)",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-1.23%",
+        "note": "롯데쇼핑(-0.95%), BGF(-1.51%) 평균(대표종목 기준). 금리 인상에 소비 관련주 약세 (8/27 종가)",
+        "source_url": "https://kr.investing.com/equities/lotte-shopping"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-2.59%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차가 신사업 전략 실망감에 3%대 급락하며 업종 전체를 끌어내렸다 (8/27 종가)",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+7.19%",
+        "note": "LG에너지솔루션(+5.56%), 삼성SDI(+10.27%), 에코프로(+5.75%) 평균(대표종목 기준). 삼성SDI의 재원 확보발 ESS 기대감이 업종 전반으로 확산 (8/27 종가)",
+        "source_url": "https://www.investing.com/equities/samsung-sdi"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+3.20%",
+        "note": "한화오션(+2.63%), HD현대중공업(+1.18%), 한화에어로스페이스(+5.80%) 평균(대표종목 기준). 방산 수주 기대가 업종을 견인 (8/27 종가)",
+        "source_url": "https://www.investing.com/equities/daewoo-shipbuilding"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.60%",
+        "note": "KRX 건설지수(KRXCNST) 기준 (8/27 종가)",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+1.04%",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준 (8/27 종가)",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+2.91%",
+        "note": "KRX 철강지수(KRXSTL) 기준 (8/27 종가)",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-2.08%",
+        "note": "카카오(-0.96%), 크래프톤(-3.73%), 엔씨소프트(-1.55%) 평균(대표종목 기준). NAVER는 엔비디아 실적 훈풍에 홀로 강세를 보였으나 나머지 인터넷과 게임주는 약세 (8/27 종가)",
+        "source_url": "https://www.investing.com/equities/krafton"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.16%",
+        "note": "JYP(-0.75%), 하이브(-0.34%), CJ ENM(-2.39%) 평균(대표종목 기준) (8/27 종가)",
+        "source_url": "https://www.investing.com/equities/jyp-entertainment-corp"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+1.95%",
+        "note": "SOXX 기준. 엔비디아 실적 훈풍에도 통신, 헬스케어 등 다른 섹터의 차익실현 매물에 눌려 기술(XLK) 섹터보다는 상승폭이 제한 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+3.16%",
+        "note": "XLK 기준. 엔비디아, 세일즈포스, 크라우드스트라이크 실적 서프라이즈에 S&P500 11개 섹터 가운데 유일하게 상승 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-1.07%",
+        "note": "XLC 기준 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-1.13%",
+        "note": "XLV 기준 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.65%",
+        "note": "XLF 기준 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-1.09%",
+        "note": "XLY 기준. 웬디스가 인수설 무산에 급락하며 업종 전반에 부담 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-1.38%",
+        "note": "XLP 기준 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.85%",
+        "note": "XLI 기준 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.82%",
+        "note": "XLB 기준 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.22%",
+        "note": "XLE 기준. 유가 반등에도 업종 전체로는 소폭 하락 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-0.76%",
+        "note": "XLU 기준 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.95%",
+        "note": "XLRE 기준 (8/27 종가)",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,381.79",
+      "change_pct": "-0.22%",
+      "source_url": "https://www.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.090",
+      "change_pct": "0.00%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,654.80/oz",
+      "change_pct": "+0.03%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$83.54/배럴",
+      "change_pct": "+1.59%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$80,070.05",
+      "change_pct": "+1.7%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,500.99",
+      "change_pct": "+0.2%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.676%",
+      "change_pct": "+1.2bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원/달러 환율은 한국은행의 두 달 연속 기준금리 인상 여파로 전일보다 소폭 내린 1,381.79원에 거래됐다. 달러인덱스는 99.090으로 보합권에 머물렀고, 미 10년물 국채금리는 4.676%로 소폭 올랐다. WTI는 중동 지정학 리스크 재부각에 1.59% 오른 배럴당 83.54달러, 금은 온스당 4,654.80달러로 보합권을 나타냈다. 비트코인은 24시간 기준 1.7% 오른 80,070.05달러, 이더리움은 0.2% 오른 2,500.99달러를 기록했다.",
+    "notes": "27일부터 29일까지 미국 와이오밍주 잭슨홀에서 캔자스시티 연방준비은행 주최 미팅이 열리는 가운데, 오늘 밤 11시(한국시간)에는 지난 5월 취임한 케빈 워시 신임 연준 의장이 임기 첫 잭슨홀 연설에 나선다. 여전히 목표치를 웃도는 물가 상승률과 미이란 전쟁발 에너지 가격 상승, 캐나다와의 무역전쟁 등 물가 자극 요인이 산적한 가운데 고물가 대응 방향에 대한 힌트가 나올지 주목된다. 한국은행 신현송 총재와 장용성 금융통화위원회 위원도 27일 금통위 직후 곧바로 잭슨홀로 이동해 참석할 예정이다."
+  },
+  "top_themes": [
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "엔비디아가 정규장에서 8.74% 급등해 실적 서프라이즈가 실제 매수세로 확인됐고, 세일즈포스(+22.58%)와 크라우드스트라이크(+20.50%), 오크타(+28%대)도 실적과 가이던스 호조로 동반 급등했다. S&P500 11개 섹터 가운데 기술 섹터만 유일하게 상승하며 AI 소프트웨어 수요에 대한 신뢰가 재확인됐다.",
+      "tickers": [
+        "NVDA",
+        "CRM",
+        "CRWD"
+      ],
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "엔비디아 실적에서 확인된 AI 서버 수요 확대가 메모리 수요 기대로 이어지는 가운데, PC 제조사 HP가 D램과 낸드 가격 상승을 원가 부담 요인으로 지목하며 12.5% 급락했다. 이는 역설적으로 메모리 공급 부족과 가격 상승 사이클이 지속되고 있다는 신호로, 삼성전자와 SK하이닉스에 우호적인 재료로 해석될 수 있다.",
+      "tickers": [
+        "005930",
+        "000660",
+        "NVDA"
+      ],
+      "source_url": "https://www.benzinga.com/markets/equities/26/08/61452319/nvidia-salesforce-crowdstrike-okta-and-abercrombie-fitch-why-these-5-stocks-are-on-investors-radars-today"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "27일부터 29일까지 잭슨홀 미팅이 열리는 가운데, 오늘 밤 11시(한국시간) 케빈 워시 신임 연준 의장이 취임 후 첫 기조연설에 나선다. 여전히 목표치를 웃도는 물가와 지정학 리스크발 에너지 가격 상승이 겹친 상황에서 고물가 대응 방향에 시장의 관심이 쏠려 있다.",
+      "tickers": [],
+      "source_url": "https://biz.heraldcorp.com/article/10853445"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "한국은행이 어제 기준금리를 3.0%로 두 달 연속 인상한 여파로 원/달러 환율이 1,381.79원까지 내리며 원화가 강세를 보이고 있다. 오늘 밤 워시 의장의 연설 내용에 따라 달러화와 환율 흐름이 다시 출렁일 수 있다.",
+      "tickers": [],
+      "source_url": "https://www.investing.com/currencies/usd-krw"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "8/27 정규장에서 8.74% 급등한 227.98달러로 마감하며 시가총액 5조5000억달러를 다시 넘어섰다. 웨드부시, 로젠블랫 등 다수 애널리스트가 목표주가를 상향했다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "8/27 0.36% 오른 314.58달러로 마감했다. 특별한 개별 재료 없이 시장 전반의 강세를 소폭 따라갔다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "8/27 1.75% 오른 505.06달러로 마감했다. 소프트웨어, AI 관련주 전반의 강세 속에 상승했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "8/27 2.60% 오른 354.81달러로 마감했다. 특별한 개별 재료 없이 시장 전반의 강세를 따라갔다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "8/27 4.75% 오른 185.93달러로 마감했다. AI 소프트웨어주 전반의 강세 속에 동반 상승했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "8/27 엔비디아 실적 훈풍에 1.72% 오르며 마감했다. 간밤 미국 정규장에서 엔비디아가 실제로 8.74% 급등하며 오늘 개장에도 투자심리 개선 여부가 주목된다.",
+      "source_url": "https://www.fnnews.com/news/202608271559481033"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "8/27 엔비디아 데이터센터 매출 117%↑ 발표에 HBM 수요 기대 재부각으로 2.49% 올랐다. HP의 메모리 원가 부담 우려는 역으로 공급 부족 지속을 시사한다.",
+      "source_url": "https://www.fnnews.com/news/202608271559481033"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "8/27 2차전지 업종 강세 속 삼성SDI발 ESS 기대감 확산으로 5.56% 올랐다.",
+      "source_url": "https://www.fnnews.com/news/202608241048543786"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "8/27 2030년 수익성 목표 상향에도 신사업 전략 구체성 부족 실망감에 3.19% 내렸고, 증권사 목표주가 하향이 이어졌다.",
+      "source_url": "https://www.mediawatch.kr/news/article.html?no=260803"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "메모리 슈퍼사이클 속에 엔비디아가 정규장에서 실제로 8.74% 급등하며 실적 서프라이즈가 시장의 확신으로 굳어졌고, 웨드부시(345달러), 로젠블랫(390달러) 등 월가 애널리스트들이 일제히 목표주가를 상향했다. PC 제조사 HP가 D램과 낸드 가격 상승을 실적 우려 요인으로 지목한 점도 메모리 공급 부족이 지속되고 있음을 시사해 국내 메모리 공급망에 우호적인 재료로 해석될 수 있다.",
+      "catalysts": [
+        "오늘 밤 11시(한국시간) 케빈 워시 연준 의장 첫 잭슨홀 연설",
+        "10월 말 이사회의 3분기 배당 세부 확정"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 67,500원",
+        "resistance": "52주 최고가 374,500원",
+        "analyst_target_cited": "한국투자증권, 2026-07-31, 목표주가 65만원"
+      },
+      "risk": "메모리 가격 상승이 소비자 PC, 스마트폰 수요 위축으로 이어질 경우 중장기 수요 둔화 우려가 재부각될 수 있고, 오늘 밤 워시 의장의 잭슨홀 연설에서 매파적 메시지가 나올 경우 위험자산 전반에 대한 투자심리가 위축될 수 있다.",
+      "sources": [
+        "https://stockanalysis.com/stocks/nvda/",
+        "https://www.hankyung.com/article/2026082758076",
+        "https://nwww.newsis.com/view/NISX20260731_0003730978"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "40조원 규모 자사주 소각을 진행 중인 가운데, 엔비디아가 데이터센터 매출과 3분기 가이던스에서 시장 예상을 웃돌며 HBM을 비롯한 AI 메모리 수요 확대 기대가 재부각되고 있다. HP가 메모리 원가 부담으로 급락한 점도 공급 부족 지속을 뒷받침한다.",
+      "catalysts": [
+        "오늘 밤 11시(한국시간) 케빈 워시 연준 의장 첫 잭슨홀 연설",
+        "11월 19일까지 진행되는 40조원 자사주 소각 프로그램"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 245,000원",
+        "resistance": "52주 최고가 2,987,000원",
+        "analyst_target_cited": "글로벌 애널리스트 컨센서스(39명 평균), 2026년 8월 집계, 목표주가 약 316만원"
+      },
+      "risk": "엔비디아의 낙관적 실적에도 반도체 섹터 전반의 밸류에이션 재조정 압력이 재부각될 수 있다.",
+      "sources": [
+        "https://www.fnnews.com/news/202608271559481033",
+        "https://www.benzinga.com/markets/equities/26/08/61452319/nvidia-salesforce-crowdstrike-okta-and-abercrombie-fitch-why-these-5-stocks-are-on-investors-radars-today"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "thesis": "실적 발표 다음 정규장에서도 8.74% 급등한 227.98달러로 마감하며 시가총액이 5조5000억달러를 다시 넘어섰다. 웨드부시(330→345달러), 로젠블랫(325→390달러), 레이먼드제임스(515달러) 등 다수 애널리스트가 목표주가를 일제히 상향하며 낙관론을 재확인했다.",
+      "catalysts": [
+        "오늘 밤 11시(한국시간) 케빈 워시 연준 의장 첫 잭슨홀 연설",
+        "블랙웰 울트라 공급 확대 및 하이퍼스케일러 자본지출 동향"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 164.07달러",
+        "resistance": "52주 최고가 236.54달러",
+        "analyst_target_cited": "웨드부시, 2026-08-27, 목표주가 345달러"
+      },
+      "risk": "이미 큰 폭으로 목표주가가 상향된 만큼 향후 실적이나 가이던스가 조금이라도 기대에 못 미칠 경우 밸류에이션 재조정 압력이 커질 수 있고, 이는 국내 SK하이닉스, 삼성전자 등 공급망 종목의 수급에도 영향을 줄 수 있다.",
+      "sources": [
+        "https://stockanalysis.com/stocks/nvda/",
+        "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61475969/nvidia-stock-valuation-remains-conservative-early-2028-guidance-has-analysts-increasing-price-targets",
+        "https://www.forbes.com/sites/fionariley/2026/08/27/nvidia-soars-almost-10-pushing-value-back-above-55-trillion/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
