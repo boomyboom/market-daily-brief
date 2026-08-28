@@ -1,0 +1,316 @@
+{
+  "date": "2026-08-28",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-28T19:00:00+09:00",
+  "headline": "코스피가 미국의 반도체 관세 확대 검토 보도에 삼성전자와 SK하이닉스 등 대형 반도체주가 급락하며 1.79% 내린 6,788.88로 마감했지만, 코스닥과 보험, 화학, 부품주는 오히려 강세를 보이며 극심한 종목 장세가 펼쳐졌다",
+  "mail_title": "SK하이닉스 4%대 급락, 나머지는 다 올랐다",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 123.49포인트(1.79%) 내린 6,788.88로 마감했습니다. 개장 직후부터 하락 출발해 오후 들어 낙폭을 키우는 흐름이었습니다. 코스닥은 오히려 0.76포인트(0.09%) 오른 838.41로 소폭 상승 마감해, 대형주 중심의 코스피와 정반대 흐름을 보였습니다.\n\n오늘 장을 움직인 첫 번째 재료는 미국의 반도체 관세 확대 검토 소식이었습니다. 오늘 새벽 미국 정치전문매체 폴리티코가 복수 소식통을 인용해, 트럼프 행정부가 반도체 자체뿐 아니라 노트북과 게임 콘솔, 데이터센터 서버 등 반도체가 탑재된 완제품까지 관세 대상에 포함하는 방안을 논의하고 있다고 보도했습니다. 국가별 관세율과 쿼터를 설정하는 방안도 거론됐고, 하워드 러트닉 상무장관은 외국 기업의 관세 감면을 미국 내 반도체 생산시설 투자와 연계하는 방식을 선호하는 것으로 전해졌습니다. 이 소식이 오전 국내 증시에 전해지면서 대미 수출 비중이 높은 삼성전자와 SK하이닉스에 매도세가 집중됐고, 삼성전자는 3.38% 내린 257,000원, SK하이닉스는 4.45% 내린 1,653,000원으로 마감했습니다. KRX 반도체지수는 3.15% 하락한 12,995.91을 기록했습니다. SK하이닉스는 이날 별도로 미국 인디애나 공장에서 2029년부터 HBM 생산을 시작한다고 밝혔는데, 회사 측은 이를 반도체 관세 등 대미 통상 리스크에 대비한 전략적 거점 확보라고 설명했습니다.\n\n같은 날 삼성바이오로직스도 6.78% 내린 1,486,000원으로 마감하며 대형주 중 낙폭이 두드러졌습니다. 뚜렷한 개별 악재가 확인되지는 않았지만, 미국 CDMO(위탁생산) 시장의 경쟁 축이 생산단가에서 현지 생산기반 중심으로 옮겨가는 가운데 관세 등 통상 리스크에 따른 수주 구조 재편 불확실성이 최근 증권가에서 거론되어 온 종목이라, 이날 반도체발 관세 우려가 확산되는 분위기에 동반 매물이 나온 것으로 풀이됩니다.\n\n흥미로운 점은 관세 우려가 반도체 대형주에만 집중되고 나머지 업종은 대부분 강세를 보였다는 점입니다. 보험주는 KRX 보험지수가 2.63% 오르며 가장 강했는데, 삼성화재가 상반기 지배주주순이익 1조3,723억원(전년 대비 10.2% 증가)이라는 견조한 실적을 낸 데 이어 지난 25일 NH투자증권(목표주가 74만원에서 91만원으로), iM증권(63만원에서 74만원으로)이 잇달아 목표주가를 상향한 여파가 이어졌습니다. 은행주도 KRX 은행지수가 1.81% 오르며 동반 강세를 보였습니다. 화학주는 KRX 에너지/화학지수가 2.13% 올랐고, 반도체 부품주인 삼성전기(+2.60%)와 LG이노텍(+2.35%)은 완제품 관세 우려와 무관하게 AI 서버용 MLCC 수요 확대 기대감에 오히려 상승했습니다. 인터넷과 게임주도 NAVER(+1.85%), 카카오(+2.36%), 크래프톤(+1.37%)이 나란히 오르며 강세를 보였습니다.\n\n특징주로는 신풍제약이 14.14% 오른 10,090원으로 마감했습니다. 최근 국내 코로나19 검출률이 지난주 9.1%로 전주(5.7%) 대비 크게 오르는 등 재확산 조짐이 나타나면서, 과거 말라리아 치료제 피라맥스를 활용한 코로나19 치료제 개발 이력이 있는 신풍제약에 매수세가 몰리는 흐름이 이달 들어 반복되고 있습니다.\n\n수급 측면에서는 장중 내내 외국인과 기관이 동반 순매도를, 개인이 순매수를 이어가는 흐름이 나타났습니다. 오전 한때 외국인 809억원, 기관 1,148억원 순매도, 개인 947억원 순매수를 기록했는데, 이 패턴이 마감까지 이어진 것으로 관측됩니다. 원달러 환율은 전일보다 8.7원 내린 1,387.6원으로 소폭 원화 강세를 보였습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,788.88",
+        "change_pct": "-1.79%(-123.49p)",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/market-summary",
+          "https://kr.investing.com/indices/kospi-historical-data"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "838.41",
+        "change_pct": "+0.09%(+0.76p)",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/market-summary",
+          "https://kr.investing.com/indices/kosdaq-historical-data"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-4.45%(1,653,000원)",
+        "reason": "폴리티코 보도로 미국이 노트북, 서버, 게임콘솔 등 반도체 탑재 완제품까지 관세 대상을 확대하는 방안을 검토 중이라는 소식이 전해지며, 대미 수출 비중이 높은 메모리 반도체 대형주에 매도세가 집중됐다.",
+        "source_url": "https://v.daum.net/v/20260828061609359",
+        "source_urls": [
+          "https://v.daum.net/v/20260828061609359",
+          "https://www.newsway.co.kr/news/view?ud=2026082808282511524"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-3.38%(257,000원)",
+        "reason": "SK하이닉스와 같은 이유로 미국의 반도체 관세 확대 검토 보도에 하락했다. 이날 코스피 하락을 이끈 가장 큰 요인이었다.",
+        "source_url": "https://v.daum.net/v/20260828061609359",
+        "source_urls": [
+          "https://v.daum.net/v/20260828061609359",
+          "https://m.ddaily.co.kr/page/view/2026082809325062502"
+        ]
+      },
+      {
+        "ticker": "207940",
+        "name": "삼성바이오로직스",
+        "change_pct": "-6.78%(1,486,000원)",
+        "reason": "뚜렷한 개별 악재는 확인되지 않았으나, 미국 CDMO 시장이 생산단가 중심에서 현지 생산기반 중심으로 재편되며 관세 등 통상 리스크에 따른 수주 구조 변화 우려가 최근 제기돼 온 가운데, 이날 반도체발 관세 우려 확산 분위기 속에 대형주 매물이 집중됐다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=207940",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=207940"
+        ]
+      },
+      {
+        "ticker": "019170",
+        "name": "신풍제약",
+        "change_pct": "+14.14%(10,090원)",
+        "reason": "국내 코로나19 검출률이 지난주 9.1%로 전주(5.7%) 대비 크게 오르며 재확산 조짐이 나타나자, 과거 말라리아 치료제 피라맥스로 코로나19 치료제 개발을 시도했던 이력이 재부각되며 매수세가 몰렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=019170",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=019170",
+          "https://www.hankyung.com/article/2026082480036"
+        ]
+      },
+      {
+        "ticker": "000810",
+        "name": "삼성화재",
+        "change_pct": "+2.63%(KRX 보험지수 기준)",
+        "reason": "상반기 지배주주순이익 1조3,723억원(전년比 10.2%↑)의 견조한 실적에 이어, 지난 25일 NH투자증권(74만원→91만원)과 iM증권(63만원→74만원)이 잇달아 목표주가를 상향한 여파로 보험주 전반이 강세를 보였다.",
+        "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20260825010008513",
+        "source_urls": [
+          "https://www.asiatoday.co.kr/kn/view.php?key=20260825010008513",
+          "https://kr.investing.com/indices/krx-insurance"
+        ]
+      },
+      {
+        "ticker": "009150",
+        "name": "삼성전기",
+        "change_pct": "+2.60%(1,421,000원)",
+        "reason": "완제품 관세 우려로 반도체 대형주가 하락한 것과 달리, AI 서버용 초고압, 고용량 MLCC 수요 확대 기대감에 반도체 부품주는 오히려 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=009150",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=009150"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-3.15%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 미국의 반도체 관세 확대 검토 보도에 삼성전자(-3.38%), SK하이닉스(-4.45%)가 급락하며 지수를 끌어내렸다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+2.48%(대표종목 기준)",
+        "note": "삼성전기(+2.60%), LG이노텍(+2.35%) 평균. 완제품 관세 우려와 무관하게 AI 서버용 MLCC 수요 기대감에 반도체 대형주와 반대로 강세를 보였다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=009150"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.31%(대표종목 기준)",
+        "note": "SK텔레콤(-0.50%), KT(+1.11%) 평균. 특별한 개별 재료 없이 종목별로 엇갈렸다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=030200"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.29%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 코로나19 재확산 우려에 신풍제약이 14.14% 급등한 반면, 삼성바이오로직스는 관세 우려 확산 속에 6.78% 급락하는 등 종목별 온도차가 컸다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.52%(KRX 은행/증권/보험 평균)",
+        "note": "KRX 은행(+1.81%), 증권(+0.11%), 보험(+2.63%) 평균. 삼성화재의 견조한 실적과 목표주가 상향 여파로 보험주가 가장 강했다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-0.22%(대표종목 기준)",
+        "note": "롯데쇼핑(-1.92%), 이마트(+1.49%) 평균. 특별한 공통 재료 없이 종목별로 엇갈렸다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=023530"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+0.75%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 반도체 관세 이슈와 별개로 완만한 상승세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-0.58%(대표종목 기준)",
+        "note": "LG에너지솔루션(-0.13%), 삼성SDI(+0.35%), 에코프로(-1.96%) 평균. 뚜렷한 방향성 없이 종목별로 소폭 엇갈렸다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-0.76%(대표종목 기준)",
+        "note": "HD한국조선해양(-1.66%), 한화오션(-1.23%), 한화에어로스페이스(+0.61%) 평균. 특별한 개별 재료 없이 대체로 약세를 보였다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=009540"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-1.05%",
+        "note": "KRX 건설지수(KRXCNST) 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+2.13%",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. 최근 이어진 석유화학 업황 회복과 구조재편 기대감이 이어지며 강세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+0.06%",
+        "note": "KRX 철강지수(KRXSTL) 기준. 거의 보합 수준에서 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+1.86%(대표종목 기준)",
+        "note": "NAVER(+1.85%), 카카오(+2.36%), 크래프톤(+1.37%) 평균. 반도체 대형주 약세 속에 자금이 이동하며 나란히 강세를 보였다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.86%(대표종목 기준)",
+        "note": "하이브(+0.84%), JYP Ent.(+0.88%) 평균. 특별한 개별 재료 없이 완만한 상승세를 보였다 (대표종목 기준)",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,387.6",
+      "change_pct": "-0.62%(-8.7원)",
+      "source_url": "https://www.kizmom.com/news/articleView.html?idxno=104018"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.133",
+      "change_pct": "+0.04%",
+      "source_url": "https://kr.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "4,613.24달러",
+      "change_pct": "+0.25%",
+      "source_url": "https://kr.investing.com/currencies/xau-usd"
+    },
+    {
+      "name": "WTI",
+      "value": "82.99달러",
+      "change_pct": "-0.65%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "79,691.6달러",
+      "change_pct": "-0.06%",
+      "source_url": "https://www.investing.com/crypto/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "2,496.15달러",
+      "change_pct": "-1.38%",
+      "source_url": "https://www.investing.com/crypto/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.677%",
+      "change_pct": "+0.11%",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원달러 환율은 서울 외환시장에서 전일보다 8.7원 내린 1,387.6원으로 마감하며 소폭 원화 강세를 보였다. 달러인덱스는 99.133으로 거의 보합, 미 10년물 국채금리는 4.677%로 소폭 올랐다. 금은 온스당 4,613.24달러로 0.25% 올랐고, WTI는 82.99달러로 0.65% 내렸다. 비트코인은 79,691.6달러, 이더리움은 2,496.15달러로 24시간 기준 소폭 하락했다.",
+    "notes": "코스피에서 외국인과 기관이 장중 내내 동반 순매도를, 개인이 순매수를 이어가는 흐름이 나타났다. 오전 한때 외국인 809억원, 기관 1,148억원 순매도, 개인 947억원 순매수를 기록했으며 이 패턴이 마감까지 이어진 것으로 관측된다. 반도체 대형주에서 나온 매물을 보험, 화학, IT부품, 인터넷/게임 등 다른 업종이 받아내는 순환매 장세였다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "미국 정치전문매체 폴리티코가 트럼프 행정부의 반도체 관세 확대 검토(노트북, 서버, 게임콘솔 등 완제품 포함) 소식을 보도하며 삼성전자(-3.38%), SK하이닉스(-4.45%)가 급락, KRX 반도체지수가 3.15% 하락했다. 통상, 관세 리스크가 핵심이라는 점에서 표준 목록 중 가장 가까운 항목으로 분류했으며, 이런 관세발 반도체주 급락이 반복될 경우 '반도체 관세 리스크' 등 별도 테마명 신설을 검토할 만하다.",
+      "source_url": "https://v.daum.net/v/20260828061609359"
+    },
+    {
+      "theme": "바이오와 제약",
+      "summary": "국내 코로나19 검출률이 지난주 9.1%로 전주(5.7%) 대비 크게 오르며 재확산 조짐을 보이자, 코로나19 치료제 개발 이력이 있는 신풍제약이 14.14% 급등했다. 반면 삼성바이오로직스는 관세발 통상 리스크 우려 속에 6.78% 급락하며 업종 내 종목별 온도차가 컸다.",
+      "source_url": "https://www.hankyung.com/article/2026082480036"
+    },
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "삼성화재가 상반기 지배주주순이익 1조3,723억원(전년比 10.2%↑)의 견조한 실적을 낸 데 이어 NH투자증권과 iM증권이 잇달아 목표주가를 상향하면서, 보험주 전반이 이날 KRX 보험지수 기준 2.63% 오르며 가장 강한 업종이 됐다.",
+      "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20260825010008513"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "미국 증시 개장 전.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "미국 증시 개장 전.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "미국 증시 개장 전.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "미국 증시 개장 전.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "미국 증시 개장 전.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "미국의 반도체 관세 확대 검토 보도에 3.38% 내린 257,000원으로 마감했다.",
+      "source_url": "https://v.daum.net/v/20260828061609359"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "같은 이유로 4.45% 급락한 1,653,000원 마감. 미국 인디애나 공장에서 2029년부터 HBM을 생산한다고 밝히며 통상 리스크 대응에 나섰다.",
+      "source_url": "https://v.daum.net/v/20260828061609359"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "0.13% 내린 370,000원으로 거의 보합 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "0.38% 오른 399,500원으로 소폭 상승 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
