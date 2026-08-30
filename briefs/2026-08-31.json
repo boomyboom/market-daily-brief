@@ -1,0 +1,459 @@
+{
+  "date": "2026-08-31",
+  "generated_at_kst": "2026-08-31T06:50:00+09:00",
+  "mode": "new",
+  "headline": "케빈 워시 연준 의장의 매파적 잭슨홀 연설 여파로 9월 금리인상 확률이 주말 내내 코인플립 수준(48~56%)에 머문 가운데, 미국의 반도체 완제품 관세 확대안은 여전히 초기 검토 단계에 머물러 있고, 지난주 3%대 급락했던 비트코인은 7만8천 달러대로 낙폭을 만회하며 코스피는 금요일 급락(-1.79%)의 후유증을 안고 월요일 개장을 맞이한다",
+  "mail_title": "9월 금리인상, 주말새 코인플립됐다",
+  "kr": {
+    "preview": "지난 금요일(28일) 코스피는 미국이 반도체뿐 아니라 노트북, 게임콘솔, 데이터센터 서버 등 완제품까지 관세 대상에 포함하는 방안을 검토 중이라는 폴리티코발 보도가 전해지며 전 거래일보다 1.79%(123.49포인트) 내린 6,788.88로 마감했습니다. 대미 수출 비중이 높은 삼성전자(-3.38%), SK하이닉스(-4.45%)가 급락을 주도했고 외국인이 1조7,561억원을 순매도한 반면, 코스닥은 0.09% 오른 838.41로 대형주와 반대 흐름을 보였습니다.\n\n주말 사이 새로 확인된 내용은 두 갈래입니다. 먼저 반도체 완제품 관세는 아직 확정과는 거리가 멉니다. 테크타임스 등 외신에 따르면 이 방안은 여전히 초기 검토 단계이며, 상무부는 단계적 시행과 국가별 쿼터, 자국 내 생산 투자와 연동한 예외 조항 등을 논의 중이어서 앞으로 몇 달간 세부 내용이 크게 바뀔 수 있다는 점이 새롭게 확인됐습니다. 둘째, 워시 의장의 발언 이후 9월 금리인상 가능성이 시장에서 사실상 코인플립 수준으로 자리 잡았습니다. CNBC는 CME 페드워치 기준 인상 확률이 56%, 칼시와 폴리마켓에서는 각각 48%, 49%로 집계됐다고 후속 보도했습니다.\n\n자산시장에서는 금요일 급락했던 금이 온스당 4,455달러 선에서 낙폭을 대부분 유지하며 약세를 이어간 반면, 3%대 급락했던 비트코인은 주말 사이 한때 8만1,300달러대 월간 고점까지 반등했다가 다시 7만8,600달러대로 안정을 찾았고 이더리움도 2,478달러로 완만히 반등했습니다. 달러인덱스는 99.64 선의 강세를 유지하고 있어, 월요일 개장에서는 반도체 관세 우려의 장기화 여부와 다음달 15~16일 FOMC를 향한 금리 경로 재료가 함께 소화될 것으로 보입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,788.88",
+        "change_pct": "-1.79%(-123.49p, 8/28 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.newsis.com/view/NISX20260828_0003767285",
+          "https://www.blockmedia.co.kr/archives/1133458"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "838.41",
+        "change_pct": "+0.09%(+0.76p, 8/28 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.blockmedia.co.kr/archives/1133458"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "8/28 종가 -4.45%(1,653,000원)",
+        "reason": "미국이 반도체 완제품(노트북, 서버, 게임콘솔)까지 관세 대상을 확대하는 방안을 검토 중이라는 보도로 8/28 급락했다. 주말 사이 테크타임스 등은 이 방안이 여전히 초기 검토 단계이며 데이터센터 예외 조항이 유지될지도 불확실하다고 후속 보도해, 월요일 개장에서도 불확실성이 이어질 가능성이 있다.",
+        "source_url": "https://www.betanews.net/article/view/beta202608280066",
+        "source_urls": [
+          "https://www.betanews.net/article/view/beta202608280066",
+          "https://www.techtimes.com/articles/325864/20260828/trump-chip-tariff-phase-2-targets-servers-kills-data-center-carve-outs.htm"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "8/28 종가 -3.38%(257,000원)",
+        "reason": "같은 반도체 완제품 관세 확대 검토 보도로 8/28 급락했다. 한국이 전 세계 D램의 70%를 생산하는 가운데, 관세 세부안이 아직 초기 논의 단계에 머물러 있다는 점이 주말 사이 확인되면서 월요일 개장에서 관련 불확실성이 이어질 가능성이 있다.",
+        "source_url": "https://www.newsis.com/view/NISX20260828_0003767285",
+        "source_urls": [
+          "https://www.newsis.com/view/NISX20260828_0003767285",
+          "https://www.techtimes.com/articles/325864/20260828/trump-chip-tariff-phase-2-targets-servers-kills-data-center-carve-outs.htm"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "지난 금요일(28일) 뉴욕증시는 케빈 워시 연준 의장의 첫 잭슨홀 연설을 소화하며 3대 지수가 동반 하락했습니다. S&P500은 0.25% 내린 7,711.76, 나스닥은 0.52% 내린 26,402.42로 마감했고, 다우는 0.02%(9.45포인트) 소폭 내린 53,559.99를 기록했습니다. 다만 주간 기준으로는 S&P500이 0.5%, 나스닥이 0.9%, 다우가 0.5% 오르며 3주 만에 상승 마감했습니다. 워시 의장의 매파적 발언 여파로 9월 금리인상 확률이 급등했고, 주말 사이 CNBC는 이를 두고 '사실상 동전 던지기(coin flip)' 상황이 됐다고 후속 보도했습니다.\n\n개별 종목에서는 엔비디아가 실적 발표 이틀 만에 4.57% 내린 217.55달러로 마감하며 차익실현 매물이 나왔습니다. 미국 증시는 주말 동안 휴장했으며, 월요일에는 금요일 급락의 후유증과 함께 반도체 완제품 관세 검토 방안의 진행 상황이 다시 주목받을 것으로 예상됩니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,711.76",
+        "change_pct": "-0.25%(8/28 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,402.42",
+        "change_pct": "-0.52%(8/28 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,559.99",
+        "change_pct": "-0.02%(-9.45p, 8/28 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "8/28 종가 -4.57%($217.55)",
+        "reason": "실적 발표 이틀 만에 차익실현 매물이 나온 데다, 워시 의장의 매파적 발언과 반도체 완제품 관세 검토 우려가 겹치며 하락했다. 주말 사이 관세안이 여전히 초기 단계라는 점이 확인됐지만, 데이터센터 예외 조항이 유지될지는 불확실한 상태로 남아 있다.",
+        "source_url": "https://stockanalysis.com/stocks/nvda/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/nvda/",
+          "https://www.techtimes.com/articles/325864/20260828/trump-chip-tariff-phase-2-targets-servers-kills-data-center-carve-outs.htm"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-3.15%",
+        "note": "KRX 반도체지수(KRXSEM) 기준(8/28 종가, 최근 거래일). 미국의 반도체 완제품 관세 검토 보도에 삼성전자(-3.38%), SK하이닉스(-4.45%)가 급락하며 지수를 끌어내렸다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+2.48%(대표종목 기준)",
+        "note": "삼성전기(+2.60%), LG이노텍(+2.35%) 평균(8/28 종가, 최근 거래일). 완제품 관세 우려와 무관하게 AI 서버용 MLCC 수요 기대감에 반도체 대형주와 반대로 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=009150"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.31%(대표종목 기준)",
+        "note": "SK텔레콤(-0.50%), KT(+1.11%) 평균(8/28 종가, 최근 거래일). 특별한 개별 재료 없이 종목별로 엇갈렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=030200"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.29%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준(8/28 종가, 최근 거래일). 코로나19 재확산 우려에 신풍제약이 급등한 반면 삼성바이오로직스는 관세 우려 확산 속에 급락하는 등 종목별 온도차가 컸다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.52%(KRX 은행/증권/보험 평균)",
+        "note": "KRX 은행(+1.81%), 증권(+0.11%), 보험(+2.63%) 평균(8/28 종가, 최근 거래일). 삼성화재의 견조한 실적과 목표주가 상향 여파로 보험주가 가장 강했다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-0.22%(대표종목 기준)",
+        "note": "롯데쇼핑(-1.92%), 이마트(+1.49%) 평균(8/28 종가, 최근 거래일). 특별한 공통 재료 없이 종목별로 엇갈렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=023530"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+0.75%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준(8/28 종가, 최근 거래일). 반도체 관세 이슈와 별개로 완만한 상승세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-0.58%(대표종목 기준)",
+        "note": "LG에너지솔루션(-0.13%), 삼성SDI(+0.35%), 에코프로(-1.96%) 평균(8/28 종가, 최근 거래일). 뚜렷한 방향성 없이 종목별로 소폭 엇갈렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-0.76%(대표종목 기준)",
+        "note": "HD한국조선해양(-1.66%), 한화오션(-1.23%), 한화에어로스페이스(+0.61%) 평균(8/28 종가, 최근 거래일). 특별한 개별 재료 없이 대체로 약세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=009540"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-1.05%",
+        "note": "KRX 건설지수(KRXCNST) 기준(8/28 종가, 최근 거래일).",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+2.13%",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준(8/28 종가, 최근 거래일). 최근 이어진 석유화학 업황 회복과 구조재편 기대감이 이어지며 강세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+0.06%",
+        "note": "KRX 철강지수(KRXSTL) 기준(8/28 종가, 최근 거래일). 거의 보합 수준에서 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+1.86%(대표종목 기준)",
+        "note": "NAVER(+1.85%), 카카오(+2.36%), 크래프톤(+1.37%) 평균(8/28 종가, 최근 거래일). 반도체 대형주 약세 속에 자금이 이동하며 나란히 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.86%(대표종목 기준)",
+        "note": "하이브(+0.84%), JYP Ent.(+0.88%) 평균(8/28 종가, 최근 거래일).",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-3.20%",
+        "note": "SOXX 기준(8/28 종가, 최근 거래일). 엔비디아(-4.57%), 인텔(-2.85%) 등이 실적 발표 이틀 만에 차익실현 매물과 워시 의장의 매파적 발언 여파로 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-1.55%",
+        "note": "XLK 기준(8/28 종가, 최근 거래일). 반도체 약세와 페이팔 급락이 섹터 전반을 끌어내렸다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+1.42%",
+        "note": "XLC 기준(8/28 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.24%",
+        "note": "XLV 기준(8/28 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.38%",
+        "note": "XLF 기준(8/28 종가, 최근 거래일). 국채금리 상승이 은행 순이자마진 기대로 이어지며 소폭 상승했다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+1.15%",
+        "note": "XLY 기준(8/28 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.43%",
+        "note": "XLP 기준(8/28 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.93%",
+        "note": "XLI 기준(8/28 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.09%",
+        "note": "XLB 기준(8/28 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+0.63%",
+        "note": "XLE 기준(8/28 종가, 최근 거래일). 셰브런, 핼리버튼의 베네수엘라 원유 사업 확대 보도가 섹터를 지지했다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-1.04%",
+        "note": "XLU 기준(8/28 종가, 최근 거래일). 국채금리 상승이 배당 매력을 낮추며 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.40%",
+        "note": "XLRE 기준(8/28 종가, 최근 거래일). 국채금리 상승 여파로 소폭 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,377.74",
+      "change_pct": "+0.09%",
+      "source_url": "https://www.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.640",
+      "change_pct": "+0.55%(8/28 종가, 최근 거래일)",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,455.02/oz",
+      "change_pct": "-3.19%",
+      "source_url": "https://www.investing.com/currencies/xau-usd"
+    },
+    {
+      "name": "WTI",
+      "value": "$83.44/배럴",
+      "change_pct": "-0.11%(8/28 종가, 최근 거래일)",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$78,607.24",
+      "change_pct": "+0.7%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,478.34",
+      "change_pct": "+1.1%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.722%",
+      "change_pct": "+5bp(8/28 종가, 최근 거래일)",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 10년물 국채금리는 4.722%(8/28 종가)로 워시 의장의 매파적 발언 이후 5bp 올랐고, 달러인덱스는 99.640으로 0.55% 오르며 강세를 유지하고 있다. 금은 온스당 4,455.02달러로 3.19% 낙폭을 대부분 유지하고 있는 반면, 3%대 급락했던 비트코인은 주말 사이 한때 8만1,300달러대 월간 고점까지 반등했다가 7만8,607달러로 안정을 찾았고 이더리움도 2,478달러로 완만히 반등했다. 원/달러 환율은 1,377.74원으로 소폭 하락 안정된 모습이다.",
+    "notes": "케빈 워시 연준 의장이 28일 잭슨홀 심포지엄 첫 기조연설에서 인플레이션이 충분히 개선되지 않았다며 매파적 발언을 내놓은 여파가 주말 내내 이어졌다. CNBC는 29일 9월 금리인상 여부가 CME 페드워치 기준 56%, 칼시 48%, 폴리마켓 49%로 사실상 코인플립 상태가 됐다고 보도했다. 다음 FOMC는 9월 15~16일(현지시간) 예정이다. 한편 미국의 반도체 완제품 관세 확대안은 테크타임스 등에 따르면 여전히 초기 검토 단계이며, 데이터센터용 반도체에 대한 기존 예외 조항이 유지될지도 불확실한 상태로 남아 있어 세부안 확정까지는 시간이 더 걸릴 전망이다."
+  },
+  "top_themes": [
+    {
+      "theme": "연준 통화정책",
+      "summary": "케빈 워시 연준 의장이 28일 잭슨홀 심포지엄 첫 연설에서 인플레이션이 아직 충분히 개선되지 않았다며 매파적 메시지를 내놓았다. 주말 사이 CNBC는 9월 금리인상 확률이 CME 페드워치 기준 56%, 칼시 48%, 폴리마켓 49%로 사실상 코인플립 상태가 됐다고 후속 보도했다. 다음 FOMC는 9월 15~16일 예정이다.",
+      "tickers": [],
+      "source_url": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "미국이 반도체 완제품(노트북, 서버, 게임콘솔)까지 관세 대상을 확대하는 방안을 검토 중이라는 보도로 28일 삼성전자, SK하이닉스가 급락했다. 주말 사이 테크타임스 등은 이 방안이 여전히 초기 검토 단계이며 상무부가 단계적 시행과 국가별 쿼터, 데이터센터 예외 조항 유지 여부를 놓고 논의를 이어가고 있어 앞으로 몇 달간 세부 내용이 바뀔 수 있다고 전했다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.techtimes.com/articles/325864/20260828/trump-chip-tariff-phase-2-targets-servers-kills-data-center-carve-outs.htm"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "워시 의장의 매파적 발언에 달러인덱스가 99.640까지 오르며 강세를 보였다. 원/달러 환율은 1,377원대로 안정적이지만, 지난 금요일 코스피에서 외국인이 1조7,561억원을 순매도한 가운데 달러 강세가 이어지면 월요일 원화와 외국인 수급에 부담이 될 수 있다.",
+      "tickers": [],
+      "source_url": "https://www.newsis.com/view/NISX20260828_0003767285"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "8/28 실적 발표 이틀 만에 4.57% 내린 217.55달러로 마감했다. 미국 증시는 주말 휴장했으며, 반도체 완제품 관세안이 여전히 초기 단계라는 점이 새로 확인됐다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "8/28 1.63% 오른 319.70달러로 마감했다. 미국 증시는 주말 휴장했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "8/28 1.68% 오른 513.53달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "8/28 1.71% 내린 348.75달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "8/28 0.19% 오른 186.29달러로 거의 보합 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "8/28 반도체 완제품 관세 확대 검토 보도에 3.38% 내린 257,000원으로 마감했다. 주말 사이 관세안이 초기 단계에 머물러 있다는 점이 확인되며 월요일 개장에서 불확실성이 이어질 가능성이 있다.",
+      "source_url": "https://www.newsis.com/view/NISX20260828_0003767285"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "8/28 같은 이유로 4.45% 급락한 1,653,000원 마감. 미국 인디애나 공장 투자 확대에 열려 있다는 입장을 밝히며 통상 리스크 대응에 나섰다.",
+      "source_url": "https://www.betanews.net/article/view/beta202608280066"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "8/28 0.13% 내린 370,000원으로 거의 보합 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "8/28 0.38% 오른 399,500원으로 소폭 상승 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "미국의 반도체 완제품(노트북, 서버, 게임콘솔) 관세 확대 검토 보도로 8/28 4.45% 급락했다. 주말 사이 확인된 바로는 이 방안이 여전히 초기 검토 단계이며 데이터센터 예외 조항 유지 여부도 불확실한 상태다. 회사 측은 미국 인디애나 공장 투자 확대에 열려 있다는 입장을 밝히며 통상 리스크 대응에 나서고 있다.",
+      "catalysts": [
+        "9월 15~16일(현지시간) FOMC 회의",
+        "반도체 완제품 관세 세부안 발표 여부",
+        "인디애나 공장 HBM 생산(2029년 목표) 투자 확대 논의"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 245,000원",
+        "resistance": "52주 최고가 2,987,000원",
+        "analyst_target_cited": "글로벌 애널리스트 컨센서스(39명 평균), 2026-08-12 집계, 목표주가 약 316만원"
+      },
+      "risk": "완제품 관세가 실제로 부과되거나 워시 의장의 매파적 기조가 9월 FOMC까지 이어질 경우, 반도체 대형주 전반의 밸류에이션 재조정 압력이 커질 수 있다.",
+      "sources": [
+        "https://www.betanews.net/article/view/beta202608280066",
+        "https://www.techtimes.com/articles/325864/20260828/trump-chip-tariff-phase-2-targets-servers-kills-data-center-carve-outs.htm"
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "같은 반도체 완제품 관세 확대 검토 보도로 8/28 3.38% 급락했다. 한국이 전 세계 D램의 70%를 생산하는 가운데, 주말 사이 관세안이 초기 단계이며 세부 내용이 앞으로 수개월간 바뀔 수 있다는 점이 확인돼 불확실성이 이어지고 있다. 다만 KB증권 등 일부 증권사는 2028년까지 메모리 공급 부족이 장기화될 것이라는 전망을 유지하고 있다.",
+      "catalysts": [
+        "9월 15~16일(현지시간) FOMC 회의",
+        "반도체 완제품 관세 세부안 발표 여부",
+        "3분기 잠정실적 발표(통상 10월 초)"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 67,500원",
+        "resistance": "52주 최고가 374,500원",
+        "analyst_target_cited": "KB증권, 2026-07-08, 목표주가 60만원"
+      },
+      "risk": "완제품 관세가 현실화되거나 워시 의장의 매파적 기조가 이어질 경우 메모리 수요 위축과 반도체 대형주 밸류에이션 재조정 우려가 동시에 부각될 수 있다.",
+      "sources": [
+        "https://www.newsis.com/view/NISX20260828_0003767285",
+        "https://kbthink.com/securities-view.html?docId=20260707162832943K"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "thesis": "실적 발표 이틀 만인 8/28 4.57% 추가 하락하며 차익실현 매물이 나왔다. 워시 연준 의장의 매파적 잭슨홀 연설과 반도체 완제품 관세 검토 우려가 겹친 영향이지만, 트루이스트는 목표주가를 346달러로 유지하며 실적 자체에 대한 낙관론은 이어가고 있다.",
+      "catalysts": [
+        "9월 15~16일(현지시간) FOMC 회의 및 금리 경로",
+        "반도체 완제품 관세 세부안 발표 여부",
+        "블랙웰 울트라 공급 확대 및 하이퍼스케일러 자본지출 동향"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 164.07달러",
+        "resistance": "52주 최고가 236.54달러",
+        "analyst_target_cited": "트루이스트, 2026-08-28, 목표주가 346달러"
+      },
+      "risk": "워시 의장의 매파적 기조가 9월 FOMC 실제 금리인상으로 이어지거나 반도체 완제품 관세가 구체화될 경우, 이미 큰 폭으로 상향된 목표주가 대비 밸류에이션 재조정 압력이 커질 수 있고 이는 국내 공급망 종목에도 영향을 줄 수 있다.",
+      "sources": [
+        "https://stockanalysis.com/stocks/nvda/",
+        "https://www.defenseworld.net/2026/08/28/nvidia-nasdaqnvda-price-target-raised-to-346-00-at-truist-financial.html"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
