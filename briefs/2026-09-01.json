@@ -1,0 +1,518 @@
+{
+  "date": "2026-09-01",
+  "generated_at_kst": "2026-09-01T07:10:00+09:00",
+  "mode": "new",
+  "headline": "미국과 이란이 호르무즈해협 인근에서 지난 7월 말 이후 처음으로 실제 무력 충돌을 재개하며 국제유가가 3%대 급등해 WTI가 배럴당 86달러를 넘어섰고, 9월 금리인상 확률도 CME 페드워치 기준 62%로 치솟은 가운데, 어제 삼성전자와 SK하이닉스의 자사주 매입으로 급락분을 만회했던 코스피는 정유주 강세와 반도체 목표주가 엇갈림 속에 화요일 장을 맞이한다",
+  "mail_title": "美 이란 충돌 재개, 유가 86달러 돌파",
+  "kr": {
+    "preview": "어제(31일) 코스피는 개인, 기관, 외국인이 모두 순매도한 이례적인 하루였음에도 삼성전자와 SK하이닉스의 대규모 자사주 매입에 힘입어 장중 3%대 급락분을 만회하고 0.46% 오른 6,820.02로 마감했습니다. LG이노텍은 MSCI 코리아 정기변경 신규 편입 소식에 5.07% 급등했고, SK이노베이션은 SK온의 미국 ESS 배터리 공급계약과 국제유가 상승 기대감이 겹치며 7%대 강세를 보였습니다.\n\n간밤 뉴욕증시는 새로운 변수를 만들었습니다. 미군이 호르무즈해협 인근 이란 라라크섬의 발사대 두 곳을 공격했고 이란은 요르단과 아랍에미리트의 미군 목표물에 미사일을 발사하며 보복해, 지난 7월 말 이후 처음으로 미국과 이란의 실제 무력 충돌이 재개됐습니다. 영국 해사무역기구(UKMTO)는 호르무즈해협으로 진입하던 유조선 한 척이 발사체에 피격됐다고 밝혔습니다. 이 여파로 WTI는 3%대 급등해 배럴당 86달러를 넘었고, 미 10년물 국채금리도 한때 4.76%까지 오르며 연중 최고 수준에 근접했습니다. 케빈 워시 연준 의장의 매파적 잭슨홀 연설 여파에 국채금리 상승까지 겹치며 9월 FOMC 금리인상 확률은 CME 페드워치 기준 62%로, 한 주 전 40%대에서 크게 높아졌습니다. 뉴욕증시 3대 지수는 다우 0.70%, S&P500 0.33%, 나스닥 0.12% 내리며 동반 하락 마감했지만 8월 한 달로는 모두 상승했습니다.\n\n화요일 코스피는 유가 급등에 따른 정유, 조선 관련주의 반응과 함께 LS증권이 전날 내놓은 삼성전자 목표주가 상향, SK하이닉스 목표주가 하향 리포트의 여진, 그리고 9월 4일(현지시간) 발표될 미국 8월 고용지표와 이번 주 예정된 델, 브로드컴 실적 발표를 주시하며 출발할 것으로 보입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,820.02",
+        "change_pct": "+0.46%(+31.14p, 8/31 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/08/31/2026083115281788282",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=275876"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "834.29",
+        "change_pct": "-0.49%(-4.12p, 8/31 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/08/31/2026083115281728752"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "096770",
+        "name": "SK이노베이션",
+        "change_pct": "8/31 종가 +7.36%(125,500원)",
+        "reason": "SK온이 미국 ESS 기업 네오볼타 파워에 2027년부터 5년간 9GWh 규모의 LFP 배터리 셀을 공급하는 약 1조5,000억원 규모 계약을 체결했다고 밝힌 데다, 미국과 이란의 호르무즈해협 인근 무력 충돌 재개로 국제유가가 급등하며 정유 마진 개선 기대감이 겹쳤다. 유가 강세가 이어지면 화요일 장에서도 관련주 강세가 지속될 가능성이 있다.",
+        "source_url": "https://www.edaily.co.kr/News/Read?newsId=02181206645552896",
+        "source_urls": [
+          "https://www.edaily.co.kr/News/Read?newsId=02181206645552896",
+          "https://www.edaily.co.kr/News/Read?newsId=04040966645552896"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "8/31 종가 +1.17%(260,000원)",
+        "reason": "200만주(약 5,140억원) 자사주 장내매수 공시에 더해, LS증권이 HBM4 수율이 1분기 5%에서 2분기 35% 수준으로 개선됐다며 목표주가를 40만원에서 45만원으로 상향했다. HBM4는 HBM3E와 달리 초기부터 높은 양산성을 확보했다는 평가다.",
+        "source_url": "https://www.hankyung.com/article/202608314030i",
+        "source_urls": [
+          "https://www.hankyung.com/article/202608314030i",
+          "https://www.mt.co.kr/stock/2026/08/31/2026083107243692086"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "8/31 종가 +1.27%(1,674,000원)",
+        "reason": "소각용 자사주 65만주(약 1조907억원) 장내매수 공시로 주가 자체는 올랐지만, 같은 날 LS증권은 삼성전자의 HBM4 경쟁력 회복에 따른 공급자 경쟁구도 정상화를 이유로 목표주가를 330만원에서 240만원으로 크게 낮췄다. 목표가 엇갈림이 화요일 반도체 대형주 수급에 변수가 될 수 있다.",
+        "source_url": "https://www.hankyung.com/article/202608314030i",
+        "source_urls": [
+          "https://www.hankyung.com/article/202608314030i"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "월요일(31일) 뉴욕증시는 미국과 이란의 호르무즈해협 인근 무력 충돌 재개 소식에 3대 지수가 동반 하락했습니다. 다우는 374.09포인트(0.70%) 내린 53,185.90, S&P500은 0.33% 내린 7,686.14, 나스닥은 0.12% 내린 26,370.89로 마감했습니다. 다만 8월 한 달 기준으로는 S&P500 +2.5%, 나스닥 +3%, 다우 +1.3%로 모두 상승 마감했습니다. 미군이 라라크섬의 이란 발사대를 공격하고 이란이 요르단, 아랍에미리트의 미군 목표물에 미사일로 보복하면서 WTI는 3%대 급등해 배럴당 86달러를 넘었고, 미 10년물 국채금리는 한때 4.76%까지 올랐습니다. 국채금리 상승과 케빈 워시 연준 의장의 매파적 발언이 겹치며 9월 금리인상 확률은 CME 페드워치 기준 62%로, 한 주 전 40%대에서 크게 높아졌습니다.\n\n개별 종목에서는 테슬라가 9월 3일 예정된 사이버캡 행사 기대감과 웨드부시의 낙관적 전망에 힘입어 5.51% 급등했습니다. 엔비디아는 대만 미디어텍에 컨버터블 본드 방식으로 35억달러를 투자해 NVLink Fusion 플랫폼 협력을 확대한다는 소식에 1.48% 올랐습니다. 반면 아마존은 연방거래위원회(FTC)와 20개 이상의 주정부가 광고 가격을 조작했다는 혐의로 소송을 제기했다는 소식에 2.50% 내렸습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,686.14",
+        "change_pct": "-0.33%(-25.62p, 8/31 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,370.89",
+        "change_pct": "-0.12%(-31.54p, 8/31 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,185.90",
+        "change_pct": "-0.70%(-374.09p, 8/31 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "TSLA",
+        "name": "Tesla",
+        "change_pct": "8/31 종가 +5.51%($367.95)",
+        "reason": "9월 3일로 예정된 사이버캡 오스틴 출시 행사에 대한 기대감과 완전자율주행(FSD), 로보택시 사업에 대한 관심이 높아졌다. 웨드부시는 2026-04-02 리포트에서 제시한 목표주가 600달러를 유지하고 있다.",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-31-210747182.html",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-31-210747182.html",
+          "https://www.investing.com/news/analyst-ratings/wedbush-reiterates-outperform-on-tesla-stock-600-target-on-ai-focus-93CH-4595918"
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "8/31 종가 +1.48%($220.78)",
+        "reason": "대만 미디어텍에 컨버터블 본드 방식으로 35억달러를 투자하기로 하며 NVLink Fusion 플랫폼 협력과 데이터센터, PC, 차량용 반도체 전방위 파트너십을 확대한다고 밝혔다.",
+        "source_url": "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek",
+        "source_urls": [
+          "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek"
+        ]
+      },
+      {
+        "ticker": "AMZN",
+        "name": "Amazon",
+        "change_pct": "8/31 종가 -2.50%($259.77)",
+        "reason": "연방거래위원회(FTC)와 20개 이상의 주정부가 아마존이 7년간 광고주에게 부과하는 최저 광고단가를 은밀히 인상해 손해를 끼쳤다며 소송을 제기했다는 소식에 하락했다.",
+        "source_url": "https://www.bloomberg.com/news/articles/2026-08-31/amazon-faces-ftc-suit-claiming-it-misled-advertisers-on-pricing",
+        "source_urls": [
+          "https://www.bloomberg.com/news/articles/2026-08-31/amazon-faces-ftc-suit-claiming-it-misled-advertisers-on-pricing"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+1.01%(8/31 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 삼성전자, SK하이닉스의 자사주 매입과 삼성전자 HBM4 수율 개선 기대감에 장중 급락분을 만회하고 상승 전환했다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+3.84%(대표종목 기준, 8/31 종가)",
+        "note": "삼성전기(+2.60%), LG이노텍(+5.07%) 평균. LG이노텍이 MSCI 코리아 정기변경 신규 편입 소식에 급등하며 지수를 끌어올렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=011070"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-3.24%(대표종목 기준, 8/31 종가)",
+        "note": "SK텔레콤(-4.46%), KT(-2.02%) 평균. SK텔레콤이 반기보고서 실적 실망감에 급락하며 업종 전체를 끌어내렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.75%(8/31 종가)",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 파마리서치(-7.69%), 에이비엘바이오(-5.46%) 등 코스닥 바이오주가 반도체 쏠림 속에 동반 약세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.30%(KRX 은행/증권/보험 평균, 8/31 종가)",
+        "note": "KRX 은행(-0.02%), 증권(-1.11%), 보험(-2.77%) 평균. 뚜렷한 개별 재료 없이 위험자산 회피 속에 대체로 약세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+1.57%(대표종목 기준, 8/31 종가)",
+        "note": "롯데쇼핑(+4.21%), 이마트(-1.07%) 평균. 특별한 공통 재료 없이 종목별로 엇갈렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=023530"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+1.04%(8/31 종가)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 지수 전반의 반등 흐름 속에 완만한 상승세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+1.44%(대표종목 기준, 8/31 종가)",
+        "note": "LG에너지솔루션(+2.16%), 삼성SDI(+1.05%), 에코프로(+1.22%) 평균. 대형주 반등 흐름에 동반 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-2.33%(대표종목 기준, 8/31 종가)",
+        "note": "HD한국조선해양(-1.69%), 한화오션(-0.56%), 한화에어로스페이스(-4.75%) 평균. 한화에어로스페이스가 최근 급등에 따른 차익실현 매물에 크게 밀리며 업종 전체를 끌어내렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=012450"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-3.50%(8/31 종가)",
+        "note": "KRX 건설지수(KRXCNST) 기준. 업종 중 낙폭이 가장 컸다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+1.63%(8/31 종가)",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. 호르무즈해협 무력 충돌 재개로 국제유가가 급등하며 화요일 정유, 화학주 추가 강세 여부가 주목된다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-2.46%(8/31 종가)",
+        "note": "KRX 철강지수(KRXSTL) 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.13%(대표종목 기준, 8/31 종가)",
+        "note": "NAVER(-1.59%), 카카오(-0.81%), 크래프톤(+2.02%) 평균. 종목별로 방향이 엇갈리며 업종 전체는 거의 보합 수준이었다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.48%(대표종목 기준, 8/31 종가)",
+        "note": "하이브(-0.33%), JYP Ent.(-0.62%) 평균. 특별한 개별 재료 없이 소폭 약세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.48%",
+        "note": "SOXX 기준(8/31 종가, 최근 거래일). 엔비디아의 미디어텍 투자 소식에도 워시 의장의 매파적 발언 여진 속에 완만한 상승에 그쳤다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+0.44%",
+        "note": "XLK 기준(8/31 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-1.35%",
+        "note": "XLC 기준(8/31 종가, 최근 거래일). 아마존의 FTC 소송 소식이 관련 대형 플랫폼 업종 심리에 부담을 줬다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.36%",
+        "note": "XLV 기준(8/31 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.67%",
+        "note": "XLF 기준(8/31 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-0.53%",
+        "note": "XLY 기준(8/31 종가, 최근 거래일). 아마존 하락이 업종 전체에 부담을 줬다.",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.55%",
+        "note": "XLP 기준(8/31 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-1.13%",
+        "note": "XLI 기준(8/31 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.92%",
+        "note": "XLB 기준(8/31 종가, 최근 거래일).",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+2.04%",
+        "note": "XLE 기준(8/31 종가, 최근 거래일). 미국과 이란의 호르무즈해협 무력 충돌 재개로 WTI가 3%대 급등하며 업종 내 상승폭이 가장 컸다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-1.17%",
+        "note": "XLU 기준(8/31 종가, 최근 거래일). 국채금리 상승이 배당 매력을 낮추며 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.83%",
+        "note": "XLRE 기준(8/31 종가, 최근 거래일). 국채금리 상승 여파로 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,367.52",
+      "change_pct": "-0.65%",
+      "source_url": "https://www.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.370",
+      "change_pct": "-0.29%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,449.19/oz",
+      "change_pct": "-0.13%",
+      "source_url": "https://www.investing.com/currencies/xau-usd"
+    },
+    {
+      "name": "WTI",
+      "value": "$86.31/배럴",
+      "change_pct": "+3.49%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$79,002.42",
+      "change_pct": "+0.5%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,479.87",
+      "change_pct": "+0.1%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.754%",
+      "change_pct": "8/31 장중 한때 4.76%까지 상승(연중 최고 수준 근접)",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 10년물 국채금리는 8/31 장중 한때 4.76%까지 올라 연중 최고 수준에 근접했고, 현재 4.754% 수준이다. 달러인덱스는 99.370으로 0.29% 내렸고, 원/달러 환율은 1,367.52원으로 0.65% 하락(원화 강세)했다. WTI는 배럴당 86.31달러로 3.49% 급등했고, 금은 온스당 4,449.19달러로 0.13% 소폭 내렸다. 비트코인은 79,002.42달러, 이더리움은 2,479.87달러로 24시간 기준 소폭 상승했다.",
+    "notes": "미국과 이란이 호르무즈해협 인근에서 지난 7월 말 이후 처음으로 실제 무력 충돌을 재개했다. 미군은 라라크섬의 이란군 발사대 두 곳을 공격했고, 이란은 요르단과 아랍에미리트의 미군 목표물에 미사일을 발사하며 보복했다. 영국 해사무역기구(UKMTO)는 호르무즈해협으로 진입하던 유조선 한 척이 발사체에 피격됐다고 밝혔다. 이 여파로 WTI가 3%대 급등하고 국채금리가 뛰면서, 케빈 워시 연준 의장의 매파적 잭슨홀 연설 여파와 겹쳐 9월 FOMC 금리인상 확률이 CME 페드워치 기준 62%로, 한 주 전 40%대에서 크게 높아졌다. 이번 주에는 델, 브로드컴의 실적 발표와 9월 4일(현지시간) 미국 8월 고용지표 발표가 예정돼 있어 금리 경로를 둘러싼 변동성이 이어질 가능성이 있다."
+  },
+  "top_themes": [
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "미국과 이란이 호르무즈해협 인근에서 지난 7월 말 이후 처음으로 실제 무력 충돌을 재개했다. 미군이 라라크섬의 이란군 발사대를 공격하자 이란은 요르단, 아랍에미리트의 미군 목표물에 미사일로 보복했고, 호르무즈해협으로 진입하던 유조선 한 척이 발사체에 피격됐다는 보도도 나왔다.",
+      "tickers": [],
+      "source_url": "https://www.edaily.co.kr/News/Read?newsId=04040966645552896"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "호르무즈해협 무력 충돌 여파로 WTI가 3%대 급등해 배럴당 86달러를 넘었다. 국내에서는 SK이노베이션이 SK온의 미국 ESS 배터리 대형 수주와 유가 상승 기대감이 겹치며 7%대 강세를 보였고, 화요일 정유와 화학 업종의 추가 반응이 주목된다.",
+      "tickers": [
+        "096770",
+        "010950"
+      ],
+      "source_url": "https://www.edaily.co.kr/News/Read?newsId=02181206645552896"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "미 10년물 국채금리가 호르무즈 충돌 여파로 한때 4.76%까지 오르며 케빈 워시 연준 의장의 매파적 잭슨홀 연설 여진과 겹쳤다. 9월 FOMC 금리인상 확률은 CME 페드워치 기준 62%로, 한 주 전 40%대에서 크게 높아졌다. 9월 4일 미국 8월 고용지표가 다음 변수다.",
+      "tickers": [],
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "LS증권이 8/31 삼성전자의 HBM4 수율이 1분기 5%에서 2분기 35% 수준으로 개선됐다며 목표주가를 40만원에서 45만원으로 올린 반면, SK하이닉스는 HBM 공급자 경쟁구도 정상화를 이유로 목표주가를 330만원에서 240만원으로 크게 낮췄다. 두 대형주의 목표가가 엇갈리며 화요일 반도체주 수급 변수로 떠올랐다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.hankyung.com/article/202608314030i"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "대만 미디어텍에 35억달러 투자를 발표하며 8/31 1.48% 오른 220.78달러로 마감했다.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "8/31 0.89% 내린 316.85달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "8/31 1.22% 내린 507.29달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "9월 3일 예정된 사이버캡 행사 기대감에 8/31 5.51% 급등한 367.95달러로 마감했다.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-31-210747182.html"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "8/31 0.05% 오른 186.38달러로 거의 보합 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "자사주 매입과 LS증권의 HBM4 목표주가 상향(45만원)에 힘입어 8/31 1.17% 오른 26만원으로 마감했다.",
+      "source_url": "https://www.hankyung.com/article/202608314030i"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "소각용 자사주 매입에 8/31 1.27% 올랐지만, 같은 날 LS증권이 목표주가를 330만원에서 240만원으로 낮췄다.",
+      "source_url": "https://www.hankyung.com/article/202608314030i"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "코스피 반등 흐름에 동반해 8/31 2.16% 오른 378,000원으로 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "특별한 개별 재료 없이 지수 반등 흐름에 동반해 8/31 1.00% 오른 403,500원으로 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "096770",
+      "name": "SK이노베이션",
+      "market": "KR",
+      "thesis": "SK온이 미국 ESS 기업 네오볼타 파워와 2027년부터 5년간 9GWh 규모의 LFP 배터리 셀을 공급하는 약 1조5,000억원 규모 계약을 체결했다고 8/31 밝혔다. 같은 날 미국과 이란의 호르무즈해협 무력 충돌 재개로 국제유가가 급등하며 정유 마진 개선 기대감까지 겹쳐 주가가 7%대 강세를 보였다.",
+      "catalysts": [
+        "호르무즈해협 정세와 국제유가 흐름",
+        "SK온과 네오볼타 파워의 추가 9GWh 공급계약 성사 여부(연내 예정)",
+        "9월 15~16일(현지시간) FOMC 회의"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 87,700원",
+        "resistance": "52주 최고가 155,400원",
+        "analyst_target_cited": "KB증권, 2026-07-15, 목표주가 18만원"
+      },
+      "risk": "호르무즈해협 정세가 완화되거나 유가가 되돌림하면 정유 마진 개선 기대가 후퇴할 수 있고, SK온의 추가 ESS 계약이 무산될 경우 배터리 부문 모멘텀도 약해질 수 있다.",
+      "sources": [
+        "https://www.edaily.co.kr/News/Read?newsId=02181206645552896",
+        "https://www.edaily.co.kr/News/Read?newsId=04040966645552896",
+        "https://kbthink.com/securities-view.html?docId=20260715134426073K"
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "200만주(약 5,140억원) 자사주 장내매수를 공시한 데 이어, LS증권이 8/31 HBM4 수율이 1분기 5%에서 2분기 35% 수준으로 개선됐다며 목표주가를 40만원에서 45만원으로 상향했다. HBM4는 HBM3E와 달리 초기부터 높은 양산성을 확보했다는 평가다.",
+      "catalysts": [
+        "9월 15~16일(현지시간) FOMC 회의",
+        "3분기 잠정실적 발표(통상 10월 초)",
+        "HBM4 양산 확대 및 추가 고객사向 공급 계약 여부"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 67,500원",
+        "resistance": "52주 최고가 374,500원",
+        "analyst_target_cited": "LS증권, 2026-08-31, 목표주가 45만원"
+      },
+      "risk": "호르무즈해협 정세 악화나 국채금리 상승이 이어지면 반도체 대형주 전반의 밸류에이션 재조정 압력이 커질 수 있고, HBM4 양산성 개선이 예상보다 더디게 진행될 가능성도 있다.",
+      "sources": [
+        "https://www.hankyung.com/article/202608314030i",
+        "https://www.mt.co.kr/stock/2026/08/31/2026083107243692086"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "소각용 자사주 65만주(약 1조907억원) 장내매수 공시로 주가는 8/31 1.27% 올랐지만, 같은 날 LS증권은 삼성전자의 HBM4 경쟁력 회복에 따른 공급자 경쟁구도 정상화를 이유로 목표주가를 330만원에서 240만원으로 크게 낮췄다. 목표가 하향과 자사주 매입이라는 상반된 재료가 동시에 나온 하루였다.",
+      "catalysts": [
+        "9월 15~16일(현지시간) FOMC 회의",
+        "삼성전자 HBM4 양산 확대에 따른 경쟁구도 변화",
+        "인디애나 공장 HBM 생산(2029년 목표) 투자 확대 논의"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 245,000원",
+        "resistance": "52주 최고가 2,987,000원",
+        "analyst_target_cited": "LS증권, 2026-08-31, 목표주가 240만원(기존 330만원에서 하향)"
+      },
+      "risk": "삼성전자와의 HBM4 경쟁이 격화되면 점유율과 마진 모두에 추가 압박이 가해질 수 있고, 호르무즈해협 정세 악화에 따른 위험자산 회피 심리도 부담 요인이다.",
+      "sources": [
+        "https://www.hankyung.com/article/202608314030i"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "thesis": "대만 미디어텍에 컨버터블 본드 방식으로 35억달러를 투자하며 NVLink Fusion 플랫폼 협력을 확대한다고 8/31 밝혔다. 데이터센터용 커스텀 가속기부터 PC용 RTX Spark, 차량용 반도체까지 전방위 파트너십을 넓히는 행보로, 빅테크의 자체 칩 개발 확대 속에서도 엔비디아의 데이터센터 표준 지위를 지키려는 전략으로 풀이된다.",
+      "catalysts": [
+        "9월 15~16일(현지시간) FOMC 회의 및 금리 경로",
+        "미디어텍과의 NVLink Fusion 협력 세부 계획 발표",
+        "하이퍼스케일러 자본지출 동향과 커스텀 실리콘 확산 속도"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 164.07달러",
+        "resistance": "52주 최고가 236.54달러",
+        "analyst_target_cited": "트루이스트, 2026-08-28, 목표주가 346달러"
+      },
+      "risk": "빅테크들의 자체 칩 개발이 가속화되면 장기적으로 엔비디아에 대한 의존도가 낮아질 수 있고, 호르무즈해협 정세 악화에 따른 위험자산 회피 심리도 단기 변수다.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
