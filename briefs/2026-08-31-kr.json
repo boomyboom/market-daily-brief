@@ -1,0 +1,343 @@
+{
+  "date": "2026-08-31",
+  "session": "kr_close",
+  "generated_at_kst": "2026-08-31T19:00:00+09:00",
+  "headline": "코스피가 개인, 기관, 외국인 모두 순매도한 초유의 사태 속에서도 삼성전자와 SK하이닉스의 대규모 자사주 매입에 힘입어 장중 3%대 급락분을 만회하고 0.46% 오른 6,820.02로 마감했다",
+  "mail_title": "다 팔았는데 코스피는 왜 올랐나",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 31.14포인트(0.46%) 오른 6,820.02로 마감했습니다. 개장 직후부터 하락 압력이 거셌는데, 지난 금요일(28일) 뉴욕증시에서 케빈 워시 연준 의장의 매파적 잭슨홀 연설 여파로 필라델피아반도체지수가 3.47% 급락한 충격이 월요일 국내 증시로 그대로 넘어왔기 때문입니다. 코스피는 6,613.58에 출발해 장중 한때 6,547.76까지 밀리며 낙폭을 3% 가까이 키웠고, 코스닥도 2.00% 내린 821.67로 출발했습니다.\n\n분위기가 바뀐 것은 오후 들어서였습니다. 삼성전자가 200만주(약 5,140억원), SK하이닉스가 소각용으로 65만주(약 1조907억원) 규모의 자사주 장내매수를 각각 공시하면서 '기타법인'이 1조5,433억원 순매수에 나섰고, 이 매수세가 지수를 밀어 올렸습니다. 두 회사의 자사주 매입 프로그램이 시작된 이후 지난 28일까지 누적 체결금액은 10조2,777억원에 달합니다. 흥미로운 점은 이날 개인(1,917억원), 기관(9,096억원), 외국인(4,435억원)이 모두 순매도했다는 것입니다. 세 투자주체가 동시에 매도 우위를 보인 것은 이례적인 일로, 결국 자사주 매입이라는 사실상의 '네 번째 매수 주체'가 지수 방향을 결정지은 하루였습니다. 삼성전자는 1.17% 오른 26만원, SK하이닉스는 1.27% 오른 167만4,000원으로 마감했습니다. 코스닥은 이런 반등 흐름에 올라타지 못하고 0.49% 내린 834.29로 약보합 마감했습니다.\n\n개별 종목에서는 LG이노텍이 5.07% 급등했는데, 이날 발표된 MSCI 코리아 정기변경에서 신규 편입이 확정되며 3,000억~4,000억원대의 패시브 자금 유입이 예상된 영향입니다. 반대로 SK텔레콤은 최근 공시한 반기보고서 실적이 시장 기대치에 못 미쳤다는 평가 속에 4.46% 내렸고, 한화에어로스페이스는 최근 가파른 상승에 따른 차익실현과 밸류에이션 부담으로 4.75% 하락했습니다. 삼성전자는 자사주 매입 외에도 LS증권이 HBM4 수율 개선을 근거로 목표주가를 40만원에서 45만원으로 올린 점이 추가 매수 심리를 뒷받침했습니다.\n\n코스닥에서는 로보티즈가 6.40% 오르며 강세를 보였습니다. 상반기 매출액이 전년 동기 대비 50.3% 늘어난 데 이어 한화투자증권이 목표주가를 32만원에서 35만원으로 상향한 영향이 이어졌습니다. 반면 파마리서치(-7.69%), 에이비엘바이오(-5.46%), 펩트론(-4.78%) 등 코스닥 바이오주는 나란히 약세를 보이며 KRX 헬스케어지수가 1.75% 내렸습니다. 뚜렷한 개별 악재보다는 반도체 대형주로 매수세가 쏠리는 가운데 상대적으로 자금이 빠져나간 것으로 풀이됩니다.\n\n외환시장에서는 원달러 환율이 전 거래일보다 9.50원(0.69%) 내린 1,370.00원으로 마감하며 원화 강세를 보였습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,820.02",
+        "change_pct": "+0.46%(+31.14p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/08/31/2026083115281788282",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=275876"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "834.29",
+        "change_pct": "-0.49%(-4.12p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/08/31/2026083115281728752"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "011070",
+        "name": "LG이노텍",
+        "change_pct": "+5.07%(642,000원)",
+        "reason": "이날 발표된 MSCI 코리아 정기변경에서 신규 편입이 확정되며 3,000억~4,000억원대의 패시브 자금 유입이 예상됐다.",
+        "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722284",
+        "source_urls": [
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1722284",
+          "https://alphasquare.co.kr/home/stock-summary?code=011070"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+1.27%(1,674,000원)",
+        "reason": "소각을 위한 자사주 65만주(약 1조907억원) 장내매수를 공시하며 개인, 기관, 외국인이 모두 순매도한 가운데서도 코스피 반등을 이끄는 매수 주체가 됐다.",
+        "source_url": "https://www.mt.co.kr/stock/2026/08/31/2026083116033217471",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/08/31/2026083116033217471",
+          "https://www.hankyung.com/article/202608314360i"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+1.17%(260,000원)",
+        "reason": "200만주(약 5,140억원) 자사주 장내매수 공시에 더해, LS증권이 HBM4 수율 개선을 근거로 목표주가를 40만원에서 45만원으로 상향하며 매수 심리를 뒷받침했다.",
+        "source_url": "https://www.mt.co.kr/stock/2026/08/31/2026083116033217471",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/08/31/2026083116033217471",
+          "https://www.edaily.co.kr/News/Read?newsId=02086086645552896"
+        ]
+      },
+      {
+        "ticker": "017670",
+        "name": "SK텔레콤",
+        "change_pct": "-4.46%(94,200원)",
+        "reason": "최근 공시한 반기보고서 실적이 시장 기대치에 미치지 못했다는 평가 속에 통신 업종 중 가장 큰 낙폭을 기록했다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=544003",
+        "source_urls": [
+          "https://www.joongangenews.com/news/articleView.html?idxno=544003",
+          "https://alphasquare.co.kr/home/stock-summary?code=017670"
+        ]
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "change_pct": "-4.75%(1,102,000원)",
+        "reason": "최근 몇 주간 이어진 가파른 상승에 따른 차익실현 매물과 밸류에이션 부담이 겹치며 방산 업종 중 낙폭이 가장 컸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=012450",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=012450"
+        ]
+      },
+      {
+        "ticker": "108490",
+        "name": "로보티즈",
+        "change_pct": "+6.40%(257,500원)",
+        "reason": "상반기 매출액이 전년 동기 대비 50.3% 증가한 데 이어 한화투자증권이 업종 내 차별화된 역량을 근거로 목표주가를 32만원에서 35만원으로 상향했다.",
+        "source_url": "https://view.asiae.co.kr/article/2026082417073463268",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026082417073463268",
+          "https://alphasquare.co.kr/home/stock-summary?code=108490"
+        ]
+      },
+      {
+        "ticker": "214450",
+        "name": "파마리서치",
+        "change_pct": "-7.69%(426,000원)",
+        "reason": "에이비엘바이오(-5.46%), 펩트론(-4.78%) 등과 함께 코스닥 바이오주가 동반 약세를 보였다. 뚜렷한 개별 악재보다는 반도체 대형주로 매수세가 쏠리는 가운데 상대적으로 자금이 빠져나간 것으로 풀이된다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=214450",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=214450"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+1.01%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 삼성전자, SK하이닉스의 자사주 매입과 삼성전자 HBM4 수율 개선 기대감에 장중 급락분을 만회하고 상승 전환했다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+3.84%(대표종목 기준)",
+        "note": "삼성전기(+2.60%), LG이노텍(+5.07%) 평균. LG이노텍이 MSCI 코리아 정기변경 신규 편입 소식에 급등하며 지수를 끌어올렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=011070"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-3.24%(대표종목 기준)",
+        "note": "SK텔레콤(-4.46%), KT(-2.02%) 평균. SK텔레콤이 반기보고서 실적 실망감에 급락하며 업종 전체를 끌어내렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.75%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 파마리서치(-7.69%), 에이비엘바이오(-5.46%) 등 코스닥 바이오주가 반도체 쏠림 속에 동반 약세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.30%(KRX 은행/증권/보험 평균)",
+        "note": "KRX 은행(-0.02%), 증권(-1.11%), 보험(-2.77%) 평균. 뚜렷한 개별 재료 없이 위험자산 회피 속에 대체로 약세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+1.57%(대표종목 기준)",
+        "note": "롯데쇼핑(+4.21%), 이마트(-1.07%) 평균. 특별한 공통 재료 없이 종목별로 엇갈렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=023530"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+1.04%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 지수 전반의 반등 흐름 속에 완만한 상승세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+1.44%(대표종목 기준)",
+        "note": "LG에너지솔루션(+2.16%), 삼성SDI(+1.05%), 에코프로(+1.22%) 평균. 대형주 반등 흐름에 동반 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-2.33%(대표종목 기준)",
+        "note": "HD한국조선해양(-1.69%), 한화오션(-0.56%), 한화에어로스페이스(-4.75%) 평균. 한화에어로스페이스가 최근 급등에 따른 차익실현 매물에 크게 밀리며 업종 전체를 끌어내렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=012450"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-3.50%",
+        "note": "KRX 건설지수(KRXCNST) 기준. 업종 중 낙폭이 가장 컸다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+1.63%",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-2.46%",
+        "note": "KRX 철강지수(KRXSTL) 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.13%(대표종목 기준)",
+        "note": "NAVER(-1.59%), 카카오(-0.81%), 크래프톤(+2.02%) 평균. 종목별로 방향이 엇갈리며 업종 전체는 거의 보합 수준이었다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.48%(대표종목 기준)",
+        "note": "하이브(-0.33%), JYP Ent.(-0.62%) 평균. 특별한 개별 재료 없이 소폭 약세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,370.00",
+      "change_pct": "-0.69%(-9.50원)",
+      "source_url": "https://www.edaily.co.kr/News/Read?newsId=03598166645552896"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.490",
+      "change_pct": "-0.17%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,437.65/oz",
+      "change_pct": "-0.39%",
+      "source_url": "https://www.investing.com/currencies/xau-usd"
+    },
+    {
+      "name": "WTI",
+      "value": "$85.59/배럴",
+      "change_pct": "+2.63%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$78,088.54",
+      "change_pct": "-0.10%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,437.10",
+      "change_pct": "-0.90%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.705%",
+      "change_pct": "-1.7bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원달러 환율은 전 거래일보다 9.50원(0.69%) 내린 1,370.00원으로 마감하며 원화 강세를 보였다. 달러인덱스는 99.490으로 0.17% 내렸고, 미 10년물 국채금리는 4.705%로 소폭 하락했다. WTI는 배럴당 85.59달러로 2.63% 올랐고, 금은 온스당 4,437.65달러로 0.39% 내렸다. 비트코인은 78,088.54달러, 이더리움은 2,437.10달러로 24시간 기준 소폭 하락했다.",
+    "notes": "이날 코스피에서는 개인(1,917억원), 기관(9,096억원), 외국인(4,435억원)이 모두 순매도하는 이례적인 상황이 벌어졌다. 이를 상쇄한 것은 삼성전자(200만주, 약 5,140억원)와 SK하이닉스(65만주, 약 1조907억원, 소각용)의 자사주 매입에 힘입은 기타법인의 1조5,433억원 순매수였다. 두 회사의 자사주 매입 프로그램 개시 이후 28일까지 누적 체결금액은 10조2,777억원에 달하며, 최근 6거래일간 기타법인이 순매수한 금액만 8.5조원 수준으로 집계된다."
+  },
+  "top_themes": [
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "삼성전자가 200만주(약 5,140억원), SK하이닉스가 소각용으로 65만주(약 1조907억원) 규모의 자사주 장내매수를 공시했다. 개인, 기관, 외국인이 모두 순매도한 이례적인 하루였음에도, 이 자사주 매입에 힘입은 기타법인의 1조5,433억원 순매수가 코스피를 떠받쳤다. 두 회사의 자사주 매입 프로그램 누적 체결금액은 28일까지 10조2,777억원에 달한다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.hankyung.com/article/202608314360i"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "지난 금요일(28일) 케빈 워시 연준 의장의 매파적 잭슨홀 연설 여파로 뉴욕증시 필라델피아반도체지수가 3.47% 급락한 충격이 월요일 코스피 개장에도 이어지며, 코스피가 장중 한때 6,547.76까지 3% 가까이 밀렸다.",
+      "tickers": [],
+      "source_url": "https://www.mt.co.kr/stock/2026/08/31/2026083108583764869"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "LS증권이 삼성전자의 HBM4 수율이 전분기 대비 5%포인트 이상 개선된 것으로 추정된다며 목표주가를 40만원에서 45만원으로 올렸다. 자사주 매입과 맞물리며 삼성전자(+1.17%), SK하이닉스(+1.27%)가 코스피 반등을 이끌었다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.edaily.co.kr/News/Read?newsId=02086086645552896"
+    },
+    {
+      "theme": "바이오와 제약",
+      "summary": "파마리서치(-7.69%), 에이비엘바이오(-5.46%), 펩트론(-4.78%) 등 코스닥 바이오주가 동반 약세를 보이며 KRX 헬스케어지수가 1.75% 내렸다. 뚜렷한 개별 악재보다는 반도체 대형주로 매수세가 쏠리는 흐름 속에 상대적으로 소외된 것으로 풀이된다.",
+      "tickers": [
+        "214450"
+      ],
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=214450"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "미국 증시 개장 전.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "미국 증시 개장 전.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "미국 증시 개장 전.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "미국 증시 개장 전.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "미국 증시 개장 전.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "200만주(약 5,140억원) 자사주 장내매수 공시와 LS증권의 HBM4 목표주가 상향(45만원)에 힘입어 1.17% 오른 26만원으로 마감했다.",
+      "source_url": "https://www.mt.co.kr/stock/2026/08/31/2026083116033217471"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "소각용 자사주 65만주(약 1조907억원) 장내매수 공시에 힘입어 1.27% 오른 167만4,000원으로 마감했다.",
+      "source_url": "https://www.mt.co.kr/stock/2026/08/31/2026083116033217471"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "코스피 반등 흐름에 동반해 2.16% 오른 378,000원으로 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "특별한 개별 재료 없이 지수 반등 흐름에 동반해 1.00% 오른 403,500원으로 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
