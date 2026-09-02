@@ -1,0 +1,488 @@
+{
+  "date": "2026-09-03",
+  "generated_at_kst": "2026-09-03T08:00:00+09:00",
+  "mode": "new",
+  "headline": "미국과 이란의 무력 충돌 여파로 어제 코스피가 외국인과 기관의 3조9,500억원 순매도 속에 3.99% 급락했지만, 간밤 델 테크놀로지스가 609억달러 규모의 사상 최대 AI서버 수주를 발표하고 엔비디아가 3.21%, SK하이닉스 ADR이 2.61% 반등하며 뉴욕 3대 지수가 모두 오르자 목요일 코스피가 저가 매수세로 낙폭을 만회할지 시험대에 올랐다",
+  "mail_title": "4% 급락 다음날, 반도체는 웃었다",
+  "kr": {
+    "preview": "어제(2일) 코스피는 미국과 이란의 무력 충돌이 사흘째 이어지며 외국인이 1조9,094억원, 기관이 2조434억원을 순매도한 여파로 273.08포인트(3.99%) 급락한 6,562.72로 마감했습니다. 코스닥도 17.27포인트(2.10%) 내린 803.98로 거래를 마쳤고, 자사주 매입 효과에도 삼성전자(-4.02%, 250,500원)와 SK하이닉스(-4.73%, 1,613,000원)가 유가와 금리 급등발 위험회피 심리에 밀리며 낙폭을 키웠습니다. 조선과 방산, 2차전지 관련주에도 차익실현 매물이 집중돼 HD한국조선해양(-6.79%)과 포스코퓨처엠(-8.00%) 등이 동반 급락했습니다.\n\n간밤 뉴욕증시는 반등에 성공했습니다. 델 테크놀로지스가 2분기(회계연도 2027년) 실적에서 매출 470억달러(전년비 58% 증가), AI서버 수주 609억달러(분기 기준 사상 최대), 수주잔고 950억달러를 발표하고 연간 매출 전망을 1,920억달러로 상향하면서 AI 인프라 투자 수요가 여전히 견조하다는 신호를 줬고, 정규장에서 9%대 넘게 급등했습니다. 여기에 뉴욕 연은 존 윌리엄스 총재가 9월 금리 인상이 필요하다는 뚜렷한 신호가 없다고 언급하고, ADP 민간고용이 시장 예상(4만7000명)을 밑도는 3만8000명 증가에 그치며 연준의 매파적 스탠스가 다소 누그러질 수 있다는 기대가 커졌습니다. S&P500(+0.46%), 다우(+0.56%), 나스닥(+0.45%)이 모두 올랐고, 미 10년물 국채금리는 4.78%대로 전날 장중 고점에서 소폭 내렸습니다. 반도체 업종에도 온기가 돌아 엔비디아가 3.21%, SK하이닉스 ADR이 2.61% 반등했습니다. 다만 팔란티어는 밸류에이션 부담과 소프트웨어 업종 전반의 매도세 속에 5.81% 내려 대형 기술주 안에서도 온도차가 뚜렷했습니다. 목요일 코스피는 어제의 급락 이후 반도체 대형주를 중심으로 저가 매수세가 유입될지 시험받을 전망입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,562.72",
+        "change_pct": "-3.99%(-273.08p, 9/2 종가, 최근 거래일)",
+        "source_urls": [
+          "https://kr.investing.com/indices/kospi",
+          "https://view.asiae.co.kr/article/2026090215514382923"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "803.98",
+        "change_pct": "-2.10%(-17.27p, 9/2 종가, 최근 거래일)",
+        "source_urls": [
+          "https://kr.investing.com/indices/kosdaq",
+          "https://view.asiae.co.kr/article/2026090209020478562"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "9/2 종가 -4.02%(250,500원)",
+        "reason": "미국과 이란의 무력 충돌에 따른 유가와 금리 급등으로 위험회피 심리가 확산되며 자사주 매입 효과에도 급락했다. 다만 간밤 델 테크놀로지스의 사상 최대 AI서버 수주 발표와 엔비디아 3.21% 반등 등 훈풍이 유입되며 목요일 개장 전 반도체 대형주 심리가 다소 개선될 가능성이 있다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026090215514382923",
+          "https://www.hankyung.com/article/2026090285486"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "9/2 종가 -4.73%(1,613,000원)",
+        "reason": "유가와 금리 급등, 중국 창신메모리(CXMT)의 HBM3E 소량 생산 개시에 따른 경쟁 우려까지 겹치며 급락했다. 다만 간밤 뉴욕 증시에서 SK하이닉스 미국주식예탁증서(ADR)가 델 테크놀로지스의 AI서버 수주 훈풍에 2.61% 반등한 164.98달러로 마감해, 목요일 국내 정규장에서 낙폭 만회 여부가 주목된다.",
+        "source_url": "https://www.hankyung.com/article/2026090285486",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026090285486",
+          "https://stockanalysis.com/stocks/skhy/"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "2일(현지시간) 뉴욕증시는 3대 지수가 모두 상승했습니다. S&P500은 35.13포인트(0.46%) 오른 7,666.60, 다우는 295.07포인트(0.56%) 오른 53,061.95, 나스닥은 118.05포인트(0.45%) 오른 26,217.83으로 마감했습니다. 국채금리 급등과 유가 부담으로 이틀 연속 하락했던 시장이 반등에 성공한 배경에는 델 테크놀로지스의 실적 서프라이즈가 있었습니다. 델은 2분기(회계연도 2027년) 매출 470억달러(전년비 58% 증가), 조정 EPS 7.04달러(컨센서스 4.92달러 상회)를 기록했고, AI서버 수주가 분기 기준 사상 최대인 609억달러, 수주잔고는 950억달러에 달했습니다. 회사는 연간 매출 전망을 1,920억달러로 상향했고, 주가는 정규장에서 9%대 넘게 급등했습니다. 멜리우스리서치는 목표주가를 기존 650달러에서 735달러로 올렸습니다.\n\n같은 날 뉴욕 연은 존 윌리엄스 총재는 9월 금리 인상이 필요하다는 뚜렷한 신호가 없다고 언급하며 시장의 긴장을 다소 누그러뜨렸고, ADP 민간고용은 시장 예상(4만7000명 증가)을 밑도는 3만8000명 증가에 그쳐 고용 둔화 신호로 해석됐습니다. 미 10년물 국채금리는 4.78%대로 전날 장중 4.8%대 고점에서 소폭 내렸고, 유가는 브렌트 배럴당 95달러 안팎, WTI 90달러 안팎에서 등락하며 숨고르기에 들어갔습니다. 반도체 업종에서는 엔비디아가 3.21% 오른 224.41달러로 마감했지만, 팔란티어는 고밸류에이션 부담과 소프트웨어 업종 전반의 매도세, ARK인베스트의 지분 매도 소식 등이 겹치며 5.81% 내린 169.46달러로 마감해 대형 기술주 사이에서도 희비가 엇갈렸습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,666.60",
+        "change_pct": "+0.46%(+35.13p, 9/2 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,217.83",
+        "change_pct": "+0.45%(+118.05p, 9/2 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,061.95",
+        "change_pct": "+0.56%(+295.07p, 9/2 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "DELL",
+        "name": "Dell Technologies",
+        "change_pct": "9/2 정규장 +9%대(추정)",
+        "reason": "2분기(회계연도 2027년) 실적에서 매출 470억달러(전년비 58% 증가), AI서버 수주가 분기 기준 사상 최대인 609억달러, 수주잔고 950억달러를 기록하며 연간 매출 전망을 1,920억달러로 상향했다. 멜리우스리서치는 목표주가를 650달러에서 735달러로 상향했다.",
+        "source_url": "https://finance.yahoo.com/markets/article/dell-stock-surges-on-record-orders-for-ai-servers-205629050.html",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/article/dell-stock-surges-on-record-orders-for-ai-servers-205629050.html",
+          "https://247wallst.com/investing/2026/09/02/dells-record-60-9-billion-ai-order-quarter-leaves-stock-investors-unimpressed-heres-why/"
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "9/2 종가 +3.21%($224.41)",
+        "reason": "델 테크놀로지스의 AI서버 수주 서프라이즈가 AI 인프라 투자 수요에 대한 낙관론을 자극하며 반도체 업종 전반이 반등했다.",
+        "source_url": "https://stockanalysis.com/stocks/nvda/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/nvda/"
+        ]
+      },
+      {
+        "ticker": "PLTR",
+        "name": "Palantir",
+        "change_pct": "9/2 종가 -5.81%($169.46)",
+        "reason": "미 국방부의 신규 계약과 임원 영입 소식에도 불구하고, 이익 대비 144배에 달하는 고밸류에이션 부담과 소프트웨어 업종 전반의 매도세, ARK인베스트의 지분 매도 소식이 겹치며 하락했다.",
+        "source_url": "https://www.fool.com/investing/2026/09/02/why-is-palantir-stock-down-today/",
+        "source_urls": [
+          "https://www.fool.com/investing/2026/09/02/why-is-palantir-stock-down-today/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.95%(9/2 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 삼성전자(-4.02%), SK하이닉스(-4.73%) 등 대형주가 유가와 금리 급등, 중국 CXMT의 HBM3E 경쟁 우려까지 겹치며 급락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-4.34%(9/2 종가, 최근 거래일)",
+        "note": "코스피 전기전자업종지수 기준. LG이노텍(-3.90%), 삼성전기(-2.10%) 등 부품주도 코스피 급락과 함께 동반 약세를 보였다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.88%(대표종목 기준, 9/2 종가, 최근 거래일)",
+        "note": "SK텔레콤(-3.38%), KT(-0.37%) 평균. 코스피 대비로는 낙폭이 작아 방어적 흐름을 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.83%(9/2 종가, 최근 거래일)",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 코스피 대비 낙폭이 작아 상대적으로 방어적인 흐름을 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-2.18%(KRX 은행/증권/보험 평균, 9/2 종가, 최근 거래일)",
+        "note": "KRX 은행(-0.75%), 증권(-3.46%), 보험(-2.32%) 평균. 국채금리 상승 수혜 기대에 은행업종이 코스피 대비 크게 선방했다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-4.00%(9/2 종가, 최근 거래일)",
+        "note": "코스피 유통업종지수 기준. 위험회피 심리 속에 소비재 업종도 지수와 비슷한 폭으로 하락했다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-4.91%(9/2 종가, 최근 거래일)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차가 5.62% 급락하며 업종 전체를 끌어내렸다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-6.25%(대표종목 기준, 9/2 종가, 최근 거래일)",
+        "note": "LG에너지솔루션(-5.31%), 삼성SDI(-5.45%), 포스코퓨처엠(-8.00%) 평균. 코스피 하락 폭을 웃도는 낙폭으로 업종 내 약세가 두드러졌다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-5.58%(대표종목 기준, 9/2 종가, 최근 거래일)",
+        "note": "HD한국조선해양(-6.79%), HD현대중공업(-6.84%), 한화에어로스페이스(-3.12%) 평균. 최근 급등에 따른 차익실현 매물이 위험회피 국면과 겹치며 낙폭이 확대됐다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-4.17%(9/2 종가, 최근 거래일)",
+        "note": "KRX 건설지수(KRXCNST) 기준. 코스피와 비슷한 폭으로 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-4.16%(9/2 종가, 최근 거래일)",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. 유가 급등이 이어졌음에도 위험회피 심리가 앞서며 정유, 화학주도 동반 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-3.08%(9/2 종가, 최근 거래일)",
+        "note": "KRX 철강지수(KRXSTL) 기준. 코스피 대비로는 낙폭이 다소 작았다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-3.32%(대표종목 기준, 9/2 종가, 최근 거래일)",
+        "note": "NAVER(-2.79%), 카카오(-3.84%) 평균. 코스피 대비로는 낙폭이 다소 작았다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.97%(대표종목 기준, 9/2 종가, 최근 거래일)",
+        "note": "하이브(-1.29%), JYP Ent.(-2.64%) 평균. 코스피 대비 낙폭이 작아 방어적 흐름을 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.23%(9/2 종가, 최근 거래일)",
+        "note": "SOXX 기준. 델 테크놀로지스의 AI서버 수주 서프라이즈에 반도체 업종 전반이 반등했다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-0.02%(9/2 종가, 최근 거래일)",
+        "note": "XLK 기준. 국채금리 상승 부담이 잔존하며 거의 보합 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+1.39%(9/2 종가, 최근 거래일)",
+        "note": "XLC 기준. 업종 내 상승폭이 가장 컸다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+0.75%(9/2 종가, 최근 거래일)",
+        "note": "XLV 기준.",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.80%(9/2 종가, 최근 거래일)",
+        "note": "XLF 기준.",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+0.24%(9/2 종가, 최근 거래일)",
+        "note": "XLY 기준.",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.33%(9/2 종가, 최근 거래일)",
+        "note": "XLP 기준.",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.03%(9/2 종가, 최근 거래일)",
+        "note": "XLI 기준. 거의 보합 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+1.69%(9/2 종가, 최근 거래일)",
+        "note": "XLB 기준. 업종 내 상승폭이 두드러졌다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+0.51%(9/2 종가, 최근 거래일)",
+        "note": "XLE 기준. 유가가 높은 수준에서 숨고르기에 들어간 가운데 소폭 올랐다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.26%(9/2 종가, 최근 거래일)",
+        "note": "XLU 기준.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.70%(9/2 종가, 최근 거래일)",
+        "note": "XLRE 기준. 국채금리 부담에 업종 내 유일하게 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,357.89",
+      "change_pct": "-0.03%",
+      "source_url": "https://www.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.530",
+      "change_pct": "-0.11%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,434.30/oz",
+      "change_pct": "+0.86%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$90.63/배럴",
+      "change_pct": "-0.03%(보합권)",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$77,360.10",
+      "change_pct": "+0.3%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,393.02",
+      "change_pct": "-0.7%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.782%",
+      "change_pct": "-1.5bp(전일 장중 고점 4.8%대에서 소폭 하락)",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 10년물 국채금리는 4.782%로 전날 장중 고점(4.8%대)에서 소폭 내렸다. 달러인덱스는 99.530으로 0.11% 내렸고, 원/달러 환율은 1,357.89원으로 소폭 하락했다. WTI는 배럴당 90.63달러로 보합권에서 움직였고, 금은 온스당 4,434.30달러로 0.86% 올랐다. 비트코인은 77,360.10달러로 24시간 기준 0.3% 올랐고, 이더리움은 2,393.02달러로 0.7% 내렸다.",
+    "notes": "뉴욕 연은 존 윌리엄스 총재가 9월 금리 인상이 필요하다는 뚜렷한 신호가 없다고 언급했고, ADP 민간고용은 시장 예상(4만7000명 증가)을 밑도는 3만8000명 증가에 그쳤다. 델 테크놀로지스가 사상 최대 AI서버 수주를 발표하며 AI 인프라 투자 수요에 대한 낙관론이 살아났고, 이 여파로 뉴욕증시 3대 지수가 모두 반등했다. 다만 미국과 이란의 무력 충돌 이후 유가와 국채금리가 여전히 높은 수준을 유지하고 있어 변동성이 완전히 해소된 것은 아니다."
+  },
+  "top_themes": [
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "델 테크놀로지스가 2분기(회계연도 2027년) 실적에서 매출 470억달러(전년비 58% 증가), AI서버 수주 609억달러(분기 기준 사상 최대), 수주잔고 950억달러를 기록하며 연간 매출 전망을 1,920억달러로 상향했다. 멜리우스리서치는 목표주가를 650달러에서 735달러로 올렸고, 주가는 정규장에서 9%대 넘게 급등했다.",
+      "tickers": [
+        "DELL"
+      ],
+      "source_url": "https://finance.yahoo.com/markets/article/dell-stock-surges-on-record-orders-for-ai-servers-205629050.html"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "삼성전자와 SK하이닉스는 어제 유가, 금리 급등과 중국 CXMT의 HBM3E 경쟁 우려에 급락했지만, 간밤 SK하이닉스 ADR이 델의 AI서버 수주 훈풍에 2.61% 반등했다. AI 인프라 투자 수요가 견조하다는 신호가 메모리 업황에 대한 우려를 다소 상쇄하는 모습이다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.hankyung.com/article/2026090285486"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "뉴욕 연은 존 윌리엄스 총재가 9월 금리 인상이 필요하다는 뚜렷한 신호가 없다고 언급했고, ADP 민간고용이 시장 예상을 밑돌며 연준의 매파적 스탠스가 다소 누그러질 수 있다는 기대가 커졌다. 미 10년물 국채금리는 전날 장중 고점에서 소폭 내렸다.",
+      "tickers": [],
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "미국과 이란의 무력 충돌이 사흘째 이어지며 국제유가와 미국 국채금리가 동반 급등했고, 이 여파로 코스피에서 외국인과 기관이 약 3조9,500억원을 순매도하며 지수가 3.99% 급락했다. 긴장은 완전히 해소되지 않은 상태다.",
+      "tickers": [],
+      "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "델 테크놀로지스의 AI서버 수주 서프라이즈에 반도체 업종이 반등하며 9/2 3.21% 오른 224.41달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "특별한 재료 없이 9/2 0.05% 내린 324.96달러로 보합권 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "국채금리 부담 속에 9/2 0.84% 내린 496.82달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "9월 3일 오스틴에서 열리는 사이버캡 출시 행사를 앞두고 9/2 0.26% 오른 357.01달러로 마감했다.",
+      "source_url": "https://www.motor1.com/news/805874/tesla-cybercab-robotaxi-launch-austin/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "고밸류에이션 부담과 소프트웨어 업종 매도세, ARK인베스트의 지분 매도 소식이 겹치며 9/2 5.81% 내린 169.46달러로 마감했다.",
+      "source_url": "https://www.fool.com/investing/2026/09/02/why-is-palantir-stock-down-today/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "유가와 금리 급등발 위험회피 심리 속에 9/2 4.02% 내린 250,500원으로 마감했다. 간밤 뉴욕 반도체주 반등이 목요일 개장에 어떤 영향을 줄지 주목된다.",
+      "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "9/2 정규장에서 4.73% 내린 1,613,000원으로 마감했지만, 같은 날 미국 ADR은 델의 AI서버 수주 훈풍에 2.61% 반등한 164.98달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/skhy/"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 전반의 약세 속에 9/2 5.31% 내린 347,500원으로 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "코스피 급락과 함께 자동차 업종이 동반 약세를 보이며 9/2 5.62% 내린 378,000원으로 마감했다.",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=603239"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "DELL",
+      "name": "Dell Technologies",
+      "market": "US",
+      "thesis": "2분기(회계연도 2027년) 실적에서 매출 470억달러(전년비 58% 증가), 조정 EPS 7.04달러(컨센서스 4.92달러 상회)를 기록했다. AI서버 수주가 분기 기준 사상 최대인 609억달러, 수주잔고는 950억달러에 달했고, 회사는 연간 매출 전망을 1,920억달러로 상향했다. 주가는 정규장에서 9%대 넘게 급등했다.",
+      "catalysts": [
+        "9월 15일과 16일(현지시간) FOMC 회의 및 금리 경로",
+        "AI서버 수주잔고 950억달러의 실제 매출 전환 속도",
+        "하이퍼스케일러 자본지출 동향"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 110.22달러",
+        "resistance": "52주 최고가 514.00달러",
+        "analyst_target_cited": "멜리우스리서치, 2026-09-02, 목표주가 735달러(기존 650달러에서 상향)"
+      },
+      "risk": "국채금리 상승과 고밸류에이션 부담이 이어지면 AI 관련주 전반의 밸류에이션 재조정 압력이 커질 수 있고, AI서버 마진율이 예상보다 낮게 유지될 가능성도 있다.",
+      "sources": [
+        "https://finance.yahoo.com/markets/article/dell-stock-surges-on-record-orders-for-ai-servers-205629050.html",
+        "https://247wallst.com/investing/2026/09/02/dells-record-60-9-billion-ai-order-quarter-leaves-stock-investors-unimpressed-heres-why/"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "어제 유가와 금리 급등, 중국 CXMT의 HBM3E 경쟁 우려가 겹치며 국내 정규장에서 4.73% 급락했지만, 같은 날 미국 ADR은 델 테크놀로지스의 사상 최대 AI서버 수주 발표에 힘입어 2.61% 반등했다. AI 인프라 투자 수요가 견조하다는 신호가 메모리 업황 우려를 일부 상쇄하고 있다.",
+      "catalysts": [
+        "9월 15일과 16일(현지시간) FOMC 회의",
+        "9월 30일 마이크론 2026회계연도 4분기 실적 발표",
+        "중국 CXMT의 HBM3E 양산 확대 여부"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 245,000원",
+        "resistance": "52주 최고가 2,987,000원",
+        "analyst_target_cited": "미래에셋증권, 2026-08-14, 목표주가 280만원"
+      },
+      "risk": "중동 정세 악화로 유가와 금리가 재차 급등하면 위험회피 심리 속에 반도체 대형주가 다시 약세로 돌아설 수 있고, 중국 메모리 업체의 기술 격차 축소가 가속화되면 밸류에이션 부담이 커질 수 있다.",
+      "sources": [
+        "https://www.hankyung.com/article/2026090285486",
+        "https://stockanalysis.com/stocks/skhy/"
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "자사주 매입 효과에도 불구하고 어제 유가와 금리 급등발 위험회피 심리 속에 4.02% 급락했다. 다만 8월 반도체 수출이 사상 최대(466억5,000만달러, 전년비 209% 증가)를 기록했다는 산업통상자원부 발표가 여전히 유효한 배경으로 남아있고, 간밤 미국 반도체 업종 반등도 우호적 재료다.",
+      "catalysts": [
+        "9월 15일과 16일(현지시간) FOMC 회의",
+        "10월 초 3분기 잠정실적 발표 예정",
+        "HBM4 양산 확대 및 추가 고객사向 공급 계약 여부"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 67,500원",
+        "resistance": "52주 최고가 374,500원",
+        "analyst_target_cited": "LS증권, 2026-08-31, 목표주가 45만원"
+      },
+      "risk": "국제유가와 국채금리가 다시 급등하면 반도체 대형주 전반의 밸류에이션 재조정 압력이 커질 수 있고, 중국 메모리 업체와의 기술 격차 축소 우려도 부담 요인이다.",
+      "sources": [
+        "https://alphasquare.co.kr/home/stock-summary?code=005930",
+        "https://www.hankyung.com/article/2026090285486"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
