@@ -1,0 +1,309 @@
+{
+  "date": "2026-09-02",
+  "session": "kr_close",
+  "generated_at_kst": "2026-09-02T17:37:11+09:00",
+  "headline": "미국과 이란의 무력 충돌이 사흘째 이어지며 국제유가와 미국 국채금리가 동반 급등하자 외국인과 기관이 코스피에서 약 3조9,500억원을 순매도했고, 개인이 2조3,023억원을 받아냈지만 역부족이었던 코스피가 3.99% 급락한 6,562.72로 마감했다",
+  "mail_title": "코스피 하루 만에 4% 급락, 무슨 일이",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 273.08포인트(3.99%) 급락한 6,562.72로 마감했습니다. 코스닥도 17.27포인트(2.10%) 내린 803.98로 거래를 마쳐 두 지수 모두 큰 폭으로 밀린 하루였습니다. 코스피에서는 외국인이 1조9,094억원, 기관이 2조434억원을 순매도해 합계 약 3조9,500억원의 매도 우위가 나타났고, 개인이 2조3,023억원을 순매수하며 낙폭을 방어했지만 대규모 매도세를 다 받아내지는 못했습니다.\n\n직접적인 배경은 미국과 이란의 무력 충돌이 사흘째 이어진 것입니다. 미군의 라라크섬 공격과 사우디산 원유 유조선 피격에 이어 이날도 긴장이 풀리지 않으면서 WTI는 배럴당 90달러, 브렌트유는 95달러 선을 유지했고, 미국 10년물 국채금리는 장중 4.8%에 근접해 지난해 1월 이후 최고 수준을 이어갔습니다. 일본 10년물 국채금리도 1996년 이후 처음으로 3%를 돌파하는 등 글로벌 국채금리가 동반 상승하며 위험자산 회피 심리를 자극했습니다. 어제(1일)까지만 해도 산업통상자원부가 발표한 8월 반도체 수출 사상 최대(466억5,000만달러) 소식이 반도체 대형주에 훈풍으로 작용했지만, 하루 만에 유가와 금리발 매도 압력에 그 온기가 묻힌 셈입니다.\n\n반도체 대형주는 자사주 매입 효과에도 불구하고 큰 폭으로 밀렸습니다. 삼성전자는 4.02% 내린 250,500원, SK하이닉스는 4.73% 내린 1,613,000원으로 마감했습니다. 전날 반도체 낙수효과와 지분가치 재평가 기대에 각각 7.52%, 2.89% 급등했던 SK그룹 지주사 SK와 SK스퀘어는 핵심 자회사 SK하이닉스의 급락 여파로 상승분을 대부분 반납하며 나란히 7%대 급락했습니다(SK 7.00%, SK스퀘어 7.97%인 982,000원).\n\n최근 수주 기대감에 가파르게 올랐던 조선과 방산, 중공업 관련주에도 차익실현 매물이 집중됐습니다. HD한국조선해양(6.79%), HD현대중공업(6.84%), HD현대일렉트릭(7.54%), 두산(7.05%)이 나란히 7% 안팎 급락했습니다. 2차전지 업종도 약세를 이어가 포스코퓨처엠이 8.00% 내린 176,000원으로 낙폭이 가장 컸고, LG에너지솔루션(5.31%)과 삼성SDI(5.45%)도 동반 하락했습니다.\n\n반면 금리 상승 국면에서 수혜가 기대되는 금융주 일부는 상대적으로 선방했습니다. 메리츠금융지주는 코스피 급락 속에서도 3.51% 오른 129,800원으로 마감했고, KRX 은행지수는 0.75% 하락에 그쳐 코스피 대비 낙폭이 크게 작았습니다. 코스닥에서는 서진시스템(9.24%), 에코프로비엠(7.06%), 케어젠(6.52%)이 급락한 반면 ISC는 8.53% 급등해 대조를 보였습니다.\n\n외환시장에서는 원/달러 환율이 오히려 전 거래일보다 1.70원(0.12%) 내린 1,368.70원으로 마감해, 외국인과 기관의 대규모 매도에도 원화가 강세를 보이는 이례적인 모습이 나타났습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,562.72",
+        "change_pct": "-3.99%(-273.08p)",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026090215514382923",
+          "https://www.mt.co.kr/stock/2026/09/02/2026090215221091471"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "803.98",
+        "change_pct": "-2.10%(-17.27p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/02/2026090215231990666",
+          "https://view.asiae.co.kr/article/2026090209020478562"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-4.73%(1,613,000원)",
+        "reason": "미국과 이란의 무력 충돌이 사흘째 이어지며 유가와 금리가 동반 급등하자 위험회피 심리가 확산돼 반도체 대형주도 급락했다. 전날 산업통상자원부가 발표한 8월 반도체 수출 사상 최대(466억5,000만달러) 훈풍은 하루 만에 매도 압력에 묻혔다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026090215514382923",
+          "https://www.cbci.co.kr/news/articleView.html?idxno=603239"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-4.02%(250,500원)",
+        "reason": "자사주 매입 효과가 이어지고 있음에도, 미이란 충돌발 유가와 금리 급등에 따른 위험회피 심리 속에 외국인과 기관이 대량 매도에 나서며 큰 폭으로 밀렸다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026090215514382923",
+          "https://www.cbci.co.kr/news/articleView.html?idxno=603239"
+        ]
+      },
+      {
+        "ticker": "402340",
+        "name": "SK스퀘어",
+        "change_pct": "-7.97%(982,000원)",
+        "reason": "전날(1일) 반도체 낙수효과와 지분가치 재평가 기대에 2.89% 급등했지만, 핵심 자회사 SK하이닉스가 이날 4.73% 급락하자 상승분을 대부분 반납하며 코스피 시가총액 상위 종목 중 낙폭이 가장 컸다. 지주사 SK도 전날 7.52% 급등분을 반납하며 7.00% 내렸다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026090215514382923"
+        ]
+      },
+      {
+        "ticker": "009540",
+        "name": "HD한국조선해양",
+        "change_pct": "-6.79%(329,500원)",
+        "reason": "최근 수주 기대감에 가파르게 올랐던 조선과 방산, 중공업 관련주에 차익실현 매물이 집중됐다. 같은 날 HD현대중공업(-6.84%), HD현대일렉트릭(-7.54%), 두산(-7.05%)도 나란히 7% 안팎 급락하며 업종 내 낙폭이 두드러졌다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026090215514382923"
+        ]
+      },
+      {
+        "ticker": "003670",
+        "name": "포스코퓨처엠",
+        "change_pct": "-8.00%(176,000원)",
+        "reason": "LG에너지솔루션(-5.31%), 삼성SDI(-5.45%) 등과 함께 2차전지 관련주가 동반 약세를 보인 가운데, 코스피 급락장 속 낙폭이 업종 내에서 가장 컸다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026090215514382923"
+        ]
+      },
+      {
+        "ticker": "138040",
+        "name": "메리츠금융지주",
+        "change_pct": "+3.51%(129,800원)",
+        "reason": "코스피가 4% 가까이 급락한 가운데서도, 국채금리 상승 국면에서 수혜가 기대되는 금융주로 매수세가 유입되며 홀로 강세를 보였다. 같은 맥락에서 KRX 은행지수도 0.75% 하락에 그쳐 코스피 대비 낙폭이 크게 작았다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026090215514382923",
+          "https://www.etoday.co.kr/news/view/2620850"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.95%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 삼성전자(-4.02%), SK하이닉스(-4.73%) 등 대형주가 유가와 금리 급등에 따른 위험회피 심리 속에 급락하며 지수 전체도 크게 밀렸다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-4.34%",
+        "note": "코스피 전기전자업종지수 기준. LG이노텍(-3.90%), 삼성전기(-2.10%) 등 부품주도 코스피 급락과 함께 동반 약세를 보였다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.88%(대표종목 기준)",
+        "note": "SK텔레콤(-3.38%), KT(-0.37%) 평균. 코스피 대비로는 낙폭이 작아 방어적 흐름을 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.83%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 코스피 대비 낙폭이 작아 상대적으로 방어적인 흐름을 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-2.18%(KRX 은행/증권/보험 평균)",
+        "note": "KRX 은행(-0.75%), 증권(-3.46%), 보험(-2.32%) 평균. 국채금리 상승 수혜 기대에 은행업종이 코스피 대비 크게 선방했고, 메리츠금융지주는 개별 종목으로 3.51% 상승했다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-4.00%",
+        "note": "코스피 유통업종지수 기준. 위험회피 심리 속에 소비재 업종도 지수와 비슷한 폭으로 하락했다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-4.91%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차가 5.62% 급락하며 업종 전체를 끌어내렸다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-6.25%(대표종목 기준)",
+        "note": "LG에너지솔루션(-5.31%), 삼성SDI(-5.45%), 포스코퓨처엠(-8.00%) 평균. 코스피 하락 폭을 웃도는 낙폭으로 업종 내 약세가 두드러졌다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-5.58%(대표종목 기준)",
+        "note": "HD한국조선해양(-6.79%), HD현대중공업(-6.84%), 한화에어로스페이스(-3.12%) 평균. 최근 급등에 따른 차익실현 매물이 위험회피 국면과 겹치며 낙폭이 확대됐다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-4.17%",
+        "note": "KRX 건설지수(KRXCNST) 기준. 코스피와 비슷한 폭으로 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-4.16%",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. 유가 급등이 이어졌음에도 위험회피 심리가 앞서며 정유, 화학주도 동반 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-3.08%",
+        "note": "KRX 철강지수(KRXSTL) 기준. 코스피 대비로는 낙폭이 다소 작았다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-3.32%(대표종목 기준)",
+        "note": "NAVER(-2.79%), 카카오(-3.84%) 평균. 코스피 대비로는 낙폭이 다소 작았다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.97%(대표종목 기준)",
+        "note": "하이브(-1.29%), JYP Ent.(-2.64%) 평균. 코스피 대비 낙폭이 작아 방어적 흐름을 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,368.70",
+      "change_pct": "-0.12%(-1.70원)",
+      "source_url": "https://www.m-i.kr/news/articleView.html?idxno=1409226"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.705",
+      "change_pct": "+0.07%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,321.84/oz",
+      "change_pct": "-0.15%",
+      "source_url": "https://www.investing.com/currencies/xau-usd"
+    },
+    {
+      "name": "WTI",
+      "value": "$90.18/배럴",
+      "change_pct": "-0.04%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$77,109.03",
+      "change_pct": "-1.0%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,407.86",
+      "change_pct": "-1.6%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.805%",
+      "change_pct": "+0.19%(52주 최고치 근접)",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미국 10년물 국채금리는 4.805%로 52주 최고치에 근접한 수준을 유지하고 있다. 일본 10년물 국채금리도 1996년 이후 처음으로 3%를 돌파하는 등 글로벌 국채금리가 동반 상승세를 보이고 있다. WTI는 배럴당 90.18달러로 전날 급등분을 유지한 채 보합권에서 움직이고 있고, 금은 온스당 4,321.84달러로 국채금리 부담에 소폭 내렸다. 원/달러 환율은 1,368.70원으로 오히려 전 거래일보다 소폭 내렸다. 비트코인과 이더리움은 24시간 기준 각각 1%대 하락했다.",
+    "notes": "코스피에서 외국인이 1조9,094억원, 기관이 2조434억원을 순매도해 합계 약 3조9,500억원의 매도 우위가 나타났고, 개인이 2조3,023억원을 순매수하며 낙폭을 방어했지만 대규모 매도세를 다 받아내지는 못했다. 코스닥에서는 반대로 기관이 2,320억원을 순매도한 가운데 외국인(617억원)과 개인(1,727억원)이 순매수했다. 외국인과 기관의 대규모 매도에도 원/달러 환율이 오히려 소폭 하락해, 통상 위험회피 국면에서 나타나는 원화 약세와는 다른 흐름을 보였다."
+  },
+  "top_themes": [
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "미국과 이란의 무력 충돌이 사흘째 이어지며 국제유가와 미국 국채금리가 동반 급등했고, 이 여파로 코스피에서 외국인과 기관이 약 3조9,500억원을 순매도하며 지수가 3.99% 급락했다.",
+      "tickers": [],
+      "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "미국 10년물 국채금리가 4.8%에 근접한 수준을 유지하고 있고, 일본 10년물 국채금리도 1996년 이후 처음으로 3%를 돌파하는 등 글로벌 국채금리가 동반 상승했다. 금리 상승 부담이 코스피 전반의 밸류에이션 조정 압력으로 작용했다.",
+      "tickers": [],
+      "source_url": "https://www.m-i.kr/news/articleView.html?idxno=1409226"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "미이란 충돌 여파로 WTI가 배럴당 90달러, 브렌트유가 95달러 선을 유지했다. 다만 유가 급등에도 위험회피 심리가 앞서며 국내 정유, 화학주(KRX 에너지/화학지수)도 4.16% 하락하는 등 오히려 동반 약세를 보였다.",
+      "tickers": [],
+      "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+    },
+    {
+      "theme": "지배구조와 경영권",
+      "summary": "전날(1일) 반도체 낙수효과와 지분가치 재평가 기대에 급등했던 SK(+7.52%)와 SK스퀘어(+2.89%)가 SK하이닉스 급락 여파로 이날 각각 7.00%, 7.97% 급락하며 상승분을 대부분 반납했다.",
+      "tickers": [
+        "034730",
+        "402340",
+        "000660"
+      ],
+      "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+    },
+    {
+      "theme": "조선과 방산",
+      "summary": "최근 수주 기대감에 가파르게 올랐던 조선, 방산, 중공업 관련주에 차익실현 매물이 집중되며 HD한국조선해양(-6.79%), HD현대중공업(-6.84%), HD현대일렉트릭(-7.54%), 두산(-7.05%)이 나란히 7% 안팎 급락했다.",
+      "tickers": [
+        "009540",
+        "329180",
+        "267260"
+      ],
+      "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "코스피에서 외국인과 기관이 합계 약 3조9,500억원을 순매도했지만, 원/달러 환율은 오히려 전 거래일보다 1.70원 내린 1,368.70원으로 마감해 통상적인 위험회피발 원화 약세와는 다른 흐름을 보였다.",
+      "tickers": [],
+      "source_url": "https://www.m-i.kr/news/articleView.html?idxno=1409226"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "자사주 매입 효과에도 유가와 금리발 위험회피 심리 속에 4.02% 내린 250,500원으로 마감했다.",
+      "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "전날 발표된 8월 반도체 수출 사상 최대 훈풍에도 불구하고 유가와 금리 급등에 따른 매도세에 4.73% 내린 1,613,000원으로 마감했다.",
+      "source_url": "https://view.asiae.co.kr/article/2026090215514382923"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 전반의 약세 속에 5.31% 내린 347,500원으로 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "코스피 급락과 함께 자동차 업종이 동반 약세를 보이며 5.62% 내린 378,000원으로 마감했다.",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=603239"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
