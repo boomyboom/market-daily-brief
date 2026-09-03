@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-04",
+  "generated_at_kst": "2026-09-04T08:10:00+09:00",
+  "mode": "new",
+  "headline": "씨티그룹의 목표주가 하향에도 자사주 매입발 수급으로 코스피가 6,579.48로 소폭 반등 마감한 가운데, 간밤 크리스토퍼 월러 연준 이사의 비둘기적 발언에 뉴욕 3대 지수가 1%대 급등하고 금과 비트코인까지 동반 랠리했지만 SK하이닉스 ADR은 오히려 소폭 밀리며, 오늘 밤 발표될 8월 미국 고용지표를 앞두고 코스피의 상승 동력이 이어질지는 불투명하다",
+  "mail_title": "연준 이사 한마디에 뉴욕은 웃었다",
+  "kr": {
+    "preview": "어제(3일) 코스피는 장중 롤러코스터 흐름 끝에 전 거래일보다 16.76포인트(0.26%) 오른 6,579.48로 마감했습니다. 오후 한때 씨티그룹이 원화 강세를 반영해 삼성전자 목표주가를 45만원에서 43만원으로, SK하이닉스는 310만원에서 300만원으로 내리면서 코스피가 장중 6,439.49까지 1.88% 급락하기도 했지만, 삼성전자와 SK하이닉스의 자사주 매입 물량이 반영된 기타법인이 1조5,936억원을 순매수하며 낙폭을 되돌렸습니다. 반면 코스닥은 13.77포인트(1.71%) 내린 790.21로 마감해 4거래일 연속 하락했습니다.\n\n간밤 뉴욕증시는 강하게 반등했습니다. 크리스토퍼 월러 연준 이사가 최근 3개월 인플레이션이 2월 4.76%에서 꾸준히 낮아지고 있다며, 디스인플레이션 흐름이 이어지면 9월에도 기준금리를 현 수준에서 유지하는 쪽을 지지하겠다고 밝히자 9월 금리 인상 확률이 63%에서 50%대로 낮아졌습니다. S&P500(+1.06%)과 다우(+1.18%), 나스닥(+1.40%) 모두 8월4일 이후 최대 상승폭을 기록했고, 미 10년물 국채금리는 4.74%로 내렸습니다. 같은 날 엔비디아는 오픈소스 AI 플랫폼 허깅페이스를 129억달러에 인수하기로 공식 합의했다는 소식에 1.80% 올랐지만, 브로드컴은 AI 반도체 매출이 전년비 221% 급증하는 호실적에도 데이터센터 투자 재원 조달과 경쟁 우려가 부각되며 2.74% 내렸습니다. SK하이닉스 미국주식예탁증서(ADR)는 씨티그룹의 목표주가 하향 여파가 이어지며 0.79% 내린 163.68달러로 마감해, 뉴욕증시의 훈풍에도 국내 반도체 대형주가 순순히 동반 상승할지는 불확실합니다. 오늘 밤에는 9월 연방공개시장위원회(FOMC)를 앞둔 마지막 핵심 지표인 8월 미국 비농업고용지표(NFP)가 발표될 예정이어서, 금요일 코스피는 발표를 앞두고 관망심리와 반도체 대형주 눈치보기가 함께 나타날 가능성이 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,579.48",
+        "change_pct": "+0.26%(+16.76p, 9/3 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.ajunews.com/view/20260903153451482",
+          "https://www.wikitree.co.kr/articles/1157092"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "790.21",
+        "change_pct": "-1.71%(-13.77p, 9/3 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.seoulfn.com/news/articleView.html?idxno=637187",
+          "https://view.asiae.co.kr/article/2026090315354507827"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "9/3 종가 -0.20%(250,000원)",
+        "reason": "씨티그룹이 원화 강세 부담을 반영해 목표주가를 45만원에서 43만원으로 내리면서 어제 소폭 약세로 마감했다. 간밤 뉴욕증시가 연준 인사의 비둘기적 발언에 1%대 급등하고 엔비디아가 허깅페이스를 129억달러에 인수하며 AI 생태계 확장에 나섰지만, 같은 날 SK하이닉스 ADR이 오히려 0.79% 내리면서 반도체 대형주의 동반 강세로 이어질지는 불확실한 채로 금요일 개장을 맞는다.",
+        "source_url": "https://www.dt.co.kr/article/12081984",
+        "source_urls": [
+          "https://www.dt.co.kr/article/12081984",
+          "https://www.edaily.co.kr/News/Read?newsId=04792086645576512"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "9/3 종가 -1.05%(1,596,000원)",
+        "reason": "씨티그룹이 3분기 영업이익 전망과 목표주가(310만원에서 300만원)를 함께 하향하면서 국내 정규장은 약세로 마감했다. 같은 날 미국 ADR도 뉴욕증시의 전반적 급등세와 반대로 0.79% 내린 163.68달러로 마감해 이틀 연속 약세를 이어갔고, 호실적에도 가이던스 우려로 2.74% 내린 브로드컴의 사례가 반도체 업종 전반의 밸류에이션 경계감을 자극하고 있다.",
+        "source_url": "https://www.edaily.co.kr/News/Read?newsId=04792086645576512",
+        "source_urls": [
+          "https://www.edaily.co.kr/News/Read?newsId=04792086645576512",
+          "https://stockanalysis.com/stocks/skhy/"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "3일(현지시간) 뉴욕증시 3대 지수가 일제히 급등했습니다. S&P500은 81.11포인트(1.06%) 오른 7,747.71, 다우는 624.16포인트(1.18%) 오른 53,686.11, 나스닥은 366.23포인트(1.40%) 오른 26,584.06으로 마감해 모두 8월4일 이후 하루 기준 최대 상승폭을 기록했습니다. 랠리의 도화선은 크리스토퍼 월러 연준 이사의 발언이었습니다. 그는 최근 3개월 인플레이션이 2월 4.76%에서 꾸준히 낮아지고 있다고 평가하며, 디스인플레이션 흐름이 이어지면 9월에도 기준금리를 현 수준에서 유지하는 쪽을 지지하겠다고 밝혔습니다. 이 발언에 트레이더들이 예상하는 9월 금리 인상 확률은 63%에서 50%대로 낮아졌고, 미 10년물 국채금리는 4.74%로 내렸습니다. 이날 신규 실업수당 청구건수는 20만6000건으로 예상치(20만5000건)에 대체로 부합해 노동시장이 냉각되고는 있지만 무너지지는 않는다는 평가가 나왔습니다.\n\n종목별로는 엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 129억달러에 인수하기로 공식 합의했다는 소식에 1.80% 오른 228.45달러로 마감했고, 테슬라는 텍사스 오스틴에서 열린 2인승 완전자율주행 로보택시 사이버캡 공식 출시 행사를 앞두고 5.42% 급등한 376.37달러를 기록했습니다. 마이크로소프트(+2.68%)와 애플(+1.00%)도 동반 상승했고, 전날 5.81% 급락했던 팔란티어는 7.71% 반등한 182.53달러로 마감했습니다. 반면 브로드컴은 전날 발표한 실적에서 AI 반도체 매출이 전년 대비 221% 급증하는 호실적을 냈음에도 데이터센터 투자 재원 조달 우려와 경쟁 심화 우려가 부각되며 2.74% 내린 357.16달러로 마감했습니다. 금은 온스당 4,520.30달러로 2.39% 올랐고, 비트코인은 24시간 기준 5.6% 급등해 8만1,600달러 선에서 거래됐습니다. 국제유가는 중동 정세 불안이 지속되며 브렌트유가 배럴당 95달러를 웃도는 등 높은 수준을 유지했습니다. 시장은 오늘 밤 발표될 8월 비농업고용지표를 9월 FOMC 전 마지막 핵심 변수로 주시하고 있습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,747.71",
+        "change_pct": "+1.06%(+81.11p, 9/3 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,584.06",
+        "change_pct": "+1.40%(+366.23p, 9/3 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,686.11",
+        "change_pct": "+1.18%(+624.16p, 9/3 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "9/3 종가 +1.80%($228.45)",
+        "reason": "오픈소스 AI 플랫폼 허깅페이스를 129억달러에 인수하기로 공식 합의했다는 소식에 상승했다. 젠슨 황 CEO는 개방형 AI 생태계를 유지하는 방향의 인수라고 설명했다.",
+        "source_url": "https://www.edaily.co.kr/News/Read?newsId=05703926645576512",
+        "source_urls": [
+          "https://www.edaily.co.kr/News/Read?newsId=05703926645576512",
+          "https://stockanalysis.com/stocks/nvda/"
+        ]
+      },
+      {
+        "ticker": "TSLA",
+        "name": "Tesla",
+        "change_pct": "9/3 종가 +5.42%($376.37)",
+        "reason": "텍사스 오스틴에서 열린 2인승 완전자율주행 로보택시 사이버캡 공식 출시 행사를 앞두고 급등했다. 텍사스주 자율주행차 등록 기록에는 테슬라 로보택시 명의로 사이버캡 45대가 등록된 것으로 확인됐다.",
+        "source_url": "https://kr.benzinga.com/news/usa/stocks/%ED%85%8C%EC%8A%AC%EB%9D%BC-%EC%82%AC%EC%9D%B4%EB%B2%84%EC%BA%A1-%EC%98%A4%EC%8A%A4%ED%8B%B4-%ED%96%89%EC%82%AC-%EC%95%9E%EB%91%90%EA%B3%A0-%ED%85%8D%EC%82%AC%EC%8A%A4%EC%A3%BC%EC%97%90-45%EB%8C%80-%EB%93%B1%EB%A1%9D",
+        "source_urls": [
+          "https://kr.benzinga.com/news/usa/stocks/%ED%85%8C%EC%8A%AC%EB%9D%BC-%EC%82%AC%EC%9D%B4%EB%B2%84%EC%BA%A1-%EC%98%A4%EC%8A%A4%ED%8B%B4-%ED%96%89%EC%82%AC-%EC%95%9E%EB%91%90%EA%B3%A0-%ED%85%8D%EC%82%AC%EC%8A%A4%EC%A3%BC%EC%97%90-45%EB%8C%80-%EB%93%B1%EB%A1%9D",
+          "https://stockanalysis.com/stocks/tsla/"
+        ]
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom",
+        "change_pct": "9/3 종가 -2.74%($357.16)",
+        "reason": "전날 실적발표에서 AI 반도체 매출이 전년비 221% 급증하는 호실적을 냈음에도, 데이터센터 투자 재원 조달 우려와 마벨 등 경쟁사와의 경쟁 심화 우려가 부각되며 하락했다.",
+        "source_url": "https://stockanalysis.com/stocks/avgo/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/avgo/"
+        ]
+      },
+      {
+        "ticker": "PLTR",
+        "name": "Palantir",
+        "change_pct": "9/3 종가 +7.71%($182.53)",
+        "reason": "전날 고밸류에이션 부담과 ARK인베스트의 지분 매도 소식에 5.81% 급락했던 팔란티어가 시장 전반의 반등 속에 낙폭을 상당 부분 만회했다.",
+        "source_url": "https://stockanalysis.com/stocks/pltr/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/pltr/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-1.20%(9/3 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 씨티그룹이 환율 부담을 반영해 삼성전자와 SK하이닉스의 목표주가를 함께 하향하면서 대형주 중심으로 약세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-0.53%(9/3 종가, 최근 거래일)",
+        "note": "코스피 전기전자업종지수 기준. 반도체 대형주 약세 여파로 부품주도 함께 밀렸다.",
+        "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3683929"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.38%(9/3 종가, 최근 거래일)",
+        "note": "코스피 통신업종지수 기준. SK텔레콤이 약세를 주도했다.",
+        "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3683929"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-2.03%(9/3 종가, 최근 거래일)",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 코스피 대비 낙폭이 두드러졌다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+2.71%(KRX 은행/증권/보험 평균, 9/3 종가, 최근 거래일)",
+        "note": "미국 10년물 국채금리가 장중 2023년 11월 이후 최고 수준으로 오르며 금리 상승 수혜 기대에 은행, 보험주가 강하게 올랐다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-0.29%(대표종목 기준, 9/3 종가, 최근 거래일)",
+        "note": "신세계, 이마트 평균. 장 초반 강세를 보였으나 오후 반도체발 조정 속에 상승분을 반납했다.",
+        "source_url": "https://markets.hankyung.com/stock/004170"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+1.63%(9/3 종가, 최근 거래일)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차가 강세를 이끌었다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+3.27%(대표종목 기준, 9/3 종가, 최근 거래일)",
+        "note": "LG에너지솔루션, 삼성SDI, 포스코퓨처엠 평균. 정부의 전기국가 전환 정책에 따른 ESS, 태양광 시장 성장 기대감이 반영됐다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+3.21%(대표종목 기준, 9/3 종가, 최근 거래일)",
+        "note": "HD한국조선해양, HD현대중공업, 한화에어로스페이스 평균. 한화오션의 대형 컨테이너선, 가스운반선 수주 소식에 업종 전반 투자심리가 개선됐다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=603430"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+3.59%(9/3 종가, 최근 거래일)",
+        "note": "KRX 건설지수(KRXCNST) 기준. 코스피 업종 지수 중 상승폭이 큰 업종 가운데 하나였다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+1.15%(9/3 종가, 최근 거래일)",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. 유가가 높은 수준을 유지한 가운데 소폭 올랐다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+2.74%(9/3 종가, 최근 거래일)",
+        "note": "KRX 철강지수(KRXSTL) 기준. 경기민감주 전반의 강세 흐름에 동참했다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.01%(대표종목 기준, 9/3 종가, 최근 거래일)",
+        "note": "NAVER, 카카오 평균. 방향성 없이 보합권에서 마감했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.11%(대표종목 기준, 9/3 종가, 최근 거래일)",
+        "note": "하이브, JYP Ent. 평균. 코스피 대비로도 방향성 없이 보합권에서 마감했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.15%(9/3 종가, 최근 거래일)",
+        "note": "SOXX 기준. 엔비디아, 마이크로소프트 등이 오른 반면 브로드컴이 2.74% 내리며 상승폭을 제한했다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+1.29%(9/3 종가, 최근 거래일)",
+        "note": "XLK 기준. 연준의 비둘기적 발언에 힘입어 크게 올랐다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.85%(9/3 종가, 최근 거래일)",
+        "note": "XLC 기준.",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+0.18%(9/3 종가, 최근 거래일)",
+        "note": "XLV 기준. 업종 내 상승폭이 가장 작았다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.56%(9/3 종가, 최근 거래일)",
+        "note": "XLF 기준. 금리 하락에도 위험선호 심리 개선에 힘입어 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+1.39%(9/3 종가, 최근 거래일)",
+        "note": "XLY 기준. 테슬라의 사이버캡 출시 기대감에 힘입어 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.32%(9/3 종가, 최근 거래일)",
+        "note": "XLP 기준. 업종 내 유일하게 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+1.03%(9/3 종가, 최근 거래일)",
+        "note": "XLI 기준.",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.62%(9/3 종가, 최근 거래일)",
+        "note": "XLB 기준. 시장 전반의 상승세와 달리 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.74%(9/3 종가, 최근 거래일)",
+        "note": "XLE 기준. 국채금리 급락과 위험선호 심리 회복에 자금이 기술주로 쏠리며 상대적으로 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.84%(9/3 종가, 최근 거래일)",
+        "note": "XLU 기준.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+1.19%(9/3 종가, 최근 거래일)",
+        "note": "XLRE 기준. 국채금리 하락 수혜에 힘입어 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,356.3",
+      "change_pct": "-0.22%",
+      "source_url": "https://www.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.509",
+      "change_pct": "-0.05%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,520.30/oz",
+      "change_pct": "+2.39%",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html"
+    },
+    {
+      "name": "WTI",
+      "value": "$91.70/배럴",
+      "change_pct": "+0.76%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$81,650.59",
+      "change_pct": "+5.6%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,512.65",
+      "change_pct": "+5.0%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.74%",
+      "change_pct": "-5bp",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 10년물 국채금리는 4.74%로 전일보다 낮아졌다. 달러인덱스는 99.509로 0.05% 내렸고, 원/달러 환율은 1,356.3원으로 소폭 하락했다. WTI는 배럴당 91.70달러로 0.76% 올랐고 브렌트유는 배럴당 95달러를 웃돌았다. 금은 온스당 4,520.30달러로 2.39% 급등했고, 비트코인은 24시간 기준 5.6% 오른 8만1,650달러, 이더리움은 5.0% 오른 2,512달러를 기록했다.",
+    "notes": "크리스토퍼 월러 연준 이사가 인플레이션 둔화 흐름이 이어지면 9월 금리를 현 수준에서 유지하는 쪽을 지지하겠다고 밝히며 뉴욕증시 3대 지수가 1%대 급등했다. 신규 실업수당 청구건수는 예상치에 대체로 부합했다. 오늘 밤에는 9월 FOMC를 앞둔 마지막 핵심 지표인 8월 미국 비농업고용지표가 발표될 예정이며, 시장 컨센서스는 5만명대 증가와 실업률 4.1%다. 중동 정세 불안이 이어지며 국제유가는 높은 수준을 유지하고 있다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "씨티그룹이 원화 강세 부담을 반영해 삼성전자 목표주가를 45만원에서 43만원으로, SK하이닉스는 310만원에서 300만원으로 각각 내렸다. 다만 메모리 장기 상승 사이클 전망은 유효하다며 두 종목 모두 투자의견 매수는 유지했다. 같은 날 SK하이닉스 ADR도 뉴욕증시의 급등세와 반대로 0.79% 내리며 약세가 이어졌다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.dt.co.kr/article/12081984"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "크리스토퍼 월러 연준 이사가 최근 3개월 인플레이션이 꾸준히 낮아지고 있다며 디스인플레이션이 이어지면 9월 기준금리를 현 수준에서 유지하는 쪽을 지지하겠다고 밝히자, 9월 금리 인상 확률이 63%에서 50%대로 낮아지며 뉴욕증시가 급등했다. 오늘 밤에는 9월 FOMC 전 마지막 핵심 지표인 8월 미국 비농업고용지표가 발표된다.",
+      "tickers": [],
+      "source_url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "중동 정세 불안이 이어지며 브렌트유가 배럴당 95달러를 웃돌고 WTI도 91달러대 후반에서 높은 수준을 유지하고 있다. 유가 부담은 인플레이션 재점화 우려로 이어져 연준의 금리 결정에도 변수로 작용하고 있다.",
+      "tickers": [],
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "오픈소스 AI 플랫폼 허깅페이스를 129억달러에 인수하기로 공식 합의했다는 소식에 9/3 1.80% 오른 228.45달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "시장 전반의 상승 흐름을 타고 9/3 1.00% 오른 328.21달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "9/3 2.68% 오른 510.12달러로 마감하며 시장 상승폭을 웃돌았다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "텍사스 오스틴 사이버캡 공식 출시 행사를 앞두고 9/3 5.42% 급등한 376.37달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "전날 5.81% 급락 이후 시장 반등에 힘입어 9/3 7.71% 반등한 182.53달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "씨티그룹의 목표주가 하향(45만원에서 43만원)에도 자사주 매입발 수급 개선에 힘입어 9/3 0.20% 내린 250,000원으로 소폭 하락에 그쳤다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005930"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "씨티그룹이 목표주가를 310만원에서 300만원으로 내렸고, 9/3 국내 정규장은 1.05% 내린 1,596,000원으로 마감했다. 같은 날 미국 ADR도 0.79% 내린 163.68달러로 마감해 이틀 연속 약세를 이어갔다.",
+      "source_url": "https://stockanalysis.com/stocks/skhy/"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "정부의 전기국가 전환 정책 기대감에 9/3 5.18% 오른 365,500원으로 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "자동차 업종 전반의 강세(KRX 자동차지수 +1.63%) 속에 9/3 1.46% 오른 383,500원으로 마감했다.",
+      "source_url": "https://markets.hankyung.com/stock/005380"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "씨티그룹이 원화 강세 부담을 반영해 3분기 영업이익 전망(76조7,000억원에서 74조원)과 목표주가(310만원에서 300만원)를 함께 내렸다. 다만 메모리 장기 상승 사이클 전망은 유효하다며 투자의견 매수는 유지했다. 같은 날 미국 ADR도 뉴욕증시의 급등세와 반대로 0.79% 내려 이틀 연속 약세를 보였다.",
+      "catalysts": [
+        "오늘 밤(현지시간) 발표될 8월 미국 비농업고용지표",
+        "9월 15일과 16일(현지시간) FOMC 회의",
+        "9월 30일 마이크론 2026회계연도 4분기 실적 발표"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 245,000원",
+        "resistance": "52주 최고가 2,987,000원",
+        "analyst_target_cited": "씨티그룹, 2026-09-03, 목표주가 300만원(기존 310만원에서 하향)"
+      },
+      "risk": "원화 강세와 환율 변동이 이어지면 수출 채산성 부담에 따른 추가 실적 전망 하향이 나올 수 있고, 반도체 업종 전반의 밸류에이션 경계감이 커지면 대형주 조정 압력으로 이어질 수 있다.",
+      "sources": [
+        "https://www.edaily.co.kr/News/Read?newsId=04792086645576512",
+        "https://stockanalysis.com/stocks/skhy/"
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "씨티그룹이 같은 이유로 목표주가를 45만원에서 43만원으로 내렸지만, 삼성전자와 SK하이닉스의 자사주 매입 물량이 반영된 기타법인 순매수가 어제 코스피 급락분을 되돌리는 데 결정적 역할을 했다. 간밤 뉴욕증시 급등과 엔비디아의 허깅페이스 인수 소식은 AI 인프라 수요에 대한 낙관론을 뒷받침하는 우호적 배경이다.",
+      "catalysts": [
+        "오늘 밤(현지시간) 발표될 8월 미국 비농업고용지표",
+        "9월 15일과 16일(현지시간) FOMC 회의",
+        "10월 초 3분기 잠정실적 발표 예정"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 67,500원",
+        "resistance": "52주 최고가 374,500원",
+        "analyst_target_cited": "씨티그룹, 2026-09-03, 목표주가 43만원(기존 45만원에서 하향)"
+      },
+      "risk": "원화 강세 흐름이 이어지면 수출 채산성 부담에 따른 추가 실적 전망 하향 가능성이 있고, 국제유가와 금리 변동성이 재확대되면 위험회피 심리 속에 대형주가 다시 약세로 돌아설 수 있다.",
+      "sources": [
+        "https://www.dt.co.kr/article/12081984",
+        "https://alphasquare.co.kr/home/stock-summary?code=005930"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "thesis": "오픈소스 AI 플랫폼 허깅페이스를 129억달러에 인수하기로 공식 합의했다. 젠슨 황 CEO는 개방형 AI 생태계를 유지하는 방향의 인수라고 설명했으며, 이는 특정 폐쇄형 AI 모델 사업자에 대한 의존도를 낮추는 동시에 자사 GPU에 대한 광범위한 수요를 유지하려는 전략으로 해석된다. 주가는 9/3 1.80% 오른 228.45달러로 마감했다.",
+      "catalysts": [
+        "허깅페이스 인수 거래 종결 시점 및 규제 승인 여부",
+        "오늘 밤(현지시간) 발표될 8월 미국 비농업고용지표",
+        "9월 15일과 16일(현지시간) FOMC 회의"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 164.07달러",
+        "resistance": "52주 최고가 236.54달러",
+        "analyst_target_cited": "MarketBeat 컨센서스(60개 증권사 평균), 2026-09-03 기준, 목표주가 325.99달러"
+      },
+      "risk": "대형 인수합병에 따른 통합 비용과 규제 심사 지연 가능성이 있고, AI 관련주 전반의 밸류에이션 부담이 커지면 주가 조정 압력으로 이어질 수 있다.",
+      "sources": [
+        "https://www.edaily.co.kr/News/Read?newsId=05703926645576512",
+        "https://stockanalysis.com/stocks/nvda/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
