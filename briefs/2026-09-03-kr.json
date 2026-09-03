@@ -1,0 +1,310 @@
+{
+  "date": "2026-09-03",
+  "session": "kr_close",
+  "generated_at_kst": "2026-09-03T19:00:00+09:00",
+  "headline": "코스피가 씨티그룹의 환율발 반도체 실적 하향에 장중 1.88% 급락해 6439선까지 밀렸다가, 삼성전자와 SK하이닉스의 자사주 매입발 기타법인 매수 1조5936억원에 힘입어 0.26% 오른 6579.48로 반전 마감했다",
+  "mail_title": "1.9% 급락하던 코스피, 무엇이 살렸나",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 16.76포인트(0.26%) 오른 6,579.48로 마감했습니다. 다만 하루 흐름은 롤러코스터에 가까웠습니다. 장 초반에는 간밤 미국 국채금리 상승 공포가 잦아들고 뉴욕증시가 반등한 영향으로 오전 9시37분 기준 0.70% 오른 6,608.37까지 올랐습니다. 그러나 오후 들어 씨티그룹이 원화 강세(환율 하락)를 반영해 삼성전자와 SK하이닉스의 3분기 영업이익 전망치를 각각 10%, 3% 하향하면서 반도체 대형주가 하락 전환했고, 코스피도 오후 2시30분 한때 전장 대비 1.88% 떨어진 6,439.49까지 밀렸습니다. 코스닥도 개장 직후 1.28% 올랐다가 하락 전환해 결국 13.77포인트(1.71%) 내린 790.21로 마감했습니다.\n\n코스피가 막판에 낙폭을 만회하고 플러스로 돌아선 배경에는 특이한 수급이 있었습니다. 개인이 9,551억원, 외국인이 4,193억원, 기관이 2,152억원을 각각 순매도해 3대 주체가 모두 매도 우위를 보였지만, 삼성전자와 SK하이닉스의 자사주 매입 물량이 반영된 '기타법인'이 홀로 1조5,936억원을 순매수하며 지수를 떠받쳤습니다. 미래에셋증권 연구원은 이날 시황에서 \"기타법인 매수만 버팀목 역할을 해줬다\"고 평가했습니다.\n\n반도체는 부진했지만 금융과 보험주는 뜨거웠습니다. 미국 10년물 국채금리가 장중 4.818%까지 올라 2023년 11월 이후 최고 수준을 기록하면서, 금리 상승기에 이자마진과 운용수익률 개선이 기대되는 금융주로 매수세가 몰렸습니다. KRX 보험지수가 4.76%, KRX 은행지수가 3.02% 오르며 업종 지수 기준으로 가장 강했고, KB금융(+5.20%), 한화생명(+5.89%), 메리츠금융지주(+5.47%) 등 개별 종목도 큰 폭으로 뛰었습니다.\n\n2차전지와 조선업종에도 훈풍이 불었습니다. LG에너지솔루션은 정부의 '전기국가' 전환 정책 기대에 국내 ESS와 태양광 시장이 성장할 것이라는 분석이 나오며 5.18% 올랐습니다. 조선업종은 한화오션이 1조5,500억원 규모 컨테이너선과 4,778억원 규모 초대형가스운반선(VLGC)을 잇따라 수주했다는 소식에 투자심리가 개선되며 HD한국조선해양(+4.40%), HD현대중공업(+3.08%), 한화에어로스페이스(+2.15%)가 동반 강세를 보였습니다. 반면 삼성전자(-0.20%, 250,000원)와 SK하이닉스(-1.05%, 1,596,000원)는 환율발 실적 우려에 밀렸고, 원/달러 환율은 오히려 전 거래일보다 9.4원 내린 1,359.3원으로 마감해 반도체 수출기업의 채산성 부담 요인으로 작용했습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,579.48",
+        "change_pct": "+0.26%(+16.76p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/03/2026090315291565240",
+          "https://www.gukjenews.com/news/articleView.html?idxno=3683929"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "790.21",
+        "change_pct": "-1.71%(-13.77p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/03/2026090315293335601",
+          "https://view.asiae.co.kr/article/2026090315354507827"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-0.20%(250,000원)",
+        "reason": "씨티그룹이 원화 강세(환율 하락) 영향을 반영해 3분기 예상 영업이익을 기존 115조5,000억원에서 104조1,000억원으로 10% 하향 조정하면서 약세로 마감했다. 불리한 환율 영향에 따른 약 5조원의 손실과 추가 성과급 반영이 하향 배경으로 지목됐다.",
+        "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722921",
+        "source_urls": [
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1722921",
+          "https://www.edaily.co.kr/News/Read?newsId=04323046645576512"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-1.05%(1,596,000원)",
+        "reason": "씨티그룹이 같은 환율 부담을 이유로 3분기 예상 영업이익을 76조7,000억원에서 74조원으로 3%, 연간 전망치는 261조1,000억원에서 254조2,000억원으로 하향하면서 하락했다. 다만 메모리 장기 상승 사이클 전망은 유효하다고 보고 투자의견 '매수'는 유지했다.",
+        "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722921",
+        "source_urls": [
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1722921",
+          "https://www.edaily.co.kr/News/Read?newsId=04323046645576512"
+        ]
+      },
+      {
+        "ticker": "105560",
+        "name": "KB금융",
+        "change_pct": "+5.20%(177,900원)",
+        "reason": "미국 10년물 국채금리가 장중 4.818%까지 오르며 2023년 11월 이후 최고 수준을 기록하자, 금리 상승기 순이자마진(NIM) 개선이 기대되는 금융주로 매수세가 몰리며 큰 폭으로 올랐다.",
+        "source_url": "https://www.edaily.co.kr/News/Read?newsId=03280006645576512",
+        "source_urls": [
+          "https://www.edaily.co.kr/News/Read?newsId=03280006645576512",
+          "https://markets.hankyung.com/stock/105560"
+        ]
+      },
+      {
+        "ticker": "088350",
+        "name": "한화생명",
+        "change_pct": "+5.89%(6,110원)",
+        "reason": "국채금리 상승에 따른 장기 채권 등 금리부 자산의 운용수익률 개선 기대감에 보험주가 동반 강세를 보인 가운데, 장중 한때 11%대까지 급등했다가 상승분 일부를 반납하고 마감했다.",
+        "source_url": "https://markets.hankyung.com/stock/088350",
+        "source_urls": [
+          "https://markets.hankyung.com/stock/088350",
+          "https://www.cbci.co.kr/news/articleView.html?idxno=603427"
+        ]
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "change_pct": "+5.18%(365,500원)",
+        "reason": "정부가 에너지 안보를 중심으로 '전기국가(Electro-state)' 전환을 추진하면서 국내 ESS와 태양광 시장이 성장할 것이라는 분석이 나왔다. 하나증권은 국내 ESS 시장 성장이 탈중국 공급망 구축과 북미 영업에 긍정적이라며 매수 의견과 목표가 48만원을 유지했다.",
+        "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3683509",
+        "source_urls": [
+          "https://www.gukjenews.com/news/articleView.html?idxno=3683509",
+          "https://alphasquare.co.kr/home/stock-summary?code=373220"
+        ]
+      },
+      {
+        "ticker": "009540",
+        "name": "HD한국조선해양",
+        "change_pct": "+4.40%(344,000원)",
+        "reason": "계열사 한화오션이 1조5,500억원 규모 컨테이너선과 4,778억원 규모 초대형가스운반선(VLGC)을 잇따라 수주했다는 소식에 조선업 전반의 수주 호황 기대감이 커지며 동반 강세를 보였다. HD현대중공업(+3.08%), 한화에어로스페이스(+2.15%)도 함께 올랐다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=603430",
+        "source_urls": [
+          "https://www.cbci.co.kr/news/articleView.html?idxno=603430",
+          "https://alphasquare.co.kr/home/stock-summary?code=009540"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-1.20%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 씨티그룹이 환율 부담을 반영해 삼성전자와 SK하이닉스의 3분기 영업이익 전망을 각각 10%, 3% 하향하면서 대형주 중심으로 약세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-0.53%",
+        "note": "코스피 전기전자업종지수 기준. 반도체 대형주 약세 여파로 부품주도 함께 밀렸다.",
+        "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3683929"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.38%",
+        "note": "코스피 통신업종지수 기준. SK텔레콤(-2.63%)이 약세를 주도했고 KT는 보합 마감했다.",
+        "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3683929"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-2.03%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 코스피 대비 낙폭이 두드러졌다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+2.71%(KRX 은행/증권/보험 평균)",
+        "note": "KRX 은행(+3.02%), 증권(+0.35%), 보험(+4.76%) 평균. 미국 10년물 국채금리가 2023년 11월 이후 최고 수준으로 오르며 금리 상승 수혜 기대에 강세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-0.29%(대표종목 기준)",
+        "note": "신세계(-1.81%), 이마트(+1.23%) 평균. 장 초반 1%대 강세를 보였으나 오후 반도체발 시장 조정 속에 상승분을 반납했다.",
+        "source_url": "https://markets.hankyung.com/stock/004170"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+1.63%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차가 1.46% 오른 383,500원으로 마감하며 업종 강세를 이끌었다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+3.27%(대표종목 기준)",
+        "note": "LG에너지솔루션(+5.18%), 삼성SDI(+0.19%), 포스코퓨처엠(+4.43%) 평균. 정부의 '전기국가' 전환 정책에 따른 ESS, 태양광 시장 성장 기대감이 반영됐다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+3.21%(대표종목 기준)",
+        "note": "HD한국조선해양(+4.40%), HD현대중공업(+3.08%), 한화에어로스페이스(+2.15%) 평균. 한화오션의 대형 컨테이너선, 가스운반선 수주 소식에 업종 전반 투자심리가 개선됐다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=603430"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+3.59%",
+        "note": "KRX 건설지수(KRXCNST) 기준. 코스피 업종 지수 중 상승폭이 큰 업종 가운데 하나였다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+1.15%",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. WTI가 배럴당 90달러 안팎에서 견조한 흐름을 보인 가운데 소폭 올랐다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+2.74%",
+        "note": "KRX 철강지수(KRXSTL) 기준. 경기민감주 전반의 강세 흐름에 동참했다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.01%(대표종목 기준)",
+        "note": "NAVER(-0.72%), 카카오(+0.71%) 평균. 방향성 없이 보합권에서 마감했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.11%(대표종목 기준)",
+        "note": "하이브(+0.17%), JYP Ent.(-0.39%) 평균. 코스피 대비로도 방향성 없이 보합권에서 마감했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,359.3",
+      "change_pct": "-0.69%(-9.4원)",
+      "source_url": "https://www.mt.co.kr/economy/2026/09/03/2026090315353672880"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.240",
+      "change_pct": "-0.31%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,484.36/oz",
+      "change_pct": "+1.58%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$90.81/배럴",
+      "change_pct": "-0.20%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$77,911.65",
+      "change_pct": "+1.0%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,405.81",
+      "change_pct": "0.0%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.770%",
+      "change_pct": "-0.024%p(장중 4.818%로 2023년 11월 이후 최고치 기록 후 하락)",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미국 10년물 국채금리는 이날 장중 4.818%까지 올라 2023년 11월 이후 최고 수준을 기록한 뒤 4.770%대로 소폭 내렸다. 달러인덱스는 99.240으로 0.31% 내렸고, 원/달러 환율은 1,359.3원으로 전 거래일보다 9.4원(0.69%) 내렸다. WTI는 배럴당 90.81달러로 최근 상승분에서 소폭 조정받았고, 금은 온스당 4,484.36달러로 1.58% 올랐다. 비트코인은 77,911.65달러로 24시간 기준 1.0% 올랐고, 이더리움은 2,405.81달러로 보합권에서 마감했다.",
+    "notes": "코스피에서 개인이 9,551억원, 외국인이 4,193억원, 기관이 2,152억원을 각각 순매도해 3대 주체가 모두 매도 우위를 보였지만, 삼성전자와 SK하이닉스의 자사주 매입 물량이 반영된 기타법인이 홀로 1조5,936억원을 순매수하며 지수를 떠받쳤다. 코스닥에서는 개인이 2,949억원을 순매수했으나 기관과 외국인의 매도세에 밀려 지수가 하락 마감했다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "씨티그룹이 원화 강세(환율 하락)를 반영해 삼성전자의 3분기 예상 영업이익을 10%, SK하이닉스는 3% 하향 조정하면서 두 대형주가 나란히 하락 마감했다. 다만 씨티그룹은 메모리 장기 상승 사이클 전망이 유효하다며 두 종목 모두 투자의견 '매수'는 유지했다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722921"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "원/달러 환율이 전 거래일보다 9.4원 내린 1,359.3원으로 마감해 반도체 수출기업의 실적 전망 하향 배경이 됐다. 코스피에서는 개인, 외국인, 기관이 모두 순매도한 가운데 삼성전자와 SK하이닉스의 자사주 매입이 반영된 기타법인이 1조5,936억원을 순매수하며 지수 하락을 막았다.",
+      "tickers": [],
+      "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3683929"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "미국 10년물 국채금리가 장중 4.818%까지 올라 2023년 11월 이후 최고 수준을 기록하면서, 금리 상승기 수혜가 기대되는 국내 금융, 보험주로 매수세가 몰려 KRX 보험지수(+4.76%)와 은행지수(+3.02%)가 강세를 보였다.",
+      "tickers": [
+        "105560",
+        "088350"
+      ],
+      "source_url": "https://www.mt.co.kr/stock/2026/09/03/2026090308580854975"
+    },
+    {
+      "theme": "조선과 방산",
+      "summary": "한화오션이 1조5,500억원 규모 컨테이너선과 4,778억원 규모 초대형가스운반선(VLGC)을 잇따라 수주했다는 소식에 조선업 전반의 수주 호황 기대감이 커지며 HD한국조선해양, HD현대중공업, 한화에어로스페이스가 동반 강세를 보였다.",
+      "tickers": [
+        "009540",
+        "329180",
+        "012450"
+      ],
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=603430"
+    },
+    {
+      "theme": "2차전지 업황",
+      "summary": "정부가 에너지 안보를 중심으로 '전기국가(Electro-state)' 전환을 추진하면서 국내 ESS와 태양광 시장이 성장할 것이라는 분석이 나오며 LG에너지솔루션이 5.18% 올랐다. 하나증권은 탈중국 공급망 구축과 북미 영업 기대감을 이유로 매수 의견과 목표가 48만원을 유지했다.",
+      "tickers": [
+        "373220"
+      ],
+      "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3683509"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "씨티그룹의 환율발 3분기 영업이익 전망 10% 하향에 0.20% 내린 250,000원으로 마감했다.",
+      "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722921"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "같은 환율 부담으로 3분기 영업이익 전망이 3% 하향되며 1.05% 내린 1,596,000원으로 마감했다.",
+      "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722921"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "정부의 '전기국가' 전환 정책에 따른 ESS, 태양광 시장 성장 기대감에 5.18% 오른 365,500원으로 마감했다.",
+      "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3683509"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "자동차 업종 전반의 강세(KRX 자동차지수 +1.63%) 속에 1.46% 오른 383,500원으로 마감했다.",
+      "source_url": "https://markets.hankyung.com/stock/005380"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
