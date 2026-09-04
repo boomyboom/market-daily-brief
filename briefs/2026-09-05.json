@@ -1,0 +1,509 @@
+{
+  "date": "2026-09-05",
+  "generated_at_kst": "2026-09-05T08:45:00+09:00",
+  "mode": "new",
+  "headline": "토요일로 국내 증시는 휴장이지만, 간밤 미국에서는 8월 비농업고용이 예상치의 세 배에 가까운 16만2천명 늘며 9월 금리 인상 우려가 다시 커지자 국채금리와 달러가 오르고 뉴욕 3대 지수는 일제히 하락했다. 다만 샌디스크가 11.90% 급등하고 마이크론이 6.10% 오르는 등 메모리 반도체는 AI 수요 기대감에 나 홀로 강세를 보였는데, 전날 반도체 수출 호조로 1.64% 반등했던 코스피가 이 엇갈린 신호를 월요일 개장에 어떻게 반영할지 주목된다",
+  "mail_title": "16만2천명 고용쇼크, 뉴욕은 휘청",
+  "kr": {
+    "preview": "오늘은 토요일로 국내 증시가 휴장입니다. 어제(4일) 코스피는 외국인과 기관의 동반 순매수 속에 삼성전자(+2.20%)와 SK하이닉스(+3.20%)가 반도체 대형주 랠리를 이끌며 전 거래일보다 107.73포인트(1.64%) 오른 6,687.21로 마감했고, 코스닥도 2.95% 오른 813.50으로 반등했습니다. 개인은 3조7,200억원을 순매도했지만 외국인(약 5,000억원)과 기관(1조6,700억원)의 매수세가 지수를 밀어올렸습니다.\n\n주말 사이 새로 나온 소식은 미국 노동시장입니다. 4일(현지시간) 발표된 8월 비농업고용은 16만2,000명 늘어 시장 전망치(5만6,000명 안팎)를 세 배 가까이 웃돌았고 실업률은 4.1%로 예상에 부합했습니다. 전날 크리스토퍼 월러 연준 이사의 비둘기적 발언에 50%대로 낮아졌던 9월 금리 인상 확률이 이 서프라이즈 고용지표에 다시 50%대 중반까지 올라섰고, 미 10년물 국채금리는 4.782%로 반등했습니다. 이 여파로 뉴욕 3대 지수는 일제히 하락해 S&P500이 0.38%, 다우가 0.51%, 나스닥이 0.29% 밀렸고, 금값도 1.38% 내린 온스당 4,477.20달러로 조정받았습니다.\n\n다만 반도체 밸류체인은 예외였습니다. 샌디스크가 D램, 낸드 가격 상승 사이클이 이어질 것이라는 기대감에 11.90% 급등했고, 마이크론도 6.10% 올랐습니다. 반면 룰루레몬은 2분기 매출이 4% 줄고 연간 가이던스를 큰 폭으로 낮추면서 17.38% 급락해 2018년 이후 처음 종가 기준 100달러 밑으로 떨어졌고, 신용평가모델 업체 페어아이작(FICO)은 미국 주택금융당국이 경쟁 신용점수 시스템 사용을 전면 허용하기로 하면서 독점 구도가 흔들려 16.68% 내렸습니다. 테슬라는 오스틴에서 열린 사이버캡 공식 출시 행사가 가격, 생산 일정 등 핵심 정보 없이 비공개로 진행돼 투자자 실망감을 자아냈고, 미국 도로교통안전국(NHTSA)이 스티어링 휠과 페달이 없는 사이버캡의 자체 인증 절차에 대한 감사에 착수했다는 소식까지 겹치며 5.92% 내렸습니다.\n\n전날 7월 반도체 수출 호조(전년 대비 176.3%↑)에 힘입어 반등했던 코스피 입장에서는, 미국 메모리 반도체주의 강세와 금리 인상 우려가 뒤섞인 신호를 월요일 개장에서 어떻게 소화할지가 관전포인트입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,687.21",
+        "change_pct": "+1.64%(+107.73p, 9/4 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609041544365570",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=276249"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "813.50",
+        "change_pct": "+2.95%(+23.29p, 9/4 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=276249",
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217791"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+2.20%(255,500원, 9/4 종가, 최근 거래일)",
+        "reason": "미 국채금리 상승세가 진정된 가운데 반도체 수출 호조 기대감에 외국인과 기관의 순매수가 몰리며 SK하이닉스와 함께 대형주 랠리를 이끌었다.",
+        "source_url": "https://www.fnnews.com/news/202609041544365570",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609041544365570",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=276249"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+3.20%(1,647,000원, 9/4 종가, 최근 거래일)",
+        "reason": "외국인 패시브 자금 유입과 반도체 업황 회복 기대감에 힘입어 올랐다. 같은 날 밤 미국에서는 샌디스크(+11.90%), 마이크론(+6.10%) 등 메모리 반도체주가 나란히 급등해, 이 흐름이 월요일 국내 반도체주에 어떻게 반영될지 주목된다.",
+        "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276249",
+        "source_urls": [
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=276249",
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217791"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "4일(현지시간) 뉴욕증시는 예상을 크게 웃돈 8월 고용지표에 발목이 잡히며 3대 지수가 동반 하락했습니다. S&P500은 29.11포인트(0.38%) 내린 7,718.60, 다우존스는 271.86포인트(0.51%) 내린 53,414.25, 나스닥종합은 77.07포인트(0.29%) 내린 26,506.99로 마감했습니다. 노동부에 따르면 8월 비농업고용은 16만2,000명 늘어 시장 전망치(5만6,000명 안팎)를 세 배 가까이 웃돌았고 실업률은 4.1%로 예상치에 부합했습니다. 전날 크리스토퍼 월러 연준 이사의 비둘기적 발언에 50%대로 낮아졌던 9월 금리 인상 확률은 이 서프라이즈 고용지표 이후 다시 50%대 중반까지 올라섰고, 미 10년물 국채금리는 3bp 가까이 오른 4.782%를 기록했습니다. 국채금리 상승 여파로 달러인덱스는 99.130으로 소폭 올랐고 금값은 1.38% 내린 온스당 4,477.20달러로 조정받았습니다.\n\n종목별로는 반도체 밸류체인이 예외적으로 강세를 보였습니다. 샌디스크는 D램과 낸드 가격 상승 사이클이 2027년까지 이어질 것이라는 기대감 속에 11.90% 급등한 1,740.00달러로 마감했고, 마이크론도 같은 이유로 6.10% 오른 1,016.59달러를 기록했습니다. 번스타인은 지난달 31일 마이크론에 매수 의견과 함께 목표주가 1,300달러를 제시하며 D램 공급 부족과 고대역폭메모리(HBM) 판매가격 상승이 2027년까지 이어질 것이라고 내다봤습니다. 엔비디아도 0.84% 오른 230.36달러로 반도체 랠리에 동참했습니다.\n\n반면 소비재와 성장주는 부진했습니다. 룰루레몬은 2분기 매출이 전년 대비 4% 줄고 비교점포매출이 9% 감소한 데다 연간 매출 가이던스를 110억~111억5,000만달러에서 103억5,000만~105억달러로, 주당순이익 가이던스도 10.95~11.15달러에서 9.48~9.73달러로 대폭 낮추면서 17.38% 급락한 100.61달러로 마감해 2018년 이후 처음 종가 기준 100달러를 밑돌았습니다. 신용평가모델 업체 페어아이작(FICO)은 윌리엄 풀트 연방주택금융청(FHFA) 청장이 패니메이와 프레디맥에 모든 대출기관의 밴티지스코어 사용을 즉시 승인하라고 지시하면서 주택담보대출 신용평가 시장에서 누려온 독점적 지위가 흔들릴 것이라는 우려에 16.68% 내린 932.26달러로 마감했습니다. 테슬라는 텍사스 오스틴에서 열린 2인승 로보택시 사이버캡 공식 출시 행사가 주주와 콘텐츠 제작자로 참석이 제한되고 생중계도 없이 비공개로 진행돼 가격, 생산 일정 등 핵심 정보를 확인하지 못한 채 끝나면서 실망 매물이 나왔고, 미국 도로교통안전국(NHTSA)이 스티어링 휠과 페달, 사이드미러가 없는 사이버캡의 자체 인증 절차에 대한 감사에 착수했다는 소식까지 겹치며 5.92% 내린 354.08달러로 마감했습니다. 애플(-2.51%)과 마이크로소프트(-2.04%), 팔란티어(-4.49%), 넷플릭스(-5.35%)도 국채금리 상승 여파에 동반 약세를 보였습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,718.60",
+        "change_pct": "-0.38%(-29.11p, 9/4 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html",
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,506.99",
+        "change_pct": "-0.29%(-77.07p, 9/4 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html",
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,414.25",
+        "change_pct": "-0.51%(-271.86p, 9/4 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html",
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "SNDK",
+        "name": "SanDisk",
+        "change_pct": "+11.90%(9/4 종가, $1,740.00)",
+        "reason": "D램과 낸드 가격 상승 사이클이 2027년까지 이어질 것이라는 기대감에 강한 고용지표발 시장 전반의 약세 속에서도 나 홀로 급등했다.",
+        "source_url": "https://247wallst.com/investing/2026/09/04/sandisk-soars-8-is-the-nand-pricing-cycle-still-accelerating/",
+        "source_urls": [
+          "https://247wallst.com/investing/2026/09/04/sandisk-soars-8-is-the-nand-pricing-cycle-still-accelerating/",
+          "https://stockanalysis.com/stocks/sndk/"
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron",
+        "change_pct": "+6.10%(9/4 종가, $1,016.59)",
+        "reason": "번스타인이 지난달 31일 매수 의견과 목표주가 1,300달러를 제시하며 D램 공급 부족과 HBM 판매가격 상승이 2027년까지 이어질 것이라고 밝힌 데 이어, 메모리 가격 상승 사이클 기대감이 이어지며 올랐다.",
+        "source_url": "https://www.investing.com/news/analyst-ratings/bernstein-raises-micron-stock-price-target-to-1300-on-dram-strength-93CH-4751808",
+        "source_urls": [
+          "https://www.investing.com/news/analyst-ratings/bernstein-raises-micron-stock-price-target-to-1300-on-dram-strength-93CH-4751808",
+          "https://stockanalysis.com/stocks/mu/"
+        ]
+      },
+      {
+        "ticker": "TSLA",
+        "name": "Tesla",
+        "change_pct": "-5.92%(9/4 종가, $354.08)",
+        "reason": "텍사스 오스틴 사이버캡 공식 출시 행사가 핵심 정보 없이 비공개로 진행돼 투자자 실망감을 자아냈고, 미국 도로교통안전국(NHTSA)이 사이버캡의 자체 인증 절차에 대한 감사에 착수했다는 소식까지 겹치며 내렸다.",
+        "source_url": "https://www.fool.com/investing/2026/09/04/why-did-tesla-stock-fall-today/",
+        "source_urls": [
+          "https://www.fool.com/investing/2026/09/04/why-did-tesla-stock-fall-today/",
+          "https://stockanalysis.com/stocks/tsla/"
+        ]
+      },
+      {
+        "ticker": "LULU",
+        "name": "Lululemon",
+        "change_pct": "-17.38%(9/4 종가, $100.61)",
+        "reason": "2분기 매출이 전년 대비 4% 줄고 비교점포매출이 9% 감소한 데다 연간 매출과 주당순이익 가이던스를 큰 폭으로 낮추면서 급락해, 2018년 이후 처음 종가 기준 100달러를 밑돌았다.",
+        "source_url": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+        "source_urls": [
+          "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+          "https://www.fool.com/coverage/stock-market-today/2026/09/04/stock-market-midday-sept-4-stocks-edge-lower-on-strong-jobs-report-as-lululemon-plummets/"
+        ]
+      },
+      {
+        "ticker": "FICO",
+        "name": "Fair Isaac",
+        "change_pct": "-16.68%(9/4 종가, $932.26)",
+        "reason": "윌리엄 풀트 연방주택금융청(FHFA) 청장이 패니메이와 프레디맥에 모든 대출기관의 밴티지스코어 사용을 즉시 승인하라고 지시하면서, 주택담보대출 신용평가 시장에서 누려온 독점적 지위가 흔들릴 것이라는 우려에 급락했다.",
+        "source_url": "https://www.fool.com/investing/2026/09/04/why-fair-isaac-stock-crashed-today/",
+        "source_urls": [
+          "https://www.fool.com/investing/2026/09/04/why-fair-isaac-stock-crashed-today/",
+          "https://stockanalysis.com/stocks/fico/history/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+3.69%(9/4 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 반도체 수출 호조와 금리 진정 속 삼성전자, SK하이닉스가 나란히 오르며 지수 상승을 주도했다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+2.44%(9/4 종가, 최근 거래일)",
+        "note": "코스피 전기전자업종지수 기준. 반도체 대형주 강세 여파로 전자부품주도 동반 상승했다.",
+        "source_url": "https://www.youthdaily.co.kr/news/article.html?no=226472"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+2.43%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "SK텔레콤(+3.93%), KT(+0.93%) 평균. 시장 전반의 위험자산 선호 심리 개선에 동반 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+1.14%(9/4 종가, 최근 거래일)",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 코스피 상승 흐름 속에 소폭 올랐다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-2.05%(KRX 은행/증권/보험 평균, 9/4 종가, 최근 거래일)",
+        "note": "반도체 등 성장주로 매수세가 쏠리며 방어주 성격의 은행, 보험주에서 차익실현 매물이 나왔다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+0.19%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "신세계, 이마트 평균. 뚜렷한 방향성 없이 보합권에서 마감했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=004170"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.17%(9/4 종가, 최근 거래일)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차는 보합권에서 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-0.12%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "LG에너지솔루션, 삼성SDI, 포스코퓨처엠 평균. 기관, 외국인 매도세 속에 약보합 마감했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+0.37%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "한화오션, HD현대중공업, 한화에어로스페이스 평균. 반도체 랠리에 가려 상대적으로 잠잠했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=012450"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+0.58%(9/4 종가, 최근 거래일)",
+        "note": "KRX 건설지수(KRXCNST) 기준. 시장 전반의 위험자산 선호 심리 개선에 소폭 동반 상승했다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+2.73%(9/4 종가, 최근 거래일)",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. 정유주 강세에 힘입어 올랐다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-0.10%(9/4 종가, 최근 거래일)",
+        "note": "KRX 철강지수(KRXSTL) 기준. 다른 업종 대비 부진하며 보합권에서 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+2.65%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "네이버, 카카오 평균. 위험자산 선호 심리 개선에 성장주 전반이 강세를 보인 흐름에 동참했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+1.75%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "하이브, JYP Ent. 평균. 시장 전반의 상승 흐름 속에 동반 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+3.52%(SOXX, 9/4 종가)",
+        "note": "강한 고용지표에도 메모리 가격 상승 사이클 기대감에 샌디스크, 마이크론이 급등하며 12개 섹터 중 상승률 1위를 기록했다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+0.70%(XLK, 9/4 종가)",
+        "note": "엔비디아 강세에 힘입었지만 국채금리 상승 부담에 상승폭은 제한됐다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-1.17%(XLC, 9/4 종가)",
+        "note": "넷플릭스가 5.35% 내리는 등 콘텐츠, 미디어주가 부진하며 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-1.04%(XLV, 9/4 종가)",
+        "note": "시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.79%(XLF, 9/4 종가)",
+        "note": "국채금리는 올랐지만 위험회피 심리 속에 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-1.33%(XLY, 9/4 종가)",
+        "note": "룰루레몬 급락 등 소매업체 실적 우려가 반영되며 12개 섹터 중 낙폭이 두 번째로 컸다.",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.80%(XLP, 9/4 종가)",
+        "note": "시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.41%(XLI, 9/4 종가)",
+        "note": "완만한 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.34%(XLB, 9/4 종가)",
+        "note": "달러 강세 속 약보합 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.87%(XLE, 9/4 종가)",
+        "note": "유가는 견조했지만 강달러 부담에 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.12%(XLU, 9/4 종가)",
+        "note": "보합권에서 소폭 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.72%(XLRE, 9/4 종가)",
+        "note": "국채금리 상승 부담에 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,345.21",
+      "change_pct": "-0.82%",
+      "source_url": "https://www.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.130",
+      "change_pct": "+0.25%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,477.20/oz",
+      "change_pct": "-1.38%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$91.22/배럴",
+      "change_pct": "-0.09%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$79,821.40",
+      "change_pct": "-2.2%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,456.46",
+      "change_pct": "-2.2%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.782%",
+      "change_pct": "+2bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 10년물 국채금리는 강한 고용지표 여파로 4.782%까지 올랐다. 달러인덱스는 99.130으로 소폭 올랐고, 원/달러 환율은 1,345.21원으로 0.82% 내려 52주 최저 수준에 근접했다. WTI는 배럴당 91.22달러로 보합권에 머물렀고 브렌트유는 배럴당 95달러를 웃돌았다. 금은 강한 고용지표발 금리 인상 우려에 1.38% 내린 온스당 4,477.20달러로 조정받았고, 비트코인과 이더리움도 24시간 기준 각각 2.2% 내렸다.",
+    "notes": "8월 비농업고용이 16만2,000명 늘어 시장 전망치(5만6,000명 안팎)를 세 배 가까이 웃돌면서, 전날 월러 연준 이사의 발언으로 50%대까지 낮아졌던 9월 금리 인상 확률이 다시 50%대 중반까지 올라섰다. 다음 FOMC 정례회의는 9월15일과 16일이다. 미국과 이란을 둘러싼 중동 정세 불안도 이어지며 국제유가는 높은 수준을 유지하고 있다."
+  },
+  "top_themes": [
+    {
+      "theme": "연준 통화정책",
+      "summary": "8월 비농업고용이 16만2,000명 늘어 시장 전망치(5만6,000명 안팎)를 세 배 가까이 웃돌면서, 전날 월러 연준 이사의 비둘기적 발언에 50%대로 낮아졌던 9월 금리 인상 확률이 다시 50%대 중반까지 올라섰다. 미 10년물 국채금리가 반등하고 달러가 강세를 보이면서 뉴욕 3대 지수는 일제히 하락했다.",
+      "tickers": [],
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "강한 고용지표발 시장 전반의 약세 속에서도 샌디스크(+11.90%)와 마이크론(+6.10%)은 D램, 낸드 가격 상승 사이클 기대감에 나 홀로 급등했다. 번스타인은 마이크론에 매수 의견과 목표주가 1,300달러를 제시했고, 국내에서도 7월 반도체 수출이 전년 대비 176.3% 급증하며 삼성전자와 SK하이닉스가 전날 반도체 대형주 랠리를 이끌었다.",
+      "tickers": [
+        "MU",
+        "SNDK",
+        "000660",
+        "005930"
+      ],
+      "source_url": "https://247wallst.com/investing/2026/09/04/sandisk-soars-8-is-the-nand-pricing-cycle-still-accelerating/"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "어제 코스피에서 개인이 3조7,200억원을 순매도한 반면 외국인과 기관이 동반 순매수에 나서며 지수 반등을 이끌었다. 원/달러 환율은 1,345원대로 내려앉아 52주 최저 수준에 근접했지만, 간밤 강한 미국 고용지표에 달러인덱스가 반등하면서 월요일 환율 흐름이 다시 뒤바뀔지 주목된다.",
+      "tickers": [],
+      "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276249"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "강한 고용지표발 시장 전반의 약세 속에서도 반도체 랠리에 동참하며 9/4 0.84% 오른 230.36달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "국채금리 상승 여파에 9/4 2.51% 내린 319.97달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "같은 여파로 9/4 2.04% 내린 499.70달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "사이버캡 출시 행사 실망감과 NHTSA 감사 소식에 9/4 5.92% 내린 354.08달러로 마감했다.",
+      "source_url": "https://www.fool.com/investing/2026/09/04/why-did-tesla-stock-fall-today/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "국채금리 상승 여파에 9/4 4.49% 내린 174.33달러로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "반도체 수출 호조 기대감과 외국인, 기관 순매수에 힘입어 9/4 2.20% 오른 255,500원으로 마감했다.",
+      "source_url": "https://www.fnnews.com/news/202609041544365570"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "외국인 패시브 자금 유입에 9/4 3.20% 오른 1,647,000원으로 마감했다.",
+      "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276249"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "기관, 외국인 매도세 속에 9/4 약보합권에서 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "KRX 자동차지수가 0.17% 내리는 등 업종 전반이 잠잠한 가운데 9/4 보합권에서 마감했다.",
+      "source_url": "https://kr.investing.com/indices/krx-automobile"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "어제(4일) 국내 정규장에서 외국인 패시브 자금 유입과 반도체 업황 회복 기대감에 3.20% 오른 164만7,000원에 마감했다. 같은 날 밤 미국에서는 샌디스크(+11.90%), 마이크론(+6.10%) 등 메모리 반도체주가 강한 고용지표발 시장 전반의 약세 속에서도 나 홀로 급등했고, 한국은행이 발표한 7월 반도체 수출도 전년 대비 176.3% 급증해 메모리 업황 개선 기대감이 한미 양쪽에서 동시에 확인되고 있다.",
+      "catalysts": [
+        "월요일(9/7) 개장에서 간밤 미국 메모리 반도체주 급등의 반영 여부",
+        "9월15일과 16일(현지시간) FOMC 회의",
+        "9월30일 마이크론 2026회계연도 4분기 실적 발표"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 272,000원",
+        "resistance": "52주 최고가 2,987,000원(2026-06-25)",
+        "analyst_target_cited": "KB증권, 2026-07-03, 매수, 목표주가 420만원"
+      },
+      "risk": "강한 미국 고용지표로 9월 금리 인상 우려가 다시 커진 만큼, 국채금리 상승이 이어지면 성장주 전반의 밸류에이션 부담으로 반도체 대형주도 조정 압력을 받을 수 있다.",
+      "sources": [
+        "https://www.businesskorea.co.kr/news/articleView.html?idxno=276249",
+        "https://www.investing.com/equities/sk-hynix-inc"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "market": "US",
+      "thesis": "강한 8월 고용지표에 뉴욕 3대 지수가 일제히 하락한 가운데서도 마이크론은 D램, 낸드 가격 상승 사이클 기대감에 6.10% 오른 1,016.59달러로 마감했다. 번스타인 애널리스트 마크 리는 지난달 31일 매수 의견과 함께 목표주가 1,300달러를 제시하며, D램 공급 부족과 고대역폭메모리(HBM) 판매가격 상승이 2027년까지 이어질 것으로 내다봤다.",
+      "catalysts": [
+        "9월30일 마이크론 2026회계연도 4분기 실적 발표",
+        "9월15일과 16일(현지시간) FOMC 회의",
+        "추가 HBM4 장기공급계약 체결 여부"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 118.52달러",
+        "resistance": "52주 최고가 1,255.00달러(2026-06-25)",
+        "analyst_target_cited": "번스타인(마크 리), 2026-08-31, 매수, 목표주가 1,300달러"
+      },
+      "risk": "강한 고용지표발 금리 인상 우려가 이어지면 성장주 전반에 밸류에이션 조정 압력이 커질 수 있고, D램과 낸드 가격 상승이 예상보다 둔화되면 상승분을 반납할 수 있다.",
+      "sources": [
+        "https://www.investing.com/news/analyst-ratings/bernstein-raises-micron-stock-price-target-to-1300-on-dram-strength-93CH-4751808",
+        "https://stockanalysis.com/stocks/mu/"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "thesis": "텍사스 오스틴에서 열린 2인승 로보택시 사이버캡 공식 출시 행사가 주주와 콘텐츠 제작자로 참석이 제한되고 생중계도 없이 비공개로 진행돼, 가격과 생산 일정 등 핵심 정보를 확인하지 못한 채 끝나면서 5.92% 내린 354.08달러로 마감했다. 같은 날 미국 도로교통안전국(NHTSA)은 스티어링 휠과 페달, 사이드미러가 없는 사이버캡의 자체 인증 절차에 대한 감사에 착수했다.",
+      "catalysts": [
+        "NHTSA 감사 진행 상황 및 결과",
+        "텍사스 등록 사이버캡 대수 확대 추이(현재 약 45대)",
+        "10월 예정 3분기 실적 발표"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 297.38달러",
+        "resistance": "52주 최고가 498.83달러",
+        "analyst_target_cited": "JPMorgan(라자트 굽타), 2026-09-04, 중립, 목표주가 445달러(기존 475달러에서 하향)"
+      },
+      "risk": "규제 심사가 장기화되거나 사이버캡 배치 확대 속도가 시장 기대에 못 미치면, 로보택시 사업에 대한 밸류에이션 프리미엄이 축소될 수 있다.",
+      "sources": [
+        "https://www.fool.com/investing/2026/09/04/why-did-tesla-stock-fall-today/",
+        "https://www.marketscreener.com/news/jpmorgan-adjusts-price-target-on-tesla-to-445-from-475-maintains-neutral-rating-ce7f51dedb89f62d"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
