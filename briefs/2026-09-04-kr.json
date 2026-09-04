@@ -1,0 +1,307 @@
+{
+  "date": "2026-09-04",
+  "session": "kr_close",
+  "generated_at_kst": "2026-09-04T19:00:00+09:00",
+  "headline": "코스피가 연준 월러 이사의 금리동결 시사 발언에 미 국채금리가 진정되자 외국인과 기관이 동반 순매수에 나서며 1.64% 오른 6687.21로 마감했고, 반도체 수출 호조에 삼성전자와 SK하이닉스가 지수를 이끌었다",
+  "mail_title": "월러 발언 하나에 코스피 1.6% 반등",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 107.73포인트(1.64%) 오른 6,687.21로 마감했습니다. 이날 흐름을 결정한 것은 미국 연방준비제도(Fed) 크리스토퍼 월러 이사의 발언이었습니다. 물가 지표에서 인플레이션 압력 완화가 확인되면 9월 15~16일 FOMC에서 기준금리 동결을 지지할 수 있다는 그의 언급에 급등했던 미국 10년물 국채금리가 4.757%까지 진정됐고, 위험자산 선호 심리가 되살아났습니다. 코스피는 6,654.36으로 출발한 뒤 장중 한때 6,746.14까지 오르며 2% 넘게 상승하기도 했습니다.\n\n수급도 뒷받침됐습니다. 외국인이 4,793억원, 기관이 1조6,691억원을 각각 순매수하며 2거래일 연속 동반 매수에 나섰고, 개인은 3조7,224억원을 순매도했습니다. 코스닥에서도 외국인(2,600억원)과 기관(1,602억원)이 순매수하며 개인 매도(4,120억원)를 상쇄해 813.50(+2.95%)으로 마감했습니다. 공포지수인 VKOSPI는 39.50으로 약 6개월 만에 40선 아래로 내려왔고, 원/달러 환율은 1,350.4원으로 약 14개월 만에 최저 수준까지 떨어졌습니다.\n\n반도체 대형주가 지수 상승을 견인했습니다. 한국은행이 발표한 7월 경상수지에서 반도체 수출이 전년 대비 176.3% 급증한 것으로 집계되며 실적 기대가 커졌고, 삼성전자(+2.20%)와 SK하이닉스(+3.20%)가 나란히 올랐습니다. SK하이닉스 지분가치가 반영되는 지주사 SK스퀘어는 6.12% 급등해 시가총액 상위 종목 중 가장 큰 폭으로 올랐습니다.\n\n반면 방어주 성격의 금융주는 차익실현 매물에 밀렸습니다. 반도체 등 성장주로 매수세가 쏠리면서 KB금융(-3.32%), 신한지주(-3.67%) 등 은행주가 약세를 보였고, KRX 은행지수는 3.34%, 보험지수는 4.43% 내렸습니다. LG에너지솔루션(-1.92%)과 삼성바이오로직스(-2.03%)도 하락했습니다.\n\n코스닥에서는 로봇주가 두드러졌습니다. 로보티즈가 2분기 영업이익 흑자전환과 중국 휴머노이드 업체향 매출 3배 급증 소식에 20%대 급등했고, 미국 연방통신위원회(FCC)의 중국산 로봇 수입 규제로 국내 업체가 반사이익을 볼 것이라는 기대감이 겹치며 TPC로보틱스(상한가), 티엑스알로보틱스(+15.14%), 로보스타(+12.41%) 등 로봇 테마주 전반이 동반 랠리했습니다.\n\n한편 미국과 이란의 군사적 긴장이 다시 고조되며 국제유가가 상승세를 이어가 브렌트유는 배럴당 95달러를 웃돌았습니다. 정유주인 S-Oil(+6.36%)과 SK이노베이션(+5.81%)이 유가 상승 수혜로 강세를 보였습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,687.21",
+        "change_pct": "+1.64%(+107.73p)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260904000860",
+          "https://view.asiae.co.kr/article/2026090415363964713"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "813.50",
+        "change_pct": "+2.95%(+23.29p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/04/2026090415282496905",
+          "https://www.newspim.com/news/view/20260904000860"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+3.20%(1,647,000원)",
+        "reason": "연준 월러 이사의 금리동결 시사 발언으로 국채금리가 진정된 데다, 한국은행이 발표한 7월 반도체 수출이 전년 대비 176.3% 급증한 것으로 집계되며 실적 기대가 커져 상승했다.",
+        "source_url": "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739",
+          "https://www.cbci.co.kr/news/articleView.html?idxno=603999"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+2.20%(255,500원)",
+        "reason": "같은 금리 진정과 반도체 수출 호조 기대감에 SK하이닉스와 함께 대형주 랠리를 주도했다.",
+        "source_url": "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739",
+          "https://www.cbci.co.kr/news/articleView.html?idxno=603999"
+        ]
+      },
+      {
+        "ticker": "402340",
+        "name": "SK스퀘어",
+        "change_pct": "+6.12%(1,041,000원)",
+        "reason": "핵심 자회사 SK하이닉스의 반도체 실적 기대가 커지며 지분가치가 반영되는 지주사로 매수세가 몰려 코스피 시가총액 상위 종목 중 가장 큰 폭으로 올랐다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=603999",
+        "source_urls": [
+          "https://www.cbci.co.kr/news/articleView.html?idxno=603999",
+          "https://www.hankyung.com/article/2026090448016"
+        ]
+      },
+      {
+        "ticker": "108490",
+        "name": "로보티즈",
+        "change_pct": "+20.12%(298,500원)",
+        "reason": "2분기 영업이익이 20억원으로 흑자전환하고 중국 휴머노이드 업체향 매출이 3배 급증한 것으로 나타났다. 미국 FCC의 중국산 로봇 수입 규제로 국내 업체가 반사이익을 볼 것이라는 기대감도 겹쳐 급등했다.",
+        "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03014326645576840",
+        "source_urls": [
+          "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03014326645576840",
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1722987"
+        ]
+      },
+      {
+        "ticker": "105560",
+        "name": "KB금융",
+        "change_pct": "-3.32%(172,000원)",
+        "reason": "반도체 등 성장주로 매수세가 쏠리면서 방어주 성격의 은행주에서 차익실현 매물이 나와 하락했다. 신한지주(-3.67%) 등 다른 은행주도 동반 약세를 보였다.",
+        "source_url": "https://www.mt.co.kr/stock/2026/09/04/2026090416003629356",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/04/2026090416003629356",
+          "https://www.cbci.co.kr/news/articleView.html?idxno=603999"
+        ]
+      },
+      {
+        "ticker": "010950",
+        "name": "S-Oil",
+        "change_pct": "+6.36%(157,300원)",
+        "reason": "미국과 이란의 군사적 긴장이 다시 고조되며 브렌트유가 배럴당 95달러를 웃도는 등 국제유가가 상승세를 이어가자 정유주로 매수세가 몰렸다.",
+        "source_url": "https://www.edaily.co.kr/News/Read?newsId=01259526645576184",
+        "source_urls": [
+          "https://www.edaily.co.kr/News/Read?newsId=01259526645576184",
+          "https://alphasquare.co.kr/home/stock-summary?code=010950"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+3.69%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 연준의 금리동결 시사 발언과 반도체 수출 호조(7월 176.3%↑) 기대감에 삼성전자, SK하이닉스가 나란히 오르며 지수 상승을 주도했다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+2.44%",
+        "note": "코스피 전기전자업종지수 기준. 반도체 대형주 강세 여파로 전자부품주도 동반 상승했다.",
+        "source_url": "https://www.youthdaily.co.kr/news/article.html?no=226472"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+2.43%(대표종목 기준)",
+        "note": "SK텔레콤(+3.93%), KT(+0.93%) 평균. 시장 전반의 위험자산 선호 심리 개선에 동반 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+1.14%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 삼성바이오로직스(-2.03%)는 개별 약세였으나 업종 지수는 소폭 상승했다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-2.05%(KRX 은행/증권/보험 평균)",
+        "note": "KRX 은행(-3.34%), 증권(+1.63%), 보험(-4.43%) 평균. 반도체 등 성장주로 매수세가 쏠리며 방어주 성격의 은행, 보험주에서 차익실현 매물이 나왔다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+0.19%(대표종목 기준)",
+        "note": "신세계(+0.79%), 이마트(-0.41%) 평균. 뚜렷한 방향성 없이 보합권에서 마감했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=004170"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.17%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차는 383,500원으로 보합 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-0.12%(대표종목 기준)",
+        "note": "LG에너지솔루션(-1.92%), 삼성SDI(+1.67%), 포스코퓨처엠(-0.11%) 평균. LG에너지솔루션은 기관, 외국인 매도세 속에 하락했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+0.37%(대표종목 기준)",
+        "note": "한화오션(보합), HD현대중공업(+0.34%), 한화에어로스페이스(+0.76%) 평균. 반도체 랠리에 가려 상대적으로 잠잠했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=012450"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+0.58%",
+        "note": "KRX 건설지수(KRXCNST) 기준. 시장 전반의 위험자산 선호 심리 개선에 소폭 동반 상승했다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+2.73%",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. 미국과 이란의 군사적 긴장 고조로 국제유가가 오르며 S-Oil(+6.36%), SK이노베이션(+5.81%) 등 정유주가 강세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-0.10%",
+        "note": "KRX 철강지수(KRXSTL) 기준. 다른 업종 대비 부진하며 보합권에서 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+2.65%(대표종목 기준)",
+        "note": "네이버(+2.89%), 카카오(+2.40%) 평균. 위험자산 선호 심리 개선에 성장주 전반이 강세를 보인 흐름에 동참했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+1.75%(대표종목 기준)",
+        "note": "하이브(+1.42%), JYP Ent.(+2.08%) 평균. 시장 전반의 상승 흐름 속에 동반 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,350.4",
+      "change_pct": "-0.66%(-8.9원)",
+      "source_url": "https://www.newspim.com/news/view/20260904000860"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.045",
+      "change_pct": "+0.17%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,525.94/oz",
+      "change_pct": "-0.31%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$90.76/배럴",
+      "change_pct": "-0.59%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$81,011.99",
+      "change_pct": "+4.0%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,517.23",
+      "change_pct": "+4.6%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.757%",
+      "change_pct": "-0.005%p",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미국 10년물 국채금리는 연준 월러 이사의 금리동결 시사 발언에 4.757%로 진정됐다. 원/달러 환율은 1,350.4원으로 전 거래일보다 8.9원(0.66%) 내려 약 14개월 만에 최저 수준을 기록했다. 달러인덱스는 99.045로 소폭 올랐고, WTI는 배럴당 90.76달러로 최근 상승분에서 소폭 조정받았지만 미국과 이란의 군사적 긴장 고조로 브렌트유는 배럴당 95달러를 웃돌았다. 비트코인은 81,011.99달러로 24시간 기준 4.0%, 이더리움은 2,517.23달러로 4.6% 올랐다.",
+    "notes": "코스피에서 외국인이 4,793억원, 기관이 1조6,691억원을 각각 순매수하며 2거래일 연속 동반 매수에 나섰고, 개인은 3조7,224억원을 순매도했다. 코스닥에서도 외국인(2,600억원)과 기관(1,602억원)이 순매수하며 개인 매도(4,120억원)를 상쇄했다. 공포지수 VKOSPI는 39.50으로 약 6개월 만에 40선 아래로 내려왔다."
+  },
+  "top_themes": [
+    {
+      "theme": "연준 통화정책",
+      "summary": "연준 크리스토퍼 월러 이사가 물가 지표에서 인플레이션 압력 완화가 확인되면 9월 15~16일 FOMC에서 기준금리 동결을 지지할 수 있다고 밝히면서 미국 10년물 국채금리가 진정됐다. 이에 위험자산 선호 심리가 살아나며 코스피와 코스닥이 동반 상승했다.",
+      "tickers": [],
+      "source_url": "https://www.hankyung.com/article/2026090448016"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "한국은행이 발표한 7월 반도체 수출이 전년 대비 176.3% 급증한 것으로 집계되며 실적 기대가 커졌다. 삼성전자와 SK하이닉스가 나란히 올랐고, SK하이닉스 지분가치가 반영되는 SK스퀘어는 6.12% 급등해 코스피 시가총액 상위 종목 중 가장 큰 폭으로 상승했다.",
+      "tickers": [
+        "005930",
+        "000660",
+        "402340"
+      ],
+      "source_url": "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "미국과 이란의 군사적 긴장이 다시 고조되며 국제유가가 상승세를 이어가 브렌트유는 배럴당 95달러를 웃돌았다. 호르무즈해협 통과 선박이 최근 10일 평균 대비 크게 줄며 공급 차질 우려가 커진 가운데, S-Oil과 SK이노베이션 등 정유주가 유가 상승 수혜로 강세를 보였다.",
+      "tickers": [
+        "010950",
+        "096770"
+      ],
+      "source_url": "https://www.edaily.co.kr/News/Read?newsId=01259526645576184"
+    },
+    {
+      "theme": "로봇과 휴머노이드",
+      "summary": "로보티즈가 2분기 영업이익 흑자전환과 중국 휴머노이드 업체향 매출 3배 급증 소식에 20%대 급등했다. 미국 FCC의 중국산 로봇 수입 규제로 국내 업체가 반사이익을 볼 것이라는 기대감이 겹치며 TPC로보틱스(상한가), 티엑스알로보틱스, 로보스타 등 로봇 테마주 전반이 동반 랠리했다.",
+      "tickers": [
+        "108490"
+      ],
+      "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03014326645576840"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "원/달러 환율이 1,350.4원으로 약 14개월 만에 최저 수준까지 내렸고, 외국인과 기관이 코스피에서 2거래일 연속 동반 순매수에 나섰다. 반면 개인은 3조7,224억원을 순매도해 매도 우위를 보였다.",
+      "tickers": [],
+      "source_url": "https://www.newspim.com/news/view/20260904000860"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "연준의 금리동결 시사 발언과 반도체 수출 호조 기대감에 2.20% 오른 255,500원으로 마감했다.",
+      "source_url": "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "같은 이유로 3.20% 오른 1,647,000원으로 마감했고, 지주사 SK스퀘어는 6.12% 급등했다.",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=603999"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "기관, 외국인 매도세 속에 1.92% 내린 358,500원으로 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "KRX 자동차지수가 0.17% 내리는 등 업종 전반이 잠잠한 가운데 383,500원으로 보합 마감했다.",
+      "source_url": "https://kr.investing.com/indices/krx-automobile"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
