@@ -1,0 +1,514 @@
+{
+  "date": "2026-09-07",
+  "generated_at_kst": "2026-09-07T08:00:00+09:00",
+  "mode": "new",
+  "headline": "주말 사이 미국이 이란 유조선 3척을 타격하며 중동 지정학 리스크가 다시 고조된 가운데, 금요일 밤 뉴욕에서 샌디스크와 마이크론이 메모리 가격 상승 사이클 기대감에 예외적으로 급등한 점이 월요일 코스피 반도체 대형주 개장에 어떤 영향을 줄지 주목된다",
+  "mail_title": "이란 유조선 타격, 유가 다시 꿈틀",
+  "kr": {
+    "preview": "지난 금요일(4일) 코스피는 외국인과 기관의 동반 순매수 속에 삼성전자(+2.20%)와 SK하이닉스(+3.20%)가 반도체 대형주 랠리를 이끌며 전 거래일보다 107.73포인트(1.64%) 오른 6,687.21로 마감했고, 코스닥도 2.95% 오른 813.50으로 반등했습니다.\n\n주말 사이 새로 나온 소식은 두 갈래입니다. 첫째는 미국 노동시장입니다. 4일(현지시간) 발표된 8월 비농업고용이 16만2,000명 늘어 시장 전망치(5만6,000명 안팎)를 세 배 가까이 웃돌면서 9월 금리 인상 확률이 50%대 중반까지 다시 올라섰고, 미 10년물 국채금리는 4.782%로 반등했습니다. 뉴욕 3대 지수는 이 여파로 일제히 소폭 하락했지만, 샌디스크(+11.90%)와 마이크론(+6.10%)은 D램과 낸드 가격 상승 사이클이 2027년까지 이어질 것이라는 기대감에 나 홀로 급등했고 SK하이닉스 미국주식예탁증서(ADR)도 동반 강세를 보여, 국내 반도체 대형주가 월요일 개장에서 이 흐름을 이어받을지가 관전 포인트입니다.\n\n둘째는 중동입니다. 미군은 5일(현지시간) 이란 혁명수비대의 자금줄로 지목된 이란 유조선 3척(M/T 다우니, M/T 스타크1, M/T 카일로)을 타격해 무력화했다고 밝혔습니다. 이란이 미 해군 함정을 향해 탄도미사일을 발사한 데 대한 보복 조치로, 지난주 브렌트유가 주간 기준 7월 중순 이후 최대 상승폭을 기록하며 배럴당 95달러를 웃돈 데 이어 지정학적 리스크 프리미엄을 다시 자극하는 요인입니다. 이 여파로 정유주인 S-Oil과 SK이노베이션이 월요일 개장에서 다시 부각될 가능성이 있습니다.\n\n한편 국내 증권사들은 9월 코스피 예상 범위로 한국투자증권 6,200~7,400, 키움증권 6,300~7,600, 신한투자증권 6,600~8,000, 삼성증권 6,500~8,500 등을 제시하며, 수요 둔화와 원화 강세, 금리 상승이라는 3중고 속에 공격적 매수보다 방어적 포트폴리오 구축을 권고하고 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,687.21",
+        "change_pct": "+1.64%(+107.73p, 9/4 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260904000860",
+          "https://view.asiae.co.kr/article/2026090415363964713"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "813.50",
+        "change_pct": "+2.95%(+23.29p, 9/4 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/04/2026090415282496905",
+          "https://www.newspim.com/news/view/20260904000860"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "9/4 종가 +3.20%(1,647,000원)",
+        "reason": "지난 금요일 국내 정규장에서 반도체 수출 호조 기대감에 3.20% 올랐고, 같은 날 밤 미국에서는 샌디스크가 11.90%, 마이크론이 6.10% 급등하며 D램, 낸드 가격 상승 사이클 기대감이 재확인됐다. SK하이닉스 ADR도 동반 강세를 보여, 월요일 개장에서 이 흐름이 이어질지 주목된다.",
+        "source_url": "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739",
+          "https://247wallst.com/investing/2026/09/04/sandisk-soars-8-is-the-nand-pricing-cycle-still-accelerating/"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "9/4 종가 +2.20%(255,500원)",
+        "reason": "같은 이유로 지난 금요일 2.20% 올랐다. 미국 메모리 반도체 밸류체인의 나 홀로 강세가 이어지면서 삼성전자를 포함한 국내 대형 반도체주에 대한 투자심리에 어떤 영향을 줄지가 월요일 개장의 관전 포인트다.",
+        "source_url": "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739",
+          "https://247wallst.com/investing/2026/09/04/sandisk-soars-8-is-the-nand-pricing-cycle-still-accelerating/"
+        ]
+      },
+      {
+        "ticker": "010950",
+        "name": "S-Oil",
+        "change_pct": "9/4 종가 +6.36%(157,300원)",
+        "reason": "미국과 이란의 군사적 긴장이 재점화되며 지난주 정유주가 강세를 보인 가운데, 미군이 지난 5일 이란 유조선 3척을 타격해 무력화했다는 소식이 전해지며 중동 지정학 리스크가 다시 고조돼 월요일 개장에서도 정유주가 부각될 가능성이 있다.",
+        "source_url": "https://www.edaily.co.kr/News/Read?newsId=01259526645576184",
+        "source_urls": [
+          "https://www.edaily.co.kr/News/Read?newsId=01259526645576184",
+          "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html"
+        ]
+      },
+      {
+        "ticker": "096770",
+        "name": "SK이노베이션",
+        "change_pct": "9/4 종가 +5.81%(추정, 정유업종 동반 강세)",
+        "reason": "S-Oil과 같은 이유로 지난주 국제유가 상승 수혜주로 부각됐다. 주말 사이 미군의 이란 유조선 타격 소식으로 지정학 리스크 프리미엄이 재차 자극되며 월요일 개장에서도 관심이 이어질 가능성이 있다.",
+        "source_url": "https://www.edaily.co.kr/News/Read?newsId=01259526645576184",
+        "source_urls": [
+          "https://www.edaily.co.kr/News/Read?newsId=01259526645576184",
+          "https://www.washingtonpost.com/world/2026/09/05/us-says-it-hit-3-iranian-oil-tankers-including-one-near-kharg-island/"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "4일(현지시간) 뉴욕증시는 예상을 크게 웃돈 8월 고용지표에 발목이 잡히며 3대 지수가 동반 소폭 하락했습니다. S&P500은 0.38% 내린 7,718.60, 다우존스는 0.51% 내린 53,414.25, 나스닥종합은 0.29% 내린 26,506.99로 마감했습니다. 8월 비농업고용은 16만2,000명 늘어 전망치(5만6,000명 안팎)를 세 배 가까이 웃돌았고 실업률은 4.1%로 예상에 부합했는데, 이 서프라이즈에 9월 금리 인상 확률이 50%대 중반까지 오르며 미 10년물 국채금리는 4.782%로 반등했습니다. 다만 샌디스크(+11.90%)와 마이크론(+6.10%)은 메모리 가격 상승 사이클 기대감에 나 홀로 급등했고, 룰루레몬(-17.38%)은 실적 부진과 가이던스 하향으로, 테슬라(-5.92%)는 사이버캡 출시 행사 실망과 미 도로교통안전국(NHTSA) 감사 소식으로 급락했습니다. 주말 사이에는 미군이 5일 이란 유조선 3척을 타격했다는 소식이 전해지며 중동 지정학 리스크가 다시 고조돼, 월요일 아시아 증시 개장을 앞두고 유가와 안전자산 흐름에 영향을 줄 수 있습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,718.60",
+        "change_pct": "-0.38%(-29.11p, 9/4 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html",
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,506.99",
+        "change_pct": "-0.29%(-77.07p, 9/4 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html",
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,414.25",
+        "change_pct": "-0.51%(-271.86p, 9/4 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html",
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "SNDK",
+        "name": "SanDisk",
+        "change_pct": "+11.90%(9/4 종가, $1,740.00)",
+        "reason": "D램과 낸드 가격 상승 사이클이 2027년까지 이어질 것이라는 기대감에 강한 고용지표발 시장 전반의 약세 속에서도 나 홀로 급등했다.",
+        "source_url": "https://247wallst.com/investing/2026/09/04/sandisk-soars-8-is-the-nand-pricing-cycle-still-accelerating/",
+        "source_urls": [
+          "https://247wallst.com/investing/2026/09/04/sandisk-soars-8-is-the-nand-pricing-cycle-still-accelerating/",
+          "https://stockanalysis.com/stocks/sndk/"
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron",
+        "change_pct": "+6.10%(9/4 종가, $1,016.59)",
+        "reason": "번스타인이 지난달 31일 매수 의견과 목표주가 1,300달러를 제시하며 D램 공급 부족과 HBM 판매가격 상승이 2027년까지 이어질 것이라고 밝힌 데 이어, 메모리 가격 상승 사이클 기대감이 이어지며 올랐다.",
+        "source_url": "https://www.investing.com/news/analyst-ratings/bernstein-raises-micron-stock-price-target-to-1300-on-dram-strength-93CH-4751808",
+        "source_urls": [
+          "https://www.investing.com/news/analyst-ratings/bernstein-raises-micron-stock-price-target-to-1300-on-dram-strength-93CH-4751808",
+          "https://stockanalysis.com/stocks/mu/"
+        ]
+      },
+      {
+        "ticker": "TSLA",
+        "name": "Tesla",
+        "change_pct": "-5.92%(9/4 종가, $354.08)",
+        "reason": "텍사스 오스틴 사이버캡 공식 출시 행사가 핵심 정보 없이 비공개로 진행돼 투자자 실망감을 자아냈고, 미국 도로교통안전국(NHTSA)이 사이버캡의 자체 인증 절차에 대한 감사에 착수했다는 소식까지 겹치며 내렸다.",
+        "source_url": "https://www.fool.com/investing/2026/09/04/why-did-tesla-stock-fall-today/",
+        "source_urls": [
+          "https://www.fool.com/investing/2026/09/04/why-did-tesla-stock-fall-today/",
+          "https://stockanalysis.com/stocks/tsla/"
+        ]
+      },
+      {
+        "ticker": "LULU",
+        "name": "Lululemon",
+        "change_pct": "-17.38%(9/4 종가, $100.61)",
+        "reason": "2분기 매출이 전년 대비 4% 줄고 비교점포매출이 9% 감소한 데다 연간 매출과 주당순이익 가이던스를 큰 폭으로 낮추면서 급락해, 2018년 이후 처음 종가 기준 100달러를 밑돌았다.",
+        "source_url": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+        "source_urls": [
+          "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+          "https://www.fool.com/coverage/stock-market-today/2026/09/04/stock-market-midday-sept-4-stocks-edge-lower-on-strong-jobs-report-as-lululemon-plummets/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+3.69%(9/4 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 반도체 수출 호조와 금리 진정 속 삼성전자, SK하이닉스가 나란히 오르며 지수 상승을 주도했다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+2.44%(9/4 종가, 최근 거래일)",
+        "note": "코스피 전기전자업종지수 기준. 반도체 대형주 강세 여파로 전자부품주도 동반 상승했다.",
+        "source_url": "https://www.youthdaily.co.kr/news/article.html?no=226472"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+2.43%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "SK텔레콤(+3.93%), KT(+0.93%) 평균. 시장 전반의 위험자산 선호 심리 개선에 동반 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+1.14%(9/4 종가, 최근 거래일)",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 코스피 상승 흐름 속에 소폭 올랐다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-2.05%(KRX 은행/증권/보험 평균, 9/4 종가, 최근 거래일)",
+        "note": "반도체 등 성장주로 매수세가 쏠리며 방어주 성격의 은행, 보험주에서 차익실현 매물이 나왔다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+0.19%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "신세계, 이마트 평균. 뚜렷한 방향성 없이 보합권에서 마감했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=004170"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.17%(9/4 종가, 최근 거래일)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차는 보합권에서 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-0.12%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "LG에너지솔루션, 삼성SDI, 포스코퓨처엠 평균. 기관, 외국인 매도세 속에 약보합 마감했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+0.37%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "한화오션, HD현대중공업, 한화에어로스페이스 평균. 반도체 랠리에 가려 상대적으로 잠잠했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=012450"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+0.58%(9/4 종가, 최근 거래일)",
+        "note": "KRX 건설지수(KRXCNST) 기준. 시장 전반의 위험자산 선호 심리 개선에 소폭 동반 상승했다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+2.73%(9/4 종가, 최근 거래일)",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. 정유주 강세에 힘입어 올랐다. 주말 사이 미군의 이란 유조선 타격 소식으로 월요일에도 관련 강세가 이어질지 주목된다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-0.10%(9/4 종가, 최근 거래일)",
+        "note": "KRX 철강지수(KRXSTL) 기준. 다른 업종 대비 부진하며 보합권에서 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+2.65%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "네이버, 카카오 평균. 위험자산 선호 심리 개선에 성장주 전반이 강세를 보인 흐름에 동참했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+1.75%(대표종목 기준, 9/4 종가, 최근 거래일)",
+        "note": "하이브, JYP Ent. 평균. 시장 전반의 상승 흐름 속에 동반 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+3.52%(SOXX, 9/4 종가)",
+        "note": "강한 고용지표에도 메모리 가격 상승 사이클 기대감에 샌디스크, 마이크론이 급등하며 12개 섹터 중 상승률 1위를 기록했다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+0.70%(XLK, 9/4 종가)",
+        "note": "엔비디아 강세에 힘입었지만 국채금리 상승 부담에 상승폭은 제한됐다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-1.17%(XLC, 9/4 종가)",
+        "note": "넷플릭스가 5.35% 내리는 등 콘텐츠, 미디어주가 부진하며 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-1.04%(XLV, 9/4 종가)",
+        "note": "시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.79%(XLF, 9/4 종가)",
+        "note": "국채금리는 올랐지만 위험회피 심리 속에 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-1.33%(XLY, 9/4 종가)",
+        "note": "룰루레몬 급락 등 소매업체 실적 우려가 반영되며 12개 섹터 중 낙폭이 두 번째로 컸다.",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.80%(XLP, 9/4 종가)",
+        "note": "시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.41%(XLI, 9/4 종가)",
+        "note": "완만한 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.34%(XLB, 9/4 종가)",
+        "note": "달러 강세 속 약보합 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.87%(XLE, 9/4 종가)",
+        "note": "유가는 견조했지만 강달러 부담에 하락했다. 주말 사이 미군의 이란 유조선 타격으로 지정학 리스크 프리미엄이 재차 부각되고 있다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.12%(XLU, 9/4 종가)",
+        "note": "보합권에서 소폭 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.72%(XLRE, 9/4 종가)",
+        "note": "국채금리 상승 부담에 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,345.21",
+      "change_pct": "-0.82%",
+      "source_url": "https://www.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.130",
+      "change_pct": "+0.25%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,443.53/oz",
+      "change_pct": "-0.75%(주말 현물가, JM Bullion 기준)",
+      "source_url": "https://www.jmbullion.com/charts/gold-price/"
+    },
+    {
+      "name": "WTI",
+      "value": "$91.22/배럴",
+      "change_pct": "-0.09%(9/4 종가, 최근 거래일)",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$79,571.82",
+      "change_pct": "-1.80%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,506.29",
+      "change_pct": "+4.10%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.782%",
+      "change_pct": "+2bp(9/4 종가, 최근 거래일)",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 10년물 국채금리는 강한 8월 고용지표에 4.782%로 반등했다. 원/달러 환율은 1,345.21원으로 14개월 만에 최저 수준을 유지하고 있다. WTI는 배럴당 91.22달러로 지난주 9%에 가까운 주간 상승률을 기록했는데, 주말 사이 미군의 이란 유조선 타격 소식이 전해지며 지정학적 리스크 프리미엄이 다시 자극되고 있다. 금은 온스당 4,443달러대로 주말 사이 소폭 조정받았다.",
+    "notes": "국내 증권사들은 9월 코스피가 수요 둔화, 원화 강세, 금리 상승이라는 3중고 속에 6,200~8,500 범위에서 등락할 것으로 보고 있으며, 방어적 포트폴리오 구축을 권고하고 있다. 미국에서는 9월 15~16일 FOMC를 앞두고 고용지표발 금리 인상 경계감과 중동 지정학 리스크가 동시에 부각되는 국면이다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "지난 금요일 미국 증시에서 샌디스크(+11.90%)와 마이크론(+6.10%)이 D램, 낸드 가격 상승 사이클이 2027년까지 이어질 것이라는 기대감에 강한 고용지표발 약세 속에서도 나 홀로 급등했다. SK하이닉스 ADR도 동반 강세를 보여, 월요일 국내 반도체 대형주 개장에 이 흐름이 반영될지 주목된다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://247wallst.com/investing/2026/09/04/sandisk-soars-8-is-the-nand-pricing-cycle-still-accelerating/"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "미군이 지난 5일 이란 혁명수비대의 자금줄로 지목된 이란 유조선 3척을 타격해 무력화했다고 밝혔다. 이란이 미 해군 함정을 향해 탄도미사일을 발사한 데 대한 보복 조치로, 확전 우려가 다시 고조되고 있다.",
+      "tickers": [],
+      "source_url": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "지난주 브렌트유는 미국과 이란의 군사적 긴장 고조로 주간 기준 7월 중순 이후 최대 상승폭을 기록하며 배럴당 95달러를 웃돌았다. 주말 사이 미군의 이란 유조선 타격 소식까지 겹치며 정유주인 S-Oil, SK이노베이션에 대한 관심이 월요일에도 이어질 가능성이 있다.",
+      "tickers": [
+        "010950",
+        "096770"
+      ],
+      "source_url": "https://www.edaily.co.kr/News/Read?newsId=01259526645576184"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "4일 발표된 8월 비농업고용이 16만2,000명 늘어 전망치를 세 배 가까이 웃돌면서 9월 금리 인상 확률이 50%대 중반까지 다시 올라섰고, 미 10년물 국채금리는 4.782%로 반등했다. 9월 15~16일 FOMC를 앞두고 금리 경계감이 이어지고 있다.",
+      "tickers": [],
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "원/달러 환율은 1,345.21원으로 14개월 만에 최저 수준을 유지하고 있다. 지난 금요일 코스피에서는 외국인과 기관이 동반 순매수하며 2거래일 연속 매수 우위를 보였고, 국내 증권사들은 이런 환율, 수요, 금리의 3중고 속에 9월 코스피가 방향성 없이 등락할 가능성이 크다고 전망하고 있다.",
+      "tickers": [],
+      "source_url": "https://news.bizwatch.co.kr/article/market/2026/09/04/0001"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "강한 고용지표발 국채금리 상승과 시장 전반의 약세 속에서도 0.84% 오른 230.36달러로 마감하며 반도체 랠리에 동참했다.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "국채금리 상승 부담에 2.51% 내리며 시장 전반의 약세 흐름에 동참했다.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "같은 이유로 2.04% 내렸다.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "사이버캡 출시 행사 실망과 NHTSA 감사 소식이 겹치며 5.92% 내린 354.08달러로 마감했다.",
+      "source_url": "https://www.fool.com/investing/2026/09/04/why-did-tesla-stock-fall-today/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "국채금리 상승에 따른 성장주 조정 흐름 속에 4.49% 내렸다.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "지난 금요일 반도체 수출 호조 기대감에 2.20% 오른 255,500원으로 마감했다. 미국 메모리 반도체 밸류체인의 나 홀로 강세가 월요일 개장에 어떤 영향을 줄지 주목된다.",
+      "source_url": "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "같은 이유로 3.20% 오른 1,647,000원으로 마감했고, SK하이닉스 ADR도 주말 사이 메모리 랠리에 동반 강세를 보였다.",
+      "source_url": "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "기관, 외국인 매도세 속에 1.92% 내린 358,500원으로 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "KRX 자동차지수가 0.17% 내리는 등 업종 전반이 잠잠한 가운데 보합권에서 마감했다.",
+      "source_url": "https://kr.investing.com/indices/krx-automobile"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "미국 메모리 반도체 업체들의 실적과 가격 사이클 코멘트가 국내 메모리 대형주 투자심리에 직결되는 국면이다. 지난 금요일 샌디스크(+11.90%)와 마이크론(+6.10%)이 D램, 낸드 가격 상승 사이클이 2027년까지 이어질 것이라는 기대감에 강한 고용지표발 약세장에서도 나 홀로 급등했고, SK하이닉스 ADR도 동반 강세를 보였다.",
+      "catalysts": [
+        "미국 메모리 3사(마이크론, 샌디스크, 웨스턴디지털)의 향후 실적 및 가격 코멘트",
+        "9월 15~16일 FOMC 금리 결정",
+        "HBM 공급계약 및 고객사향 출하 동향"
+      ],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": "번스타인, 2026년 8월 31일, 마이크론(동종업계) 목표주가 1,300달러 제시 (SK하이닉스 자체 목표주가 아님, 참고용)"
+      },
+      "risk": "미 10년물 국채금리가 4.78%대로 반등하며 성장주 전반의 밸류에이션 부담이 커질 수 있고, 메모리 가격 상승 사이클에 대한 기대가 과도하다는 평가가 나올 경우 밸류에이션 조정 가능성이 있다.",
+      "sources": [
+        "https://www.mt.co.kr/stock/2026/09/04/2026090410221610739",
+        "https://247wallst.com/investing/2026/09/04/sandisk-soars-8-is-the-nand-pricing-cycle-still-accelerating/",
+        "https://www.investing.com/news/analyst-ratings/bernstein-raises-micron-stock-price-target-to-1300-on-dram-strength-93CH-4751808"
+      ]
+    },
+    {
+      "ticker": "010950",
+      "name": "S-Oil",
+      "market": "KR",
+      "thesis": "미국과 이란의 군사적 긴장이 재점화되며 국제유가에 지정학적 리스크 프리미엄이 반영되고 있다. 미군이 지난 5일 이란 유조선 3척을 타격해 무력화했다고 밝히면서, 지난주 정유주 강세를 이끈 유가 상승 흐름이 월요일에도 이어질지가 관전 포인트다.",
+      "catalysts": [
+        "호르무즈해협 통과 선박 동향 및 추가 군사적 충돌 여부",
+        "OPEC+ 증산 결정 및 미국 원유재고 발표",
+        "미국의 대이란 제재 강화 여부"
+      ],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": ""
+      },
+      "risk": "미국과 이란 간 확전이 실제 원유 공급 차질로 이어지지 않고 외교적으로 진정될 경우, 지정학적 리스크 프리미엄이 빠르게 빠지며 유가와 정유주 주가가 되돌림을 보일 수 있다.",
+      "sources": [
+        "https://www.edaily.co.kr/News/Read?newsId=01259526645576184",
+        "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
+        "https://www.washingtonpost.com/world/2026/09/05/us-says-it-hit-3-iranian-oil-tankers-including-one-near-kharg-island/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
