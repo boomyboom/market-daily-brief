@@ -1,0 +1,451 @@
+{
+  "date": "2026-09-08",
+  "generated_at_kst": "2026-09-08T08:00:00+09:00",
+  "mode": "new",
+  "headline": "미국 증시가 노동절로 휴장한 사이 미래에셋증권과 노무라가 삼성전자와 SK하이닉스 목표주가를 잇달아 올리거나 유지하며 전날 급등 흐름이 화요일 개장까지 이어질지 주목되고, 중동 정세 불안에 국제유가도 다시 올랐다",
+  "mail_title": "SK하이닉스 목표주가 줄상향",
+  "kr": {
+    "preview": "어제(7일) 코스피는 오픈AI의 신규 모델 아스트라(GPT-6) 공개와 엔비디아의 허깅페이스 인수 소식에 미국 메모리 반도체주가 급등한 여파로 삼성전자(+5.68%, 27만전자 첫 기록)와 SK하이닉스(+8.26%)가 나란히 급등하며 전 거래일보다 4.61% 오른 6,995.39로 마감했습니다. 외국인이 3조3,050억원, 기관이 3조3,813억원을 순매수하며 반도체 중심으로 매수세를 집중했습니다.\n\n간밤 미국 증시는 노동절로 휴장해 새로운 마감 지표는 없었지만, 두 가지 소식이 화요일 개장을 앞두고 주목됩니다. 첫째는 반도체입니다. 미래에셋증권과 노무라가 삼성전자 목표주가를 각각 40만원, 67만원으로 상향하거나 유지했고, SK하이닉스 목표주가도 각각 310만원, 470만원으로 올리거나 유지했습니다. 노무라는 메모리 공급이 AI 수요 대비 심각하게 부족하다고 평가했고, 삼성전자의 3분기 영업이익 추정치는 기존보다 12% 상향됐습니다. 둘째는 원전 관련주입니다. 두산에너빌리티는 미국 테라파워로부터 수주와 프랑스와의 원전 협력 기대감에 어제 정규장에서 10.98% 오른 데 이어, 저녁 시간외 거래(NXT)에서도 추가로 오르며 강세를 이어갔습니다. 한편 중동 정세 불안이 다시 고조되며 국제유가는 서부텍사스산원유(WTI) 기준 배럴당 92.70달러로 1.33% 올랐고, 안전자산 선호 속에 달러인덱스는 98.887로 0.27% 내렸습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,995.39",
+        "change_pct": "+4.61%(+308.18p, 9/7 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260907000925",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=276351"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "822.19",
+        "change_pct": "+1.07%(+8.69p, 9/7 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/07/2026090715335292121"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "전일 종가 +8.26%(1,783,000원)",
+        "reason": "어제 오픈AI의 아스트라(GPT-6) 공개 여파로 급등한 데 이어, 미래에셋증권이 목표주가를 280만원에서 310만원으로 올리고 노무라는 470만원을 유지하며 메모리 공급이 AI 수요 대비 심각하게 부족하다고 평가해 화요일 개장에서도 관심이 이어질 가능성이 있다.",
+        "source_url": "https://www.segye.com/newsView/20260907511301",
+        "source_urls": [
+          "https://www.segye.com/newsView/20260907511301",
+          "https://www.mt.co.kr/stock/2026/09/07/2026090709253749977"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "전일 종가 +5.68%(270,000원)",
+        "reason": "같은 이유로 어제 사상 처음 27만전자를 기록한 데 이어, 미래에셋증권이 목표주가를 37만원에서 40만원으로 올렸고 노무라는 67만원을 유지하며 3분기 영업이익 추정치를 기존보다 12% 상향했다.",
+        "source_url": "https://www.segye.com/newsView/20260907511301",
+        "source_urls": [
+          "https://www.segye.com/newsView/20260907511301",
+          "https://www.mt.co.kr/stock/2026/09/07/2026090709253749977"
+        ]
+      },
+      {
+        "ticker": "034020",
+        "name": "두산에너빌리티",
+        "change_pct": "전일 정규장 +10.98%(87,900원), 시간외(NXT) 89,300원",
+        "reason": "AI 데이터센터 확산에 따른 전력 수요 증가 기대와 프랑스와의 원전 협력 논의가 부각되며 어제 정규장에서 10.98% 오른 뒤, 저녁 시간외 거래(NXT)에서도 추가로 오르며 강세를 이어갔다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=604667",
+        "source_urls": [
+          "https://www.cbci.co.kr/news/articleView.html?idxno=604667"
+        ]
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "change_pct": "전일 종가 -1.52%(1,039,000원)",
+        "reason": "한화에어로스페이스와 한화시스템이 8일부터 나흘간 폴란드에서 열리는 국제방위산업전시회(MSPO 2026)에 참가해 K9A2 자주포와 방공, 무인, 우주 관련 체계를 선보이며 유럽 시장 확대를 노린다고 밝혔다. 다만 어제 정규장에서는 반도체로 매수세가 쏠리며 1.52% 내린 채 마감했다.",
+        "source_url": "https://www.fnnews.com/news/202609071827354074",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609071827354074",
+          "https://www.fnnews.com/news/202609071136394829"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "미국 증시는 노동절 휴장으로 7일(현지시간) 거래가 없었다. 가장 최근 실제 마감은 지난 4일로, S&P500은 0.38% 내린 7,718.60, 다우존스는 0.51% 내린 53,414.25, 나스닥종합은 0.29% 내린 26,506.99로 마감했다. 8월 비농업고용이 전망치를 세 배 가까이 웃돌며 9월 금리 인상 경계감이 커진 가운데서도 샌디스크(+11.90%)와 마이크론(+6.10%)은 메모리 가격 상승 사이클 기대감에 나 홀로 급등했다. 휴장 기간에도 중동 정세 불안이 다시 고조되며 국제유가가 오르고 안전자산 선호 속에 달러인덱스가 내리는 등 외환과 원자재 시장은 계속 움직였다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,718.60",
+        "change_pct": "-0.38%(-29.11p, 9/4 종가, 최근 거래일, 노동절 휴장으로 신규 마감 없음)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html",
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,506.99",
+        "change_pct": "-0.29%(-77.07p, 9/4 종가, 최근 거래일, 노동절 휴장으로 신규 마감 없음)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html",
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "53,414.25",
+        "change_pct": "-0.51%(-271.86p, 9/4 종가, 최근 거래일, 노동절 휴장으로 신규 마감 없음)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html",
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      }
+    ],
+    "notable": []
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+6.05%(9/7 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 오픈AI의 아스트라 공개와 엔비디아의 허깅페이스 인수 소식에 삼성전자, SK하이닉스가 나란히 급등하며 지수를 끌어올렸다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+6.34%(9/7 종가, 최근 거래일)",
+        "note": "코스피 전기전자업종지수 기준. 반도체 대형주 강세 여파로 전자부품주 전반이 동반 상승했다.",
+        "source_url": "https://view.asiae.co.kr/article/2026090716000339351"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+1.26%(대표종목 기준, 9/7 종가, 최근 거래일)",
+        "note": "SK텔레콤(+1.41%), KT(+1.10%) 평균. 시장 전반의 위험자산 선호 심리 개선에 동반 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-0.24%(9/7 종가, 최근 거래일)",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 반도체로 매수세가 쏠리며 상대적으로 소외돼 소폭 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+2.77%(대표종목 기준, 9/7 종가, 최근 거래일)",
+        "note": "KB금융(+2.27%), 신한지주(+3.26%) 평균. 외국인과 기관의 동반 순매수 속에 은행주도 동반 상승했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+2.31%(대표종목 기준, 9/7 종가, 최근 거래일)",
+        "note": "신세계(+3.66%), 이마트(+0.95%) 평균. 시장 전반의 위험자산 선호 심리 개선에 동반 상승했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=004170"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+1.79%(9/7 종가, 최근 거래일)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차는 2.48% 오른 393,000원에 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-0.23%(대표종목 기준, 9/7 종가, 최근 거래일)",
+        "note": "LG에너지솔루션(+1.12%), 삼성SDI(-1.28%), 포스코퓨처엠(-0.54%) 평균. 반도체로 매수세가 쏠리며 종목별로 등락이 엇갈렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+0.64%(대표종목 기준, 9/7 종가, 최근 거래일)",
+        "note": "한화오션(+0.58%), HD현대중공업(+2.86%), 한화에어로스페이스(-1.52%) 평균. 한화에어로스페이스는 무인차량 예산 삭감 소식에 하락하며 업종 내 등락이 엇갈렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=042660"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+5.27%(9/7 종가, 최근 거래일)",
+        "note": "KRX 건설지수(KRXCNST) 기준. 시장 전반의 위험자산 선호 심리 개선에 강한 동반 상승세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+0.47%(9/7 종가, 최근 거래일)",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. 반도체 랠리에 가려 상대적으로 잠잠한 흐름을 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-0.10%(9/7 종가, 최근 거래일)",
+        "note": "KRX 철강지수(KRXSTL) 기준. 다른 업종 대비 부진하며 보합권에서 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+1.54%(대표종목 기준, 9/7 종가, 최근 거래일)",
+        "note": "네이버(+2.11%), 카카오(+0.97%) 평균. 시장 전반의 상승 흐름 속에 동반 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.90%(대표종목 기준, 9/7 종가, 최근 거래일)",
+        "note": "하이브(+1.29%), JYP Ent.(+0.51%) 평균. 시장 전반의 상승 흐름 속에 동반 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+3.52%(SOXX, 9/4 종가, 최근 거래일)",
+        "note": "강한 고용지표에도 메모리 가격 상승 사이클 기대감에 샌디스크, 마이크론이 급등하며 12개 섹터 중 상승률 1위를 기록했다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+0.70%(XLK, 9/4 종가, 최근 거래일)",
+        "note": "엔비디아 강세에 힘입었지만 국채금리 상승 부담에 상승폭은 제한됐다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-1.19%(XLC, 9/4 종가, 최근 거래일)",
+        "note": "넷플릭스 등 콘텐츠, 미디어주가 부진하며 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-1.04%(XLV, 9/4 종가, 최근 거래일)",
+        "note": "시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.79%(XLF, 9/4 종가, 최근 거래일)",
+        "note": "국채금리는 올랐지만 위험회피 심리 속에 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-1.33%(XLY, 9/4 종가, 최근 거래일)",
+        "note": "룰루레몬 급락 등 소매업체 실적 우려가 반영되며 12개 섹터 중 낙폭이 두 번째로 컸다.",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.80%(XLP, 9/4 종가, 최근 거래일)",
+        "note": "시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.41%(XLI, 9/4 종가, 최근 거래일)",
+        "note": "완만한 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.34%(XLB, 9/4 종가, 최근 거래일)",
+        "note": "달러 강세 속 약보합 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.87%(XLE, 9/4 종가, 최근 거래일)",
+        "note": "유가는 견조했지만 강달러 부담에 하락했다. 이후 중동 정세 불안이 다시 고조되며 유가가 추가로 오르고 있어 화요일 흐름이 주목된다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.12%(XLU, 9/4 종가, 최근 거래일)",
+        "note": "보합권에서 소폭 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.72%(XLRE, 9/4 종가, 최근 거래일)",
+        "note": "국채금리 상승 부담에 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,340.5",
+      "change_pct": "-0.73%(-9.9원, 9/7 종가, 최근 거래일)",
+      "source_url": "https://view.asiae.co.kr/article/2026090715332263166"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "98.887",
+      "change_pct": "-0.27%",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,452.00/oz",
+      "change_pct": "-0.55%",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$92.70/배럴",
+      "change_pct": "+1.33%",
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$79,175.92",
+      "change_pct": "-0.90%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,492.49",
+      "change_pct": "-0.60%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.803%",
+      "change_pct": "+2bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미국 증시와 채권시장은 노동절로 휴장했다. 국제유가는 중동 정세 불안이 다시 고조되며 서부텍사스산원유 기준 배럴당 92.70달러로 1.33% 올랐다. 안전자산 선호 속에 달러인덱스는 98.887로 0.27% 내렸고, 금은 온스당 4,452.00달러로 0.55% 내렸다. 미 10년물 국채금리는 4.803%로 소폭 올랐다. 비트코인은 79,175.92달러로 24시간 기준 0.90%, 이더리움은 2,492.49달러로 0.60% 내렸다.",
+    "notes": "미래에셋증권과 노무라 등 증권사들이 삼성전자와 SK하이닉스 목표주가를 잇달아 올리거나 유지하며 메모리 업황 개선 기대를 반영했다. 오는 15~16일로 예정된 미국 연방공개시장위원회(FOMC) 회의를 앞두고 금리 경계감도 이어지고 있다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "미래에셋증권이 삼성전자 목표주가를 37만원에서 40만원으로, SK하이닉스 목표주가를 280만원에서 310만원으로 올렸고, 노무라는 삼성전자 67만원, SK하이닉스 470만원 목표주가를 유지하며 메모리 공급이 AI 수요 대비 심각하게 부족하다고 평가했다. 삼성전자의 3분기 영업이익 추정치도 기존보다 12% 상향됐다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.segye.com/newsView/20260907511301"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "중동 정세 불안이 다시 고조되며 서부텍사스산원유(WTI)가 배럴당 92.70달러로 1.33% 올랐다. 미국과 이란을 둘러싼 호르무즈 해협 정세가 계속 불안한 흐름을 보이면서 유가에 지정학적 리스크 프리미엄이 반영되고 있다.",
+      "tickers": [],
+      "source_url": "https://www.investing.com/commodities/crude-oil"
+    },
+    {
+      "theme": "AI 데이터센터 전력",
+      "summary": "두산에너빌리티가 미국 테라파워로부터 수주와 프랑스와의 원전 협력 기대감에 어제 정규장에서 10.98% 오른 데 이어 저녁 시간외 거래(NXT)에서도 추가로 오르며 강세를 이어갔다. AI 확산에 따른 전력 수요 증가로 원전 관련주에 대한 관심이 이어지고 있다.",
+      "tickers": [
+        "034020"
+      ],
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=604667"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "미국 증시가 노동절로 휴장해 새로운 마감 데이터는 없으며, 지난 4일 0.84% 오른 230.36달러로 마감한 흐름이 이어지고 있다.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "같은 이유로 지난 4일 2.51% 내린 흐름에 머물러 있다.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "같은 이유로 지난 4일 2.04% 내린 흐름에 머물러 있다.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "같은 이유로 지난 4일 사이버캡 출시 행사 실망과 NHTSA 감사 소식에 5.92% 내린 354.08달러로 마감한 흐름이 이어지고 있다.",
+      "source_url": "https://www.fool.com/investing/2026/09/04/why-did-tesla-stock-fall-today/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "같은 이유로 지난 4일 국채금리 상승에 따른 성장주 조정 흐름 속에 4.49% 내린 흐름이 이어지고 있다.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "어제 사상 처음 27만전자를 기록한 데 이어, 미래에셋증권이 목표주가를 40만원으로 올렸고 노무라는 67만원을 유지하며 3분기 영업이익 추정치를 12% 상향했다.",
+      "source_url": "https://www.segye.com/newsView/20260907511301"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "어제 8.26% 급등한 데 이어, 미래에셋증권이 목표주가를 310만원으로 올렸고 노무라는 470만원을 유지하며 메모리 공급 부족을 강조했다.",
+      "source_url": "https://www.segye.com/newsView/20260907511301"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "반도체로 매수세가 쏠린 가운데서도 어제 1.12% 오른 362,500원에 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "시장 전반의 상승 흐름 속에 어제 2.48% 오른 393,000원으로 마감했다.",
+      "source_url": "https://kr.investing.com/indices/krx-automobile"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "국내외 증권사들이 메모리 업황 개선 기대를 반영해 목표주가를 잇달아 올리거나 유지하고 있다. 미래에셋증권은 목표주가를 280만원에서 310만원으로 상향했고, 노무라는 470만원을 유지하며 메모리 공급이 AI 수요 대비 심각하게 부족하다고 평가했다.",
+      "catalysts": [
+        "미국 메모리 3사(마이크론, 샌디스크, 웨스턴디지털)의 향후 실적 및 가격 코멘트",
+        "9월 15~16일 FOMC 금리 결정",
+        "HBM4 공급계약 및 고객사향 출하 동향"
+      ],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": "미래에셋증권, 2026년 9월 7일, 목표주가 310만원 상향; 노무라, 2026년 9월 7일, 목표주가 470만원 유지"
+      },
+      "risk": "메모리 가격 상승 사이클에 대한 기대가 과도하다는 평가가 나오거나 미 10년물 국채금리가 추가로 오를 경우 성장주 밸류에이션 조정 가능성이 있다.",
+      "sources": [
+        "https://www.segye.com/newsView/20260907511301",
+        "https://www.mt.co.kr/stock/2026/09/07/2026090709253749977"
+      ]
+    },
+    {
+      "ticker": "034020",
+      "name": "두산에너빌리티",
+      "market": "KR",
+      "thesis": "AI 데이터센터 확산에 따른 전력 수요 증가 기대와 프랑스와의 원전 협력 논의가 부각되며 정규장과 시간외 거래에서 연이틀 강세를 보이고 있다.",
+      "catalysts": [
+        "미국 테라파워로부터 나트륨 원자로 기자재 계약의 후속 진행 상황",
+        "프랑스 등 해외 원전 협력 관련 추가 발표",
+        "AI 데이터센터 전력 수요 관련 정책 및 수주 뉴스"
+      ],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": ""
+      },
+      "risk": "단기 급등에 따른 차익실현 매물이 나올 수 있고, 원전 관련 수주나 정책 기대가 구체적 계약으로 이어지지 않을 경우 상승분이 되돌려질 수 있다.",
+      "sources": [
+        "https://www.cbci.co.kr/news/articleView.html?idxno=604667"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
