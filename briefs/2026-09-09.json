@@ -1,0 +1,451 @@
+{
+  "date": "2026-09-09",
+  "generated_at_kst": "2026-09-09T08:00:00+09:00",
+  "mode": "new",
+  "headline": "미국이 이란 원유 수출 심장부인 카르그섬 인근을 밤사이 공습해 국제유가가 3개월 만에 최고치로 튀었고, 미국 증시는 유가 급등과 미국, 캐나다 관세 전쟁 격화에 다우가 628포인트 급락하며 위험자산 회피 분위기 속에 오늘 한국장 개장을 앞두고 있다",
+  "mail_title": "美, 이란 원유 심장부 타격, 유가 3개월 최고",
+  "kr": {
+    "preview": "어제(8일) 코스피는 장중 7,171.52까지 올라 7,000선 안착을 시도했지만, 예멘 후티 반군의 사우디 에너지시설 공격에 따른 유가 급등과 개인의 대규모 차익실현 매도가 겹치며 상승분을 모두 반납하고 전 거래일보다 0.58%(40.87포인트) 내린 6,954.52로 마감했습니다. 코스닥도 811.88로 1.25% 내리며 당일 최저가에 장을 마쳤습니다. 외국인과 기관이 나흘째 순매수를 이어갔지만 개인이 3조원 넘게 팔아치우며 지수를 눌렀습니다.\n\n밤사이에는 중동 리스크가 한층 더 고조됐습니다. 미군이 이란 원유 수출의 90%를 처리하는 핵심 거점인 카르그섬 인근과 항구도시 자스크의 유조선과 군사 목표물을 공습했고, 트럼프 대통령은 이를 이란의 호르무즈 해협 기뢰 부설 시도와 요르단 주둔 미군기지 미사일 공격에 대한 보복이라고 밝혔습니다. 이 여파로 브렌트유는 배럴당 98달러를 넘어섰고 WTI도 3개월 만에 최고치인 94.26달러까지 뛰었습니다. 미국 증시는 유가 급등에 더해 캐나다의 대미 보복관세 발효, 강한 고용지표에 따른 9월 금리인상 경계감까지 겹치며 다우가 628포인트(1.18%) 급락하는 등 3대 지수가 일제히 하락 마감했습니다. 미 10년물 국채금리는 2023년 10월 이후 최고 수준인 4.79%까지 올랐습니다. 오늘 한국장은 이런 위험자산 회피 분위기 속에 개장하지만, 국내에서는 미국 대형 원전 8기 건설을 둘러싼 한미 협의 기대감에 원전 관련주가 이틀째 강세를 이어가고 있고, 골드만삭스 테크놀로지 콘퍼런스(9일, 현지시간)를 앞두고 메모리 반도체 수급 이슈에도 관심이 쏠릴 전망입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,954.52",
+        "change_pct": "-0.58%(-40.87p, 9/8 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=276464",
+          "https://view.asiae.co.kr/article/2026090815311980638"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "811.88",
+        "change_pct": "-1.25%(-10.31p, 9/8 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=276464"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "전일 종가 +0.56%(1,793,000원)",
+        "reason": "AI 메모리 수요 기대 속 장중 5%대까지 올랐다가 코스피 반락에 상승폭을 줄여 강보합 마감했다. 9일(현지시간) 골드만삭스 테크놀로지 콘퍼런스에서 메모리 업체들의 공급 발언이 나올 수 있어 관심이 이어지고 있다.",
+        "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276464",
+        "source_urls": [
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=276464",
+          "https://www.joongangenews.com/news/articleView.html?idxno=546369"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "전일 종가 -0.19%(269,500원)",
+        "reason": "장중 2%대 넘게 올랐으나 국제유가 급등에 따른 위험자산 회피 심리와 개인의 대규모 차익실현 매도에 상승분을 반납하고 소폭 하락 마감했다.",
+        "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276464",
+        "source_urls": [
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=276464",
+          "https://www.joongangenews.com/news/articleView.html?idxno=546310"
+        ]
+      },
+      {
+        "ticker": "034020",
+        "name": "두산에너빌리티",
+        "change_pct": "전일 종가 +2.28%(89,900원)",
+        "reason": "한미 양국이 대미 투자 후속 사업으로 미국 내 대형 원전 최대 8기 건설을 협의 중이라는 소식에 원전 밸류체인 전반이 이틀째 강세를 이어가는 가운데 코스피 대표 원전주로 매수세가 유입됐다.",
+        "source_url": "https://www.fnnews.com/news/202609081830073223",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609081830073223"
+        ]
+      },
+      {
+        "ticker": "052690",
+        "name": "한전기술",
+        "change_pct": "전일 종가 +16.60%(142,600원)",
+        "reason": "미국 측이 조선 분야를 제외한 2000억달러 대미 투자 중 1200억달러를 원전 8기 건설에 투입하는 방안을 제안한 것으로 알려지며 원전 설계 대표주로 급등했다.",
+        "source_url": "https://www.fnnews.com/news/202609081830073223",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609081830073223",
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1723459"
+        ]
+      },
+      {
+        "ticker": "189860",
+        "name": "서전기전",
+        "change_pct": "전일 종가 +29.80%(상한가, 5,750원)",
+        "reason": "같은 한미 원전 협력 기대감에 이틀째 상한가를 유지했다.",
+        "source_url": "https://www.edaily.co.kr/News/Read?newsId=02253366645578152",
+        "source_urls": [
+          "https://www.edaily.co.kr/News/Read?newsId=02253366645578152",
+          "https://www.fnnews.com/news/202609081830073223"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "미국 증시는 8일(현지시간) 3대 지수가 일제히 하락했다. 다우존스는 628.18포인트(1.18%) 내린 52,786.07, S&P500은 0.58% 내린 7,673.52, 나스닥종합은 0.32% 내린 26,421.41로 마감했다. 국제유가가 중동 정세 불안으로 배럴당 100달러에 근접하고, 캐나다의 대미 보복관세가 화요일 자정을 기해 발효됐으며, 이란이 미국의 새로운 위협에 강경 대응을 경고하는 등 지정학, 통상 리스크가 한꺼번에 부각됐다. 여기에 강한 고용지표로 9월 연준 금리인상 가능성이 부상하며 미 10년물 국채금리가 2023년 10월 이후 최고 수준인 4.79%까지 오른 점도 투자심리를 눌렀다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,673.52",
+        "change_pct": "-0.58%(-45.08p, 9/8 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-8-133744027.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,421.41",
+        "change_pct": "-0.32%(-85.58p, 9/8 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-8-133744027.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "52,786.07",
+        "change_pct": "-1.18%(-628.18p, 9/8 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-8-133744027.html"
+        ]
+      }
+    ],
+    "notable": []
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.11%(9/8 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 삼성전자, SK하이닉스가 장중 강세를 보였지만 오후 반락하며 상승폭 대부분을 반납해 강보합에 그쳤다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-5.00%(대표종목 기준, 9/8 종가, 최근 거래일)",
+        "note": "삼성전기(-5.78%), LG전자(-4.21%)의 단순평균. 두 종목 모두 시장보다 큰 하락폭을 기록했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=009150"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.33%(대표종목 기준, 9/8 종가, 최근 거래일)",
+        "note": "SK텔레콤(-1.49%), KT(-1.09%) 평균. 시장 전반의 위험자산 회피 심리에 동반 하락했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.96%(9/8 종가, 최근 거래일)",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 원전, 건설 등 특정 테마로 매수세가 쏠리며 상대적으로 소외돼 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.72%(대표종목 기준, 9/8 종가, 최근 거래일)",
+        "note": "KB금융(-1.25%), 신한지주(-0.61%) 등 은행주가 개인 차익실현 매물 속에 동반 하락했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=105560"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+2.16%(대표종목 기준, 9/8 종가, 최근 거래일)",
+        "note": "신세계(+2.02%), 이마트(+2.29%) 평균. 내수 소비주가 견조한 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=004170"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-2.63%(9/8 종가, 최근 거래일)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차, 기아, 현대모비스 등 완성차와 부품주가 개인 매도세 속에 동반 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-2.95%(대표종목 기준, 9/8 종가, 최근 거래일)",
+        "note": "LG에너지솔루션(-3.86%)과 삼성SDI(-2.03%)의 단순평균. 대표 배터리 두 종목이 동반 하락했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-1.17%(대표종목 기준, 9/8 종가, 최근 거래일)",
+        "note": "한화오션(-1.37%), HD현대중공업(-1.00%), 한화에어로스페이스(-1.15%) 평균. 시장 전반의 차익실현 매물에 동반 약세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=042660"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+3.65%(9/8 종가, 최근 거래일)",
+        "note": "KRX 건설지수(KRXCNST) 기준. 전기가스와 함께 이날 코스피 최고 강세 업종으로, 반도체 쏠림에서 벗어나 순환매 매수세가 유입됐다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-0.96%(9/8 종가, 최근 거래일)",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. 국제유가 급등에도 정유와 화학 업종 전반은 약세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+0.02%(9/8 종가, 최근 거래일)",
+        "note": "KRX 철강지수(KRXSTL) 기준. 보합권에서 마감하며 다른 업종 대비 변동성이 크지 않았다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-2.38%(대표종목 기준, 9/8 종가, 최근 거래일)",
+        "note": "네이버(-1.61%), 카카오(-3.15%) 평균. 시장 전반의 위험자산 회피 심리 속에 동반 하락했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035720"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.23%(대표종목 기준, 9/8 종가, 최근 거래일)",
+        "note": "하이브(+0.33%), JYP Ent.(+0.13%) 평균. 시장 하락 속에서도 소폭 강세를 유지했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+1.64%(SOXX, 9/8 종가)",
+        "note": "메모리 공급 부족 기대가 이어지며 12개 섹터 중 상승률 1위를 기록했다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+0.32%(XLK, 9/8 종가)",
+        "note": "반도체 강세에 힘입어 소폭 상승했지만 국채금리 상승 부담에 오름폭은 제한됐다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-0.46%(XLC, 9/8 종가)",
+        "note": "시장 전반의 위험자산 회피 심리에 소폭 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-2.52%(XLV, 9/8 종가)",
+        "note": "12개 섹터 중 낙폭이 가장 컸다. 금리 상승과 위험자산 회피 속에 방어주 성격에도 매물이 집중됐다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.38%(XLF, 9/8 종가)",
+        "note": "국채금리 상승에도 위험회피 심리 속에 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-0.80%(XLY, 9/8 종가)",
+        "note": "유가 급등에 따른 소비 위축 우려가 반영되며 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.66%(XLP, 9/8 종가)",
+        "note": "시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.48%(XLI, 9/8 종가)",
+        "note": "캐나다와의 관세 전쟁 격화 우려 속에 소폭 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.95%(XLB, 9/8 종가)",
+        "note": "관세 갈등 우려 속에 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+1.11%(XLE, 9/8 종가)",
+        "note": "중동 정세 불안으로 국제유가가 3개월 만에 최고치를 기록하며 12개 섹터 중 두 번째로 강했다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.86%(XLU, 9/8 종가)",
+        "note": "안전자산 선호 속에 방어주 성격의 유틸리티가 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.07%(XLRE, 9/8 종가)",
+        "note": "국채금리 상승 부담에 약보합 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,345.6원",
+      "change_pct": "+0.38%(+5.1원, 9/8 15:30 종가, 최근 거래일)",
+      "source_url": "https://www.fnnews.com/news/202609081546513506"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "98.82",
+      "change_pct": "-0.34%(9/8 종가)",
+      "source_url": "https://www.investing.com/currencies/us-dollar-index"
+    },
+    {
+      "name": "금",
+      "value": "$4,400.00",
+      "change_pct": "-1.71%(9/8 종가)",
+      "source_url": "https://www.investing.com/commodities/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$94.26",
+      "change_pct": "+3.04%(9/8 종가, 3개월 최고치)",
+      "source_url": "https://tradingeconomics.com/commodity/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$78,477.76",
+      "change_pct": "-0.9%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,482.34",
+      "change_pct": "-0.4%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.79%",
+      "change_pct": "2023년 10월 이후 최고 수준",
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미군이 이란 원유 수출 거점인 카르그섬 인근을 공습하며 국제유가가 3개월 만에 최고치로 뛰었다(WTI $94.26, 브렌트 $98선). 미 10년물 국채금리는 2023년 10월 이후 최고 수준인 4.79%까지 올랐고, 달러인덱스는 98.82로 소폭 내렸다. 원/달러 환율은 9/8 낮 종가 기준 1,345.6원이다.",
+    "notes": "캐나다가 미국 상품에 대한 보복관세를 화요일 자정 발효시키며 미국, 캐나다 통상 갈등이 격화됐다. 8월 미국 소비자물가지수(CPI)는 9월 11일, FOMC 금리 결정은 9월 16일로 예정돼 있어 이번 주 발표되는 물가 지표가 연준의 다음 행보를 가늠할 핵심 변수로 꼽힌다."
+  },
+  "top_themes": [
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "미군이 이란 원유 수출의 90%를 처리하는 핵심 거점 카르그섬 인근과 항구도시 자스크의 유조선, 군사시설을 공습했다. 트럼프 대통령은 이란의 호르무즈 해협 기뢰 부설 시도와 요르단 주둔 미군기지 공격에 대한 보복이라고 밝혔다.",
+      "tickers": [],
+      "source_url": "https://www.etoday.co.kr/news/view/2623302"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "카르그섬 공습 여파로 WTI가 3개월 만에 최고치인 배럴당 94.26달러까지 올랐고 브렌트유도 98달러를 넘어섰다. 미국 증시에서는 에너지 섹터가 12개 섹터 중 두 번째로 강한 흐름을 보였다.",
+      "tickers": [],
+      "source_url": "https://tradingeconomics.com/commodity/crude-oil"
+    },
+    {
+      "theme": "AI 데이터센터 전력",
+      "summary": "한미 양국이 대미 투자 후속 사업으로 미국 내 대형 원전 최대 8기 건설을 협의 중이라는 소식에 두산에너빌리티, 한전기술, 서전기전, 오르비텍 등 원전 밸류체인 전반이 이틀째 강세를 이어가고 있다.",
+      "tickers": [
+        "034020"
+      ],
+      "source_url": "https://www.fnnews.com/news/202609081830073223"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "SK하이닉스, 삼성전자가 AI 메모리 수요 기대 속 강세 흐름을 이어가는 가운데, 9일(현지시간) 골드만삭스 테크놀로지 콘퍼런스에서 나올 메모리 업체들의 공급, 수요 관련 발언에 시장의 관심이 쏠리고 있다.",
+      "tickers": [
+        "000660",
+        "005930"
+      ],
+      "source_url": "https://stockanalysis.com/etf/soxx/"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "강한 고용지표로 9월 금리인상 가능성이 부상하며 미 10년물 국채금리가 2023년 10월 이후 최고 수준으로 올랐다. 8월 CPI가 9월 11일, FOMC 회의가 9월 16일로 예정돼 있어 이번 주 물가 지표가 핵심 변수로 꼽힌다.",
+      "tickers": [],
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "미국 증시 전반의 하락 속에 밤사이 특별한 개별 이슈 없이 반도체 섹터(SOXX +1.64%) 강세 흐름에 동참했다.",
+      "source_url": "https://stockanalysis.com/etf/soxx/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "국제유가 급등과 위험자산 회피 심리 속에 경기소비재 섹터(XLY -0.80%) 약세 흐름 속에서 거래됐다.",
+      "source_url": "https://stockanalysis.com/etf/xly/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "어제 장중 2%대 넘게 올랐지만 유가 급등에 따른 위험자산 회피와 개인 매도에 상승분을 반납하고 -0.19%(269,500원)로 마감했다.",
+      "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276464"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "장중 5%대까지 올랐다가 상승폭이 줄며 +0.56%(1,793,000원)로 마감, 나흘째 외국인과 기관 순매수 속 강세 흐름을 유지했다.",
+      "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276464"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 내 종목별 등락이 엇갈리는 가운데 -3.86%로 하락했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "자동차 업종 전반의 약세 속에 동반 하락, KRX 자동차지수는 -2.63%를 기록했다.",
+      "source_url": "https://kr.investing.com/indices/krx-automobile"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "034020",
+      "name": "두산에너빌리티",
+      "market": "KR",
+      "thesis": "한미 양국이 대미 투자 후속 사업으로 미국 내 대형 원전 최대 8기 건설을 협의 중이라는 소식에 원전 밸류체인 전반이 이틀째 강세를 이어가고 있다. 미국 측은 조선을 제외한 2000억달러 대미 투자 가운데 1200억달러를 원전 8기 건설에 투입하는 방안을 제안한 것으로 알려졌다.",
+      "catalysts": [
+        "한미 간 대미 투자 세부 협상 결과 발표",
+        "원전 8기 건설 프로젝트의 사업자 선정 및 수주 구조 확정",
+        "AI 데이터센터 확산에 따른 미국 내 전력 수요 정책 발표"
+      ],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": ""
+      },
+      "risk": "협의 단계의 기대감이 구체적 계약이나 발주로 이어지지 않을 경우 단기 급등에 따른 차익실현 매물이 나올 수 있다.",
+      "sources": [
+        "https://www.fnnews.com/news/202609081830073223",
+        "https://www.edaily.co.kr/News/Read?newsId=02253366645578152"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "AI 메모리 수요 기대 속에 강세 흐름을 이어가고 있으며, 9일(현지시간) 열리는 골드만삭스 테크놀로지 콘퍼런스에서 메모리 업체들의 공급, 가격 관련 발언이 나올 경우 국내 반도체주 심리에 영향을 줄 수 있다.",
+      "catalysts": [
+        "골드만삭스 테크놀로지 콘퍼런스(9월 9일, 현지시간) 메모리 업체 발언",
+        "미국 8월 CPI 발표(9월 11일)",
+        "9월 16일 FOMC 금리 결정"
+      ],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": ""
+      },
+      "risk": "미 국채금리가 2023년 10월 이후 최고 수준으로 오른 가운데, 금리 추가 상승이나 중동發 위험자산 회피 심리가 짙어질 경우 성장주 밸류에이션 조정 압력을 받을 수 있다.",
+      "sources": [
+        "https://www.businesskorea.co.kr/news/articleView.html?idxno=276464",
+        "https://stockanalysis.com/etf/soxx/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스, 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
