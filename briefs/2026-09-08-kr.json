@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-08",
+  "session": "kr_close",
+  "generated_at_kst": "2026-09-08T17:48:14+09:00",
+  "headline": "코스피가 장중 7,171.52까지 올랐다가 6,954.52로 하락 마감했다. 반도체 기대감에도 차익실현 매물과 중동 불안이 겹치며 장 후반 상승분을 반납했다",
+  "mail_title": "코스피 7170 찍고 6950, 반나절 반전",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 40.87포인트(0.58%) 내린 6,954.52로 마감했습니다. 지수는 7,045.79로 출발해 오름폭을 키워 오후 장중 7,171.52까지 올라 7,000선 안착을 시도했지만, 오후 들어 상승분을 모두 반납하고 오히려 전일보다 낮은 수준에서 장을 마쳤습니다. 코스닥도 825.03으로 상승 출발했다가 장중 최고 830.21을 찍은 뒤 하락 전환해 811.88(1.25%↓)로, 당일 최저가에 마감했습니다.\n\n오전 상승을 이끈 것은 반도체였습니다. 전날 오픈AI의 신규 모델 '아스트라'(GPT-6) 공개 이후 형성된 메모리 수요 기대가 이어지며 삼성전자(장중 +2.78%), SK하이닉스(장중 +5.22%)가 강세를 보였고, 반도체 대형주가 지수 상승을 이끌었습니다.\n\n하지만 오후 들어 두 가지 악재가 겹치며 분위기가 급변했습니다. 첫째는 중동 리스크입니다. 예멘 후티 반군이 사우디아라비아 남부 에너지 시설을 미사일과 드론으로 공격해 화재가 발생했고, 사우디가 이끄는 예멘 주둔 아랍연합군은 최소 73명의 부상자가 나왔다며 '필요한 모든 군사적 조치'를 경고했습니다. 이 여파로 국제유가가 급등해 WTI가 장중 배럴당 93달러, 브렌트유가 98달러를 넘어섰고, 위험자산 투자심리가 위축됐습니다. 둘째는 미국 물가지표 경계감과 미국, 캐나다 통상 갈등으로, 미국 10년물 국채금리가 4.8%대로 오르며 긴장감을 더했습니다.\n\n최근 상승에 따른 차익실현 매물도 부담이 됐습니다. 코스피 시장에서 개인은 3조331억원을 순매도한 반면 외국인과 기관은 각각 6,482억원, 6,428억원을 순매수했습니다. 기타법인도 1조7,588억원을 순매수했습니다. 외국인과 기관은 나흘 연속 순매수했지만, 지수는 장 후반 하락했습니다. 코스닥에서는 개인과 외국인이 각각 1,489억원, 608억원을 순매수했지만 기관이 2,178억원을 순매도하며 지수를 끌어내렸습니다.\n\n종목별로는 SK하이닉스가 0.56% 오른 1,793,000원에 마감하며 강세를 지켰지만 삼성전자는 -0.19%(269,500원)로 상승분을 반납했습니다. 삼성전기는 증권가의 목표주가 잇단 상향에도 최근 급등에 따른 차익실현 매물이 집중되며 5.78% 급락했고, LG전자도 전날보다 9,000원 내린 205,000원(-4.21%)에 마감했습니다. 업종별로는 전기가스(+3.27%), 건설(+3.65%, KRX건설지수 기준)이 강세를 보인 반면 IT서비스(-3.21%), 의료정밀(-2.10%), 자동차(-2.63%, KRX자동차지수 기준) 등이 부진했습니다.\n\n코스닥에서는 미국 내 대형 원전 최대 8기 건설을 추진하는 방안이 한미 간 비공개 협의에서 논의됐다는 소식에 서전기전과 오르비텍이 나란히 상한가를 기록했고, 코스피에서도 두산에너빌리티가 1.82% 오르며 원전 관련주 전반이 강세를 보였습니다.\n\n원/달러 환율의 오후 3시 30분 주간거래 종가는 1,345.6원입니다. 전 거래일 주간 종가보다 5.1원 올랐지만, 전 거래일 야간 종가와 비교하면 1.1원 내린 수준입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,954.52",
+        "change_pct": "-0.58%(-40.87p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/08/2026090814593311058",
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "811.88",
+        "change_pct": "-1.25%(-10.31p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/08/2026090815005239151",
+          "https://www.cbci.co.kr/news/articleView.html?idxno=604914"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+0.56%(1,793,000원)",
+        "reason": "AI 투자 확대에 따른 메모리 수요 기대 속에 장중 5%대까지 올랐으나, 장 후반 시장이 약세로 돌아서면서 상승폭을 줄여 강보합 마감했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846",
+        "source_urls": [
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846",
+          "https://www.fnnews.com/news/202609081353528421"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-0.19%(269,500원)",
+        "reason": "장중 2%대 넘게 올랐으나 예멘 후티의 사우디 에너지시설 공격에 따른 국제유가 급등과 개인의 대규모 차익실현 매도에 상승분을 반납하고 소폭 하락 마감했다.",
+        "source_url": "https://www.fnnews.com/news/202609081353528421",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609081353528421",
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+        ]
+      },
+      {
+        "ticker": "009150",
+        "name": "삼성전기",
+        "change_pct": "-5.78%",
+        "reason": "증권가에서 인공지능(AI) 수혜 기대를 반영해 목표주가를 잇달아 상향했음에도, 최근 급등에 따른 차익실현 매물이 집중되며 급락했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846",
+        "source_urls": [
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+        ]
+      },
+      {
+        "ticker": "066570",
+        "name": "LG전자",
+        "change_pct": "-4.21%(205,000원)",
+        "reason": "전날 종가 214,000원에서 9,000원 하락한 205,000원에 마감했다. 코스피가 장 후반 하락 전환한 가운데 전자제품 대표주도 약세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=066570",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=066570",
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+        ]
+      },
+      {
+        "ticker": "189860",
+        "name": "서전기전",
+        "change_pct": "+29.80%(상한가, 5,750원)",
+        "reason": "7일 열린 비공개 당정협의회에서 대미 투자 후속 사업으로 미국 내 대형 원전 최대 8기 건설을 추진하는 방안이 논의됐다는 소식에 한미 원전 협력 기대가 커지며 상한가를 기록했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2623234",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2623234",
+          "https://alphasquare.co.kr/home/stock-summary?code=189860"
+        ]
+      },
+      {
+        "ticker": "046120",
+        "name": "오르비텍",
+        "change_pct": "+29.83%(상한가, 6,050원)",
+        "reason": "서전기전과 같은 한미 원전 협력 기대감에 코스닥 원전 관련주로 매수세가 몰리며 상한가를 기록했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2623234",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2623234",
+          "https://alphasquare.co.kr/home/stock-summary?code=046120"
+        ]
+      },
+      {
+        "ticker": "034020",
+        "name": "두산에너빌리티",
+        "change_pct": "+1.82%(89,500원)",
+        "reason": "미국 내 대형 원전 건설 추진 소식에 코스피 대표 원전 관련주로 매수세가 유입됐다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2623234",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2623234"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.11%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 삼성전자, SK하이닉스가 장중 강세를 보였지만 오후 반락하며 상승폭 대부분을 반납해 강보합에 그쳤다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-5.00%(대표종목 기준)",
+        "note": "삼성전기(-5.78%), LG전자(-4.21%)의 단순평균. 두 종목 모두 시장보다 큰 하락폭을 기록했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=009150",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=009150",
+          "https://alphasquare.co.kr/home/stock-summary?code=066570"
+        ]
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.33%",
+        "note": "SK텔레콤(-1.49%), KT(-1.09%) 등이 함께 내리며 시장 전반의 위험자산 회피 심리에 동반 하락했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.96%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 원전, 건설 등 특정 테마로 매수세가 쏠리며 상대적으로 소외돼 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.72%",
+        "note": "KB금융(-1.25%), 신한지주(-0.61%) 등 은행주가 개인 차익실현 매물 속에 동반 하락했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+2.16%(대표종목 기준)",
+        "note": "신세계(+2.02%), 이마트(+2.29%) 평균. 내수 소비주가 견조한 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=004170"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-2.63%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차(-2.04%), 기아(-2.34%), 현대모비스(-3.94%) 등 완성차와 부품주가 개인 매도세 속에 동반 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-2.95%(대표종목 기준)",
+        "note": "LG에너지솔루션(-3.86%)과 삼성SDI(-2.03%)의 단순평균(-2.945%)을 소수 둘째 자리로 반올림했다. 대표 배터리 두 종목이 동반 하락했다.",
+        "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-1.17%(대표종목 기준)",
+        "note": "한화오션(-1.37%), HD현대중공업(-1.00%), 한화에어로스페이스(-1.15%) 평균. 시장 전반의 차익실현 매물에 동반 약세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=042660"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+3.65%",
+        "note": "KRX 건설지수(KRXCNST) 기준. 전기가스와 함께 이날 코스피 최고 강세 업종으로, 반도체 쏠림에서 벗어나 순환매 매수세가 유입됐다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-0.96%",
+        "note": "KRX 에너지/화학지수(KRXENER) 기준. 국제유가 급등에도 정유와 화학 업종 전반은 약세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+0.02%",
+        "note": "KRX 철강지수(KRXSTL) 기준. 보합권에서 마감하며 다른 업종 대비 변동성이 크지 않았다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-2.38%(대표종목 기준)",
+        "note": "네이버(-1.61%), 카카오(-3.15%) 평균. 시장 전반의 위험자산 회피 심리 속에 동반 하락했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035720"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.23%(대표종목 기준)",
+        "note": "하이브(+0.33%), JYP Ent.(+0.13%) 평균. 시장 하락 속에서도 소폭 강세를 유지했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=352820"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,345.6원",
+      "change_pct": "+0.38%(+5.1원, 전일 주간 종가 대비)",
+      "source_url": "https://www.mt.co.kr/economy/2026/09/08/2026090815370523351"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "98.84",
+      "change_pct": "-0.34%",
+      "source_url": "https://ko.tradingeconomics.com/united-states/currency"
+    },
+    {
+      "name": "금",
+      "value": "4,405.47달러(9/7 GMT 02:11)",
+      "change_pct": "-0.5%",
+      "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3687722"
+    },
+    {
+      "name": "WTI",
+      "value": "93.31달러",
+      "change_pct": "+2.0%(장중)",
+      "source_url": "https://www.tokenpost.kr/news/economy/404165"
+    },
+    {
+      "name": "비트코인",
+      "value": "79,116달러(9/7 기사 기준)",
+      "change_pct": "-1.54%",
+      "source_url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-tuesday-september-8-2026"
+    },
+    {
+      "name": "이더리움",
+      "value": "2,491달러(9/7 기사 기준)",
+      "change_pct": "-0.94%",
+      "source_url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-tuesday-september-8-2026"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.808%",
+      "change_pct": "+0.024%p(+0.50%)",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "예멘 후티 반군의 사우디 남부 에너지시설 공격으로 WTI가 장중 배럴당 93달러를 넘어섰고, 미국 10년물 국채금리는 4.8%대로 올랐다. 원/달러 주간거래 종가는 1,345.6원으로 전 거래일 주간 종가보다 5.1원 올랐다.",
+    "notes": "코스피에서 개인은 3조331억원을 순매도했다. 외국인과 기관은 각각 6,482억원, 6,428억원, 기타법인은 1조7,588억원을 순매수했다. 외국인과 기관의 순매수에도 지수는 장 후반 하락 전환했다. 코스닥에서는 개인과 외국인이 각각 1,489억원, 608억원을 순매수하고 기관은 2,178억원을 순매도했다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "오픈AI '아스트라' 공개 이후 메모리 수요 기대가 이어지며 삼성전자와 SK하이닉스가 장중 강세를 보였다. 다만 코스피는 오후 장중 고점을 기록한 뒤 하락 전환했고 두 종목도 상승폭을 줄였다.",
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "예멘 후티 반군의 사우디 남부 에너지시설 공격으로 WTI가 장중 배럴당 93달러, 브렌트유가 98달러를 넘어서며 위험자산 투자심리가 위축돼 코스피 반락의 핵심 배경이 됐다.",
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+    },
+    {
+      "theme": "AI 데이터센터 전력",
+      "summary": "국내 비공개 당정협의회에서 대미 투자 후속 사업으로 미국 내 대형 원전 최대 8기 건설을 추진하는 방안이 논의됐다는 소식에 서전기전, 오르비텍이 상한가를 기록했고 두산에너빌리티도 강세를 보였다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2623234"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "장중 강세를 보였지만 장 후반 시장이 약세로 돌아서면서 상승분을 반납하고 -0.19%(269,500원)로 마감했다.",
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "장중 5%대까지 올랐다가 상승폭이 줄며 +0.56%(1,793,000원)로 마감, 나흘째 외국인과 기관 순매수 속 강세 흐름을 유지했다.",
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 내 종목별 등락이 엇갈리는 가운데 -3.86%로 하락했다.",
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217846"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "자동차 업종 전반의 약세 속에 -2.04%로 마감, KRX 자동차지수는 -2.63%를 기록했다.",
+      "source_url": "https://kr.investing.com/indices/krx-automobile"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
