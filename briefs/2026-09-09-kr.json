@@ -1,0 +1,284 @@
+{
+  "date": "2026-09-09",
+  "session": "kr_close",
+  "generated_at_kst": "2026-09-09T19:20:00+09:00",
+  "headline": "코스피가 33거래일 만에 7000선을 되찾았다. 미 반도체주 급등과 기관의 5거래일 연속 매수가 반도체, 2차전지 강세를 이끌었고, 개인의 대규모 차익매물에도 지수는 올랐다",
+  "mail_title": "코스피 두달만에 7000, 삼성전자는 그대로",
+  "kr": {
+    "preview": "코스피가 전 거래일보다 97.12포인트(1.40%) 오른 7,051.64에 마감했습니다. 종가 기준 7,000선을 넘은 것은 지난 7월23일(7,096.89) 이후 33거래일 만입니다. 코스닥도 18.49포인트(2.28%) 오른 830.37로 장을 마쳤습니다.\n\n상승을 이끈 것은 반도체였습니다. 밤사이 미국에서 인텔(+9.05%), AMD(+5.90%), 브로드컴(+2.98%), 시게이트(+6.49%)가 급등하며 필라델피아반도체지수가 1.30% 올랐고, SK하이닉스 미국예탁증서(ADR)도 4.83% 뛰었습니다. 씨티그룹 TMT 콘퍼런스와 골드만삭스 테크놀로지 콘퍼런스에서 AI 수요 확산이 재확인됐다는 분석이 더해지며 SK하이닉스는 3.51% 오른 185만6,000원에 마감했습니다. 다만 삼성전자는 장중 2.04%까지 올랐다가 상승분을 모두 반납하고 전일과 같은 26만9,500원에 보합 마감했습니다. 골드만삭스가 삼성전자는 매도 상위 창구에, SK하이닉스는 매수 상위 창구에 이름을 올리며 반도체 대형주 안에서도 수급이 엇갈렸습니다.\n\n2차전지도 강했습니다. 삼성SDI(+8.30%), LG에너지솔루션(+6.46%), 포스코퓨처엠(+6.37%), 에코프로비엠(+6.30%)이 동반 상승했습니다. 에코프로비엠은 전고체 배터리용 소재 개발 기대와 전일 급락에 대한 되돌림, 업종 전반의 투자심리 개선이 겹친 결과로 풀이됩니다. 조선주도 동반 강세를 보였습니다. HD현대중공업(+2.81%)과 한화오션(+2.90%)은 글로벌 선박 발주 기대에 더해 한미 조선업 협력 구상(MASGA)이 새로운 변수로 떠오르며 상승했습니다.\n\n수급은 투자주체별로 엇갈렸습니다. 기관은 9,005억원을 순매수하며 5거래일 연속 매수를 이어가 지수를 끌어올린 주역이 됐습니다. 반면 개인은 2조4,971억원어치를 순매도하며 최근 상승에 따른 차익실현에 나섰고, 외국인도 현물시장에서 1,702억원을 순매도했습니다. 코스닥에서는 외국인이 2,980억원을 순매수하며 지수를 견인했고, 개인은 2,817억원, 기관은 240억원을 순매도했습니다.\n\n달러 약세 속에 원/달러 환율은 전 거래일보다 9.5원 내린 1,336.1원에 마감해 원화가 강세를 보였습니다. 국제유가는 중동 지정학적 긴장이 이어지며 WTI가 배럴당 93.03달러(+1.7%)로 6월4일 이후 최고 수준을 기록했습니다. 시장은 미국의 8월 생산자물가지수(10일), 소비자물가지수(11일) 발표를 앞두고 경계감을 유지하고 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "7,051.64",
+        "change_pct": "+1.40%(+97.12p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/09/2026090915334931960",
+          "https://www.fnnews.com/news/202609091553452500"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "830.37",
+        "change_pct": "+2.28%(+18.49p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/09/2026090915351017898",
+          "https://www.fnnews.com/news/202609091553452500"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+3.51%(1,856,000원)",
+        "reason": "미국 필라델피아반도체지수가 인텔(+9.05%), AMD(+5.90%), 브로드컴(+2.98%) 급등에 1.30% 오르며 SK하이닉스 ADR도 4.83% 상승했다. 씨티그룹 TMT 콘퍼런스와 골드만삭스 테크놀로지 콘퍼런스에서 AI 수요 확산이 재확인됐고, 골드만삭스가 매수 상위 창구에 이름을 올렸다.",
+        "source_url": "https://www.segye.com/newsView/20260909515453",
+        "source_urls": [
+          "https://www.segye.com/newsView/20260909515453",
+          "https://www.joongangenews.com/news/articleView.html?idxno=546652"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "0.00%(269,500원, 보합)",
+        "reason": "반도체 업종 전반이 강세였지만 삼성전자는 장중 2.04%까지 올랐다가 상승분을 모두 반납했다. 골드만삭스가 매도 상위 창구에 이름을 올리며 수급이 부진했다.",
+        "source_url": "https://www.segye.com/newsView/20260909515453",
+        "source_urls": [
+          "https://www.segye.com/newsView/20260909515453"
+        ]
+      },
+      {
+        "ticker": "247540",
+        "name": "에코프로비엠",
+        "change_pct": "+6.30%(111,300원)",
+        "reason": "전고체 배터리용 소재 개발과 밸류체인 확대 기대에 전일 급락에 대한 기술적 되돌림, 2차전지 업종 전반의 투자심리 개선이 겹쳤다. 삼성SDI(+8.30%), LG에너지솔루션(+6.46%), 포스코퓨처엠(+6.37%) 등 업종 전체가 동반 강세였다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=605232",
+        "source_urls": [
+          "https://www.cbci.co.kr/news/articleView.html?idxno=605232",
+          "https://www.kdfnews.com/news/articleView.html?idxno=187763"
+        ]
+      },
+      {
+        "ticker": "000250",
+        "name": "삼천당제약",
+        "change_pct": "+8.98%",
+        "reason": "지난 2월 체결한 유럽 11개국(영국, 벨기에, 핀란드 등) 대상 경구용 GLP-1 제네릭(리벨서스, 위고비 제네릭) 독점 라이선스 및 상업화 계약 모멘텀이 이어지며 제약바이오 강세를 주도했다.",
+        "source_url": "https://www.hitnews.co.kr/news/articleView.html?idxno=74180",
+        "source_urls": [
+          "https://www.hitnews.co.kr/news/articleView.html?idxno=74180"
+        ]
+      },
+      {
+        "ticker": "329180",
+        "name": "HD현대중공업",
+        "change_pct": "+2.81%(457,000원)",
+        "reason": "글로벌 선박 재발주 수요와 친환경 선박 발주 확대 기대에 더해 한미 조선업 협력 구상(MASGA)이 새로운 변수로 부각되며 한화오션(+2.90%), 삼성중공업(+0.70%)과 함께 조선주가 동반 강세를 보였다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=605158",
+        "source_urls": [
+          "https://www.cbci.co.kr/news/articleView.html?idxno=605158"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.88%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 미 반도체주 급등과 AI 수요 확산 재확인에 강세.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-1.36%",
+        "note": "KOSPI 업종지수 IT서비스 기준. 반도체 대형주 쏠림 속에 상대적으로 소외됐다.",
+        "source_url": "https://www.fnnews.com/news/202609091553452500"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.31%",
+        "note": "KOSPI 업종지수 통신 기준. 반도체, 2차전지로 수급이 몰리며 약세였다.",
+        "source_url": "https://www.fnnews.com/news/202609091553452500"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.37%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 삼천당제약의 유럽 라이선스 계약 모멘텀이 업종 강세를 거들었다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.03%(대표지수 평균)",
+        "note": "KRX 은행(-1.62%), KRX 증권(+0.01%), KRX 보험(-1.49%) 평균. 반도체, 2차전지로 수급이 쏠리며 금융주는 소외됐다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank",
+        "source_urls": [
+          "https://kr.investing.com/indices/krx-bank",
+          "https://kr.investing.com/indices/krx-securities",
+          "https://kr.investing.com/indices/krx-insurance"
+        ]
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-3.21%(대표종목 기준)",
+        "note": "신세계(-3.21%) 기준. 실적 우려가 계속되며 약세를 보였다.",
+        "source_url": "https://www.newsinside.kr/news/articleView.html?idxno=4989450"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+0.60%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차(+1.08%) 등 완성차가 견조한 강세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+7.04%(대표종목 기준)",
+        "note": "삼성SDI(+8.30%), LG에너지솔루션(+6.46%), 포스코퓨처엠(+6.37%) 평균. 전고체 배터리 기대와 업종 수급 개선에 동반 급등했다.",
+        "source_url": "https://www.kdfnews.com/news/articleView.html?idxno=187763"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+2.42%(대표종목 기준)",
+        "note": "HD현대중공업(+2.81%), 한화오션(+2.90%), 한화에어로스페이스(+1.56%) 평균. 한미 조선업 협력 구상(MASGA) 기대에 동반 강세였다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=605158"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.36%",
+        "note": "KRX 건설지수(KRXCNST) 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+3.56%",
+        "note": "KOSPI 업종지수 화학 기준.",
+        "source_url": "https://www.fnnews.com/news/202609091553452500"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+1.63%",
+        "note": "KOSPI 업종지수 금속 기준.",
+        "source_url": "https://www.fnnews.com/news/202609091553452500"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-1.99%(대표종목 기준)",
+        "note": "네이버(-1.63%), 크래프톤(-2.34%) 평균. 반도체, 2차전지로 수급이 쏠리며 동반 약세였다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=546807"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-2.66%",
+        "note": "KOSPI 업종지수 오락, 문화 기준.",
+        "source_url": "https://www.fnnews.com/news/202609091553452500"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,336.1",
+      "change_pct": "-9.5원",
+      "source_url": "https://www.fnnews.com/news/202609091533411215"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "98.81",
+      "change_pct": "보합권",
+      "source_url": "https://www.newspim.com/news/view/20260909000193"
+    },
+    {
+      "name": "금",
+      "value": "4,361.99달러",
+      "change_pct": "-1%",
+      "source_url": "https://www.newspim.com/news/view/20260909000193"
+    },
+    {
+      "name": "WTI",
+      "value": "93.03달러",
+      "change_pct": "+1.7%",
+      "source_url": "https://www.newspim.com/news/view/20260909000193"
+    },
+    {
+      "name": "비트코인",
+      "value": "79,688.9달러",
+      "change_pct": "+1.64%",
+      "source_url": "https://www.investing.com/crypto/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "2,516.86달러",
+      "change_pct": "+1.61%",
+      "source_url": "https://www.investing.com/crypto/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.798%",
+      "change_pct": "+1.43bp",
+      "source_url": "https://www.newspim.com/news/view/20260909000193"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원/달러 환율이 9.5원 내린 1,336.1원으로 원화 강세를 보였고, 중동 지정학적 긴장 속에 WTI가 배럴당 93.03달러(+1.7%)로 6월4일 이후 최고치를 기록했다. 미 10년물 국채금리는 4.798%로 소폭 올랐다.",
+    "notes": "기관이 9,005억원을 순매수하며 5거래일 연속 매수를 이어가 지수 상승을 주도했다. 개인은 2조4,971억원, 외국인은 1,702억원을 각각 순매도하며 최근 상승에 대한 차익실현에 나섰다. 코스닥에서는 외국인이 2,980억원을 순매수하며 지수를 견인했다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "미국 필라델피아반도체지수가 인텔, AMD, 브로드컴 급등에 강세를 보이며 SK하이닉스가 3.51% 올랐다. 씨티, 골드만삭스 테크놀로지 콘퍼런스에서 AI 수요 확산이 재확인됐지만, 삼성전자는 골드만삭스 매도 상위 창구에 오르며 상승분을 반납해 반도체 대형주 안에서도 수급이 엇갈렸다.",
+      "source_url": "https://www.segye.com/newsView/20260909515453"
+    },
+    {
+      "theme": "2차전지 업황",
+      "summary": "삼성SDI, LG에너지솔루션, 포스코퓨처엠, 에코프로비엠이 동반 급등했다. 전고체 배터리 소재 개발 기대와 전일 급락에 대한 되돌림, 업종 전반의 투자심리 개선이 겹쳤다.",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=605232"
+    },
+    {
+      "theme": "조선과 방산",
+      "summary": "HD현대중공업, 한화오션이 동반 강세를 보였다. 글로벌 선박 재발주 수요에 더해 한미 조선업 협력 구상(MASGA)이 새로운 변수로 떠올랐다.",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=605158"
+    },
+    {
+      "theme": "바이오와 제약",
+      "summary": "삼천당제약이 지난 2월 체결한 유럽 11개국 대상 경구용 GLP-1 제네릭 독점 라이선스 계약 모멘텀으로 8.98% 급등하며 제약바이오 업종 강세를 이끌었다.",
+      "source_url": "https://www.hitnews.co.kr/news/articleView.html?idxno=74180"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "원/달러 환율이 1,336.1원으로 내리며 원화가 강세를 보였다. 외국인은 코스피 현물에서 1,702억원을 순매도했지만 기관이 9,005억원을 순매수하며 5거래일 연속 매수로 지수 상승을 주도했다.",
+      "source_url": "https://www.fnnews.com/news/202609091553452500"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "반도체 업종 강세 속에서도 골드만삭스 매도 상위 창구에 오르며 장중 상승분을 반납해 보합(269,500원) 마감했다.",
+      "source_url": "https://www.segye.com/newsView/20260909515453"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "미 반도체주 급등과 AI 수요 확산 재확인에 3.51% 오른 1,856,000원에 마감, 골드만삭스 매수 상위 창구에 올랐다.",
+      "source_url": "https://www.segye.com/newsView/20260909515453"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 전반의 강세 속에 6.46% 올랐다.",
+      "source_url": "https://www.kdfnews.com/news/articleView.html?idxno=187763"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "자동차 업종이 견조한 강세를 보이며 1.08% 올랐다.",
+      "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276554"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
