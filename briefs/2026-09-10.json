@@ -1,0 +1,477 @@
+{
+  "date": "2026-09-10",
+  "generated_at_kst": "2026-09-10T08:00:00+09:00",
+  "mode": "new",
+  "headline": "코스피가 33거래일 만에 7000선을 회복하고 마감한 사이 미국과 이란의 충돌이 유조선 파괴와 요르단 미군기지 미사일 보복으로 번지며 브렌트유가 4개월 만에 종가 기준 100달러를 다시 넘어섰고, 미국 국채금리는 2023년 10월 이후 최고치로 뛰며 뉴욕증시는 사흘째 하락한 채 오늘 한국장 개장을 앞두고 있다",
+  "mail_title": "브렌트유 100달러, 코스피 7000 시험대",
+  "kr": {
+    "preview": "어제(9일) 코스피는 전 거래일보다 97.12포인트(1.40%) 오른 7,051.64에 마감하며 지난 7월23일 이후 33거래일 만에 종가 기준 7,000선을 되찾았습니다. 코스닥도 18.49포인트(2.28%) 오른 830.37로 장을 마쳤습니다. 미국 필라델피아반도체지수 급등과 AI 수요 확산 재확인에 SK하이닉스가 3.51% 오른 185만6,000원에 마감했지만, 삼성전자는 장중 2%대 상승분을 모두 반납하고 26만9,500원에 보합 마감해 반도체 대형주 안에서도 수급이 엇갈렸습니다. 삼성SDI(+8.30%), LG에너지솔루션(+6.46%) 등 2차전지가 동반 급등했고, 한미 원전 협력 기대감에 두산에너빌리티도 사흘째 강세를 이어갔습니다. 기관이 9,005억원을 순매수하며 지수를 끌어올린 반면 개인은 2조4,971억원을 순매도했습니다.\n\n밤사이에는 중동 정세가 한층 더 악화됐습니다. 미 중부사령부가 이란 유조선 5척을 파괴하자 이란이 요르단 주둔 미군기지를 탄도미사일로 보복 공격했고, 이란혁명수비대는 해상 통제구역을 호르무즈 해협을 넘어 오만해와 아라비아해 일부까지 확대하며 통행 선박에 대한 해운, 보험 서비스 중단을 경고했습니다. 이 여파로 브렌트유는 배럴당 101.21달러로 정산가 기준 지난 7월23일 이후 처음 100달러를 넘었고 WTI도 96달러대로 뛰었습니다. 골드만삭스는 유가가 배럴당 120달러를 넘어설 가능성이 커지고 있다고 경고했습니다. 여기에 미 재무부의 장기채 바이백 확대 발표로 10년물 국채금리가 2023년 10월 이후 최고 수준인 4.84%까지 오르며 미국 증시는 다우, S&P500, 나스닥이 일제히 사흘째 하락 마감했습니다. 오늘 한국장은 이런 고유가, 고금리 부담 속에 개장하지만, 국내에서는 원전 밸류체인과 정유주가 에너지 안보 이슈로 관심을 받을 수 있고, 미국 8월 생산자물가지수(현지시간 10일) 발표를 앞두고 반도체 수급 모멘텀이 이어질지가 관전 포인트입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "7,051.64",
+        "change_pct": "+1.40%(+97.12p, 9/9 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/09/2026090915334931960",
+          "https://www.fnnews.com/news/202609091504570842"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "830.37",
+        "change_pct": "+2.28%(+18.49p, 9/9 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/09/2026090915351017898"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "전일 종가 +3.51%(1,856,000원)",
+        "reason": "미 필라델피아반도체지수 급등과 씨티, 골드만삭스 테크놀로지 콘퍼런스에서 AI 수요 확산이 재확인되며 급등 마감했다. 유가증권시장 전기전자 업종에서 기관이 9,246억원 순매수 우위를 보였다.",
+        "source_url": "https://www.fnnews.com/news/202609091504570842",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609091504570842",
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1723538"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "전일 종가 0.00%(269,500원, 보합)",
+        "reason": "반도체 업종 전반이 강세였지만 장중 2.04%까지 올랐던 상승분을 모두 반납하고 보합 마감했다. 시장에서는 외국계 증권사 매도 상위 창구에 이름을 올린 점이 수급 부진의 배경으로 거론됐다.",
+        "source_url": "https://www.fnnews.com/news/202609091504570842",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609091504570842"
+        ]
+      },
+      {
+        "ticker": "247540",
+        "name": "에코프로비엠",
+        "change_pct": "전일 종가 +6.30%(111,300원)",
+        "reason": "삼성SDI(+8.30%), LG에너지솔루션(+6.46%), 포스코퓨처엠(+6.37%) 등과 함께 2차전지 소재주가 장중 동반 강세를 보이며 업종 전반의 투자심리가 개선됐다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=605243",
+        "source_urls": [
+          "https://www.cbci.co.kr/news/articleView.html?idxno=605243"
+        ]
+      },
+      {
+        "ticker": "034020",
+        "name": "두산에너빌리티",
+        "change_pct": "9/9 오전 9시11분 기준 +3.69%(92,800원)",
+        "reason": "한미 양국이 조만간 체결할 1차 대미투자 합의문에 미국 내 원전 8기 건설 추진이 담길 것이란 소식에 사흘째 강세를 이어갔다. 키움증권은 AP1000 1기당 4,000억~5,000억원, APR1400 1기당 2조5,000억~3조원 규모 수주가 가능하다고 분석했다. 밤사이 유가 급등으로 에너지 안보 이슈가 부각되며 원전주에 대한 관심이 이어질 수 있다.",
+        "source_url": "https://www.ajunews.com/view/20260909091145351",
+        "source_urls": [
+          "https://www.ajunews.com/view/20260909091145351",
+          "https://www.new1cm.com/2026/09/2026-09-09-100.html"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "미국 증시는 9일(현지시간) 3대 지수가 사흘 연속 하락했다. 다우존스는 405.41포인트(0.77%) 내린 52,380.66, S&P500은 0.48% 내린 7,636.36, 나스닥종합은 0.64% 내린 26,253.34로 마감했다. 미 재무부가 장기채 바이백 프로그램을 3배로 확대한다고 발표하며 10년물 국채금리가 2023년 10월 이후 최고 수준인 4.84%까지 올랐고, 미국이 이란 유조선 5척을 파괴하자 이란이 요르단 주둔 미군기지를 탄도미사일로 보복하며 브렌트유가 배럴당 101달러, WTI가 96달러까지 오른 점이 투자심리를 눌렀다. 개별 종목에서는 메타가 자율형 AI 에이전트 '뮤즈' 출시에 월가의 낙관적 평가가 더해지며 6.55% 급등했다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,636.36",
+        "change_pct": "-0.48%(-37.16p, 9/9 종가)",
+        "source_urls": [
+          "https://www.cnbc.com/2026/09/08/stock-market-today-live-updates.html",
+          "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-9-dow-sp-500-nasdaq-futures-080411279.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,253.34",
+        "change_pct": "-0.64%(-168.07p, 9/9 종가)",
+        "source_urls": [
+          "https://www.cnbc.com/2026/09/08/stock-market-today-live-updates.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "52,380.66",
+        "change_pct": "-0.77%(-405.41p, 9/9 종가)",
+        "source_urls": [
+          "https://www.cnbc.com/2026/09/08/stock-market-today-live-updates.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "META",
+        "name": "Meta Platforms",
+        "change_pct": "+6.55%",
+        "reason": "독립형 자율 AI 에이전트 '뮤즈(Muse)'를 공식 출시했고, 월가 증권사들이 차세대 제품 사이클의 시작이 될 수 있다며 낙관적 평가를 내놓으면서 급등했다.",
+        "source_url": "https://kr.investing.com/news/stock-market-news/article-2088472",
+        "source_urls": [
+          "https://kr.investing.com/news/stock-market-news/article-2088472"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.88%(9/9 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 미 반도체주 급등과 AI 수요 확산 재확인에 강세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-1.36%(9/9 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 IT서비스 기준. 반도체 대형주 쏠림 속에 상대적으로 소외됐다.",
+        "source_url": "https://www.fnnews.com/news/202609091504570842"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.31%(9/9 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 통신 기준. 반도체, 2차전지로 수급이 몰리며 약세였다.",
+        "source_url": "https://www.fnnews.com/news/202609091504570842"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.37%(9/9 종가, 최근 거래일)",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 삼천당제약의 유럽 라이선스 계약 모멘텀이 업종 강세를 거들었다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.03%(대표지수 평균, 9/9 종가, 최근 거래일)",
+        "note": "KRX 은행(-1.62%), KRX 증권(+0.01%), KRX 보험(-1.49%) 평균. 반도체, 2차전지로 수급이 쏠리며 금융주는 소외됐다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank",
+        "source_urls": [
+          "https://kr.investing.com/indices/krx-bank",
+          "https://kr.investing.com/indices/krx-securities",
+          "https://kr.investing.com/indices/krx-insurance"
+        ]
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-3.21%(대표종목 기준, 9/9 종가, 최근 거래일)",
+        "note": "신세계(-3.21%) 기준. 실적 우려가 계속되며 약세를 보였다.",
+        "source_url": "https://www.newsinside.kr/news/articleView.html?idxno=4989450"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+0.60%(9/9 종가, 최근 거래일)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차(+1.08%) 등 완성차가 견조한 강세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+7.04%(대표종목 기준, 9/9 종가, 최근 거래일)",
+        "note": "삼성SDI(+8.30%), LG에너지솔루션(+6.46%), 포스코퓨처엠(+6.37%) 평균. 전고체 배터리 기대와 업종 수급 개선에 동반 급등했다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=605243"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+2.42%(대표종목 기준, 9/9 종가, 최근 거래일)",
+        "note": "HD현대중공업(+2.81%), 한화오션(+2.90%), 한화에어로스페이스(+1.56%) 평균. 한미 조선업 협력 구상(MASGA) 기대에 동반 강세였다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=605158"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.36%(9/9 종가, 최근 거래일)",
+        "note": "KRX 건설지수(KRXCNST) 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+3.56%(9/9 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 화학 기준. 국제유가 급등 속에도 화학 업종은 강세를 보였다.",
+        "source_url": "https://www.fnnews.com/news/202609091504570842"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+1.63%(9/9 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 금속 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-1.99%(대표종목 기준, 9/9 종가, 최근 거래일)",
+        "note": "네이버(-1.63%), 크래프톤(-2.34%) 평균. 반도체, 2차전지로 수급이 쏠리며 동반 약세였다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=546807"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-2.66%(9/9 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 오락, 문화 기준.",
+        "source_url": "https://www.fnnews.com/news/202609091504570842"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.68%(SOXX, 9/9 종가)",
+        "note": "AI 반도체 수요 기대가 이어지며 하락장에서도 12개 섹터 중 두 번째로 강한 흐름을 보였다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "0.00%(XLK, 9/9 종가)",
+        "note": "반도체 강세와 메타 급등이 국채금리 상승 부담을 상쇄하며 보합 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-0.62%(XLC, 9/9 종가)",
+        "note": "메타 급등에도 업종 전체로는 시장 하락 흐름에 동반 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.33%(XLV, 9/9 종가)",
+        "note": "국채금리 상승 부담 속에 소폭 약세를 이어갔다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.42%(XLF, 9/9 종가)",
+        "note": "국채금리 상승에도 위험회피 심리 속에 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-1.34%(XLY, 9/9 종가)",
+        "note": "유가 급등에 따른 소비 위축 우려가 반영되며 12개 섹터 중 낙폭이 두 번째로 컸다.",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-1.15%(XLP, 9/9 종가)",
+        "note": "시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-1.51%(XLI, 9/9 종가)",
+        "note": "12개 섹터 중 낙폭이 가장 컸다. 고유가에 따른 물류, 운송비 부담 우려가 반영됐다.",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-1.06%(XLB, 9/9 종가)",
+        "note": "국채금리 상승과 원자재 비용 부담 속에 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+0.83%(XLE, 9/9 종가)",
+        "note": "미이란 충돌 격화로 국제유가가 4개월 만에 배럴당 100달러를 넘어서며 12개 섹터 중 가장 강한 흐름을 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-1.17%(XLU, 9/9 종가)",
+        "note": "국채금리 상승 부담에 방어주 성격에도 매물이 나왔다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-1.12%(XLRE, 9/9 종가)",
+        "note": "국채금리 상승 부담에 약세를 이어갔다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,336.1원",
+      "change_pct": "-0.71%(-9.5원, 9/9 종가, 최근 거래일)",
+      "source_url": "https://www.mt.co.kr/economy/2026/09/09/2026090915401356861"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "98.79",
+      "change_pct": "-0.02%(9/9 종가)",
+      "source_url": "https://tradingeconomics.com/dxy:cur"
+    },
+    {
+      "name": "금",
+      "value": "$4,399.97",
+      "change_pct": "-0.26%(9/9 오전 기준)",
+      "source_url": "https://www.cnbc.com/select/the-price-of-gold-today-sept-9-2026/"
+    },
+    {
+      "name": "WTI",
+      "value": "$96.05",
+      "change_pct": "+3.25%(9/10 06:23 KST 기준, 5월 이후 최고치)",
+      "source_url": "https://www.mt.co.kr/world/2026/09/10/2026091006212511329"
+    },
+    {
+      "name": "비트코인",
+      "value": "$78,194.29",
+      "change_pct": "-0.4%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,465.31",
+      "change_pct": "-0.70%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.84%",
+      "change_pct": "+5bp(2023년 10월 이후 최고 수준)",
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미국이 이란 유조선 5척을 파괴하고 이란이 요르단 주둔 미군기지를 탄도미사일로 보복하며 브렌트유가 배럴당 101.21달러로 지난 7월23일 이후 처음 정산가 기준 100달러를 넘었고 WTI도 96달러대로 올랐다. 미 재무부의 장기채 바이백 3배 확대 발표에 10년물 국채금리는 2023년 10월 이후 최고 수준인 4.84%까지 올랐다. 달러인덱스는 98.79로 보합권, 원/달러 환율은 9/9 종가 기준 1,336.1원으로 23개월 만의 최저 수준이다.",
+    "notes": "골드만삭스는 유가가 배럴당 120달러를 넘어설 가능성이 커지고 있다고 경고했다. 미국 8월 생산자물가지수(PPI)는 9월 10일(현지시간), 소비자물가지수(CPI)는 9월 11일 발표 예정이며 9월 16일 FOMC를 앞두고 이번 주 물가 지표가 금리 경로를 가늠할 핵심 변수로 꼽힌다."
+  },
+  "top_themes": [
+    {
+      "theme": "국제유가",
+      "summary": "미이란 충돌 격화로 브렌트유가 배럴당 101.21달러로 지난 7월23일 이후 처음 정산가 기준 100달러를 넘었고 WTI도 96달러대로 뛰었다. 골드만삭스는 유가가 120달러를 넘어설 가능성이 커지고 있다고 경고했다.",
+      "tickers": [],
+      "source_url": "https://www.mt.co.kr/world/2026/09/10/2026091006212511329"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "미 중부사령부가 이란 유조선 5척을 파괴하자 이란이 요르단 주둔 미군기지를 탄도미사일로 보복 공격했다. 이란혁명수비대는 해상 통제구역을 호르무즈 해협을 넘어 오만해, 아라비아해 일부까지 확대하며 통행 선박에 대한 해운, 보험 서비스 중단을 경고했다.",
+      "tickers": [],
+      "source_url": "https://www.kmib.co.kr/article/view.asp?arcid=9000010730"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "미 필라델피아반도체지수 급등과 AI 수요 확산 재확인에 SK하이닉스가 3.51% 오른 반면, 삼성전자는 장중 상승분을 반납하고 보합 마감하며 반도체 대형주 안에서도 수급이 엇갈렸다.",
+      "tickers": [
+        "000660",
+        "005930"
+      ],
+      "source_url": "https://www.fnnews.com/news/202609091504570842"
+    },
+    {
+      "theme": "AI 데이터센터 전력",
+      "summary": "한미 1차 대미투자 합의문에 미국 내 원전 8기 건설 추진이 담길 것이란 기대감에 두산에너빌리티가 사흘째 강세를 이어갔다. 키움증권은 AP1000, APR1400 등 원전 기자재 수주 규모가 기당 수천억원에서 최대 3조원에 이를 수 있다고 분석했다.",
+      "tickers": [
+        "034020"
+      ],
+      "source_url": "https://www.ajunews.com/view/20260909091145351"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "미 재무부가 장기채 바이백 프로그램을 3배로 확대한다고 발표하며 10년물 국채금리가 2023년 10월 이후 최고 수준인 4.84%까지 올랐다. 8월 PPI가 9월 10일, CPI가 9월 11일 발표될 예정이며 9월 16일 FOMC를 앞두고 물가 지표에 관심이 쏠린다.",
+      "tickers": [],
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "국채금리 상승과 지정학 리스크 속에서도 반도체 섹터(SOXX +0.68%)가 하락장에서 상대적으로 견조한 흐름을 보였다.",
+      "source_url": "https://stockanalysis.com/etf/soxx/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "신제품 발표에도 0.28% 내리며 기술 섹터(XLK 보합) 안에서 약세를 보였다.",
+      "source_url": "https://stockanalysis.com/etf/xlk/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "특별한 개별 이슈 없이 기술 섹터(XLK 보합) 전반의 흐름 속에 거래됐다.",
+      "source_url": "https://stockanalysis.com/etf/xlk/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "국제유가 급등과 위험자산 회피 심리 속에 경기소비재 섹터(XLY -1.34%) 약세 흐름 속에서 거래됐다.",
+      "source_url": "https://stockanalysis.com/etf/xly/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "특별한 개별 이슈 없이 기술 섹터 전반의 보합 흐름 속에 거래됐다.",
+      "source_url": "https://stockanalysis.com/etf/xlk/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "반도체 업종 강세 속에서도 장중 상승분을 반납하고 269,500원 보합 마감했다.",
+      "source_url": "https://www.fnnews.com/news/202609091504570842"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "미 반도체주 급등과 AI 수요 확산 재확인에 3.51% 오른 1,856,000원에 마감했다.",
+      "source_url": "https://www.fnnews.com/news/202609091504570842"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 전반의 강세 속에 6.46% 올랐다.",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=605243"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "자동차 업종이 견조한 강세를 보이며 1.08% 올랐다.",
+      "source_url": "https://kr.investing.com/indices/krx-automobile"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "AI 메모리 수요 확산이 씨티, 골드만삭스 테크놀로지 콘퍼런스에서 재확인되며 미 필라델피아반도체지수와 함께 강세를 이어가고 있다. 유가증권시장 전기전자 업종에서 기관이 9,246억원 순매수 우위를 기록하며 수급도 뒷받침되고 있다.",
+      "catalysts": [
+        "미국 8월 PPI(9월 10일), CPI(9월 11일) 발표",
+        "9월 16일 FOMC 금리 결정",
+        "메모리 반도체 공급, 가격 관련 추가 콘퍼런스 발언"
+      ],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": "골드만삭스, 2026년 6월 1일 기준 목표주가 350만원(Buy) 제시"
+      },
+      "risk": "미 국채금리가 2023년 10월 이후 최고 수준으로 오른 가운데, 고유가에 따른 인플레이션 우려로 금리가 추가 상승할 경우 성장주 밸류에이션 조정 압력을 받을 수 있다.",
+      "sources": [
+        "https://www.fnnews.com/news/202609091504570842",
+        "https://www.ebn.co.kr/news/articleView.html?idxno=1723538"
+      ]
+    },
+    {
+      "ticker": "034020",
+      "name": "두산에너빌리티",
+      "market": "KR",
+      "thesis": "한미 1차 대미투자 합의문에 미국 내 원전 8기 건설 추진이 담길 것이란 기대감에 사흘째 강세를 이어가고 있다. 한국형 원전(APR1400)과 웨스팅하우스 AP1000에 모두 기자재를 공급할 수 있어 수혜가 직관적이라는 분석이 나온다. 밤사이 국제유가가 4개월 만에 100달러를 다시 넘으며 에너지 안보 이슈가 부각된 점도 원전주에 대한 관심을 뒷받침할 수 있다.",
+      "catalysts": [
+        "한미 1차 대미투자 합의문 세부 내용 확정, 발표",
+        "원전 8기 건설 프로젝트의 사업자 선정 및 수주 구조 확정",
+        "국제유가 추가 상승에 따른 에너지 안보 정책 논의"
+      ],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": "키움증권, 2026년 9월 9일 기준 APR1400 1기당 2조5,000억~3조원, AP1000 1기당 4,000억~5,000억원 수주 규모 추정 제시"
+      },
+      "risk": "협의 단계의 기대감이 구체적 계약이나 발주로 이어지지 않을 경우 단기 급등에 따른 차익실현 매물이 나올 수 있다.",
+      "sources": [
+        "https://www.ajunews.com/view/20260909091145351",
+        "https://www.new1cm.com/2026/09/2026-09-09-100.html"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스, 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
