@@ -1,0 +1,495 @@
+{
+  "date": "2026-09-11",
+  "generated_at_kst": "2026-09-11T08:00:00+09:00",
+  "mode": "new",
+  "headline": "국제유가가 배럴당 100달러를 넘어서고 미 국채 10년물 금리가 2023년 이후 최고 수준으로 치솟으며 뉴욕증시가 나흘째 하락한 가운데, 연준이 3년 만의 기준금리 인상 가능성까지 저울질하면서 오늘 밤 발표될 미국 8월 소비자물가지수가 코스피의 다음 방향을 가를 분수령이 됐다",
+  "mail_title": "금리 인하 아닌 인상론, 오늘밤 CPI가 가른다",
+  "kr": {
+    "preview": "어제(10일) 코스피는 선물옵션 동시만기일인 '네 마녀의 날'과 외국인의 대규모 매도가 겹치며 장중 6,898선까지 밀렸지만, 삼성전자와 SK하이닉스의 자사주 매입, 개인의 저가 매수에 힘입어 낙폭을 줄이며 전 거래일보다 0.25%(17.72포인트) 내린 7,033.92에 마감해 7,000선을 지켰습니다. 코스닥은 0.79%(6.55포인트) 오른 836.92로 장을 마쳤습니다.\n\n밤사이 미국에서는 물가와 금리 부담이 한층 더 커졌습니다. 8월 생산자물가지수(PPI)가 전년 대비 5.4% 올라 시장 예상치(5.3%)를 웃돌자, 미 국채 10년물 금리는 2023년 10월 이후 최고 수준으로 뛰었고 2년물도 4.53%까지 올랐습니다. 여기에 미이란 충돌 격화로 국제유가가 급등해 WTI가 배럴당 100달러를 넘어서자, 시카고상품거래소(CME) 페드워치는 다음 주 FOMC(15~16일)에서 연준이 금리를 내리는 게 아니라 오히려 3년 만에 올릴 확률을 60~69%까지 반영하기 시작했습니다. 이 여파로 다우, S&P500, 나스닥이 나흘 연속 하락 마감했고 금값도 1.84% 밀렸습니다. 다만 애플은 첫 폴더블 아이폰 '듀오' 공개 이후 회의적 반응을 딛고 3% 반등했습니다. 필라델피아반도체 성격의 SOXX가 2.74%, 빅테크 중심 XLK가 1.41% 내리며 밤사이 미국 반도체, 기술주가 약세를 보인 점은 오늘 국내 반도체 대형주에 부담 요인입니다.\n\n한국시간으로 오늘 밤 9시30분에는 미국 8월 소비자물가지수(CPI)가 발표됩니다. 시장은 전월비 0.4%, 전년비 3.4% 상승을 예상하고 있으며 근원 CPI는 전년비 2.4%로 소폭 낮아질 것으로 보고 있습니다. 유가 100달러 시대 이후 처음 나오는 물가지표인 데다 3년 만의 금리 인상 여부를 가를 수 있어 시장의 관심이 집중돼 있습니다. 이런 가운데 오늘 유가증권시장에서는 삼성전자가 200만주, SK하이닉스가 60만주 규모의 자사주 매수를 신청해 외국인 매도 물량을 계속 받아낼 수 있을지가 관전 포인트입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "7,033.92",
+        "change_pct": "-0.25%(-17.72p, 9/10 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.mediawatch.kr/news/article.html?no=260987",
+          "https://www.mt.co.kr/stock/2026/09/10/2026091015300177553"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "836.92",
+        "change_pct": "+0.79%(+6.55p, 9/10 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/10/2026091015300177553"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "9/10 종가 -0.19%(269,000원), 9/11 자사주 200만주 매수 신청",
+        "reason": "11월21일까지 15조원 규모로 진행 중인 자사주 매입 프로그램에 따라 오늘 유가증권시장에 200만주 매수를 신청했다. 현재 속도라면 예정보다 한 달가량 이른 10월 중 매입이 마무리될 수 있다는 관측이 나온다. 다만 밤사이 미 반도체 ETF(SOXX)가 2.74%, 기술섹터(XLK)가 1.41% 내리며 국내 반도체 대형주에는 부담 요인도 함께 있다.",
+        "source_url": "https://www.newstnt.com/news/articleView.html?idxno=717775",
+        "source_urls": [
+          "https://www.newstnt.com/news/articleView.html?idxno=717775",
+          "https://stockanalysis.com/etf/soxx/"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "9/10 종가 -0.16%(1,853,000원), 9/11 자사주 60만주 매수 신청",
+        "reason": "11월19일까지 40조원 규모로 진행 중인 자사주 매입 프로그램에 따라 오늘 60만주 매수를 신청했다. AI 메모리 수요 기대는 이어지고 있지만 밤사이 미국 반도체, 기술주가 물가, 금리 부담에 약세를 보이며 국내 반도체주 수급에 영향을 줄 수 있다.",
+        "source_url": "https://www.newstnt.com/news/articleView.html?idxno=717775",
+        "source_urls": [
+          "https://www.newstnt.com/news/articleView.html?idxno=717775",
+          "https://stockanalysis.com/etf/xlk/"
+        ]
+      },
+      {
+        "ticker": "010950",
+        "name": "S-Oil",
+        "change_pct": "9/10 장중 -5.36%",
+        "reason": "국제유가가 미이란 충돌 격화로 3% 넘게 급등하며 브렌트유 101.21달러, WTI 96.05달러까지 오른 가운데, 흥구석유(+22.58%), 중앙에너지비스(+12.25%), SK이노베이션(+2.21%) 등 상당수 정유, 석유주가 강세를 보인 것과 달리 에쓰오일은 정제마진 우려 등으로 나홀로 5.36% 내리며 업종 내 온도차를 보였다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2623965",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2623965"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "미국 증시는 10일(현지시간) 3대 지수가 나흘 연속 하락했다. 다우존스는 316.56포인트(0.60%) 내린 52,064.10, S&P500은 0.58% 내린 7,591.70, 나스닥종합은 0.65% 내린 26,081.72로 마감했다. 8월 생산자물가지수(PPI)가 전년비 5.4% 올라 예상치(5.3%)를 웃돌고, 미이란 충돌 격화로 국제유가가 배럴당 100달러를 넘어서면서 미 국채 10년물 금리가 2023년 이후 최고 수준까지 치솟은 점이 투자심리를 눌렀다. CME 페드워치에 따르면 다음 주 FOMC에서 연준이 3년 만에 금리를 인상할 확률이 60%대까지 반영되기 시작했다. 개별 종목에서는 애플이 첫 폴더블 아이폰 '듀오'를 공개한 뒤 초기 회의적 반응을 딛고 3% 올랐고, 알파벳은 0.6% 소폭 상승했지만 대부분의 매그니피센트7 종목은 전반적인 약세 속에 하락했다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,591.70",
+        "change_pct": "-0.58%(-44.66p, 9/10 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-oil-gains-100-083717303.html",
+          "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-10-2026"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,081.72",
+        "change_pct": "-0.65%(-171.62p, 9/10 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-oil-gains-100-083717303.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "52,064.10",
+        "change_pct": "-0.60%(-316.56p, 9/10 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-oil-gains-100-083717303.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "AAPL",
+        "name": "Apple",
+        "change_pct": "+3%",
+        "reason": "첫 폴더블 아이폰 '듀오'(1,999달러)를 공개했다. 초기에는 좁은 소비층, 높은 가격 등에 대한 회의적 반응으로 주가가 횡보했지만 씨티가 '애플워치, 에어팟 이후 가장 큰 신규 하드웨어 카테고리'라며 매수 의견과 목표주가 365달러를 유지하는 등 우호적 평가가 이어지며 반등했다.",
+        "source_url": "https://www.cnbc.com/2026/09/10/what-wall-street-thought-of-apples-foldable-iphone-what-duo-means-for-the-stock.html",
+        "source_urls": [
+          "https://www.cnbc.com/2026/09/10/what-wall-street-thought-of-apples-foldable-iphone-what-duo-means-for-the-stock.html",
+          "https://finance.yahoo.com/markets/stocks/articles/analysts-split-apple-foldable-iphone-120433976.html"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.67%(9/10 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. OpenAI 신모델 '아스트라' 공개로 AI 수요 기대가 재확인되며 지수는 올랐지만 삼성전자, SK하이닉스는 외국인 매도 속 소폭 약세였다. 밤사이 미 SOXX가 2.74% 내리며 오늘은 부담 요인이 될 수 있다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+0.81%(대표종목 평균, 9/10 종가, 최근 거래일)",
+        "note": "삼성SDS(+1.11%), 현대오토에버(+0.51%) 평균. IT서비스 대형주는 전반적인 약보합 장세 속에서도 견조했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=018260",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=018260",
+          "https://alphasquare.co.kr/home/stock-summary?code=307950"
+        ]
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.35%(9/10 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 통신 기준. 반도체, 금융 등으로 수급이 쏠리며 약세를 보였다.",
+        "source_url": "https://www.fnnews.com/news/202609101558527073"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.04%(9/10 종가, 최근 거래일)",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 네 마녀의 날 외국인 매도 속에 차익실현 매물이 나왔다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.79%(대표지수 평균, 9/10 종가, 최근 거래일)",
+        "note": "KB금융(+0.81%), KRX 증권(-0.15%), KRX 보험(+1.70%) 평균. 보험주 강세 속에 금융 업종은 시장 대비 견조했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=105560",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=105560",
+          "https://kr.investing.com/indices/krx-securities",
+          "https://kr.investing.com/indices/krx-insurance"
+        ]
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+0.47%(9/10 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 유통업 기준.",
+        "source_url": "https://www.fnnews.com/news/202609101558527073"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+0.73%(9/10 종가, 최근 거래일)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차(+0.26%) 등 완성차가 강보합을 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-0.19%(대표종목 평균, 9/10 종가, 최근 거래일)",
+        "note": "LG에너지솔루션(-1.62%), 삼성SDI(-2.26%), 에코프로비엠(+3.31%) 평균. 대형 배터리주는 차익실현에 하락했지만 소재주는 나홀로 강세를 보이며 업종 내 온도차가 컸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=373220",
+          "https://alphasquare.co.kr/home/stock-summary?code=006400",
+          "https://alphasquare.co.kr/home/stock-summary?code=247540"
+        ]
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-1.07%(대표종목 평균, 9/10 종가, 최근 거래일)",
+        "note": "한화오션(-2.95%), HD현대중공업(-2.16%), 한화에어로스페이스(+1.91%) 평균. 조선주는 최근 급등에 대한 차익실현에 밀렸지만 방산주는 강세를 보이며 대조됐다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=042660",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=042660",
+          "https://alphasquare.co.kr/home/stock-summary?code=329180",
+          "https://alphasquare.co.kr/home/stock-summary?code=012450"
+        ]
+      },
+      {
+        "name": "건설",
+        "change_pct": "+0.83%(9/10 종가, 최근 거래일)",
+        "note": "KRX 건설지수(KRXCNST) 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-1.42%(9/10 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 화학 기준. 국제유가 급등 부담에도 화학 업종은 약세를 보였다.",
+        "source_url": "https://www.fnnews.com/news/202609101558527073"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+0.01%(9/10 종가, 최근 거래일)",
+        "note": "KRX 철강지수(KRXSTL) 기준. 보합권에서 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.54%(대표종목 평균, 9/10 종가, 최근 거래일)",
+        "note": "네이버(-0.95%), 카카오(-0.43%), 크래프톤(-0.24%) 평균. 외국인 매도 속에 동반 약세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=035420",
+          "https://alphasquare.co.kr/home/stock-summary?code=035720",
+          "https://alphasquare.co.kr/home/stock-summary?code=259960"
+        ]
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.87%(9/10 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 오락, 문화 기준.",
+        "source_url": "https://www.fnnews.com/news/202609101558527073"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.74%(SOXX, 9/10 종가)",
+        "note": "PPI 예상치 상회, 금리 급등 속 위험자산 회피 심리로 12개 섹터 중 낙폭이 가장 컸다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-1.41%(XLK, 9/10 종가)",
+        "note": "반도체 약세와 금리 상승 부담에 동반 하락했다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.60%(XLC, 9/10 종가)",
+        "note": "알파벳 강세 등에 힘입어 12개 섹터 중 유일하게 상승했다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.55%(XLV, 9/10 종가)",
+        "note": "국채금리 상승 부담 속에 소폭 약세를 이어갔다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.33%(XLF, 9/10 종가)",
+        "note": "금리 급등에도 시장 전반의 위험회피 심리 속에 소폭 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-0.44%(XLY, 9/10 종가)",
+        "note": "유가 급등에 따른 소비 위축 우려 속에 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.05%(XLP, 9/10 종가)",
+        "note": "방어주 성격에 힘입어 보합권에서 선방했다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.72%(XLI, 9/10 종가)",
+        "note": "고유가에 따른 물류, 운송비 부담 우려 속에 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-1.23%(XLB, 9/10 종가)",
+        "note": "국채금리 상승과 원자재 비용 부담 속에 12개 섹터 중 두 번째로 낙폭이 컸다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.58%(XLE, 9/10 종가)",
+        "note": "국제유가가 배럴당 100달러를 넘어섰음에도 경기 둔화, 수요 위축 우려가 반영되며 오히려 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-0.98%(XLU, 9/10 종가)",
+        "note": "국채금리 급등 부담에 방어주 성격에도 매물이 나왔다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.83%(XLRE, 9/10 종가)",
+        "note": "금리 급등 부담에 약세를 이어갔다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,349.76원",
+      "change_pct": "+0.78%(+10.56원, 9/10 종가 대비)",
+      "source_url": "https://kr.investing.com/currencies/usd-krw"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.09",
+      "change_pct": "+0.28%",
+      "source_url": "https://tradingeconomics.com/dxy:cur"
+    },
+    {
+      "name": "금",
+      "value": "$4,317.34",
+      "change_pct": "-1.84%(-$80.81)",
+      "source_url": "https://tradingeconomics.com/commodity/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$103.97",
+      "change_pct": "+8.20%(+$7.88, 2026년 5월 이후 최고치)",
+      "source_url": "https://tradingeconomics.com/commodity/crude-oil",
+      "source_urls": [
+        "https://tradingeconomics.com/commodity/crude-oil",
+        "https://oilprice.com/Energy/Energy-General/Oil-Breaks-100and-This-Rally-Has-Legs.html"
+      ]
+    },
+    {
+      "name": "비트코인",
+      "value": "$77,198.66",
+      "change_pct": "-1.19%(24시간)",
+      "source_url": "https://www.coindesk.com/price/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,460.82",
+      "change_pct": "-0.04%(24시간)",
+      "source_url": "https://www.coindesk.com/price/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.97%",
+      "change_pct": "+0.13%p(2023년 10월 이후 최고 수준)",
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield",
+      "source_urls": [
+        "https://tradingeconomics.com/united-states/government-bond-yield",
+        "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-oil-gains-100-083717303.html"
+      ]
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "8월 PPI가 예상치를 웃돌고 미이란 충돌 격화로 WTI가 배럴당 103.97달러까지 오르며 미 국채 10년물 금리는 2023년 10월 이후 최고 수준까지 치솟았다. 달러인덱스는 99.09로 강세를 보였고 원/달러 환율도 1,349.76원으로 전일 대비 0.78% 오르며 원화 약세가 이어졌다. 금은 금리 상승 부담에 1.84% 내렸다.",
+    "notes": "한국시간 오늘 밤 9시30분 미국 8월 소비자물가지수(CPI)가 발표된다. 시장은 전월비 0.4%, 전년비 3.4% 상승(근원 2.4%)을 예상하고 있다. 유가 100달러 시대 이후 첫 물가지표인 데다, CME 페드워치 기준 다음 주 FOMC(15~16일)에서 연준이 3년 만에 기준금리를 인상할 확률이 60%대까지 반영되기 시작해 결과에 따라 시장 변동성이 커질 수 있다."
+  },
+  "top_themes": [
+    {
+      "theme": "연준 통화정책",
+      "summary": "8월 PPI가 전년비 5.4%로 예상치를 웃돌고 국제유가 급등까지 겹치며 미 국채 10년물 금리가 2023년 이후 최고 수준으로 치솟았다. CME 페드워치는 다음 주 FOMC에서 연준이 금리를 인하가 아닌 인상할 확률을 60~69%까지 반영하기 시작했다. 한국시간 오늘 밤 9시30분 발표되는 8월 CPI(예상 전월비 0.4%, 전년비 3.4%)가 방향을 가를 핵심 변수다.",
+      "tickers": [],
+      "source_url": "https://www.edaily.co.kr/News/Read?newsId=06484566645578808"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "미이란 충돌 격화로 WTI가 전일 대비 8.20% 급등해 배럴당 103.97달러로 지난 5월 이후 최고치를 기록했다. 국내에서는 흥구석유, SK이노베이션 등 다수 정유, 석유주가 강세를 보인 반면 에쓰오일은 정제마진 우려 등으로 나홀로 5.36% 내리는 등 업종 내 반응이 엇갈렸다.",
+      "tickers": [
+        "010950"
+      ],
+      "source_url": "https://tradingeconomics.com/commodity/crude-oil"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "미국과 이란의 충돌이 계속되며 국제유가 급등과 국채금리 상승을 통해 글로벌 증시 전반에 부담을 주고 있다. 밤사이 뉴욕증시는 이 여파로 나흘 연속 하락했다.",
+      "tickers": [],
+      "source_url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "삼성전자와 SK하이닉스가 오늘 각각 200만주, 60만주 규모의 자사주 매수를 신청하며 외국인 매도에 대응하고 있다. 다만 밤사이 미 반도체 ETF(SOXX)가 2.74%, 기술섹터(XLK)가 1.41% 내리며 국내 반도체 대형주 수급에는 부담이 될 수 있다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.newstnt.com/news/articleView.html?idxno=717775"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "달러인덱스가 99.09로 오르고 원/달러 환율도 1,349.76원까지 상승하며 원화 약세가 이어졌다. 어제 코스피, 코스닥에서 3조5,600억원 가까이 순매도한 외국인의 수급 흐름이 오늘도 지수 방향에 영향을 줄 수 있다.",
+      "tickers": [],
+      "source_url": "https://kr.investing.com/currencies/usd-krw"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "밤사이 반도체 섹터(SOXX)가 2.74% 내리며 PPI발 금리 부담 속에 하락장을 주도했다.",
+      "source_url": "https://stockanalysis.com/etf/soxx/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "첫 폴더블 아이폰 '듀오' 공개 후 초기 회의적 반응을 딛고 씨티의 우호적 평가에 힘입어 3% 반등했다.",
+      "source_url": "https://www.cnbc.com/2026/09/10/what-wall-street-thought-of-apples-foldable-iphone-what-duo-means-for-the-stock.html"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "특별한 개별 이슈 없이 기술섹터(XLK -1.41%) 전반의 약세 흐름 속에 거래됐다.",
+      "source_url": "https://stockanalysis.com/etf/xlk/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "국제유가 급등과 위험자산 회피 심리 속에 경기소비재 섹터(XLY -0.44%) 약세 흐름 속에서 거래됐다.",
+      "source_url": "https://stockanalysis.com/etf/xly/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "특별한 개별 이슈 없이 기술섹터 전반의 약세 흐름 속에 거래됐다.",
+      "source_url": "https://stockanalysis.com/etf/xlk/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "오늘 자사주 200만주 매수를 신청하며 자사주 매입 프로그램을 이어간다.",
+      "source_url": "https://www.newstnt.com/news/articleView.html?idxno=717775"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "오늘 자사주 60만주 매수를 신청했다. 밤사이 미 반도체 약세는 부담 요인이다.",
+      "source_url": "https://www.newstnt.com/news/articleView.html?idxno=717775"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "특별한 개별 뉴스 없이 2차전지 대형주 흐름 속에 거래될 전망이다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "자동차 업종지수(KRXAUTO) 흐름 속에 거래될 전망이다.",
+      "source_url": "https://kr.investing.com/indices/krx-automobile"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "11월21일까지 15조원 규모로 진행 중인 자사주 매입에 따라 오늘 200만주 매수를 신청했다. 현재 속도라면 예정보다 한 달가량 이른 10월 중 매입이 마무리될 수 있다는 관측이 나오는데, 이는 외국인 대규모 매도 속에서도 주가 하단을 지지해온 안전판이 그만큼 빨리 사라질 수 있다는 의미이기도 하다.",
+      "catalysts": [
+        "한국시간 9월11일 밤 미국 8월 CPI 발표",
+        "9월15~16일 FOMC 금리 결정",
+        "자사주 매입 프로그램 조기 종료 여부"
+      ],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": "KB증권, 2026년 9월4일 기준 목표주가 60만원(매수) 제시"
+      },
+      "risk": "밤사이 미 반도체 ETF(SOXX)가 2.74% 내리는 등 글로벌 반도체 심리가 약해진 가운데, 자사주 매입이 예정보다 일찍 끝날 경우 외국인 매도를 방어할 수급 요인이 줄어들 수 있다.",
+      "sources": [
+        "https://www.newstnt.com/news/articleView.html?idxno=717775",
+        "https://www.fnnews.com/news/202609041043153191"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "40조원 규모 자사주 매입 프로그램에 따라 오늘 60만주 매수를 신청했다. AI 메모리 수요 확대 기대가 이어지고 있지만, 밤사이 미 반도체, 기술주가 물가와 금리 부담에 동반 약세를 보이며 단기적으로는 외부 변수에 더 민감하게 반응할 수 있는 구간이다.",
+      "catalysts": [
+        "한국시간 9월11일 밤 미국 8월 CPI 발표",
+        "9월15~16일 FOMC 금리 결정",
+        "메모리 반도체 가격, 공급 관련 추가 소식"
+      ],
+      "levels_watched": {
+        "support": "",
+        "resistance": "",
+        "analyst_target_cited": "KB증권, 2026년 7월3일 기준 목표주가 420만원(매수) 제시"
+      },
+      "risk": "미 국채 10년물 금리가 2023년 이후 최고 수준으로 오른 가운데 오늘 밤 CPI가 예상치를 웃돌아 3년 만의 금리 인상 가능성이 현실화되면, 성장주 밸류에이션 조정 압력이 커질 수 있다.",
+      "sources": [
+        "https://www.newstnt.com/news/articleView.html?idxno=717775",
+        "https://stockanalysis.com/etf/soxx/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
