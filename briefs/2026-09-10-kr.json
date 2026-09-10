@@ -1,0 +1,310 @@
+{
+  "date": "2026-09-10",
+  "session": "kr_close",
+  "generated_at_kst": "2026-09-10T19:00:00+09:00",
+  "headline": "선물옵션 네 마녀의 날에 외국인이 코스피와 코스닥에서 3조5,600억원을 팔아치웠지만 삼성전자와 SK하이닉스의 자사주 매입, 개인의 저가 매수가 받쳐주며 코스피는 0.25% 내림에 그치고 7000선을 지켰다",
+  "mail_title": "외국인 3.5조 팔아도 코스피가 버틴 이유",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 17.72포인트(0.25%) 내린 7,033.92에 마감했습니다. 3, 6, 9, 12월 둘째 주 목요일마다 돌아오는 선물, 옵션 동시 만기일인 '네 마녀의 날'과 코스피 섹터지수 개편이 겹치며 장중 6,898.45까지 밀렸다가 낙폭을 되돌리는 큰 변동성을 보였습니다. 코스닥은 6.55포인트(0.79%) 오른 836.92로 장을 마쳤습니다.\n\n지수를 흔든 것은 외국인의 대규모 매도였습니다. 외국인은 코스피에서 2조4,821억원, 코스닥에서 1조743억원어치를 팔며 하루에만 3조5,600억원 가까이 순매도했습니다. 파생상품 만기에 맞춰 포지션을 청산, 이월하는 물량이 집중된 데다 미국 기술주 조정과 트럼프 대통령의 보호무역 발언에 따른 통상 불확실성이 투자심리를 눌렀습니다. 여기에 전날 미국과 이란의 충돌이 격화하며 브렌트유가 배럴당 101.21달러로 넉 달 만에 다시 100달러를 넘고 미 10년물 국채금리가 2023년 10월 이후 최고치인 4.85%까지 오른 여파도 이어졌습니다.\n\n그럼에도 지수가 크게 밀리지 않은 것은 기관과 개인, 그리고 자사주 매입 물량 덕분입니다. 기관은 코스피에서 4,334억원, 코스닥에서 1조3,476억원을 순매수하며 코스닥 상승을 주도했고, 개인도 코스피에서 3,802억원을 순매수하며 지수를 방어했습니다. 특히 지난달 20일부터 자사주 매입에 들어간 삼성전자(15조원), SK하이닉스(40조원)의 매입 물량이 기타법인 순매수(1조6,671억원)로 잡히며 코스피 하단을 지지했습니다. 다만 두 회사 주가 자체는 외국인 매도 속에 삼성전자 0.19%, SK하이닉스 0.16% 소폭 밀렸습니다. OpenAI가 신모델 '아스트라'를 공개하며 AI 반도체 수요 기대가 재확인돼 KRX반도체지수는 0.67% 오르며 대형주와 온도차를 보였습니다.\n\n업종 안에서는 순환매 색채가 뚜렷했습니다. 조선주는 한화오션(-2.95%), HD현대중공업(-2.16%)이 최근 급등에 대한 차익실현 매물에 밀린 반면, 같은 밸류체인인 한화에어로스페이스는 1.91% 올랐습니다. 2차전지도 LG에너지솔루션(-1.62%), 삼성SDI(-2.26%) 등 대형주는 차익실현에 하락했지만 소재주인 에코프로비엠은 3.31% 오르며 나홀로 강세를 보였습니다. 개별 재료 장세 속에 자사주 30%를 소각하겠다고 공시한 샘표는 상한가로 직행했습니다.\n\n원/달러 환율은 3.1원 오른 1,339.2원에 마감해 소폭 약세를 보였습니다. 시장은 미국 8월 생산자물가지수(현지시간 10일), 소비자물가지수(11일) 발표와 9월16일 FOMC를 앞두고 물가 지표에 촉각을 곤두세우고 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "7,033.92",
+        "change_pct": "-0.25%(-17.72p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/10/2026091015293242265",
+          "https://view.asiae.co.kr/article/2026091015342497603"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "836.92",
+        "change_pct": "+0.79%(+6.55p)",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026091015345518581"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-0.19%(269,000원)",
+        "reason": "반도체 업종 전반은 KRX반도체지수 기준 0.67% 오르며 강세였지만 삼성전자는 소폭 약세로 마감했다. 선물옵션 동시만기일('네 마녀의 날')에 외국인이 코스피에서 2조4,821억원을 순매도하며 대형주 전반에 매도 압력을 가했고, 자사주 매입에 나선 기타법인 순매수(1조6,671억원)가 낙폭을 방어했다.",
+        "source_url": "https://www.fnnews.com/news/202609101558527073",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609101558527073",
+          "https://alphasquare.co.kr/home/stock-summary?code=005930"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-0.16%(1,853,000원)",
+        "reason": "OpenAI의 신모델 '아스트라' 공개로 AI 반도체 수요 기대가 재확인됐지만, 네 마녀의 날 외국인 매도 속에 소폭 약세로 마감했다. 지난달 20일부터 진행 중인 40조원 규모 자사주 매입 물량이 지수 하단을 지지했다.",
+        "source_url": "https://www.mt.co.kr/stock/2026/09/10/2026091016175260537",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/10/2026091016175260537",
+          "https://alphasquare.co.kr/home/stock-summary?code=000660"
+        ]
+      },
+      {
+        "ticker": "248170",
+        "name": "샘표",
+        "change_pct": "+29.99%(55,700원, 상한가)",
+        "reason": "전날 장 마감 후 발행주식의 29.92%에 해당하는 자사주 86만332주(약 369억5,125만원 규모)를 전량 소각하겠다고 공시했다. 한국거래소가 소각 비율 10% 이상을 이유로 매매거래를 정지했다가 10일 재개했고, 매도호가가 비어있는 강한 매수 우위 속에 상한가로 직행했다.",
+        "source_url": "https://www.fnnews.com/news/202609100919440151",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609100919440151",
+          "https://www.hankyung.com/article/2026091056426"
+        ]
+      },
+      {
+        "ticker": "042660",
+        "name": "한화오션",
+        "change_pct": "-2.95%(85,500원)",
+        "reason": "HD현대중공업(-2.16%)과 함께 조선주가 동반 약세를 보였다. 최근 급등에 대한 차익실현 매물이 나온 가운데 선물옵션 동시만기일의 수급 변동성까지 겹쳤다. 같은 방산, 조선 밸류체인인 한화에어로스페이스는 1.91% 오르며 대조를 보였다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=547185",
+        "source_urls": [
+          "https://www.joongangenews.com/news/articleView.html?idxno=547185",
+          "https://alphasquare.co.kr/home/stock-summary?code=329180"
+        ]
+      },
+      {
+        "ticker": "247540",
+        "name": "에코프로비엠",
+        "change_pct": "+3.31%(114,900원)",
+        "reason": "2차전지 대형주인 LG에너지솔루션(-1.62%), 삼성SDI(-2.26%)는 차익실현 매물에 밀렸지만, 소재주인 에코프로비엠은 나홀로 강세를 보이며 업종 내 순환매 흐름을 보여줬다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=247540",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=247540",
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1723807"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.67%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. OpenAI 신모델 '아스트라' 공개로 AI 수요 기대가 재확인되며 지수는 올랐지만 삼성전자, SK하이닉스는 외국인 매도 속 소폭 약세였다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+0.81%(대표종목 평균)",
+        "note": "삼성SDS(+1.11%), 현대오토에버(+0.51%) 평균. IT서비스 대형주는 전반적인 약보합 장세 속에서도 견조했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=018260",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=018260",
+          "https://alphasquare.co.kr/home/stock-summary?code=307950"
+        ]
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.35%",
+        "note": "KOSPI 업종지수 통신 기준. 반도체, 금융 등으로 수급이 쏠리며 약세를 보였다.",
+        "source_url": "https://www.fnnews.com/news/202609101558527073"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.04%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 네 마녀의 날 외국인 매도 속에 차익실현 매물이 나왔다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.79%(대표지수 평균)",
+        "note": "KB금융(+0.81%), KRX 증권(-0.15%), KRX 보험(+1.70%) 평균. 보험주 강세 속에 금융 업종은 시장 대비 견조했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=105560",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=105560",
+          "https://kr.investing.com/indices/krx-securities",
+          "https://kr.investing.com/indices/krx-insurance"
+        ]
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+0.47%",
+        "note": "KOSPI 업종지수 유통업 기준.",
+        "source_url": "https://www.fnnews.com/news/202609101558527073"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+0.73%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차(+0.26%) 등 완성차가 강보합을 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-0.19%(대표종목 평균)",
+        "note": "LG에너지솔루션(-1.62%), 삼성SDI(-2.26%), 에코프로비엠(+3.31%) 평균. 대형 배터리주는 차익실현에 하락했지만 소재주는 나홀로 강세를 보이며 업종 내 온도차가 컸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=373220",
+          "https://alphasquare.co.kr/home/stock-summary?code=006400",
+          "https://alphasquare.co.kr/home/stock-summary?code=247540"
+        ]
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-1.07%(대표종목 평균)",
+        "note": "한화오션(-2.95%), HD현대중공업(-2.16%), 한화에어로스페이스(+1.91%) 평균. 조선주는 최근 급등에 대한 차익실현에 밀렸지만 방산주는 강세를 보이며 대조됐다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=042660",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=042660",
+          "https://alphasquare.co.kr/home/stock-summary?code=329180",
+          "https://alphasquare.co.kr/home/stock-summary?code=012450"
+        ]
+      },
+      {
+        "name": "건설",
+        "change_pct": "+0.83%",
+        "note": "KRX 건설지수(KRXCNST) 기준.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-1.42%",
+        "note": "KOSPI 업종지수 화학 기준. 국제유가 급등 부담에도 화학 업종은 약세를 보였다.",
+        "source_url": "https://www.fnnews.com/news/202609101558527073"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+0.01%",
+        "note": "KRX 철강지수(KRXSTL) 기준. 보합권에서 마감했다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.54%(대표종목 평균)",
+        "note": "네이버(-0.95%), 카카오(-0.43%), 크래프톤(-0.24%) 평균. 외국인 매도 속에 동반 약세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=035420",
+          "https://alphasquare.co.kr/home/stock-summary?code=035720",
+          "https://alphasquare.co.kr/home/stock-summary?code=259960"
+        ]
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.87%",
+        "note": "KOSPI 업종지수 오락, 문화 기준.",
+        "source_url": "https://www.fnnews.com/news/202609101558527073"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,339.2원",
+      "change_pct": "+0.23%(+3.1원)",
+      "source_url": "https://www.fnnews.com/news/202609101533266366"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "98.78",
+      "change_pct": "-0.01%",
+      "source_url": "https://kr.investing.com/indices/usdollar"
+    },
+    {
+      "name": "금",
+      "value": "$4,399.57",
+      "change_pct": "+0.03%",
+      "source_url": "https://tradingeconomics.com/commodity/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$96.05",
+      "change_pct": "+3.25%(9/9 마감, 최근 거래일)",
+      "source_url": "https://www.etoday.co.kr/news/view/2623771"
+    },
+    {
+      "name": "비트코인",
+      "value": "$78,081.09",
+      "change_pct": "-2.0%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,471.19",
+      "change_pct": "-2.0%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.854%",
+      "change_pct": "+0.35%(2023년 10월 이후 최고 수준 유지)",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원/달러 환율은 3.1원 오른 1,339.2원으로 소폭 약세를 보였다. 전날 미이란 충돌 격화 여파로 브렌트유가 배럴당 101.21달러, WTI가 96.05달러로 넉 달 만에 100달러를 다시 넘어선 수준이 이어졌고, 미 10년물 국채금리는 2023년 10월 이후 최고 수준인 4.85% 안팎에서 유지됐다.",
+    "notes": "외국인이 코스피 2조4,821억원, 코스닥 1조743억원 등 하루에만 3조5,600억원을 순매도했다. 선물옵션 동시만기일(네 마녀의 날)에 따른 포지션 청산, 이월 물량이 집중된 영향이다. 기관은 코스피 4,334억원, 코스닥 1조3,476억원을 순매수하며 코스닥 상승을 주도했고, 개인도 코스피에서 3,802억원을 순매수했다. 삼성전자, SK하이닉스의 자사주 매입 물량이 기타법인 순매수(1조6,671억원)로 집계되며 코스피 하단을 지지했다."
+  },
+  "top_themes": [
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "선물옵션 동시만기일(네 마녀의 날)에 외국인이 코스피와 코스닥에서 하루 만에 3조5,600억원을 순매도했다. 포지션 청산, 이월 물량이 집중된 영향으로, 원/달러 환율은 3.1원 오른 1,339.2원에 마감했다.",
+      "source_url": "https://www.ket.kr/news/article.html?no=40703"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "전날 미이란 충돌 격화 여파로 브렌트유가 배럴당 101.21달러, WTI가 96.05달러로 넉 달 만에 다시 100달러를 넘어선 수준을 유지하며 국내 증시에 부담으로 작용했다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2623771"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "미 중부사령부의 이란 유조선 파괴, 이란의 요르단 미군기지 보복 공격에 이어 이란혁명수비대가 호르무즈 해협 인근에서 미국 선박 2척을 포함한 유조선 등 총 10척을 공격하며 확전 우려가 커졌다.",
+      "source_url": "https://www.blockmedia.co.kr/archives/1138218"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "OpenAI의 신모델 '아스트라' 공개로 AI 반도체 수요 기대가 재확인되며 KRX반도체지수는 0.67% 올랐지만, 삼성전자와 SK하이닉스는 외국인 매도 속에 각각 0.19%, 0.16% 소폭 약세로 마감했다. 두 회사의 자사주 매입발 기타법인 순매수가 코스피 하단을 지지했다.",
+      "source_url": "https://www.mt.co.kr/stock/2026/09/10/2026091016175260537"
+    },
+    {
+      "theme": "조선과 방산",
+      "summary": "한화오션, HD현대중공업 등 조선주는 최근 급등에 대한 차익실현 매물에 각각 2.95%, 2.16% 하락한 반면, 같은 밸류체인인 한화에어로스페이스는 1.91% 오르며 방산, 조선 안에서도 온도차를 보였다.",
+      "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=547185"
+    },
+    {
+      "theme": "2차전지 업황",
+      "summary": "LG에너지솔루션, 삼성SDI 등 배터리 대형주는 차익실현에 하락한 반면 소재주인 에코프로비엠은 3.31% 오르며 나홀로 강세를 보였다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=247540"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "반도체 업종 전반은 강세였지만 외국인 매도 속에 0.19% 내린 269,000원에 마감했다.",
+      "source_url": "https://www.fnnews.com/news/202609101558527073"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "AI 반도체 수요 기대 재확인에도 네 마녀의 날 외국인 매도 속 0.16% 내린 1,853,000원에 마감했다.",
+      "source_url": "https://www.mt.co.kr/stock/2026/09/10/2026091016175260537"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 대형주 차익실현 매물에 1.62% 내린 365,000원에 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "자동차 업종이 강보합을 보인 가운데 0.26% 오른 389,000원에 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
