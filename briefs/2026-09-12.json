@@ -1,0 +1,540 @@
+{
+  "date": "2026-09-12",
+  "generated_at_kst": "2026-09-12T06:45:00+09:00",
+  "mode": "new",
+  "headline": "토요일 휴장 속에 어제 코스피는 국제유가 급등과 국채금리 경계감에 6900선까지 밀렸지만, 밤사이 미국에서는 8월 CPI가 예상에 부합하고 오라클이 AI 클라우드 실적 호조를 발표하면서 금리 인상 확률이 87%까지 치솟았음에도 뉴욕 3대 지수가 나흘 만에 반등했다",
+  "mail_title": "CPI 발표에도 뉴욕은 웃었다, 금리인상 87%",
+  "kr": {
+    "preview": "오늘은 토요일로 국내 증시가 휴장입니다. 어제(11일) 코스피는 미이란 충돌 격화에 따른 국제유가 급등과 미 국채금리 경계감이 겹치며 장중 6,802선까지 밀렸다가, 오후 들어 개인의 저가 매수(코스피 1조8,658억원 순매수)에 낙폭을 줄이며 전 거래일보다 124.01포인트(1.76%) 내린 6,909.91로 마감했습니다. 코스닥도 16.28포인트(1.95%) 내린 820.64로 장을 마쳤습니다. 밤사이 필라델피아반도체지수가 급락한 여파로 삼성전자(-3.53%)와 SK하이닉스(-2.21%)가 동반 약세를 보인 반면, HD현대중공업은 1조722억원 규모 시설투자 계획을 공시하며 5.62% 급등했습니다.\n\n주말을 앞두고 새로 나온 소식은 미국 8월 소비자물가지수(CPI)입니다. 11일(현지시간) 발표된 8월 CPI는 전월비 0.4%, 전년비 3.4% 올라 시장 예상치에 부합했지만 근원 CPI는 전년비 2.4%로 예상보다 소폭 높게 나왔습니다. 이 지표 발표 후 다음 주 9월15~16일 FOMC에서 연준이 3년 만에 기준금리를 인상할 확률은 하루 전 72%에서 87%까지 뛰었는데도, 불확실성이 해소됐다는 안도감에 매수세가 유입되며 나흘 연속 하락하던 뉴욕증시가 일제히 반등했습니다. S&P500이 0.86%, 다우가 0.98%, 나스닥이 0.96% 올랐고, 국제유가는 WTI 기준 2.43% 내린 배럴당 99.99달러로 8거래일 만에 100달러선 아래로 내려왔습니다.\n\n종목별로는 오라클이 클라우드 인프라 매출이 전년 대비 121% 급증한 74억달러를 기록하며 시장 예상을 웃도는 실적을 내놓아 장중 6%대까지 올랐다가 상승폭을 반납하고 0.58% 오른 153.82달러로 마감했습니다. 애플, 알파벳, 마이크로소프트, 아마존, 메타, 테슬라, 엔비디아 등 대형 기술주도 모두 강세를 보였고, 반도체 ETF(SOXX)도 1.42% 오르며 밤사이 미국 반도체, 기술주 심리가 개선된 점은 월요일 국내 반도체 대형주 개장에 긍정적인 신호가 될 수 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,909.91",
+        "change_pct": "-1.76%(-124.01p, 9/11 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/11/2026091114553537737",
+          "https://view.asiae.co.kr/article/2026091115361397997"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "820.64",
+        "change_pct": "-1.95%(-16.28p, 9/11 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/11/2026091114555069264",
+          "https://view.asiae.co.kr/article/2026091115364419793"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "329180",
+        "name": "HD현대중공업",
+        "change_pct": "+5.62%(479,000원, 9/11 종가, 최근 거래일)",
+        "reason": "총 1조722억원 규모 시설투자 계획을 공시하며 중형엔진 생산능력을 연간 3GW급에서 7.2GW급으로 확대한다고 밝혔다. 데이터센터용 발전엔진 증설과 함정, 방산 수주 기대가 겹치며 급등했고, 발표 당일 NH투자증권은 목표주가를 기존보다 3% 상향한 72만원으로 높였다.",
+        "source_url": "https://www.edaily.co.kr/News/Read?newsId=02725686645579136",
+        "source_urls": [
+          "https://www.edaily.co.kr/News/Read?newsId=02725686645579136",
+          "https://www.mt.co.kr/stock/2026/09/11/2026091108452857222"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-3.53%(259,500원, 9/11 종가, 최근 거래일)",
+        "reason": "밤사이 미 국채 10년물 금리가 2023년 10월 이후 최고 수준인 4.964%까지 오르고 필라델피아반도체지수가 2.66% 급락한 여파로 국내 반도체 대형주에 매도세가 집중됐다. 국제유가 급등에 따른 위험자산 회피 심리 속에 외국인이 코스피에서 2조3,041억원을 순매도하며 낙폭을 키웠다.",
+        "source_url": "https://www.mt.co.kr/stock/2026/09/11/2026091116012292347",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/11/2026091116012292347",
+          "https://www.segye.com/newsView/20260911511328"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-2.21%(1,812,000원, 9/11 종가, 최근 거래일)",
+        "reason": "삼성전자와 마찬가지로 밤사이 미 반도체, 기술주 약세와 국채금리 급등 여파로 하락했다. AI 메모리 수요 기대는 이어지고 있지만 고유가, 고금리發 위험자산 회피 심리 속에 외국인, 기관 매도 상위 종목에 이름을 올렸다. 다만 같은 날 밤 미국에서는 CPI 발표 이후 반도체 ETF(SOXX)가 1.42% 반등해 월요일 국내 반도체주에는 우호적인 신호다.",
+        "source_url": "https://www.segye.com/newsView/20260911511328",
+        "source_urls": [
+          "https://www.segye.com/newsView/20260911511328",
+          "https://stockanalysis.com/etf/soxx/"
+        ]
+      },
+      {
+        "ticker": "247540",
+        "name": "에코프로비엠",
+        "change_pct": "-7.08%(110,300원, 9/11 종가, 최근 거래일)",
+        "reason": "직전 2거래일 연속 급등한 데 따른 차익실현 매물이 집중되며 급락했다. 2차전지 소재주 특성상 전기차 수요, 배터리 업황 기대에 민감하게 반응해온 종목으로, LG에너지솔루션(-1.37%), 삼성SDI(-2.85%) 등 2차전지 대형주도 동반 약세를 보인 가운데 낙폭이 가장 컸다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=547566",
+        "source_urls": [
+          "https://www.joongangenews.com/news/articleView.html?idxno=547566",
+          "https://www.cbci.co.kr/news/articleView.html?idxno=605875"
+        ]
+      },
+      {
+        "ticker": "105560",
+        "name": "KB금융",
+        "change_pct": "+2.60%(177,900원, 9/11 종가, 최근 거래일)",
+        "reason": "코스피 전반이 약세를 보인 가운데서도 고금리 국면에 상대적으로 강한 은행주 성격에 힘입어 강세를 보였다. 같은 날 보험 업종지수도 1.56% 오르며 금융주 전반이 시장 대비 선방했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=105560",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=105560",
+          "https://www.fnnews.com/news/202609111555122620"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "미국 증시는 11일(현지시간) 3대 지수가 나흘 만에 반등하며 한 주를 마쳤다. S&P500은 65.28포인트(0.86%) 오른 7,656.98, 다우존스는 509.19포인트(0.98%) 오른 52,573.29, 나스닥종합은 251.31포인트(0.96%) 오른 26,333.04로 마감했다. 노동통계국이 발표한 8월 소비자물가지수(CPI)는 전월비 0.4%, 전년비 3.4% 올라 시장 예상치에 부합했지만 근원 CPI는 전년비 2.4%로 예상보다 소폭 높게 나왔다. 이 지표 발표 후 다음 주 FOMC에서 연준이 3년 만에 기준금리를 인상할 확률은 전날 72%, 일주일 전 50%에서 87%까지 뛰었다. 그럼에도 불확실성이 해소됐다는 안도감에 매수세가 유입되며 지수는 동반 상승했다. 미 국채 10년물 금리는 4.96%로 전일보다 소폭 낮아졌고, 국제유가는 WTI가 2.43% 내린 배럴당 99.99달러로 8거래일 만에 100달러선 아래로 내려왔다. 금값도 0.39% 내린 온스당 4,390.00달러를 기록했다.\n\n종목별로는 오라클이 2026회계연도 1분기 실적에서 클라우드 인프라 매출이 전년 대비 121% 급증한 74억달러, 전체 클라우드 매출은 62% 늘어난 116억달러를 기록하며 시장 예상(매출 191억3,000만달러, 주당순이익 1.75달러)을 웃도는 매출 193억달러, 주당순이익 1.92달러를 발표했다. 분기 중 300억달러가 넘는 신규 AI 클라우드 계약을 체결했다는 소식에 주가는 장중 6%대까지 급등했다가 상승폭을 상당 부분 반납하고 0.58% 오른 153.82달러로 마감했다. 바클레이스는 실적 발표 후 오라클 목표주가를 기존 250달러에서 252달러로 소폭 상향했다. 애플, 알파벳, 마이크로소프트, 아마존, 메타, 테슬라, 엔비디아 등 대형 기술주도 이날 모두 상승 마감했다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,656.98",
+        "change_pct": "+0.86%(+65.28p, 9/11 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,333.04",
+        "change_pct": "+0.96%(+251.31p, 9/11 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "52,573.29",
+        "change_pct": "+0.98%(+509.19p, 9/11 종가)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "ORCL",
+        "name": "Oracle",
+        "change_pct": "+0.58%(9/11 종가, $153.82, 장중 +6%대에서 상승폭 반납)",
+        "reason": "2026회계연도 1분기 실적에서 클라우드 인프라 매출이 전년 대비 121% 급증한 74억달러를 기록하고 분기 중 300억달러 이상의 신규 AI 클라우드 계약을 체결했다고 밝히며 매출과 주당순이익 모두 시장 예상을 웃돌았다. 장중 6%대까지 급등했으나 밸류에이션 부담에 상승폭을 상당 부분 반납했다. 바클레이스는 목표주가를 250달러에서 252달러로 상향했다.",
+        "source_url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+        "source_urls": [
+          "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+          "https://stockanalysis.com/stocks/orcl/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-4.90%(9/11 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 밤사이 미 국채금리 급등과 필라델피아반도체지수 2.66% 급락 여파로 삼성전자(-3.53%), SK하이닉스(-2.21%)를 비롯한 반도체 대형주가 일제히 밀렸다. 이후 밤사이 미국에서는 SOXX가 1.42% 반등해 월요일에는 분위기가 달라질 수 있다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-0.71%(9/11 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 IT서비스 기준. 삼성SDS(-1.98%), 현대오토에버(-1.14%) 등 IT서비스 대형주도 시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://view.asiae.co.kr/article/2026091115490308402",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026091115490308402",
+          "https://alphasquare.co.kr/home/stock-summary?code=018260"
+        ]
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.72%(대표종목 평균, 9/11 종가, 최근 거래일)",
+        "note": "SK텔레콤(+0.55%), LG유플러스(+0.88%) 평균. 고유가, 고금리 국면에도 방어주 성격에 힘입어 시장 대비 견조했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=017670",
+          "https://alphasquare.co.kr/home/stock-summary?code=032640"
+        ]
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.00%(9/11 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 제약 기준. 위험자산 회피 심리 속에 차익실현 매물이 나왔다.",
+        "source_url": "https://view.asiae.co.kr/article/2026091115490308402"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.00%(대표지수 평균, 9/11 종가, 최근 거래일)",
+        "note": "KB금융(+2.60%), KOSPI 업종지수 증권(-1.15%), 보험(+1.56%) 평균. 고금리 국면에 은행, 보험주가 시장 대비 강세를 보인 반면 증권주는 약세였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=105560",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=105560",
+          "https://view.asiae.co.kr/article/2026091115490308402",
+          "https://www.fnnews.com/news/202609111555122620"
+        ]
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-1.79%(9/11 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 유통 기준. 시장 전반의 위험자산 회피 심리 속에 약세를 보였다.",
+        "source_url": "https://view.asiae.co.kr/article/2026091115490308402"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.77%(9/11 종가, 최근 거래일)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 완성차 업종도 시장 전반 약세 흐름에서 자유롭지 못했다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-3.77%(대표종목 평균, 9/11 종가, 최근 거래일)",
+        "note": "LG에너지솔루션(-1.37%), 삼성SDI(-2.85%), 에코프로비엠(-7.08%) 평균. 에코프로비엠이 2거래일 연속 급등 뒤 차익실현 매물에 급락하며 낙폭을 키웠다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=247540",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=247540",
+          "https://alphasquare.co.kr/home/stock-summary?code=373220",
+          "https://alphasquare.co.kr/home/stock-summary?code=006400"
+        ]
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+2.35%(대표종목 평균, 9/11 종가, 최근 거래일)",
+        "note": "HD현대중공업(+5.62%), 한화에어로스페이스(+1.31%), 한화오션(+0.12%) 평균. HD현대중공업의 대규모 엔진 증설 투자계획 공시가 업종 전반의 투자심리를 끌어올렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=329180",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=329180",
+          "https://alphasquare.co.kr/home/stock-summary?code=012450",
+          "https://alphasquare.co.kr/home/stock-summary?code=042660"
+        ]
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.88%(9/11 종가, 최근 거래일)",
+        "note": "KRX 건설지수(KRXCNST) 기준. 코스피 하락장 속에서도 업종지수 기준 상승 업종 중 하나였다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-1.65%(9/11 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 화학 기준. 국제유가 급등에도 위험자산 회피 심리에 약세를 보였다.",
+        "source_url": "https://view.asiae.co.kr/article/2026091115490308402"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-1.73%(9/11 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 금속 기준. 시장 전반의 약세 흐름 속에 하락했다.",
+        "source_url": "https://view.asiae.co.kr/article/2026091115490308402"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.99%(대표종목 평균, 9/11 종가, 최근 거래일)",
+        "note": "네이버(-0.72%), 카카오(-1.29%), 크래프톤(-0.96%) 평균. 외국인 매도 속에 동반 약세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=035420",
+          "https://alphasquare.co.kr/home/stock-summary?code=259960"
+        ]
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+1.74%(대표종목 평균, 9/11 종가, 최근 거래일)",
+        "note": "CJ ENM(+2.49%), 하이브(+0.99%) 평균. 시장 전반 약세 속에서도 상대적으로 견조했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035760",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=035760",
+          "https://alphasquare.co.kr/home/stock-summary?code=352820"
+        ]
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+1.42%(SOXX, 9/11 종가)",
+        "note": "CPI 발표 후 안도 랠리 속에 12개 섹터 중 상승률 1위를 기록하며 전날 낙폭을 일부 만회했다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+1.35%(XLK, 9/11 종가)",
+        "note": "오라클의 AI 클라우드 실적 호조와 매그니피센트7 전반의 강세에 힘입어 크게 반등했다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+1.05%(XLC, 9/11 종가)",
+        "note": "시장 전반의 반등 흐름에 동참하며 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.21%(XLV, 9/11 종가)",
+        "note": "12개 섹터 중 유일하게 약세를 보이며 시장 대비 부진했다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.25%(XLF, 9/11 종가)",
+        "note": "국채금리가 소폭 낮아진 가운데 시장 전반의 반등 흐름 속에 완만한 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+0.67%(XLY, 9/11 종가)",
+        "note": "유가 하락에 따른 소비 여력 개선 기대 속에 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.30%(XLP, 9/11 종가)",
+        "note": "시장 전반의 반등 흐름 속에 완만한 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.84%(XLI, 9/11 종가)",
+        "note": "유가 하락에 따른 물류, 운송비 부담 완화 기대 속에 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+0.44%(XLB, 9/11 종가)",
+        "note": "시장 전반의 반등 흐름 속에 완만한 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+0.05%(XLE, 9/11 종가)",
+        "note": "WTI가 2.43% 내렸음에도 시장 전반의 반등 흐름 속에 보합권에서 소폭 상승 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.09%(XLU, 9/11 종가)",
+        "note": "보합권에서 소폭 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.66%(XLRE, 9/11 종가)",
+        "note": "국채금리가 소폭 낮아지며 부담이 완화돼 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,345.9원",
+      "change_pct": "+0.50%(+6.7원, 9/11 서울외환시장 종가, 최근 거래일)",
+      "source_url": "https://www.fnnews.com/news/202609111533222331"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.07",
+      "change_pct": "+0.26%(9/11 종가)",
+      "source_url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+    },
+    {
+      "name": "금",
+      "value": "$4,390.00",
+      "change_pct": "-0.39%(-$17.30, 9/11 종가)",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
+    },
+    {
+      "name": "WTI",
+      "value": "$99.99",
+      "change_pct": "-2.43%(-$2.49, 9/11 종가, 8거래일 만에 100달러선 하회)",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
+    },
+    {
+      "name": "비트코인",
+      "value": "$77,368.39",
+      "change_pct": "+0.3%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,537.23",
+      "change_pct": "+3.2%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.96%",
+      "change_pct": "-0.01%p(9/11 종가, 2023년 이후 최고권 유지)",
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 국채 10년물 금리는 4.96%로 전일보다 소폭 낮아졌지만 2023년 10월 이후 최고권에 머물러 있다. 달러인덱스는 0.26% 오른 99.07을 기록했고, 원/달러 환율은 직전 거래일인 9월11일 서울외환시장 종가 기준 1,345.9원에 마감했다. WTI는 2.43% 내린 배럴당 99.99달러로 8거래일 만에 100달러선 아래로 내려왔고, 금값도 0.39% 내린 온스당 4,390.00달러로 조정받았다.",
+    "notes": "8월 CPI가 헤드라인 기준 예상에 부합했음에도 근원 CPI가 예상보다 소폭 높게 나오면서, 다음 주 9월15~16일 FOMC에서 연준이 3년 만에 기준금리를 인상할 확률이 87%까지 치솟았다. 국내 증시는 토요일 휴장으로, 월요일 개장에서 이 같은 미국발 신호를 어떻게 반영할지가 관전 포인트다."
+  },
+  "top_themes": [
+    {
+      "theme": "연준 통화정책",
+      "summary": "8월 CPI가 전월비 0.4%, 전년비 3.4%로 시장 예상에 부합했지만 근원 CPI는 전년비 2.4%로 예상보다 소폭 높게 나왔다. 다음 주 9월15~16일 FOMC에서 연준이 3년 만에 기준금리를 인상할 확률은 하루 전 72%에서 87%까지 치솟았는데도, 불확실성 해소에 대한 안도감에 뉴욕 3대 지수는 나흘 만에 반등했다.",
+      "tickers": [],
+      "source_url": "https://www.cbsnews.com/news/august-cpi-report-inflation-fed-rates/"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "미이란 관련 우려가 다소 완화되며 WTI가 2.43% 내린 배럴당 99.99달러로 8거래일 만에 100달러선 아래로 내려왔다. 전날까지 8거래일 연속 급등하며 국내외 증시에 부담을 줬던 유가가 한숨 돌리면서 위험자산 심리 회복에 힘을 보탰다.",
+      "tickers": [],
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
+    },
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "오라클이 2026회계연도 1분기 실적에서 클라우드 인프라 매출이 전년 대비 121% 급증한 74억달러를 기록하고 분기 중 300억달러 이상의 신규 AI 클라우드 계약을 체결했다고 밝히며 시장 예상을 웃도는 실적을 냈다. 장중 6%대까지 급등했다가 밸류에이션 부담에 상승폭을 반납하고 0.58% 상승 마감했으며, 바클레이스는 목표주가를 252달러로 상향했다.",
+      "tickers": [
+        "ORCL"
+      ],
+      "source_url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "밤사이 필라델피아반도체지수 급락 여파로 KRX반도체지수가 4.90% 급락하며 삼성전자(-3.53%), SK하이닉스(-2.21%)가 동반 약세로 마감했다. 다만 이후 미국에서는 CPI 발표를 소화하며 반도체 ETF(SOXX)가 1.42% 반등해, 월요일 국내 반도체 대형주 개장에는 우호적인 신호가 될 수 있다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+    },
+    {
+      "theme": "조선과 방산",
+      "summary": "HD현대중공업이 총 1조722억원 규모의 시설투자 계획을 공시하며 중형엔진 생산능력을 연간 3GW급에서 7.2GW급으로 확대한다고 밝혔다. 함정, 방산 수주 기대까지 겹치며 5.62% 급등했고, NH투자증권은 목표주가를 72만원으로 상향했다.",
+      "tickers": [
+        "329180"
+      ],
+      "source_url": "https://www.edaily.co.kr/News/Read?newsId=02725686645579136"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "매그니피센트7 전반의 반등 속에 9/11 강세로 마감했다. 반도체 ETF(SOXX)는 1.42% 올랐다.",
+      "source_url": "https://stockanalysis.com/etf/soxx/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "매그니피센트7 전반의 반등 흐름 속에 9/11 강세로 마감했다.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "오라클의 AI 클라우드 실적 호조에 클라우드 경쟁사로서 동반 강세를 보이며 9/11 상승 마감했다.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "매그니피센트7 전반의 반등 흐름 속에 9/11 강세로 마감했다.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "시장 전반의 반등 흐름 속에 9/11 기술섹터(XLK +1.35%)의 강세에 동참했다.",
+      "source_url": "https://stockanalysis.com/etf/xlk/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "밤사이 미 반도체주 급락과 국채금리 상승 여파로 9/11 3.53% 내린 259,500원에 마감했다. 이후 미국에서는 CPI 발표 후 SOXX가 1.42% 반등했다.",
+      "source_url": "https://www.mt.co.kr/stock/2026/09/11/2026091116012292347"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "같은 사유로 9/11 2.21% 내린 1,812,000원에 마감했다.",
+      "source_url": "https://www.segye.com/newsView/20260911511328"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 전반의 약세 속에 9/11 1.37% 내린 360,000원에 마감했다.",
+      "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=547567"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "KRX 자동차지수(-0.77%) 약세 속에 9/11 1.67% 내린 382,500원에 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "어제(11일) 밤사이 미 국채금리 급등과 필라델피아반도체지수 2.66% 급락 여파로 2.21% 내린 181만2,000원에 마감했다. 그런데 이후 발표된 미국 8월 CPI가 예상에 부합하자 안도 매수세가 유입되며 반도체 ETF(SOXX)가 1.42% 반등했고, 오라클의 AI 클라우드 실적 호조까지 겹치며 AI 인프라 수요에 대한 투자심리가 개선됐다. 월요일 국내 반도체 대형주 개장에서 이 흐름이 어떻게 반영될지가 관전 포인트다.",
+      "catalysts": [
+        "월요일(9/14) 개장에서 간밤 미국 반도체 반등의 반영 여부",
+        "9월15~16일(현지시간) FOMC 회의",
+        "9월30일 마이크론 2026회계연도 4분기 실적 발표"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 272,000원",
+        "resistance": "52주 최고가 2,987,000원(2026-06-25)",
+        "analyst_target_cited": "KB증권, 2026-07-03, 매수, 목표주가 420만원"
+      },
+      "risk": "다음 주 FOMC에서 연준이 실제로 3년 만의 금리 인상을 단행할 경우, 성장주 밸류에이션 조정 압력이 커지며 반도체 대형주도 변동성이 확대될 수 있다.",
+      "sources": [
+        "https://www.segye.com/newsView/20260911511328",
+        "https://stockanalysis.com/etf/soxx/"
+      ]
+    },
+    {
+      "ticker": "329180",
+      "name": "HD현대중공업",
+      "market": "KR",
+      "thesis": "어제(11일) 총 1조722억원 규모 시설투자 계획을 공시하며 중형엔진 생산능력을 연간 3GW급에서 7.2GW급으로 확대한다고 밝혀 5.62% 급등한 47만9,000원에 마감했다. 데이터센터용 발전엔진 수요 확대와 함정, 방산 수주 기대가 겹친 결과로, 발표 당일 NH투자증권은 데이터센터용 엔진 증설을 근거로 목표주가를 기존보다 3% 상향한 72만원으로 높였다.",
+      "catalysts": [
+        "데이터센터용 발전엔진 신규 수주 계약 체결 여부",
+        "필리핀 등 해외 함정사업 확대 여부",
+        "10월 예정 3분기 실적 발표"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 411,500원",
+        "resistance": "52주 최고가 765,000원",
+        "analyst_target_cited": "NH투자증권, 2026-09-11, 목표주가 72만원(상향)"
+      },
+      "risk": "시설투자 계획이 실제 수주, 매출로 이어지는 데는 시간이 걸리는 만큼, 단기 급등에 따른 차익실현 매물이 나올 수 있다.",
+      "sources": [
+        "https://www.edaily.co.kr/News/Read?newsId=02725686645579136",
+        "https://www.mt.co.kr/stock/2026/09/11/2026091108452857222"
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "market": "US",
+      "thesis": "2026회계연도 1분기 실적에서 클라우드 인프라 매출이 전년 대비 121% 급증한 74억달러를 기록하고 분기 중 300억달러 이상의 신규 AI 클라우드 계약을 체결했다고 밝히며 매출(193억달러)과 주당순이익(1.92달러) 모두 시장 예상을 웃돌았다. 장중 6%대까지 급등했다가 밸류에이션 부담에 상승폭을 상당 부분 반납하고 0.58% 오른 153.82달러로 마감했다.",
+      "catalysts": [
+        "신규 AI 클라우드 계약의 실제 매출 인식 시기",
+        "다음 분기 클라우드 인프라 매출 성장률 지속 여부",
+        "9월15~16일 FOMC 회의 결과에 따른 성장주 전반의 밸류에이션 변화"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 $114.50",
+        "resistance": "52주 최고가 $331.00",
+        "analyst_target_cited": "바클레이스, 2026-09-11, 목표주가 252달러(기존 250달러에서 상향)"
+      },
+      "risk": "AI 클라우드 계약 잔고가 커진 만큼, 실제 매출로 전환되는 속도가 시장 기대에 못 미치거나 관련 설비투자 부담이 부각되면 장중 급등분을 반납한 것처럼 추가 조정을 받을 수 있다.",
+      "sources": [
+        "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+        "https://stockanalysis.com/stocks/orcl/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
