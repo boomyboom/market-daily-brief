@@ -1,0 +1,496 @@
+{
+  "date": "2026-09-14",
+  "generated_at_kst": "2026-09-14T07:40:00+09:00",
+  "mode": "new",
+  "headline": "지난 금요일 국제유가 급등과 미 국채금리 경계감에 6900선까지 밀렸던 코스피가, 주말 새 개인마저 삼성전자와 SK하이닉스를 팔아치우며 이번 주 후반 FOMC를 앞두고 불안한 한 주를 시작한다",
+  "mail_title": "개미도 등돌린 반도체, 이번주 FOMC 촉각",
+  "kr": {
+    "preview": "지난 금요일(11일) 코스피는 미이란 충돌 격화에 따른 국제유가 급등과 미 국채금리 경계감이 겹치며 장중 6,802선까지 밀렸다가, 개인의 저가 매수에 낙폭을 줄이며 전 거래일보다 124.01포인트(1.76%) 내린 6,909.91로 마감해 7,000선을 다시 내줬습니다. 코스닥도 16.28포인트(1.95%) 내린 820.64로 장을 마쳤습니다. 필라델피아반도체지수 급락 여파로 삼성전자(-3.53%)와 SK하이닉스(-2.21%)가 동반 약세를 보인 반면, HD현대중공업은 대규모 시설투자 계획을 공시하며 급등해 업종 안에서도 온도차가 컸습니다.\n\n주말 사이 새로 나온 소식 중 가장 눈에 띄는 건 반도체 대형주에 대한 수급 변화입니다. 개인 투자자들이 이달 들어 삼성전자를 5조2,120억원, SK하이닉스를 7조8,180억원 규모로 순매도한 것으로 집계돼, 지난 5월부터 8월까지 넉 달 연속 순매수하던 흐름이 9월 들어 완전히 뒤집혔습니다. 외국인도 두 종목을 각각 1조9,600억원씩 순매도하며 5개월째 매도 우위를 이어가, 두 축의 매수 주체가 동시에 이탈한 셈입니다. 원/달러 환율이 1,300원대 중반까지 내려오며 환전 부담이 줄자 개인 자금이 알파벳, 브로드컴, 메타 등 미국 기술주로 옮겨간 영향도 있는 것으로 풀이됩니다. 다만 삼성전자와 SK하이닉스는 지난달 20~28일에만 약 10조3,000억원 규모 자사주를 사들였고 앞으로도 약 44조7,000억원의 잔여 매입 여력이 남아 있어, 이 자사주 매입이 외국인, 개인의 동반 매도를 얼마나 흡수하는지가 이번 주 반도체 대형주의 관전 포인트로 꼽힙니다.\n\n또 하나의 새 소식은 주말 인도 뉴델리에서 열린 브릭스(BRICS) 정상회의입니다. 대립해온 이란과 아랍에미리트(UAE)가 12일 채택된 공동선언에 나란히 서명하며 중동 정세에 최대한의 자제를 촉구했는데, 이는 지난 5월 이후 처음 있는 일입니다. 여전히 확전 우려가 완전히 가시진 않았지만 외교적 진전 신호로 해석되며, 주말 새 WTI 가격이 배럴당 100달러 아래로 내려오는 데도 힘을 보탰습니다. 이번 주 가장 큰 변수는 미국시간 15~16일 열리는 FOMC로, 결과는 한국시간 17일 새벽 3시에 나옵니다. 8월 근원 CPI가 예상보다 높게 나온 뒤 CME 페드워치 기준 25bp 인상 확률이 85%대까지 치솟은 상태라, 실제 인상 여부는 물론 점도표와 워시 의장의 발언 수위에 따라 이번 주 내내 코스피 변동성이 커질 수 있습니다. NH투자증권은 이번 주 코스피 밴드로 6,400~7,400을 제시하며 반도체, ESS, AI 플랫폼, 증권 업종을 주목할 업종으로 꼽았습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,909.91",
+        "change_pct": "-1.76%(-124.01p, 9/11 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.gukjenews.com/news/articleView.html?idxno=3692370",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=276778"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "820.64",
+        "change_pct": "-1.95%(-16.28p, 9/11 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2624571",
+          "https://www.seoulfn.com/news/articleView.html?idxno=637772"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-3.53%(259,500원, 9/11 종가, 최근 거래일)",
+        "reason": "밤사이 미 국채금리 급등과 필라델피아반도체지수 급락 여파로 9/11 3.53% 내린 채 마감한 데 이어, 주말 사이 개인 투자자가 이달 들어서만 5조2,120억원어치를 순매도한 것으로 집계돼 5월부터 이어진 순매수 흐름이 9월 들어 순매도로 전환된 사실이 새로 확인됐다. 외국인도 같은 기간 1조9,600억원을 순매도해 5개월째 매도 우위를 이어갔다. 다만 지난달 20~28일 대규모 자사주를 매입한 데 이어 잔여 매입 여력이 남아 있어, 이번 주 이 물량이 매도세를 얼마나 상쇄할지가 관전 포인트로 떠올랐다.",
+        "source_url": "https://www.segye.com/newsView/20260913509456",
+        "source_urls": [
+          "https://www.segye.com/newsView/20260913509456",
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1722408"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-2.21%(1,812,000원, 9/11 종가, 최근 거래일)",
+        "reason": "삼성전자와 같은 사유로 9/11 2.21% 내린 채 마감했고, 주말 새 개인이 이달 들어 7조8,180억원을 순매도해 넉 달 만에 매도 우위로 돌아선 것으로 나타났다. 원화 강세로 환전 부담이 줄면서 개인 자금이 미국 기술주로 옮겨간 영향도 있는 것으로 분석된다. 단일종목 레버리지 ETF 규제로 관련 상품의 자산규모가 고점 대비 42% 수준까지 줄어든 점도 수급에 부담을 준 것으로 풀이된다.",
+        "source_url": "https://www.segye.com/newsView/20260913509456",
+        "source_urls": [
+          "https://www.segye.com/newsView/20260913509456",
+          "https://www.tokenpost.kr/news/market/381774"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "미국 증시는 지난 금요일(11일, 현지시간) 3대 지수가 나흘 만에 반등하며 한 주를 마쳤다. S&P500이 0.86%, 다우가 0.98%, 나스닥이 0.96% 올랐다. 노동통계국이 발표한 8월 CPI가 전월비 0.4%, 전년비 3.4%로 예상에 부합했지만 근원 CPI는 2.4%로 예상보다 소폭 높게 나왔는데도, 불확실성 해소에 대한 안도감에 매수세가 유입됐다. 오라클은 클라우드 인프라 매출이 전년 대비 121% 급증했다고 밝히며 장중 6%대까지 급등했다가 밸류에이션 부담에 상승폭을 반납하고 0.58% 오른 채 마감했다. 주말 사이 새로 나온 소식으로는 스티펠이 마진 압박을 이유로 오라클 목표주가를 220달러에서 200달러로 낮춘 반면, 바클레이스는 252달러로 상향해 실적 이후 애널리스트 시각이 엇갈리고 있다는 점이 확인됐다. 미 증시는 이번 주 15~16일 FOMC를 최대 변수로 주시하고 있으며, 결과는 한국시간 17일 새벽 발표된다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,656.98",
+        "change_pct": "+0.86%(+65.28p, 9/11 종가, 최근 거래일)",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/orcl/",
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,333.04",
+        "change_pct": "+0.96%(+251.31p, 9/11 종가, 최근 거래일)",
+        "source_urls": [
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "52,573.29",
+        "change_pct": "+0.98%(+509.19p, 9/11 종가, 최근 거래일)",
+        "source_urls": [
+          "https://tradingeconomics.com/united-states/stock-market"
+        ]
+      }
+    ],
+    "notable": []
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-4.90%(9/11 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 밤사이 미 국채금리 급등과 필라델피아반도체지수 급락 여파로 삼성전자, SK하이닉스가 동반 하락했다. 주말 사이 두 종목에서 개인, 외국인 동반 순매도 전환이 확인돼 이번 주 초반 수급 부담이 이어질 수 있다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-0.71%(9/11 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 IT서비스 기준. 시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.72%(대표종목 평균, 9/11 종가, 최근 거래일)",
+        "note": "SK텔레콤(+0.55%), LG유플러스(+0.88%) 평균. 고유가, 고금리 국면에도 방어주 성격에 힘입어 시장 대비 견조했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=017670",
+          "https://alphasquare.co.kr/home/stock-summary?code=032640"
+        ]
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.00%(9/11 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 제약 기준. 위험자산 회피 심리 속에 차익실현 매물이 나왔다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.00%(대표지수 평균, 9/11 종가, 최근 거래일)",
+        "note": "KB금융(+2.60%), KOSPI 업종지수 증권(-1.15%), 보험(+1.56%) 평균. 고금리 국면에 은행, 보험주가 강세를 보인 반면 증권주는 약세였다. NH투자증권은 이번 주 증권 업종을 주목할 업종으로 꼽았다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=105560",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=105560",
+          "https://www.fnnews.com/news/202609131912458761"
+        ]
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-1.79%(9/11 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 유통 기준. 시장 전반의 위험자산 회피 심리 속에 약세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/kospi-components"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.77%(9/11 종가, 최근 거래일)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 완성차 업종도 시장 전반 약세 흐름에서 자유롭지 못했다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-3.77%(대표종목 평균, 9/11 종가, 최근 거래일)",
+        "note": "LG에너지솔루션(-1.37%), 삼성SDI(-2.85%), 에코프로비엠(-7.08%) 평균. 직전 2거래일 급등에 따른 차익실현 매물이 집중됐다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=247540",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=247540",
+          "https://alphasquare.co.kr/home/stock-summary?code=373220"
+        ]
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+2.35%(대표종목 평균, 9/11 종가, 최근 거래일)",
+        "note": "HD현대중공업(+5.62%), 한화에어로스페이스(+1.31%), 한화오션(+0.12%) 평균. HD현대중공업의 대규모 엔진 증설 투자계획 공시가 업종 전반의 투자심리를 끌어올렸다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=329180",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=329180",
+          "https://alphasquare.co.kr/home/stock-summary?code=012450"
+        ]
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.88%(9/11 종가, 최근 거래일)",
+        "note": "KRX 건설지수(KRXCNST) 기준. 코스피 하락장 속에서도 업종지수 기준 상승 업종 중 하나였다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-1.65%(9/11 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 화학 기준. 국제유가 급등에도 위험자산 회피 심리에 약세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-1.73%(9/11 종가, 최근 거래일)",
+        "note": "KOSPI 업종지수 금속 기준. 시장 전반의 약세 흐름 속에 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.99%(대표종목 평균, 9/11 종가, 최근 거래일)",
+        "note": "네이버(-0.72%), 카카오(-1.29%), 크래프톤(-0.96%) 평균. 외국인 매도 속에 동반 약세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=035420",
+          "https://alphasquare.co.kr/home/stock-summary?code=259960"
+        ]
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+1.74%(대표종목 평균, 9/11 종가, 최근 거래일)",
+        "note": "CJ ENM(+2.49%), 하이브(+0.99%) 평균. 시장 전반 약세 속에서도 상대적으로 견조했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035760",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=035760",
+          "https://alphasquare.co.kr/home/stock-summary?code=352820"
+        ]
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+1.42%(SOXX, 9/11 종가, 최근 거래일)",
+        "note": "CPI 발표 후 안도 랠리 속에 12개 섹터 중 상승률 1위를 기록하며 전날 낙폭을 일부 만회했다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+1.35%(XLK, 9/11 종가, 최근 거래일)",
+        "note": "오라클의 AI 클라우드 실적 호조와 매그니피센트7 전반의 강세에 힘입어 크게 반등했다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+1.05%(XLC, 9/11 종가, 최근 거래일)",
+        "note": "시장 전반의 반등 흐름에 동참하며 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.21%(XLV, 9/11 종가, 최근 거래일)",
+        "note": "12개 섹터 중 유일하게 약세를 보이며 시장 대비 부진했다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.25%(XLF, 9/11 종가, 최근 거래일)",
+        "note": "국채금리가 소폭 낮아진 가운데 시장 전반의 반등 흐름 속에 완만한 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+0.67%(XLY, 9/11 종가, 최근 거래일)",
+        "note": "유가 하락에 따른 소비 여력 개선 기대 속에 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xly/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.30%(XLP, 9/11 종가, 최근 거래일)",
+        "note": "시장 전반의 반등 흐름 속에 완만한 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.84%(XLI, 9/11 종가, 최근 거래일)",
+        "note": "유가 하락에 따른 물류, 운송비 부담 완화 기대 속에 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xli/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+0.44%(XLB, 9/11 종가, 최근 거래일)",
+        "note": "시장 전반의 반등 흐름 속에 완만한 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+0.05%(XLE, 9/11 종가, 최근 거래일)",
+        "note": "WTI가 하락했음에도 시장 전반의 반등 흐름 속에 보합권에서 소폭 상승 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xle/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.09%(XLU, 9/11 종가, 최근 거래일)",
+        "note": "보합권에서 소폭 강세로 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.66%(XLRE, 9/11 종가, 최근 거래일)",
+        "note": "국채금리가 소폭 낮아지며 부담이 완화돼 강세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,345.9원",
+      "change_pct": "+0.50%(+6.7원, 9/11 서울외환시장 종가, 최근 거래일)",
+      "source_url": "https://www.fnnews.com/news/202609131912458761"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.12",
+      "change_pct": "+0.07%(9/11 종가, 최근 거래일)",
+      "source_url": "https://tradingeconomics.com/dxy:cur"
+    },
+    {
+      "name": "금",
+      "value": "$4,350.36",
+      "change_pct": "+0.76%(+$33.02, 9/11 종가, 최근 거래일)",
+      "source_url": "https://tradingeconomics.com/commodity/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$99.99",
+      "change_pct": "-2.37%(9/11 종가, 최근 거래일, 8거래일 만에 100달러선 하회)",
+      "source_url": "https://tradingeconomics.com/commodity/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$77,357",
+      "change_pct": "+0.2%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,511",
+      "change_pct": "-0.5%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.97%",
+      "change_pct": "+0.01%p(9/11 종가, 2023년 이후 최고권 유지)",
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 국채 10년물 금리는 4.97%로 2023년 10월 이후 최고권에 머물러 있다. 달러인덱스는 99.12로 소폭 올랐고, 원/달러 환율은 직전 거래일 서울외환시장 종가 기준 1,345.9원이다. WTI는 배럴당 99.99달러로 8거래일 만에 100달러선 아래로 내려왔고, 금값은 온스당 4,350.36달러를 기록했다.",
+    "notes": "주말 사이 인도 뉴델리 브릭스 정상회의에서 이란과 UAE가 중동 정세에 최대한의 자제를 촉구하는 공동선언에 서명하며 외교적 진전 신호가 나왔다. 이번 주 최대 변수는 미국시간 15~16일 열리는 FOMC로, 8월 근원 CPI가 예상보다 높게 나온 뒤 CME 페드워치 기준 25bp 인상 확률이 85%대까지 올라온 상태다. 결과는 한국시간 17일 새벽 3시에 발표된다."
+  },
+  "top_themes": [
+    {
+      "theme": "연준 통화정책",
+      "summary": "8월 근원 CPI가 예상보다 높게 나온 뒤 CME 페드워치 기준 이번 주 FOMC에서 연준이 25bp 금리를 인상할 확률이 85%대까지 올라왔다. NH투자증권은 실제 인상 여부보다 점도표와 워시 의장의 발언 수위가 더 중요한 변수라고 짚었다. 결과는 한국시간 17일 새벽 3시 발표된다.",
+      "tickers": [],
+      "source_url": "https://finance.yahoo.com/economy/policy/articles/fomc-september-2026-odds-rate-201618784.html"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "주말 인도 뉴델리에서 열린 브릭스 정상회의에서 그동안 대립해온 이란과 UAE가 중동 정세에 최대한의 자제를 촉구하는 공동선언에 나란히 서명했다. 지난 5월 이후 처음 있는 외교적 진전으로, 확전 우려가 완전히 가시진 않았지만 위험자산 심리에 일부 숨통을 틔웠다.",
+      "tickers": [],
+      "source_url": "https://www.thenationalnews.com/news/asia/2026/09/12/brics-agrees-joint-declaration-calling-for-maximum-restraint-in-middle-east/"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "WTI가 배럴당 99.99달러로 8거래일 만에 100달러선 아래로 내려왔다. 미이란 관련 외교적 진전 신호가 가격 하락 압력으로 작용했다.",
+      "tickers": [],
+      "source_url": "https://tradingeconomics.com/commodity/crude-oil"
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "주말 사이 개인 투자자가 이달 들어 삼성전자를 5조2,120억원, SK하이닉스를 7조8,180억원 순매도한 것으로 집계돼 5월부터 이어진 순매수 흐름이 9월 들어 순매도로 전환된 사실이 확인됐다. 외국인도 5개월째 매도 우위를 이어가는 가운데, 두 회사의 자사주 매입 여력이 이번 주 수급 부담을 얼마나 상쇄할지가 관건이다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.segye.com/newsView/20260913509456"
+    },
+    {
+      "theme": "레버리지 ETF 규제",
+      "summary": "삼성전자, SK하이닉스 단일종목 레버리지 ETF에 대한 금융당국의 기본예탁금 상향 조치로 관련 상품의 자산규모가 고점 대비 42~45% 수준까지 줄었다. 다만 해당 자금 일부가 반도체 레버리지 ETF로 옮겨가는 흐름도 함께 나타나고 있다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.tokenpost.kr/news/market/381774"
+    },
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "오라클 실적 발표 이후 애널리스트 시각이 갈리고 있다. 스티펠은 마진 압박을 이유로 목표주가를 220달러에서 200달러로 낮춘 반면, 바클레이스는 252달러로 상향했다.",
+      "tickers": [
+        "ORCL"
+      ],
+      "source_url": "https://ca.investing.com/news/stock-market-news/stifel-cuts-oracle-stock-price-target-on-margin-pressure-93CH-4836795"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "매그니피센트7 전반의 반등 속에 9/11 강세로 마감했다. 반도체 ETF(SOXX)는 1.42% 올랐다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "매그니피센트7 전반의 반등 흐름 속에 9/11 강세로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "오라클의 AI 클라우드 실적 호조에 클라우드 경쟁사로서 동반 강세를 보이며 9/11 상승 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "매그니피센트7 전반의 반등 흐름 속에 9/11 강세로 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "시장 전반의 반등 흐름 속에 9/11 기술섹터(XLK +1.35%)의 강세에 동참했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "9/11 3.53% 내린 259,500원에 마감한 데 이어, 주말 새 개인이 이달 들어 5조2,120억원을 순매도한 사실이 확인됐다.",
+      "source_url": "https://www.segye.com/newsView/20260913509456"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "9/11 2.21% 내린 1,812,000원에 마감한 데 이어, 개인이 이달 들어 7조8,180억원을 순매도해 넉 달 만에 매도 우위로 전환됐다.",
+      "source_url": "https://www.segye.com/newsView/20260913509456"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 전반의 약세 속에 9/11 1.37% 내린 360,000원에 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "KRX 자동차지수(-0.77%) 약세 속에 9/11 1.67% 내린 382,500원에 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "지난 금요일(11일) 밤사이 미 국채금리 급등과 필라델피아반도체지수 급락 여파로 2.21% 내린 181만2,000원에 마감했다. 주말 새 개인 투자자가 이달 들어 7조8,180억원을 순매도해 5월부터 이어진 순매수 흐름이 넉 달 만에 순매도로 전환된 사실이 확인됐고, 외국인도 1조9,600억원을 순매도해 5개월째 매도 우위를 이어갔다. 다만 지난달 대규모 자사주를 매입한 데 이어 약 44조7,000억원의 잔여 매입 여력이 남아 있어, 이번 주 이 물량이 매도 압력을 얼마나 상쇄하는지가 관전 포인트다.",
+      "catalysts": [
+        "이번 주 삼성전자, SK하이닉스 자사주 매입 재개 여부",
+        "9월15~16일(현지시간) FOMC 회의 결과(한국시간 17일 새벽 발표)",
+        "9월30일 마이크론 2026회계연도 4분기 실적 발표"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 272,000원",
+        "resistance": "52주 최고가 2,987,000원(2026-06-25)",
+        "analyst_target_cited": "KB증권, 2026-07-03, 매수, 목표주가 420만원"
+      },
+      "risk": "이번 주 FOMC에서 연준이 실제로 금리를 인상할 경우, 성장주 밸류에이션 조정 압력이 커지며 외국인, 개인의 동반 매도세가 심화될 수 있다.",
+      "sources": [
+        "https://www.segye.com/newsView/20260913509456",
+        "https://www.ebn.co.kr/news/articleView.html?idxno=1722408"
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "지난 금요일(11일) 반도체 대형주 동반 약세 속에 3.53% 내린 25만9,500원에 마감했다. 주말 새 개인이 이달 들어 5조2,120억원을 순매도한 사실이 확인돼 SK하이닉스와 마찬가지로 수급 주체 이탈이 뚜렷해졌다. 원화 강세로 환전 부담이 줄면서 개인 자금 일부가 미국 기술주로 옮겨간 영향도 있는 것으로 분석된다.",
+      "catalysts": [
+        "이번 주 자사주 매입 재개 여부",
+        "9월15~16일(현지시간) FOMC 회의 결과(한국시간 17일 새벽 발표)",
+        "단일종목 레버리지 ETF 매매단위 확대 시행 예정(11월)"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 54,500원",
+        "resistance": "52주 최고가 331,000원",
+        "analyst_target_cited": "KB증권, 2026-07-03, 매수, 목표주가 42만원(SK하이닉스 목표가와 별도 밴드)"
+      },
+      "risk": "외국인, 개인 동반 순매도가 이어지는 가운데 FOMC 결과에 따라 성장주 전반의 조정 압력이 커질 수 있다.",
+      "sources": [
+        "https://www.segye.com/newsView/20260913509456",
+        "https://www.tokenpost.kr/news/market/381774"
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "market": "US",
+      "thesis": "지난 금요일(11일) 클라우드 인프라 매출 121% 급증 발표에 장중 6%대까지 급등했다가 밸류에이션 부담에 상승폭을 반납하고 0.58% 오른 153.82달러로 마감했다. 주말 새 스티펠이 마진 압박(매출총이익률 전년 대비 약 1,000bp 하락)을 이유로 목표주가를 220달러에서 200달러로 낮춘 반면, 바클레이스는 252달러로 상향해 실적 이후 애널리스트 시각이 뚜렷하게 갈리고 있다.",
+      "catalysts": [
+        "신규 AI 클라우드 계약의 실제 매출 인식 시기",
+        "다음 분기 클라우드 인프라 매출총이익률 개선 여부",
+        "9월15~16일 FOMC 회의 결과에 따른 성장주 전반의 밸류에이션 변화"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 $114.50",
+        "resistance": "52주 최고가 $331.00",
+        "analyst_target_cited": "스티펠, 2026-09-11, 매수, 목표주가 200달러(기존 220달러에서 하향) / 바클레이스, 2026-09-11, 목표주가 252달러(상향)"
+      },
+      "risk": "마진 압박이 이어지는 가운데 AI 클라우드 계약 잔고의 실제 매출 전환 속도가 시장 기대에 못 미치면 장중 급등분을 반납한 것처럼 추가 조정을 받을 수 있다.",
+      "sources": [
+        "https://ca.investing.com/news/stock-market-news/stifel-cuts-oracle-stock-price-target-on-margin-pressure-93CH-4836795",
+        "https://stockanalysis.com/stocks/orcl/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
