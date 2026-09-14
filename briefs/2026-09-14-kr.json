@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-14",
+  "session": "kr_close",
+  "generated_at_kst": "2026-09-14T19:00:00+09:00",
+  "headline": "앤트로픽 CEO를 비롯한 AI 4대장이 일제히 AI 개발 속도조절론을 꺼내들고 호르무즈 회담 연기와 사우디 송유관 피격까지 겹치자 외국인이 코스피에서 4거래일 연속 순매도에 나서며 코스피가 3.26% 급락한 6684.37로 밀렸다",
+  "mail_title": "AI 브레이크 걸자 반도체 6%대 급락",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 225.54포인트(3.26%) 내린 6,684.37에 마감했습니다. 코스닥도 13.85포인트(1.69%) 내린 806.79로 장을 마쳤습니다. 지난 주말 새 개인이 삼성전자와 SK하이닉스를 대거 순매도했다는 소식으로 불안하게 출발한 코스피는, 장중 앤트로픽 최고경영자(CEO) 다리오 아모데이가 개인 블로그에 올린 AI 개발 속도조절론이 재확산하면서 낙폭을 키웠습니다. 아모데이 CEO는 지금 속도를 조절하지 않으면 6개월에서 12개월 안에 AI 에이전트들이 인터넷 전반에서 광범위하게 활동해 파국적 피해를 초래할 수 있다고 경고했고, 샘 올트먼 오픈AI CEO와 일론 머스크 스페이스X CEO, 데미스 허사비스 구글 딥마인드 CEO가 잇따라 공감을 표하면서 AI 투자 사이클 전반에 대한 재평가 심리가 반도체 대형주로 옮겨붙었습니다. 삼성전자는 4.05% 내린 24만9,000원, SK하이닉스는 6.35% 내린 169만7,000원에 마감했고, SK스퀘어도 8.17% 급락했습니다.\n\n중동에서도 새로운 악재가 겹쳤습니다. 호르무즈 해협 통항 문제를 논의하기 위해 오만에서 열릴 예정이던 이란과 걸프국가 회의가 막판에 연기됐고, 사우디아라비아가 호르무즈 우회로로 활용해온 핵심 동서송유관이 이란발 공격을 받은 뒤 예방 차원에서 가동을 중단했습니다. 이 송유관은 하루 최대 700만 배럴을 실어나르는 시설로, 공급 차질 우려에 WTI는 2.47% 오른 배럴당 102.52달러, 브렌트유는 108달러에 육박했습니다. 여기에 지난주 발표된 미국 8월 근원 CPI가 예상을 웃돌면서 이번 주 15~16일(현지시간) FOMC에서 연준이 기준금리를 오히려 인상할 확률이 86%까지 치솟은 점도 위험자산 회피 심리를 자극했습니다.\n\n수급에서는 외국인이 코스피에서 4거래일 연속 순매도를 이어가며 이날 하루 3조2,996억원, 기관도 1조1,716억원을 팔아치웠습니다. 개인이 2조9,723억원을 순매수하며 방어에 나섰지만 역부족이었습니다. 업종별로는 전기전자(-4.75%), 건설(-4.10%, 금리 부담과 자재비 우려에 대우건설, GS건설 등이 동반 급락), 제조업(-3.85%)이 낙폭을 주도한 반면, 섬유의류(+1.47%), 운송창고(+1.81%), 오락문화(+1.14%)는 상승했습니다. 금리 상승 수혜주로 꼽히는 은행주는 KB금융(+2.08%), 하나금융지주(+2.18%) 등이 강세를 보이며 시장 대비 선방했습니다.\n\n이런 가운데서도 독자적인 재료를 가진 종목들은 뚜렷하게 움직였습니다. 젠슨 황 엔비디아 CEO가 지난 10일 골드만삭스 기술 콘퍼런스에서 사이버보안이 AI의 다음 주요 활용처가 될 것이라고 언급한 데 힘입어 샌즈랩이 상한가(7,160원)를 기록했고 라온시큐어, 파수AI, 지니언스 등도 동반 급등했습니다. AI 데이터센터용 광통신 인프라 기대가 이어지며 광전자도 상한가(1만270원)를 기록했습니다. 방산주도 저력을 보였는데, 한화에어로스페이스는 크로아티아에 다연장로켓 천무를 수출하는 계약을 확인하며 4.26% 오른 112만7,000원에 마감했습니다. 한국투자증권은 이 계약이 폴란드 현지화를 발판 삼은 유럽 내 추가 수출로 이어질 수 있다며 목표주가 200만원과 방산업종 최선호주 의견을 유지했습니다.\n\n원/달러 환율은 1.4원 오른 1,347.3원에 마감했습니다. FOMC 결과는 한국시간 17일 새벽 3시에 발표되는 만큼, 이번 주 내내 금리 결정과 중동 정세, AI 속도조절론의 후속 파장이 코스피 방향을 좌우할 전망입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,684.37",
+        "change_pct": "-3.26%(-225.54p)",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026091415351455545",
+          "https://www.etoday.co.kr/news/view/2625291"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "806.79",
+        "change_pct": "-1.69%(-13.85p)",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026091415352662201",
+          "https://www.etoday.co.kr/news/view/2625290"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-6.35%(1,697,000원)",
+        "reason": "앤트로픽 CEO 다리오 아모데이를 비롯한 AI 4대장(오픈AI, 스페이스X, 구글 딥마인드 수장)이 일제히 AI 개발 속도조절론에 공감을 표하면서 AI 투자 사이클에 대한 재평가 심리가 확산해 반도체 대형주에 매도세가 집중됐다. 외국인이 SK하이닉스만 2조652억원, 기관도 4,571억원을 순매도했다.",
+        "source_url": "https://www.segye.com/newsView/20260914514390",
+        "source_urls": [
+          "https://www.segye.com/newsView/20260914514390",
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217951"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-4.05%(249,000원)",
+        "reason": "SK하이닉스와 같은 사유로 반도체 대형주 전반에 매도세가 집중됐다. 외국인이 8,482억원, 기관이 4,451억원을 순매도했고, 여기에 미국 금리 인상 우려와 국제유가 상승에 따른 위험자산 회피 심리까지 겹쳤다.",
+        "source_url": "https://www.segye.com/newsView/20260914514390",
+        "source_urls": [
+          "https://www.segye.com/newsView/20260914514390",
+          "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217951"
+        ]
+      },
+      {
+        "ticker": "411080",
+        "name": "샌즈랩",
+        "change_pct": "+29.95%(상한가, 7,160원)",
+        "reason": "젠슨 황 엔비디아 CEO가 지난 10일 골드만삭스 기술 콘퍼런스에서 사이버보안이 AI의 다음 주요 활용처가 될 가능성이 높다고 언급하면서 국내 사이버보안 관련주에 매수세가 몰렸다. 라온시큐어(+20%대), 파수AI(+12.98%), 지니언스(+14.45%) 등도 동반 급등했다.",
+        "source_url": "https://www.mt.co.kr/stock/2026/09/14/2026091409252396451",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/14/2026091409252396451",
+          "https://www.ajunews.com/view/20260914100855517"
+        ]
+      },
+      {
+        "ticker": "017900",
+        "name": "광전자",
+        "change_pct": "+30.00%(상한가, 10,270원)",
+        "reason": "AI 데이터센터 확대에 따른 고속 데이터 전송 병목 해소 기대와 정부의 6G 육성 정책을 배경으로 광통신, 광반도체 테마가 재차 강한 상승을 보이며 상한가를 기록했다. 우리넷 등 다른 광통신 관련주도 동반 급등했다.",
+        "source_url": "https://www.job-post.co.kr/news/articleView.html?idxno=227398",
+        "source_urls": [
+          "https://www.job-post.co.kr/news/articleView.html?idxno=227398",
+          "https://www.joongangenews.com/news/articleView.html?idxno=547846"
+        ]
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "change_pct": "+4.26%(1,127,000원)",
+        "reason": "크로아티아에 다연장로켓 천무를 수출하는 계약이 확인되며 폴란드 현지화를 발판 삼은 유럽 내 추가 수출 기대가 부각됐다. 한국투자증권은 장기 수주 지속력을 확인했다며 목표주가 200만원과 방산업종 최선호주 의견을 유지했다.",
+        "source_url": "https://www.fnnews.com/news/202609140946001741",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609140946001741",
+          "https://alphasquare.co.kr/home/stock-summary?code=012450"
+        ]
+      }
+    ]
+  },
+  "us": {},
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-3.77%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. AI 개발 속도조절론 확산에 따른 AI 투자 사이클 재평가 심리와 외국인, 기관 동반 매도 속에 삼성전자(-4.05%), SK하이닉스(-6.35%)가 낙폭을 주도했다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-2.70%(대표종목 기준)",
+        "note": "삼성SDS 기준. 시장 전반의 위험자산 회피 심리 속에 동반 하락했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=018260"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-0.62%(대표종목 평균)",
+        "note": "SK텔레콤(-1.43%), LG유플러스(+0.20%) 평균. 방어주 성격에도 반도체 매도 자금 이탈 여파를 일부 받았다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=017670",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=017670",
+          "https://alphasquare.co.kr/home/stock-summary?code=032640"
+        ]
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.03%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 시장 전반의 약세 흐름 속에 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.55%(대표지수 평균)",
+        "note": "KRX 은행지수(+2.27%), 보험지수(-0.45%), 증권지수(-0.18%) 평균. 금리 상승 수혜주 성격에 힘입어 KB금융(+2.08%), 하나금융지주(+2.18%) 등 은행주가 시장 대비 크게 선방했다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank",
+        "source_urls": [
+          "https://kr.investing.com/indices/krx-bank",
+          "https://kr.investing.com/indices/krx-insurance",
+          "https://kr.investing.com/indices/krx-securities"
+        ]
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+1.68%(대표종목 평균)",
+        "note": "롯데쇼핑(+5.45%), 신세계(-2.10%) 평균. 백화점, 유통주 실적 기대감 속에 롯데쇼핑이 크게 올랐다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=023530",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=023530",
+          "https://alphasquare.co.kr/home/stock-summary?code=004170"
+        ]
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-2.41%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차(-3.92%) 등 완성차 대형주가 시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile",
+        "source_urls": [
+          "https://kr.investing.com/indices/krx-automobile",
+          "https://alphasquare.co.kr/home/stock-summary?code=005380"
+        ]
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-3.84%(대표종목 평균)",
+        "note": "LG에너지솔루션(-2.50%), 삼성SDI(-2.75%), 에코프로비엠(-6.26%) 평균. 반도체발 위험자산 회피 심리가 2차전지 대형주로도 옮겨붙었다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=247540",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=247540",
+          "https://alphasquare.co.kr/home/stock-summary?code=373220",
+          "https://alphasquare.co.kr/home/stock-summary?code=006400"
+        ]
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+1.05%(대표종목 평균)",
+        "note": "한화에어로스페이스(+4.26%), HD현대중공업(-0.52%), 한화오션(-0.58%) 평균. 한화에어로스페이스의 크로아티아 천무 수출계약 확인이 업종 전반의 투자심리를 지지했다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=012450",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=012450",
+          "https://alphasquare.co.kr/home/stock-summary?code=329180",
+          "https://alphasquare.co.kr/home/stock-summary?code=042660"
+        ]
+      },
+      {
+        "name": "건설",
+        "change_pct": "-3.48%",
+        "note": "KRX 건설지수(KRXCNST) 기준. 금리 상승에 따른 조달비용 부담과 고유가 장기화에 따른 자재비 우려가 겹치며 대우건설, GS건설 등이 급락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-2.14%",
+        "note": "KRX 에너지화학지수(KRXENER) 기준. 국제유가 급등에도 위험자산 회피 심리 속에 약세를 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-0.91%",
+        "note": "KRX 철강지수(KRXSTL) 기준. 시장 전반의 약세 흐름 속에서도 낙폭은 상대적으로 제한적이었다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.97%(대표종목 평균)",
+        "note": "네이버(-1.45%), 카카오(-0.29%), 크래프톤(-1.18%) 평균. 외국인 매도 속에 동반 약세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035420",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=035420",
+          "https://alphasquare.co.kr/home/stock-summary?code=035720",
+          "https://alphasquare.co.kr/home/stock-summary?code=259960"
+        ]
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+2.35%(대표종목 평균)",
+        "note": "CJ ENM(+4.00%), 하이브(+0.69%) 평균. 시장 전반 약세 속에서도 독자적인 강세를 보였다.",
+        "source_url": "https://alphasquare.co.kr/home/stock-summary?code=035760",
+        "source_urls": [
+          "https://alphasquare.co.kr/home/stock-summary?code=035760",
+          "https://alphasquare.co.kr/home/stock-summary?code=352820"
+        ]
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,347.3원",
+      "change_pct": "+0.10%(+1.4원)",
+      "source_url": "https://www.mt.co.kr/economy/2026/09/14/2026091415301093386"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.06",
+      "change_pct": "+0.22%",
+      "source_url": "https://tradingeconomics.com/dxy:cur"
+    },
+    {
+      "name": "금",
+      "value": "$4,314.02",
+      "change_pct": "-0.84%(-$36.34)",
+      "source_url": "https://tradingeconomics.com/commodity/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$102.52",
+      "change_pct": "+2.47%",
+      "source_url": "https://tradingeconomics.com/commodity/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$77,554.07",
+      "change_pct": "+0.66%(24시간)",
+      "source_url": "https://www.tokenpost.kr/news/briefing/407504"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,514.18",
+      "change_pct": "+0.17%(24시간)",
+      "source_url": "https://www.tokenpost.kr/news/briefing/407504"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.97%",
+      "change_pct": "-0.01%p(보합, 2023년 이후 최고권 유지)",
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 국채 10년물 금리는 4.97%로, 8월 근원 CPI가 예상을 웃돈 뒤 이번 주 FOMC에서 연준의 금리 인상 확률이 86%까지 치솟은 가운데 고금리권을 유지하고 있다. 달러인덱스는 99.06으로 소폭 올랐고, 원/달러 환율은 1,347.3원으로 1.4원 상승했다. 사우디아라비아가 호르무즈 우회로인 동서송유관 가동을 예방적으로 중단하고 이란, 걸프국 회담까지 연기되면서 WTI는 2.47% 오른 배럴당 102.52달러, 브렌트유는 108달러에 육박했다.",
+    "notes": "외국인이 코스피에서 4거래일 연속 순매도를 이어가며 이날 하루 3조2,996억원, 기관도 1조1,716억원을 순매도했다. 개인이 2조9,723억원을 순매수하며 낙폭 방어에 나섰지만 역부족이었다. 사이버보안, 광통신 테마주와 방산주는 반도체발 매도 자금 이탈 속에서도 각자의 재료로 독자적인 강세를 보였다."
+  },
+  "top_themes": [
+    {
+      "theme": "연준 통화정책",
+      "summary": "8월 근원 CPI가 예상보다 높게 나온 뒤 CME 페드워치 기준 이번 주 FOMC에서 연준이 금리를 인상할 확률이 86%까지 치솟았다. 미 국채 10년물 금리는 4.97%로 고금리권을 유지하고 있으며, 결과는 한국시간 17일 새벽 3시 발표된다.",
+      "source_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217951"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "호르무즈 해협 통항 문제를 논의하기 위해 오만에서 열릴 예정이던 이란, 걸프국가 회의가 막판에 연기됐다. 여기에 사우디아라비아가 호르무즈 우회로로 쓰는 하루 최대 700만 배럴 규모 동서송유관을 이란발 공격 이후 예방적으로 가동 중단하면서 중동 공급 불안이 커졌다.",
+      "source_url": "https://www.nocutnews.co.kr/news/6577120"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "사우디 송유관 가동 중단과 호르무즈 회담 연기 여파로 WTI가 2.47% 오른 배럴당 102.52달러, 브렌트유는 108달러에 육박했다. 유가 상승이 위험자산 회피 심리를 자극하며 코스피 급락의 한 축이 됐다.",
+      "source_url": "https://tradingeconomics.com/commodity/crude-oil"
+    },
+    {
+      "theme": "반도체 밸류에이션 논쟁",
+      "summary": "앤트로픽 CEO 다리오 아모데이가 AI 개발 속도조절론을 담은 글을 올리고 오픈AI, 스페이스X, 구글 딥마인드 수장이 잇따라 공감을 표하면서 AI 투자 사이클에 대한 재평가 심리가 확산했다. 이 여파로 삼성전자(-4.05%), SK하이닉스(-6.35%), SK스퀘어(-8.17%)가 동반 급락했다. 다만 일부 분석에서는 HBM 공급 부족 등 펀더멘털은 훼손되지 않았다며 이번 급락을 심리적 위축으로 보는 시각도 나왔다. AI 개발 속도조절, 안전성 논쟁이 반복될 경우 별도 테마로 분리할 필요가 있어 보인다.",
+      "source_url": "https://www.mt.co.kr/world/2026/09/14/2026091318082899430",
+      "source_urls": [
+        "https://www.mt.co.kr/world/2026/09/14/2026091318082899430",
+        "https://www.segye.com/newsView/20260914514390"
+      ]
+    },
+    {
+      "theme": "조선과 방산",
+      "summary": "한화에어로스페이스가 크로아티아에 다연장로켓 천무를 수출하는 계약을 확인하며 4.26% 올랐다. 한국투자증권은 폴란드 현지화를 발판 삼은 유럽 내 추가 수출 기대를 근거로 목표주가 200만원과 방산업종 최선호주 의견을 유지했다.",
+      "source_url": "https://www.fnnews.com/news/202609140946001741"
+    },
+    {
+      "theme": "2차전지 업황",
+      "summary": "LG에너지솔루션(-2.50%), 삼성SDI(-2.75%), 에코프로비엠(-6.26%) 등 2차전지 대형주가 반도체발 위험자산 회피 심리 속에 동반 하락했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=247540"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "AI 개발 속도조절론 확산과 외국인, 기관 동반 매도 속에 4.05% 내린 249,000원에 마감했다.",
+      "source_url": "https://www.segye.com/newsView/20260914514390"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "같은 사유로 6.35% 내린 1,697,000원에 마감했다. 외국인이 2조652억원을 순매도했다.",
+      "source_url": "https://www.segye.com/newsView/20260914514390"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 전반의 약세 속에 2.50% 내린 351,000원에 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=373220"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "KRX 자동차지수(-2.41%) 약세 속에 3.92% 내린 367,500원에 마감했다.",
+      "source_url": "https://alphasquare.co.kr/home/stock-summary?code=005380"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
