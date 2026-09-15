@@ -1,0 +1,325 @@
+{
+  "date": "2026-09-15",
+  "session": "kr_close",
+  "generated_at_kst": "2026-09-15T19:00:00+09:00",
+  "headline": "미 국채 10년물 금리가 5%를 다시 돌파하고 국제유가가 배럴당 100달러를 넘어서면서 코스피가 나흘째 밀렸지만 코스닥은 사이버보안과 로봇 테마 상한가 속에 나홀로 반등했다",
+  "mail_title": "美 금리 5% 돌파, 코스피 나흘째 하락",
+  "kr": {
+    "preview": "코스피는 전 거래일보다 57.11포인트(0.85%) 내린 6,627.26에 마감하며 4거래일 연속 하락했다. 미 국채 10년물 금리가 장중 5.01%까지 오르며 2023년 10월 이후 처음으로 5%를 재돌파했고, 사우디 동서송유관 공격과 이란, 걸프국 회담 연기 여파로 국제유가가 배럴당 100달러를 웃돌면서 위험자산 회피 심리가 짙어졌다. 이번 주 예정된 FOMC(한국시간 17일 새벽 3시 결과 발표)를 앞둔 경계감도 겹쳤다. 수급은 외국인이 1조5,711억원, 기관이 9,044억원을 각각 순매도했고 개인이 8,324억원을 순매수하며 방어했지만 낙폭을 막지 못했다. 조선, 방산 대형주가 차익실현 매물에 6~7%대 급락하며 지수를 끌어내렸다. 반면 코스닥은 812.41로 0.70% 올라 코스피와 다른 흐름을 보였다. 아톤, 한컴위드, 아이티센피엔에스 등 사이버보안 테마주와 삼현 등 로봇 관련주가 나란히 상한가를 기록하며 코스닥을 지지했고, 방통위 매각 개입 관련 감사원 발표가 나온 YTN도 상한가에 올랐다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,627.26",
+        "change_pct": "-0.85%(-57.11p)",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026091515543518859",
+          "https://www.mt.co.kr/stock/2026/09/15/2026091515182521563"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "812.41",
+        "change_pct": "+0.70%(+5.62p)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/15/2026091515185111309",
+          "https://view.asiae.co.kr/article/2026091515343189880"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "158430",
+        "name": "아톤",
+        "change_pct": "+29.84%(상한가, 6,310원)",
+        "reason": "토큰증권 제도화 기대와 디지털자산 보안, 양자내성암호(PQC) 사업 보유가 부각되며 사이버보안 테마 상한가를 기록했다. AI 에이전트 시대의 인증, 접근제어 수요 확대 기대도 매수세를 자극했다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2625857",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2625857",
+          "https://www.job-post.co.kr/news/articleView.html?idxno=227652"
+        ]
+      },
+      {
+        "ticker": "054920",
+        "name": "한컴위드",
+        "change_pct": "+29.78%(상한가, 5,230원)",
+        "reason": "인증, 암호화 등 데이터 보안 전문 기업으로 AI 기반 보안 솔루션 수요 확대 기대에 아톤, 아이티센피엔에스와 함께 사이버보안 테마 상한가에 올랐다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2625857",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2625857",
+          "https://www.cbci.co.kr/news/articleView.html?idxno=606873"
+        ]
+      },
+      {
+        "ticker": "040300",
+        "name": "YTN",
+        "change_pct": "+29.80%(상한가, 2,635원)",
+        "reason": "감사원이 한전KDN, 한국마사회의 YTN 지분 매각 과정에서 당시 방송통신위원회와 산업통상자원부가 부당하게 개입한 사실을 확인해 발표하면서 경영권, 지배구조 재편 기대에 매수세가 몰렸다.",
+        "source_url": "https://www.mt.co.kr/stock/2026/09/15/2026091509545023123",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/15/2026091509545023123",
+          "https://www.fnnews.com/news/202609151020383500",
+          "https://www.ajunews.com/view/20260915100859121"
+        ]
+      },
+      {
+        "ticker": "267250",
+        "name": "HD현대",
+        "change_pct": "-8.72%",
+        "reason": "자회사 HD현대중공업 노조가 21차례 임단협 교섭 결렬 끝에 부분파업(4시간)을 이어가고 16~18일 7시간 파업 확대를 예고하면서 생산 차질 우려가 커졌다. 조선, 방산 업종 전반의 차익실현 매물과 겹치며 낙폭이 커졌다.",
+        "source_url": "https://www.jnilbo.com/news/articleView.html?idxno=90000065494",
+        "source_urls": [
+          "https://www.jnilbo.com/news/articleView.html?idxno=90000065494",
+          "https://www.mediawatch.kr/news/article.html?no=261050"
+        ]
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "change_pct": "-6.51%",
+        "reason": "방산 대형주가 최근 급등에 따른 밸류에이션 부담 속에 차익실현 매물에 밀렸다. 한화시스템(-7.07%) 등 한화 방산 계열주가 동반 약세를 보였다.",
+        "source_url": "https://www.anewsa.com/detail.php?number=3199082",
+        "source_urls": [
+          "https://www.anewsa.com/detail.php?number=3199082",
+          "https://www.joongangenews.com/news/articleView.html?idxno=548199"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-0.47%",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 삼성전자(-0.20%), SK하이닉스(-0.53%) 등 대형주가 약보합에 머물렀다. FOMC를 앞둔 경계감 속에 전날 급락분을 소화하며 숨고르기 양상을 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+0.28%(대표종목 평균)",
+        "note": "네이버(+0.98%), 카카오(-0.43%) 평균. AI 수익화 기대와 시장 전반 약세가 엇갈리며 혼조세를 보였다.",
+        "source_url": "https://www.job-post.co.kr/news/articleView.html?idxno=227624",
+        "source_urls": [
+          "https://www.job-post.co.kr/news/articleView.html?idxno=227624",
+          "https://www.anewsa.com/detail.php?number=3199089"
+        ]
+      },
+      {
+        "name": "통신",
+        "change_pct": "-2.33%(대표종목 기준)",
+        "note": "SK텔레콤 기준. 국채금리 상승에 따른 배당주 매력 약화와 시장 전반의 위험자산 회피 심리 속에 하락했다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=548300",
+        "source_urls": [
+          "https://www.joongangenews.com/news/articleView.html?idxno=548300",
+          "https://www.anewsa.com/detail.php?number=3199093"
+        ]
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.26%",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 셀트리온(-0.73%) 등 대형주는 약세였지만 개별 임상 이슈 종목이 지수를 방어했다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-2.11%(대표지수 평균)",
+        "note": "KRX 은행지수(-2.06%), 보험지수(-2.39%), 증권지수(-1.87%) 평균. 코스피 급락에 따른 위탁매매 수수료 우려와 국채금리 급등에 따른 채권평가손 부담이 금융주 전반에 반영됐다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank",
+        "source_urls": [
+          "https://kr.investing.com/indices/krx-bank",
+          "https://kr.investing.com/indices/krx-insurance",
+          "https://kr.investing.com/indices/krx-securities"
+        ]
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-1.37%(대표종목 기준)",
+        "note": "아모레퍼시픽 기준. 시장 전반의 위험자산 회피 심리 속에 소비재 대형주도 약세를 보였다.",
+        "source_url": "https://www.anewsa.com/detail.php?number=3199073"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-1.25%",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차(-1.08%) 등 완성차 대형주가 시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile",
+        "source_urls": [
+          "https://kr.investing.com/indices/krx-automobile",
+          "https://www.anewsa.com/detail.php?number=3199091"
+        ]
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+4.01%(대표종목 평균)",
+        "note": "LG에너지솔루션(+3.41%), 삼성SDI(+2.82%), 포스코퓨처엠(+5.81%) 평균. 국제유가 급등에 따른 전기차 경제성 부각과 저가 매수세가 겹치며 반등했다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=548311",
+        "source_urls": [
+          "https://www.joongangenews.com/news/articleView.html?idxno=548311",
+          "https://www.joongangenews.com/news/articleView.html?idxno=548289",
+          "https://www.anewsa.com/detail.php?number=3199090"
+        ]
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-6.66%(대표종목 평균)",
+        "note": "HD한국조선해양(-6.74%), 삼성중공업(-6.33%), 한화에어로스페이스(-6.51%), 한화시스템(-7.07%) 평균. 최근 급등에 따른 밸류에이션 부담 속 차익실현 매물이 쏟아졌고, HD현대중공업 노조 파업 장기화 우려가 겹쳤다. 삼성중공업 공시 기준 동일업종(조선) 등락률은 -5.56%였다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=548298",
+        "source_urls": [
+          "https://www.joongangenews.com/news/articleView.html?idxno=548298",
+          "https://www.anewsa.com/detail.php?number=3199082",
+          "https://www.joongangenews.com/news/articleView.html?idxno=548287"
+        ]
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.28%",
+        "note": "KRX 건설지수(KRXCNST) 기준. GS건설(+2.73%) 등 일부 대형주 강세에 힘입어 시장 대비 선방했다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions",
+        "source_urls": [
+          "https://kr.investing.com/indices/krx-constructions",
+          "https://www.joongangenews.com/news/articleView.html?idxno=548313"
+        ]
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-0.79%",
+        "note": "KRX 에너지화학지수(KRXENER) 기준. 금호석유화학(-1.84%), 롯데케미칼(-1.53%)은 약세였고 LG화학(+1.31%)은 강세를 보이는 등 구조조정, 실적 부담에 따라 종목별로 엇갈렸다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical",
+        "source_urls": [
+          "https://kr.investing.com/indices/krx-energy---chemical",
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1724352"
+        ]
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+1.33%",
+        "note": "KRX 철강지수(KRXSTL) 기준. 다만 고려아연(-2.15%) 등 비철금속주는 하락해 철강과 비철금속 간 흐름이 엇갈렸다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+3.18%(대표종목 기준)",
+        "note": "펄어비스 기준. 외국인이 2거래일 연속, 기관이 9거래일 연속 순매수하며 반등을 이끌었다.",
+        "source_url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406964"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.37%",
+        "note": "KRX 미디어통신지수(KRXMEDA, 통신 포함 복합지수) 기준. 업종 전반은 약세였지만 방통위 매각 개입 감사원 발표가 나온 YTN은 개별 이슈로 상한가를 기록했다.",
+        "source_url": "https://www.investing.com/indices/krx-media---telecom",
+        "source_urls": [
+          "https://www.investing.com/indices/krx-media---telecom",
+          "https://www.mt.co.kr/stock/2026/09/15/2026091509545023123"
+        ]
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,359.4원",
+      "change_pct": "+0.90%(+12.1원)",
+      "source_url": "https://www.mt.co.kr/economy/2026/09/15/2026091515343525913"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.41",
+      "change_pct": "+0.3%",
+      "source_url": "https://www.newspim.com/news/view/20260915000221"
+    },
+    {
+      "name": "금",
+      "value": "$4,312.59",
+      "change_pct": "-0.8%",
+      "source_url": "https://www.newspim.com/news/view/20260915000221"
+    },
+    {
+      "name": "WTI",
+      "value": "$101.39",
+      "change_pct": "+1.3%",
+      "source_url": "https://www.newspim.com/news/view/20260915000221"
+    },
+    {
+      "name": "비트코인",
+      "value": "$78,820",
+      "change_pct": "+2.57%(24시간)",
+      "source_url": "https://www.ajunews.com/view/20260915074243586"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,545.70",
+      "change_pct": "+2.77%(24시간)",
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=606751"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.957%",
+      "change_pct": "-1.83bp(장중 5.0142%로 2023년 10월 이후 최고)",
+      "source_url": "https://www.newspim.com/news/view/20260915000221"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 국채 10년물 금리는 장중 5.0142%까지 올라 2023년 10월 이후 처음 5%를 재돌파한 뒤 4.957%로 마감했다. 이번 주 한국시간 17일 새벽 발표되는 FOMC 결과에 대한 경계감이 이어지는 가운데, 사우디 동서송유관 가동 중단과 이란, 걸프국 회담 연기 여파로 WTI가 배럴당 101.39달러, 브렌트유가 105달러 선을 넘어섰다. 원/달러 환율은 12.1원 오른 1,359.4원에 마감해 연고점 부근을 유지했다.",
+    "notes": "코스피에서 외국인이 1조5,711억원, 기관이 9,044억원을 순매도하며 4거래일 연속 매도 우위를 이어갔다. 개인이 8,324억원을 순매수하며 방어에 나섰지만 낙폭을 막기엔 역부족이었다. 코스닥에서는 사이버보안, 로봇 테마에 개인, 기관 수급이 집중되며 지수 상승을 이끌었다."
+  },
+  "top_themes": [
+    {
+      "theme": "연준 통화정책",
+      "summary": "미 국채 10년물 금리가 장중 5.01%까지 오르며 2023년 10월 이후 처음 5%를 재돌파했다. 한국시간 17일 새벽 3시로 예정된 FOMC 결과 발표를 앞두고 국채금리 급등과 인상 경계감이 코스피 전반에 부담으로 작용했다.",
+      "source_url": "https://www.newdaily.co.kr/site/data/html/2026/09/15/2026091500003.html"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "사우디 동서송유관 가동 중단과 이란, 걸프국 회담 연기 여파로 WTI가 배럴당 101달러, 브렌트유가 105달러를 웃돌았다. 고유가가 위험자산 회피 심리를 자극하며 코스피 급락의 한 축이 됐고, 동시에 SK이노베이션 등 정유주와 2차전지주에는 반사 수혜로 작용했다.",
+      "source_url": "https://www.newspim.com/news/view/20260915000221"
+    },
+    {
+      "theme": "조선과 방산",
+      "summary": "HD한국조선해양, 삼성중공업, 한화에어로스페이스, 한화시스템 등이 최근 급등에 따른 밸류에이션 부담 속에 6~7%대 급락했다. HD현대중공업 노조가 21차 임단협 교섭 결렬 끝에 부분파업을 이어가며 16~18일 파업 확대를 예고한 점도 조선주 투자심리를 위축시켰다.",
+      "source_url": "https://www.jnilbo.com/news/articleView.html?idxno=90000065494",
+      "source_urls": [
+        "https://www.jnilbo.com/news/articleView.html?idxno=90000065494",
+        "https://www.joongangenews.com/news/articleView.html?idxno=548298"
+      ]
+    },
+    {
+      "theme": "2차전지 업황",
+      "summary": "LG에너지솔루션, 삼성SDI, 포스코퓨처엠 등 2차전지 대형주가 조선, 방산에서 빠져나온 자금과 저가 매수세에 힘입어 3~6%대 반등했다.",
+      "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=548311"
+    },
+    {
+      "theme": "개인 수급 소형주 장세",
+      "summary": "아톤, 한컴위드, 아이티센피엔에스 등 사이버보안 테마주와 삼현 등 로봇 테마주, 한국첨단소재 등 양자통신 테마주까지 9개 종목이 코스닥에서 나란히 상한가를 기록했다. 개인 매수세가 집중되며 코스피 약세와 대비되는 코스닥 강세를 이끌었다. AI 에이전트 시대의 인증, 보안 수요 부각을 계기로 한 '사이버보안' 테마가 최근 반복적으로 부각되고 있어 별도 테마로 분리할 필요가 있어 보인다.",
+      "source_url": "https://www.etoday.co.kr/news/view/2625857"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "미 국채금리 5% 재돌파와 국제유가 급등에 따른 위험자산 회피 심리 속에 0.20% 내린 245,000원에 마감했다.",
+      "source_url": "https://www.anewsa.com/detail.php?number=3199083"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "같은 매크로 부담 속에 0.53% 내린 주가로 약보합 마감했다. 전날 급락에 따른 숨고르기 양상이 이어졌다.",
+      "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=548174"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 대형주 반등 흐름 속에 3.41% 오른 363,500원에 마감했다.",
+      "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=548311"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "KRX 자동차지수(-1.25%) 약세 속에 1.08% 내린 주가로 마감했다.",
+      "source_url": "https://www.anewsa.com/detail.php?number=3199091"
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
