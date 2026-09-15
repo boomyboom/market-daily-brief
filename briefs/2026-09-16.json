@@ -1,0 +1,520 @@
+{
+  "date": "2026-09-16",
+  "generated_at_kst": "2026-09-16T08:00:00+09:00",
+  "mode": "new",
+  "headline": "미 10년물 국채금리가 이틀 연속 2007년 이후 최고치인 5%대를 유지한 채 뉴욕 3대 지수가 다시 하락했지만 전날 5%대 급락했던 반도체는 저가 매수세에 숨고르기를 보였고, 코스피는 나흘 연속 하락 뒤 한국시간 내일 새벽 발표될 FOMC 결과를 하루 앞두고 개장한다",
+  "mail_title": "FOMC 하루 앞 美금리 2007년來 최고",
+  "kr": {
+    "preview": "어제(15일) 코스피는 미 국채금리 급등과 국제유가 100달러 돌파 여파가 이어지며 전 거래일보다 57.11포인트(0.85%) 내린 6,627.26에 마감해 나흘 연속 하락했습니다. 외국인이 1조5,711억원, 기관이 9,044억원을 순매도했고 개인이 8,324억원을 순매수하며 방어에 나섰지만 낙폭을 막지 못했습니다. 최근 급등했던 조선, 방산 대형주가 차익실현 매물에 6~7%대 급락하며 지수를 끌어내린 반면, 코스닥은 812.41로 0.70% 올라 홀로 반등했는데 아톤, 한컴위드 등 사이버보안 테마주와 로봇 테마주가 나란히 상한가를 기록하며 지수를 지지했습니다.\n\n밤사이 새로 나온 소식은 이 부담이 뉴욕에서도 그대로 이어졌다는 점입니다. 미 10년물 국채금리가 15일(현지시간) 장중 5.026%까지 올라 2007년 이후 최고치를 이틀째 유지했습니다. CME그룹 페드워치 기준으로 15~16일(현지시간) 열리는 이번 주 FOMC에서 연준이 기준금리를 0.25%포인트 인상할 확률은 92.3%까지 올라온 상태이며, 결과는 한국시간 17일 새벽 3시에 발표됩니다. 이 여파로 다우존스가 328.09포인트(0.63%) 내린 52,093.11, S&P500이 34.25포인트(0.45%) 내린 7,585.73, 나스닥이 204.84포인트(0.78%) 내린 25,981.57에 마감하며 3대 지수가 모두 이틀 연속 하락했습니다.\n\n다만 전날 5%대 폭락했던 반도체는 저가 매수세가 유입되며 숨고르기에 들어갔습니다. 필라델피아반도체 관련 ETF인 SOXX가 0.29% 반등했고, 엔비디아도 0.57% 오른 212.17달러에 마감했습니다. 국내에서도 15일 장 초반 삼성전자와 SK하이닉스가 미국발 충격을 피해 강보합으로 출발했는데, 한 시장 분석가는 AI 산업의 장기 성장성 자체를 의심하는 것은 아니라는 점이 저가 매수세를 이끌었다고 짚었습니다. 반면 사우디아라비아 동서송유관 가동 중단에 이어 예멘 후티 반군의 사우디 남부 공군기지 공격 소식까지 겹치며 국제유가는 오름세를 이어가 WTI가 4.03% 급등한 배럴당 105.48달러를 기록했고, 이에 힘입어 엑슨모빌이 2.57% 오르는 등 에너지 관련주만 나홀로 강세를 보였습니다. 국내에서는 HD현대중공업 노조가 임단협 교섭 지연을 이유로 16일부터 나흘간 파업 시간을 4시간에서 7시간으로 확대할 예정이어서, 최근 조정을 받은 조선, 방산 업종의 추가 변수로 떠올랐습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,627.26",
+        "change_pct": "-0.85%(-57.11p, 9/15 종가, 최근 거래일)",
+        "source_urls": [
+          "https://view.asiae.co.kr/article/2026091515543518859",
+          "https://kr.investing.com/indices/kospi"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "812.41",
+        "change_pct": "+0.70%(+5.62p, 9/15 종가, 최근 거래일)",
+        "source_urls": [
+          "https://www.mt.co.kr/stock/2026/09/15/2026091515185111309",
+          "https://kr.investing.com/indices/kosdaq"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-0.53%(1,688,000원, 9/15 종가, 최근 거래일)",
+        "reason": "미국 반도체주 급락 충격에도 15일 장 초반 저가 매수세가 유입되며 강보합으로 출발했으나 장 후반 상승분을 반납하며 0.53%(9,000원) 내린 168만8,000원에 마감했다. 밤사이 뉴욕에서는 필라델피아반도체 ETF(SOXX)가 0.29% 반등하고 엔비디아도 0.57% 오르며 하루 만에 숨고르기에 들어가, 이번 주 FOMC 결과를 하루 앞두고 열리는 오늘 국내 반도체 대형주의 개장 흐름에 관심이 쏠린다.",
+        "source_url": "https://www.fnnews.com/news/202609150924135206",
+        "source_urls": [
+          "https://www.fnnews.com/news/202609150924135206",
+          "https://www.newspim.com/news/view/20260915000387"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-0.20%(245,000원, 9/15 종가, 최근 거래일)",
+        "reason": "SK하이닉스와 마찬가지로 15일 장 초반 저가 매수세에 강보합 출발했으나 0.20% 내린 24만5,000원으로 약보합 마감했다. 시장에서는 AI 산업의 장기 성장성 자체를 의심하는 것은 아니라는 분석이 나오는 가운데, 밤사이 뉴욕 반도체 ETF(SOXX)와 엔비디아가 나란히 반등하며 국내 대형주에 우호적인 신호를 보냈다.",
+        "source_url": "https://www.ajunews.com/view/20260915100121093",
+        "source_urls": [
+          "https://www.ajunews.com/view/20260915100121093",
+          "https://www.fnnews.com/news/202609150924135206"
+        ]
+      },
+      {
+        "ticker": "267250",
+        "name": "HD현대",
+        "change_pct": "-8.72%(9/15 종가, 최근 거래일)",
+        "reason": "자회사 HD현대중공업 노조의 파업 장기화 우려에 15일 8.72% 급락한 데 이어, 노조가 임단협 교섭 지연을 이유로 16일부터 19일까지 나흘간 파업 시간을 기존 4시간에서 7시간으로 확대하기로 하면서 조선, 방산 업종의 투자심리에 추가 부담으로 작용할 전망이다. 노사는 추석 전 타결을 위해 매일 집중 교섭을 이어가고 있다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2625851",
+        "source_urls": [
+          "https://www.etoday.co.kr/news/view/2625851",
+          "https://www.etoday.co.kr/news/view/2624105"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "미국 증시는 15일(현지시간) 3대 지수가 이틀 연속 하락했다. 다우존스가 328.09포인트(0.63%) 내린 52,093.11, S&P500이 34.25포인트(0.45%) 내린 7,585.73, 나스닥이 204.84포인트(0.78%) 내린 25,981.57에 마감했다. 미 10년물 국채금리가 장중 5.026%까지 올라 2007년 이후 최고치를 이틀째 유지했고, 사우디 동서송유관 가동 중단에 이어 예멘 후티 반군의 사우디 남부 공군기지 공격까지 겹치며 WTI가 4.03% 오른 배럴당 105.48달러를 기록해 위험자산 회피 심리를 자극했다. 다만 전날 5%대 급락했던 반도체는 저가 매수세에 숨고르기를 보였는데, 엔비디아가 0.57% 오른 212.17달러에 마감했고 반도체 ETF SOXX도 0.29% 반등했다. 에너지 업종은 유가 급등에 힘입어 엑슨모빌이 2.57% 오르는 등 12개 섹터 중 가장 좋은 흐름(XLE +2.17%)을 보였고, 마이크로소프트는 전날 AI 안전 가이드라인 발표로 얻은 상승분을 반납하며 1.68% 내린 496.91달러에 마감했다. 이번 주 최대 변수인 FOMC는 15~16일(현지시간) 열리며, CME그룹 페드워치 기준 25bp 인상 확률은 92.3%까지 올라왔다. 결과는 한국시간 17일 새벽 3시 발표된다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,585.73",
+        "change_pct": "-0.45%(-34.25p, 9/15 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+          "https://www.newdaily.co.kr/site/data/html/2026/09/15/2026091500281.html"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "25,981.57",
+        "change_pct": "-0.78%(-204.84p, 9/15 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "52,093.11",
+        "change_pct": "-0.63%(-328.09p, 9/15 종가, 최근 거래일)",
+        "source_urls": [
+          "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "XOM",
+        "name": "Exxon Mobil",
+        "change_pct": "+2.57%($169.32, 9/15 종가, 최근 거래일)",
+        "reason": "사우디 동서송유관 가동 중단에 이어 예멘 후티 반군의 사우디 남부 공군기지 공격 소식까지 겹치며 WTI가 4.03% 급등한 배럴당 105.48달러를 기록하자 엑슨모빌이 2.57% 오른 169.32달러로 마감했다. 에너지 섹터(XLE)는 12개 섹터 중 가장 좋은 흐름(+2.17%)을 보였다.",
+        "source_url": "https://stockanalysis.com/stocks/xom/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/xom/history/",
+          "https://tradingeconomics.com/commodity/crude-oil"
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "+0.57%($212.17, 9/15 종가, 최근 거래일)",
+        "reason": "전날 AI 속도조절론 확산에 3.36% 급락했던 엔비디아가 저가 매수세 유입에 0.57% 반등한 212.17달러로 마감했다. 필라델피아반도체 ETF(SOXX)도 0.29% 오르며 하루 만에 숨고르기에 들어갔다.",
+        "source_url": "https://stockanalysis.com/stocks/nvda/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/nvda/history/",
+          "https://www.fnnews.com/news/202609150924135206"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-0.47%(9/15 종가, 최근 거래일)",
+        "note": "KRX 반도체지수(KRXSEM) 기준. 삼성전자(-0.20%), SK하이닉스(-0.53%) 등 대형주가 약보합에 머물렀다. FOMC를 앞둔 경계감 속에 전날 급락분을 소화하며 숨고르기 양상을 보였다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+0.28%(대표종목 평균, 9/15 종가, 최근 거래일)",
+        "note": "네이버(+0.98%), 카카오(-0.43%) 평균. AI 수익화 기대와 시장 전반 약세가 엇갈리며 혼조세를 보였다.",
+        "source_url": "https://www.job-post.co.kr/news/articleView.html?idxno=227624"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-2.33%(대표종목 기준, 9/15 종가, 최근 거래일)",
+        "note": "SK텔레콤 기준. 국채금리 상승에 따른 배당주 매력 약화와 시장 전반의 위험자산 회피 심리 속에 하락했다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=548300"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.26%(9/15 종가, 최근 거래일)",
+        "note": "KRX 헬스케어지수(KRXHLTH) 기준. 셀트리온(-0.73%) 등 대형주는 약세였지만 개별 임상 이슈 종목이 지수를 방어했다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-2.11%(대표지수 평균, 9/15 종가, 최근 거래일)",
+        "note": "KRX 은행지수(-2.06%), 보험지수(-2.39%), 증권지수(-1.87%) 평균. 코스피 급락에 따른 위탁매매 수수료 우려와 국채금리 급등에 따른 채권평가손 부담이 반영됐다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-1.37%(대표종목 기준, 9/15 종가, 최근 거래일)",
+        "note": "아모레퍼시픽 기준. 시장 전반의 위험자산 회피 심리 속에 소비재 대형주도 약세를 보였다.",
+        "source_url": "https://www.anewsa.com/detail.php?number=3199073"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-1.25%(9/15 종가, 최근 거래일)",
+        "note": "KRX 자동차지수(KRXAUTO) 기준. 현대차(-1.08%) 등 완성차 대형주가 시장 전반의 약세 흐름에 동반 하락했다.",
+        "source_url": "https://kr.investing.com/indices/krx-automobile"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+4.01%(대표종목 평균, 9/15 종가, 최근 거래일)",
+        "note": "LG에너지솔루션(+3.41%), 삼성SDI(+2.82%), 포스코퓨처엠(+5.81%) 평균. 국제유가 급등에 따른 전기차 경제성 부각과 저가 매수세가 겹치며 반등했다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=548311"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-6.66%(대표종목 평균, 9/15 종가, 최근 거래일)",
+        "note": "HD한국조선해양(-6.74%), 삼성중공업(-6.33%), 한화에어로스페이스(-6.51%), 한화시스템(-7.07%) 평균. 최근 급등에 따른 밸류에이션 부담 속 차익실현 매물이 쏟아졌고, HD현대중공업 노조가 16일부터 파업 시간을 7시간으로 확대하기로 하면서 부담이 이어지고 있다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=548298"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.28%(9/15 종가, 최근 거래일)",
+        "note": "KRX 건설지수(KRXCNST) 기준. GS건설(+2.73%) 등 일부 대형주 강세에 힘입어 시장 대비 선방했다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-0.79%(9/15 종가, 최근 거래일)",
+        "note": "KRX 에너지화학지수(KRXENER) 기준. 금호석유화학(-1.84%), 롯데케미칼(-1.53%)은 약세였고 LG화학(+1.31%)은 강세를 보이는 등 종목별로 엇갈렸다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+1.33%(9/15 종가, 최근 거래일)",
+        "note": "KRX 철강지수(KRXSTL) 기준. 다만 고려아연(-2.15%) 등 비철금속주는 하락해 철강과 비철금속 간 흐름이 엇갈렸다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+3.18%(대표종목 기준, 9/15 종가, 최근 거래일)",
+        "note": "펄어비스 기준. 외국인이 2거래일 연속, 기관이 9거래일 연속 순매수하며 반등을 이끌었다.",
+        "source_url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406964"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.37%(9/15 종가, 최근 거래일)",
+        "note": "KRX 미디어통신지수(KRXMEDA, 통신 포함 복합지수) 기준. 업종 전반은 약세였지만 개별 이슈 종목은 상한가를 기록하는 등 종목별 편차가 컸다.",
+        "source_url": "https://www.investing.com/indices/krx-media---telecom"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.29%(SOXX, 9/15 종가, 최근 거래일)",
+        "note": "전날 5.63% 급락했던 반도체 ETF가 저가 매수세 유입에 반등했다. 엔비디아가 0.57% 올랐다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-0.29%(XLK, 9/15 종가, 최근 거래일)",
+        "note": "마이크로소프트가 전날 상승분을 반납하며 1.68% 내려 지수를 눌렀다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-0.90%(XLC, 9/15 종가, 최근 거래일)",
+        "note": "전날 2.19% 급등한 데 따른 차익 실현 매물이 나왔다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.05%(XLV, 9/15 종가, 최근 거래일)",
+        "note": "전날 1.45% 상승분을 소폭 소화하며 보합권에서 마감했다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.32%(XLF, 9/15 종가, 최근 거래일)",
+        "note": "국채금리가 2007년 이후 최고치를 이틀째 유지한 가운데 완만한 약세를 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-1.75%(XLY, 9/15 종가, 최근 거래일)",
+        "note": "테슬라(-0.67%) 약세 속에 12개 섹터 중 가장 부진한 흐름을 보였다.",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.82%(XLP, 9/15 종가, 최근 거래일)",
+        "note": "전날 방어주 성격에 힘입어 1.25% 올랐던 상승분을 일부 반납했다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.64%(XLI, 9/15 종가, 최근 거래일)",
+        "note": "시장 전반의 약세 흐름 속에 완만한 하락세를 이어갔다.",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+0.48%(XLB, 9/15 종가, 최근 거래일)",
+        "note": "전날의 완만한 하락에서 반등하며 소폭 올랐다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+2.17%(XLE, 9/15 종가, 최근 거래일)",
+        "note": "사우디, 예멘발 공급 차질 우려에 WTI가 4.03% 급등하며 12개 섹터 중 가장 좋은 흐름을 보였다. 엑슨모빌이 2.57% 올랐다.",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-1.20%(XLU, 9/15 종가, 최근 거래일)",
+        "note": "국채금리가 5%대를 이틀째 유지하며 배당주 성격의 유틸리티가 약세를 이어갔다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.12%(XLRE, 9/15 종가, 최근 거래일)",
+        "note": "고금리 부담이 이어졌지만 전날 대비 낙폭은 축소됐다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,359.4원",
+      "change_pct": "+0.90%(+12.1원, 9/15 서울외환시장 종가, 최근 거래일)",
+      "source_url": "https://www.mt.co.kr/economy/2026/09/15/2026091515343525913"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "99.66",
+      "change_pct": "+0.27%(9/15 종가, 최근 거래일)",
+      "source_url": "https://tradingeconomics.com/dxy:cur"
+    },
+    {
+      "name": "금",
+      "value": "$4,292.30",
+      "change_pct": "-0.16%(-$6.79, 9/15 종가, 5주 만에 최저 수준)",
+      "source_url": "https://tradingeconomics.com/commodity/gold"
+    },
+    {
+      "name": "WTI",
+      "value": "$105.48",
+      "change_pct": "+4.03%(9/15 종가, 최근 거래일)",
+      "source_url": "https://tradingeconomics.com/commodity/crude-oil"
+    },
+    {
+      "name": "비트코인",
+      "value": "$75,660",
+      "change_pct": "-4.0%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,399.73",
+      "change_pct": "-5.8%(24시간)",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum"
+    },
+    {
+      "name": "미 10년물",
+      "value": "5.006%",
+      "change_pct": "+0.018%p(9/15 종가, 장중 5.026%, 2007년 이후 최고치를 이틀째 유지)",
+      "source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 10년물 국채금리는 15일(현지시간) 장중 5.026%까지 올라 2007년 이후 최고치를 이틀째 유지했다. 달러인덱스는 99.66으로 0.27% 올랐고, 원/달러 환율은 전 거래일보다 12.1원 오른 1,359.4원에 마감했다. WTI는 사우디 동서송유관 가동 중단에 이어 예멘 후티 반군의 사우디 남부 공군기지 공격까지 겹치며 4.03% 급등한 배럴당 105.48달러를 기록했고, 금값은 강달러와 고금리 부담에 0.16% 내린 온스당 4,292.30달러로 5주 만에 최저 수준에 머물렀다.",
+    "notes": "이번 주 최대 변수인 FOMC는 15~16일(현지시간) 열리며, 결과는 한국시간 17일 새벽 3시 발표된다. CME그룹 페드워치 기준 25bp 인상 확률은 92.3%까지 올라왔다. 밤사이 뉴욕에서는 전날 5%대 폭락했던 반도체가 저가 매수세에 숨고르기를 보였지만, 국채금리와 국제유가가 동시에 고공행진을 이어가며 위험자산 전반에 대한 경계감이 가시지 않고 있다. 국내에서는 HD현대중공업 노조가 16일부터 파업 시간을 7시간으로 확대할 예정이어서 조선, 방산 업종의 추가 변수로 떠올랐다."
+  },
+  "top_themes": [
+    {
+      "theme": "연준 통화정책",
+      "summary": "미 10년물 국채금리가 15일(현지시간) 장중 5.026%까지 올라 2007년 이후 최고치를 이틀째 유지했다. CME그룹 페드워치 기준 이번 주 FOMC에서 연준이 25bp 금리를 인상할 확률은 92.3%까지 올라온 상태다. 결과는 한국시간 17일 새벽 3시 발표된다.",
+      "tickers": [],
+      "source_url": "https://www.newdaily.co.kr/site/data/html/2026/09/15/2026091500281.html"
+    },
+    {
+      "theme": "반도체 밸류에이션 논쟁",
+      "summary": "AI 속도조절론 확산에 전날 5%대 폭락했던 반도체가 15일(현지시간) 저가 매수세 유입에 숨고르기를 보였다. 엔비디아가 0.57% 반등한 212.17달러에 마감했고 반도체 ETF SOXX도 0.29% 올랐다. 국내에서도 삼성전자, SK하이닉스가 장 초반 강보합 흐름을 보이며 AI 산업의 장기 성장성에 대한 신뢰가 저가 매수세로 이어졌다는 분석이 나온다.",
+      "tickers": [
+        "NVDA",
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.fnnews.com/news/202609150924135206"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "사우디아라비아의 동서송유관 가동 중단 여파에 이어 예멘 후티 반군의 사우디 남부 공군기지 공격 소식까지 겹치며 WTI가 4.03% 급등한 배럴당 105.48달러를 기록했다. 에너지 섹터(XLE +2.17%)가 12개 섹터 중 가장 좋은 흐름을 보였고 엑슨모빌은 2.57% 올랐다.",
+      "tickers": [
+        "XOM"
+      ],
+      "source_url": "https://tradingeconomics.com/commodity/crude-oil"
+    },
+    {
+      "theme": "조선과 방산",
+      "summary": "HD한국조선해양, 삼성중공업, 한화에어로스페이스 등이 최근 급등에 따른 밸류에이션 부담 속에 15일 6~7%대 급락했다. HD현대중공업 노조는 임단협 교섭 지연을 이유로 16일부터 19일까지 나흘간 파업 시간을 4시간에서 7시간으로 확대하기로 했는데, 회사 측은 연간 수주 목표 초과 달성으로 IBK투자증권이 목표주가를 84만원으로 상향하는 등 실적 기대와 노사 갈등이 엇갈리는 모습이다.",
+      "tickers": [
+        "267250",
+        "329180"
+      ],
+      "source_url": "https://www.etoday.co.kr/news/view/2625851",
+      "source_urls": [
+        "https://www.etoday.co.kr/news/view/2625851",
+        "https://www.mt.co.kr/stock/2026/09/15/2026091508042387527"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "전날 AI 속도조절론에 3.36% 급락한 뒤 저가 매수세 유입에 15일 0.57% 반등한 212.17달러에 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "AI 인프라반도체 이슈의 직접 영향권에서 비켜나 있었지만 시장 전반의 약세 속에 15일 0.52% 내린 331.34달러에 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "전날 AI 행동강령 발표로 1.97% 올랐던 상승분을 반납하며 15일 1.68% 내린 496.91달러에 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "국채금리 급등에 따른 성장주 부담 속에 경기소비재 섹터가 12개 섹터 중 가장 부진한 가운데 15일 0.67% 내린 356.58달러에 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "전날 3.64% 급등했던 상승분을 일부 반납하며 15일 0.43% 내린 172.56달러에 마감했다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "15일 장 초반 저가 매수세에 강보합 출발했으나 0.20% 내린 24만5,000원으로 약보합 마감했다.",
+      "source_url": "https://www.ajunews.com/view/20260915100121093"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "15일 장 초반 강보합 흐름을 보였으나 장 후반 상승분을 반납하며 0.53% 내린 168만8,000원에 마감했다.",
+      "source_url": "https://www.fnnews.com/news/202609150924135206"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2차전지 업종 반등 흐름 속에 15일 3.41% 오른 363,500원에 마감했다.",
+      "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=548311"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "KRX 자동차지수(-1.25%) 약세 속에 15일 1.08% 내린 주가로 마감했다.",
+      "source_url": "https://kr.investing.com/indices/krx-automobile"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "전날 6.35% 급락에 이어 15일에도 0.53% 내린 168만8,000원에 마감했다. 다만 장 초반에는 저가 매수세에 강보합으로 출발했고, 밤사이 뉴욕에서도 반도체 ETF(SOXX)가 0.29% 반등하는 등 AI 속도조절론發 충격이 하루 만에 진정되는 조짐을 보이고 있다.",
+      "catalysts": [
+        "9월15~16일(현지시간) FOMC 회의 결과(한국시간 17일 새벽 발표)",
+        "SK하이닉스 ADR과 국내 주가 간 괴리율 추이",
+        "마이크론 등 해외 메모리 업체 실적 모멘텀"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 319,000원",
+        "resistance": "52주 최고가 2,987,000원",
+        "analyst_target_cited": "BNK투자증권, 2026-09-14, 보유, 목표주가 148만원"
+      },
+      "risk": "FOMC에서 예상보다 매파적인 메시지가 나올 경우 국채금리가 추가로 오르며 반도체 등 성장주 밸류에이션 조정 압력이 재차 커질 수 있다.",
+      "sources": [
+        "https://www.fnnews.com/news/202609150924135206",
+        "https://www.newspim.com/news/view/20260915000387"
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "15일 장 초반 강보합 출발 후 0.20% 내린 24만5,000원으로 약보합 마감했다. BNK투자증권은 앞서 메모리 가격 상승 둔화와 원화 강세를 근거로 투자의견을 보유로 낮추고 목표주가를 27만원으로 내린 바 있으나, 시장에서는 AI 산업의 장기 성장성 자체를 의심하는 것은 아니라는 분석도 나온다.",
+      "catalysts": [
+        "9월15~16일(현지시간) FOMC 회의 결과(한국시간 17일 새벽 발표)",
+        "이번 주 자사주 매입 재개 여부",
+        "3분기 실적 프리뷰(파운드리, 메모리 부문)"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 74,200원",
+        "resistance": "52주 최고가 374,500원",
+        "analyst_target_cited": "BNK투자증권, 2026-09-14, 보유(하향), 목표주가 27만원(기존 30만원에서 하향)"
+      },
+      "risk": "외국인, 기관 동반 순매도가 이어지는 가운데 FOMC 결과에 따라 성장주 전반의 조정 압력이 커질 수 있다.",
+      "sources": [
+        "https://www.ajunews.com/view/20260915100121093",
+        "https://www.fnnews.com/news/202609150924135206"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "thesis": "다리오 아모데이 앤트로픽 CEO의 AI 속도조절 촉구 발언 여파로 전날 3.36% 급락했던 엔비디아가 15일 저가 매수세 유입에 0.57% 반등한 212.17달러에 마감했다. 반도체 ETF SOXX도 0.29% 오르며 급락 하루 만에 안정을 찾는 모습이다.",
+      "catalysts": [
+        "9월15~16일(현지시간) FOMC 회의 결과(한국시간 17일 새벽 발표)",
+        "AI 개발 속도조절론의 실제 정책, 규제 반영 여부",
+        "다음 분기 엔비디아 실적 발표 및 가이던스"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 $164.27",
+        "resistance": "52주 최고가 $236.54",
+        "analyst_target_cited": "Wedbush(댄 아이브스), 2026-08-28, Outperform, 목표주가 345달러"
+      },
+      "risk": "국채금리가 2007년 이후 최고치를 이어가는 가운데 FOMC 결과에 따라 성장주 밸류에이션 재평가 압력이 다시 커질 수 있다.",
+      "sources": [
+        "https://stockanalysis.com/stocks/nvda/history/",
+        "https://stockanalysis.com/etf/soxx/history/"
+      ]
+    },
+    {
+      "ticker": "329180",
+      "name": "HD현대중공업",
+      "market": "KR",
+      "thesis": "연간 수주 목표를 초과 달성하며 IBK투자증권이 목표주가를 81만6,000원에서 84만원으로 상향하는 등 실적 기대는 유효하지만, 노조가 임단협 교섭 지연을 이유로 16일부터 19일까지 파업 시간을 기존 4시간에서 7시간으로 확대하기로 하면서 생산 차질 우려가 커지고 있다.",
+      "catalysts": [
+        "16~19일 7시간 확대 파업의 실제 생산 차질 규모",
+        "추석 전 임단협 타결 여부",
+        "3분기 실적 발표 및 수주 잔고 추이"
+      ],
+      "levels_watched": {
+        "support": "52주 최저가 411,500원",
+        "resistance": "52주 최고가 765,000원",
+        "analyst_target_cited": "IBK투자증권, 2026-09-15, 매수, 목표주가 84만원(기존 81만6,000원에서 상향)"
+      },
+      "risk": "파업이 장기화되거나 7시간 확대 파업이 예고대로 강행될 경우 인도 일정 지연에 따른 매출 인식 차질과 고객사와의 관계 악화로 이어질 수 있다.",
+      "sources": [
+        "https://www.mt.co.kr/stock/2026/09/15/2026091508042387527",
+        "https://www.etoday.co.kr/news/view/2625851"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
