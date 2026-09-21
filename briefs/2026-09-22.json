@@ -1,0 +1,529 @@
+{
+  "date": "2026-09-22",
+  "generated_at_kst": "2026-09-22T06:48:40+09:00",
+  "mode": "new",
+  "headline": "미국 AI 반도체 랠리와 유가 하락이 오늘 한국장에 훈풍을 보탠다",
+  "mail_title": "나스닥 최고가 뒤 삼전닉스는",
+  "kr": {
+    "preview": "어제는 삼성전자가 4.98% 오르며 코스피를 7,007.72로 끌어올렸지만, 지수 상승이 반도체 대형주에 집중됐고 LG에너지솔루션과 현대차는 내렸습니다. 밤사이 미국장은 나스닥이 2.26% 올라 사상 최고로 마감했고 SOXX가 4.95% 뛰었습니다. 오늘 한국장은 미국 반도체 랠리와 9월 1일부터 20일까지 반도체 수출이 전년 대비 259.4% 늘어난 흐름이 삼성전자와 SK하이닉스로 이어지는지, 추석 연휴 전 외국인과 기관 수급이 얼마나 확산되는지를 확인합니다. 다만 중동 협상 기대에 유가가 빠졌어도 미중 정상회담과 10년물 금리 움직임이 변수입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "7,007.72",
+        "change_pct": "+1.65%",
+        "source_urls": [
+          "https://en.yna.co.kr/view/AEN20260921006852320",
+          "https://www.newspim.com/news/view/20260921001022"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "836.27",
+        "change_pct": "+1.11%",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260921001022"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+4.98%",
+        "reason": "9월 1일부터 20일까지 반도체 수출이 전년 동기 대비 259.4% 늘어난 가운데 기관 매수가 몰리며 반도체 대형주 강세를 이끌었습니다.",
+        "source_url": "https://www.newspim.com/news/view/20260921001022",
+        "source_urls": [
+          "https://www.newspim.com/news/view/20260921001022",
+          "https://stockanalysis.com/quote/krx/005930/history/"
+        ]
+      },
+      {
+        "ticker": "402340",
+        "name": "SK스퀘어",
+        "change_pct": "+4.45%",
+        "reason": "SK하이닉스의 모회사인 SK스퀘어가 반도체 대형주 강세와 함께 4%대 올랐습니다.",
+        "source_url": "https://en.yna.co.kr/view/AEN20260921006852320"
+      },
+      {
+        "ticker": "240810",
+        "name": "원익IPS",
+        "change_pct": "+6.17%",
+        "reason": "코스닥 반도체 소부장 강세를 대표하며 시가총액 상위 종목 가운데 큰 폭으로 올랐습니다.",
+        "source_url": "https://www.newspim.com/news/view/20260921001022"
+      },
+      {
+        "ticker": "039030",
+        "name": "이오테크닉스",
+        "change_pct": "+6.73%",
+        "reason": "코스닥 반도체 장비주 매수세가 유입되며 6%대 상승했습니다.",
+        "source_url": "https://www.newspim.com/news/view/20260921001022"
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "change_pct": "-3.30%",
+        "reason": "반도체주 중심의 상승장에서도 2차전지 대표주 약세가 이어져 지수와 업종 사이의 온도 차를 보였습니다.",
+        "source_url": "https://en.yna.co.kr/view/AEN20260921006852320"
+      }
+    ]
+  },
+  "us": {
+    "recap": "밤사이 뉴욕증시는 AI와 반도체주가 이끌며 상승했습니다. S&P 500은 7,764.70으로 1.49%, 나스닥은 27,122.09로 2.26%, 다우는 52,048.83으로 0.71% 올랐습니다. 나스닥은 사상 최고 종가를 기록했고, 미 10년물 금리는 5% 아래로 내려갔습니다. 브렌트유는 장중 100달러 아래로 밀렸다가 100.34달러에 마감해 위험자산에 우호적인 환경을 만들었습니다. AMD는 9.95%, 인텔은 12.2%, 메타는 11.4% 올랐습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,764.70",
+        "change_pct": "+1.49%",
+        "source_urls": [
+          "https://apnews.com/article/3cb34d37f609dde5fb94d695e9665869",
+          "https://ca.marketscreener.com/news/wall-street-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat-ce785adbd18bf627"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "27,122.09",
+        "change_pct": "+2.26%",
+        "source_urls": [
+          "https://apnews.com/article/3cb34d37f609dde5fb94d695e9665869",
+          "https://ca.marketscreener.com/news/wall-street-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat-ce785adbd18bf627"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "52,048.83",
+        "change_pct": "+0.71%",
+        "source_urls": [
+          "https://apnews.com/article/3cb34d37f609dde5fb94d695e9665869",
+          "https://ca.marketscreener.com/news/wall-street-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat-ce785adbd18bf627"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "change_pct": "+9.95%",
+        "reason": "AI 투자 확대 기대가 다시 살아나며 약 10% 올랐고, 시가총액 1조 달러를 처음 넘어섰습니다.",
+        "source_url": "https://stockanalysis.com/stocks/amd/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/amd/history/",
+          "https://ca.marketscreener.com/news/wall-street-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat-ce785adbd18bf627"
+        ]
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel",
+        "change_pct": "+12.20%",
+        "reason": "AI 반도체 랠리 속에서 12.2% 급등했습니다.",
+        "source_url": "https://ca.marketscreener.com/news/wall-street-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat-ce785adbd18bf627"
+      },
+      {
+        "ticker": "META",
+        "name": "Meta Platforms",
+        "change_pct": "+11.40%",
+        "reason": "Wells Fargo의 목표가 상향과 최근 Muse AI assistant 출시 영향으로 11.4% 올랐습니다.",
+        "source_url": "https://ca.marketscreener.com/news/wall-street-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat-ce785adbd18bf627"
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+3.44%",
+        "note": "KRX 반도체지수 기준, 2026년 9월 21일 15시29분 정규장 종가입니다.",
+        "source_url": "https://kr.investing.com/indices/krx-semiconductor-historical-data"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+1.95%",
+        "note": "전자장비와기기 업종 기준이며 넓은 IT 대표값으로 사용했습니다.",
+        "source_url": "https://stock.mk.co.kr/news/view/1163040"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-0.66%",
+        "note": "KRX 미디어통신지수 기준이며 통신이 포함된 복합지수입니다.",
+        "source_url": "https://kr.investing.com/indices/krx-media---telecom-historical-data"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+0.74%",
+        "note": "KRX 헬스케어지수 기준, 2026년 9월 21일 15시29분 정규장 종가입니다.",
+        "source_url": "https://kr.investing.com/indices/krx-health-care-historical-data"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.35%",
+        "note": "KRX 은행지수 기준, 2026년 9월 21일 15시29분 정규장 종가입니다.",
+        "source_url": "https://kr.investing.com/indices/krx-bank-historical-data"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-2.41%",
+        "note": "대표 종목 기준 롯데쇼핑 -3.44%와 신세계 -1.38%의 단순평균입니다.",
+        "source_url": "https://kr.investing.com/equities/lotte-shopping-historical-data",
+        "source_urls": [
+          "https://kr.investing.com/equities/lotte-shopping-historical-data",
+          "https://kr.investing.com/equities/shinsegae-historical-data"
+        ]
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-1.39%",
+        "note": "자동차 업종 기준이며 2026년 9월 21일 정규장 종가입니다.",
+        "source_url": "https://stock.mk.co.kr/news/view/1163040"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-2.07%",
+        "note": "대표 종목 기준 LG에너지솔루션 -3.30%, 삼성SDI -1.48%, 에코프로비엠 -1.43%의 단순평균입니다.",
+        "source_url": "https://kr.investing.com/equities/lg-energy-solution-historical-data",
+        "source_urls": [
+          "https://kr.investing.com/equities/lg-energy-solution-historical-data",
+          "https://kr.investing.com/equities/samsung-sdi-historical-data",
+          "https://kr.investing.com/equities/ecopro-bm-co-ltd-historical-data"
+        ]
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-1.25%",
+        "note": "조선 업종 기준이며 방산 대표값을 별도로 합산하지 않았습니다.",
+        "source_url": "https://stock.mk.co.kr/news/view/1163040"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-1.15%",
+        "note": "KRX 건설지수 기준, 2026년 9월 21일 15시29분 정규장 종가입니다.",
+        "source_url": "https://kr.investing.com/indices/krx-constructions-historical-data"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-0.12%",
+        "note": "KRX 에너지화학지수 기준, 2026년 9월 21일 15시29분 정규장 종가입니다.",
+        "source_url": "https://kr.investing.com/indices/krx-energy---chemical-historical-data"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-1.76%",
+        "note": "KRX 철강지수 기준, 2026년 9월 21일 15시29분 정규장 종가입니다.",
+        "source_url": "https://kr.investing.com/indices/krx-steel-historical-data"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-1.74%",
+        "note": "대표 종목 기준 카카오 -1.04%와 크래프톤 -2.44%의 단순평균입니다.",
+        "source_url": "https://kr.investing.com/equities/kakao-corp-historical-data",
+        "source_urls": [
+          "https://kr.investing.com/equities/kakao-corp-historical-data",
+          "https://kr.investing.com/equities/krafton-historical-data"
+        ]
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.70%",
+        "note": "대표 종목 기준 JYP Ent. -0.78%, 하이브 -2.05%, 스튜디오드래곤 +0.73%의 단순평균입니다.",
+        "source_url": "https://kr.investing.com/equities/jyp-entertainment-corp-historical-data",
+        "source_urls": [
+          "https://kr.investing.com/equities/jyp-entertainment-corp-historical-data",
+          "https://kr.investing.com/equities/big-hit-entertainment-co-ltd-historical-data",
+          "https://kr.investing.com/equities/studio-dragon-historical-data"
+        ]
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+4.95%",
+        "note": "2026년 9월 21일 종가, SOXX 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+2.77%",
+        "note": "2026년 9월 21일 종가, XLK 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+3.68%",
+        "note": "2026년 9월 21일 종가, XLC 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+0.37%",
+        "note": "2026년 9월 21일 종가, XLV 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.07%",
+        "note": "2026년 9월 21일 종가, XLF 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+1.08%",
+        "note": "2026년 9월 21일 종가, XLY 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-1.06%",
+        "note": "2026년 9월 21일 종가, XLP 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.14%",
+        "note": "2026년 9월 21일 종가, XLI 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.53%",
+        "note": "2026년 9월 21일 종가, XLB 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-2.88%",
+        "note": "2026년 9월 21일 종가, XLE 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-1.07%",
+        "note": "2026년 9월 21일 종가, XLU 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.14%",
+        "note": "2026년 9월 21일 종가, XLRE 기준입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,375.15원",
+      "change_pct": "+0.04%",
+      "source_url": "https://kr.investing.com/currencies/usd-krw-historical-data",
+      "note": "2026년 9월 22일 06시39분56초 KST 조회 실시간값이며 제공사 이전 종가 대비입니다. 9월 21일 대상 날짜 행의 종가는 1,374.68원, -0.80%였습니다."
+    },
+    {
+      "name": "달러인덱스",
+      "value": "100.40",
+      "change_pct": "-0.02%",
+      "source_url": "https://kr.investing.com/indices/usdollar-historical-data",
+      "note": "2026년 9월 22일 06시42분10초 KST 조회 실시간값이며 제공사 기준입니다. 9월 21일 대상 날짜 행의 종가는 100.42, +0.14%였습니다."
+    },
+    {
+      "name": "금",
+      "value": "4,381.00달러/온스",
+      "change_pct": "-0.69%",
+      "source_url": "https://kr.investing.com/commodities/gold-historical-data",
+      "note": "9월 21일 대상 날짜 행의 확정 종가와 등락률입니다. 2026년 9월 22일 06시46분 KST에 원문 행을 확인했습니다."
+    },
+    {
+      "name": "WTI",
+      "value": "91.98달러/배럴",
+      "change_pct": "-3.85%",
+      "source_url": "https://kr.investing.com/commodities/crude-oil-historical-data",
+      "note": "9월 21일 대상 날짜 행의 종가와 등락률입니다. 2026년 9월 22일 06시46분 KST에 원문 행을 확인했습니다."
+    },
+    {
+      "name": "비트코인",
+      "value": "86,833달러",
+      "change_pct": "+7.28%",
+      "source_url": "https://kr.investing.com/crypto/bitcoin/btc-usd-historical-data",
+      "note": "2026년 9월 22일 06시43분22초 KST 조회 실시간값이며 제공사 24시간 기준입니다. 9월 21일 대상 날짜 행은 86,833.0달러, +6.95%로 종가와 실시간값을 구분했습니다."
+    },
+    {
+      "name": "이더리움",
+      "value": "2,777.23달러",
+      "change_pct": "+5.58%",
+      "source_url": "https://kr.investing.com/crypto/ethereum/eth-usd-historical-data",
+      "note": "2026년 9월 22일 06시43분24초 KST 조회 실시간값이며 제공사 24시간 기준입니다. 9월 21일 대상 날짜 행은 2,777.23달러, +4.97%로 종가와 실시간값을 구분했습니다."
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.950%",
+      "change_pct": "-0.62%",
+      "source_url": "https://kr.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
+      "note": "9월 21일 대상 날짜 행의 종가와 등락률입니다. 2026년 9월 22일 06시46분 KST에 원문 행을 확인했습니다."
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 10년물은 9월 21일 종가 4.950%로 0.62% 하락했고, 달러인덱스 실시간값은 100.40, 원달러 실시간값은 1,375.15원입니다. WTI는 91.98달러로 3.85% 하락했고 금은 4,381달러로 0.69% 하락했습니다.",
+    "notes": "미국장은 유가 하락과 국채금리 하락이 위험자산에 우호적으로 작용했고, 중동 협상 기대와 9월 24일 예정된 미중 정상회담이 변수입니다. 국내는 추석 연휴 전 수급 공백 가능성과 미국 반도체주 강세의 확산 여부를 함께 확인합니다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "9월 21일 코스피는 삼성전자 4.98% 상승과 반도체 수출 호조로 7,000선을 회복했습니다. 밤사이 SOXX가 4.95% 오르고 AMD와 인텔이 급등해 국내 메모리주에 추가 모멘텀이 생겼지만, 삼성전자와 SK하이닉스 사이의 상승 폭 차이도 확인할 지점입니다.",
+      "tickers": [
+        "005930",
+        "000660",
+        "AMD"
+      ],
+      "source_url": "https://www.newspim.com/news/view/20260921001022",
+      "source_urls": [
+        "https://www.newspim.com/news/view/20260921001022",
+        "https://ca.marketscreener.com/news/wall-street-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat-ce785adbd18bf627"
+      ]
+    },
+    {
+      "theme": "국제유가",
+      "summary": "WTI 9월 21일 종가는 91.98달러로 3.85% 하락했고 브렌트유는 장중 100달러 아래로 밀렸다가 100.34달러에 마감했습니다. 중동 협상 기대가 금리와 위험자산 부담을 낮췄지만, 이란 관련 협상 뉴스에 따라 변동성이 다시 커질 수 있습니다.",
+      "tickers": [
+        "WTI"
+      ],
+      "source_url": "https://ca.marketscreener.com/news/wall-street-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat-ce785adbd18bf627",
+      "source_urls": [
+        "https://ca.marketscreener.com/news/wall-street-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat-ce785adbd18bf627",
+        "https://kr.investing.com/commodities/crude-oil-historical-data"
+      ]
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "9월 21일 기관은 코스피에서 1조4,956억원을 순매수했지만 외국인은 1,707억원, 개인은 2조9,833억원을 순매도했습니다. 기타법인도 삼성전자와 SK하이닉스의 대규모 자사주 매입 영향으로 1조6,585억원을 순매수했습니다. 지수는 올랐지만 외국인 매수 전환과 반도체 밖으로의 수급 확산은 아직 확인이 필요합니다.",
+      "tickers": [
+        "005930",
+        "000660",
+        "USD/KRW"
+      ],
+      "source_url": "https://v.daum.net/v/20260921181751185",
+      "source_urls": [
+        "https://www.newspim.com/news/view/20260921001022",
+        "https://v.daum.net/v/20260921181751185"
+      ]
+    },
+    {
+      "theme": "AI 자본지출 논쟁",
+      "summary": "최근 AI 안전성 경고로 흔들렸던 투자심리가 밤사이 다시 회복됐고, AI 관련 대형주가 시장 상승을 이끌었습니다. 주가 상승이 실제 AI 투자 확대와 실적 증가로 이어지는지 확인하는 국면입니다.",
+      "tickers": [
+        "AMD",
+        "INTC",
+        "META",
+        "NVDA"
+      ],
+      "source_url": "https://ca.marketscreener.com/news/wall-street-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat-ce785adbd18bf627"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "9월 21일 종가 227.38달러, +2.30%. AI와 반도체주 랠리의 수혜로 상승했습니다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "9월 21일 종가 338.98달러, +0.85%. 미국장 위험선호 속 상승했습니다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "9월 21일 종가 501.61달러, +1.59%. 미국장 기술주 강세와 함께 올랐습니다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "9월 21일 종가 375.21달러, +3.00%. 미국장 상승 흐름 속 올랐습니다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "9월 21일 종가 183.07달러, +3.06%. AI 관련주 강세 흐름 속 올랐습니다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "9월 21일 정규장 종가 274,000원, +4.98%. 반도체 수출 호조와 기관 매수 속 강세였습니다.",
+      "source_url": "https://www.newspim.com/news/view/20260921001022"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "9월 21일 정규장 종가 1,868,000원, +0.59%. 상승했지만 삼성전자보다 상승 폭이 작았습니다.",
+      "source_url": "https://www.newspim.com/news/view/20260921001022"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "9월 21일 정규장 종가 352,000원, -3.30%. 반도체 중심 상승장과 달리 2차전지 약세가 이어졌습니다.",
+      "source_url": "https://www.newspim.com/news/view/20260921001022"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "9월 21일 정규장 종가 359,000원, -1.64%. 자동차 대형주 약세로 시장을 밑돌았습니다.",
+      "source_url": "https://en.yna.co.kr/view/AEN20260921006852320"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "9월 21일 종가가 1,868,000원으로 0.59% 올랐습니다. 미국 반도체 랠리와 AI 수요 기대가 이어지는 가운데 삼성전자보다 상승 폭이 작아 국내 메모리주 안에서 수급이 얼마나 확산되는지 확인할 종목입니다.",
+      "catalysts": [
+        "미국 반도체주 강세가 국내장에서도 이어지는지 여부",
+        "9월 1일부터 20일까지 반도체 수출 증가세의 실적 반영",
+        "추석 연휴 전 외국인과 기관의 대형주 수급"
+      ],
+      "levels_watched": {
+        "support": "9월 21일 장중 저가 1,847,000원",
+        "resistance": "9월 21일 장중 고가 1,888,000원",
+        "analyst_target_cited": "이번 브리핑에는 새 목표가를 추가 인용하지 않음"
+      },
+      "risk": "AI 수요 기대가 약해지거나 중국 메모리 경쟁과 미국 금리 재상승이 겹치면 실적 기대와 밸류에이션 부담이 동시에 커질 수 있습니다.",
+      "sources": [
+        "https://www.newspim.com/news/view/20260921001022",
+        "https://stockanalysis.com/quote/krx/000660/history/",
+        "https://ca.marketscreener.com/news/wall-street-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat-ce785adbd18bf627"
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "9월 21일 종가가 274,000원으로 4.98% 올랐고 기관 매수와 반도체 수출 호조가 겹쳤습니다. 미국 SOXX 강세가 이어지는 가운데 지수 상승이 삼성전자 한 종목에 다시 집중되는지 시장 폭을 함께 볼 종목입니다.",
+      "catalysts": [
+        "미국 SOXX 4.95% 상승이 국내 반도체주로 이어지는지 여부",
+        "반도체 수출 증가세가 실적 기대를 계속 지지하는지 여부",
+        "추석 연휴 전 외국인과 기관 수급의 확산 여부"
+      ],
+      "levels_watched": {
+        "support": "9월 21일 장중 저가 263,500원",
+        "resistance": "9월 21일 장중 고가 275,000원",
+        "analyst_target_cited": "이번 브리핑에는 새 목표가를 추가 인용하지 않음"
+      },
+      "risk": "반도체 대형주로의 쏠림이 심해지거나 미국 금리와 미중 정상회담 관련 불확실성이 커지면 시장 폭과 수급 변동성이 확대될 수 있습니다.",
+      "sources": [
+        "https://www.newspim.com/news/view/20260921001022",
+        "https://stockanalysis.com/quote/krx/005930/history/",
+        "https://stockanalysis.com/etf/soxx/history/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
