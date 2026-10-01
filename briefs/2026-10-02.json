@@ -1,0 +1,537 @@
+{
+  "date": "2026-10-02",
+  "generated_at_kst": "2026-10-02T06:45:23+09:00",
+  "mode": "new",
+  "headline": "전일 반도체 랠리 뒤, SOXX 1.35%와 유가 2.75%가 오늘 한국장 변수",
+  "mail_title": "SOXX 1.35%, 반도체 훈풍 계속될까",
+  "kr": {
+    "preview": "어제는 마이크론의 호실적과 한국 9월 반도체 수출 호조가 겹치며 삼성전자와 SK하이닉스가 강했고, 코스피는 6,971.35로 1.95%, 코스닥은 894.29로 4.48% 올랐습니다. 오늘은 밤사이 미국장이 소폭 상승했지만 유가가 2.75% 올라 장기금리와 함께 위험선호를 제약할 수 있습니다. SOXX는 1.35%, XLK는 1.05% 상승해 반도체와 기술주 수급에는 우호적이지만, 미국 10년물은 5.240%로 여전히 5%를 웃돕니다. 개장 뒤에는 전일 상승을 이어가는지, 외국인 수급이 반도체 밖으로 확산되는지 확인할 구간입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,971.35",
+        "change_pct": "+1.95%",
+        "source_urls": [
+          "https://kr.investing.com/indices/kospi-historical-data",
+          "https://en.sedaily.com/finance/2026/10/01/kospi-climbs-195-percent-to-close-at-697135"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "894.29",
+        "change_pct": "+4.48%",
+        "source_urls": [
+          "https://kr.investing.com/indices/kosdaq-historical-data",
+          "https://en.sedaily.com/finance/2026/10/01/kospi-climbs-195-percent-to-close-at-697135"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+2.79%",
+        "reason": "전일 마이크론의 강한 실적과 한국 반도체 수출 호조가 메모리 업황 기대를 키우며 삼성전자가 276,000원으로 올랐습니다.",
+        "source_url": "https://en.yna.co.kr/view/AEN20261001007952320",
+        "source_urls": [
+          "https://en.yna.co.kr/view/AEN20261001007952320",
+          "https://stockanalysis.com/quote/krx/005930/history/"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+3.21%",
+        "reason": "AI 메모리 수요와 공급계약 기대가 이어지며 SK하이닉스가 1,833,000원으로 올라 전일 한국장 반도체 강세를 이끌었습니다.",
+        "source_url": "https://en.yna.co.kr/view/AEN20261001007952320",
+        "source_urls": [
+          "https://en.yna.co.kr/view/AEN20261001007952320",
+          "https://stockanalysis.com/quote/krx/000660/history/"
+        ]
+      },
+      {
+        "ticker": "058470",
+        "name": "리노공업",
+        "change_pct": "+10.90%",
+        "reason": "메모리 수요 기대와 반도체 장비 및 부품주 매수세가 겹치며 전일 코스닥에서 두드러진 상승을 보였습니다.",
+        "source_url": "https://www.news2day.co.kr/article/20261001500251",
+        "source_urls": [
+          "https://www.news2day.co.kr/article/20261001500251"
+        ]
+      },
+      {
+        "ticker": "240810",
+        "name": "원익IPS",
+        "change_pct": "+9.13%",
+        "reason": "마이크론 실적과 반도체 수출 호조가 장비주로 번지며 전일 강세를 보였습니다.",
+        "source_url": "https://www.news2day.co.kr/article/20261001500251",
+        "source_urls": [
+          "https://www.news2day.co.kr/article/20261001500251"
+        ]
+      },
+      {
+        "ticker": "039030",
+        "name": "이오테크닉스",
+        "change_pct": "+8.46%",
+        "reason": "반도체 장비와 부품주 전반으로 수급이 확산되며 전일 코스닥에서 강세를 나타냈습니다.",
+        "source_url": "https://www.news2day.co.kr/article/20261001500251",
+        "source_urls": [
+          "https://www.news2day.co.kr/article/20261001500251"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "밤사이 미국장은 채권 금리 변동 속에서 S&P 500 7,666.45, +0.20%, 나스닥 26,871.60, +0.04%, 다우 50,926.56, +0.04%로 소폭 올랐습니다. 장중 고금리 부담이 있었지만 장 마감 무렵 금리 상승분이 되돌려졌고, 에너지와 산업재가 상대적으로 강했습니다. SOXX와 XLK가 올라 AI와 반도체는 버텼지만, 헬스케어와 통신서비스, 부동산은 약했습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,666.45",
+        "change_pct": "+0.20%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-c367e6e87c621f06078ea223ab7ce6d1",
+          "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-004-4928371"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,871.60",
+        "change_pct": "+0.04%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-c367e6e87c621f06078ea223ab7ce6d1",
+          "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-004-4928371"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "50,926.56",
+        "change_pct": "+0.04%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-c367e6e87c621f06078ea223ab7ce6d1",
+          "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-004-4928371"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "+1.09%",
+        "reason": "AI 메모리 수요 기대와 반도체 강세 속에 230.86달러로 올랐습니다.",
+        "source_url": "https://stockanalysis.com/stocks/nvda/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/nvda/history/",
+          "https://uk.marketscreener.com/news/micron-forecasts-quarterly-revenue-above-estimates-ce785ad3d881f42c"
+        ]
+      },
+      {
+        "ticker": "AAPL",
+        "name": "Apple",
+        "change_pct": "-0.81%",
+        "reason": "대형 기술주가 모두 같은 흐름을 보이지 않은 가운데 330.32달러로 내렸습니다.",
+        "source_url": "https://stockanalysis.com/stocks/aapl/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/aapl/history/",
+          "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-004-4928371"
+        ]
+      },
+      {
+        "ticker": "PLTR",
+        "name": "Palantir",
+        "change_pct": "+1.60%",
+        "reason": "AI 관련주 흐름 속에서 190.04달러로 올라 지수보다 강한 움직임을 보였습니다.",
+        "source_url": "https://stockanalysis.com/stocks/pltr/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/pltr/history/",
+          "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-004-4928371"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+3.00%",
+        "note": "2026-10-01 삼성전자와 SK하이닉스의 단순평균, 대표종목 기준입니다.",
+        "source_url": "https://www.news2day.co.kr/article/20261001500251"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+1.24%",
+        "note": "2026-10-01 KOSPI IT 서비스 업종지수 기준입니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.08%",
+        "note": "2026-10-01 KOSPI 통신업 업종지수 기준입니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+2.89%",
+        "note": "2026-10-01 KOSPI 의약품 업종지수 기준입니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.13%",
+        "note": "2026-10-01 KOSPI 금융업 업종지수 기준입니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+0.51%",
+        "note": "2026-10-01 KOSPI 유통업 업종지수를 대표값으로 사용했습니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+1.22%",
+        "note": "2026-10-01 KOSPI 운수장비 업종지수를 대표값으로 사용했습니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+3.90%",
+        "note": "LG에너지솔루션, 에코프로비엠, 에코프로의 단순평균, 대표종목 기준입니다.",
+        "source_url": "https://www.news2day.co.kr/article/20261001500251"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+1.47%",
+        "note": "2026-10-01 전용 업종지수 대신 KOSPI 기계 업종지수를 대표값으로 사용했습니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-0.40%",
+        "note": "2026-10-01 KOSPI 건설업 업종지수 기준입니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-1.12%",
+        "note": "2026-10-01 KOSPI 화학 업종지수 기준입니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+1.55%",
+        "note": "2026-10-01 KOSPI 철강및금속 업종지수 기준입니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+0.69%",
+        "note": "2026-10-01 KOSPI 서비스업 업종지수를 대표값으로 사용했습니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.09%",
+        "note": "2026-10-01 KOSPI 오락문화 업종지수 기준입니다.",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+1.35%",
+        "note": "SOXX 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+1.05%",
+        "note": "XLK 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-0.93%",
+        "note": "XLC 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-1.32%",
+        "note": "XLV 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.11%",
+        "note": "XLF 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-0.03%",
+        "note": "XLY 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.33%",
+        "note": "XLP 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.99%",
+        "note": "XLI 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.33%",
+        "note": "XLB 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+1.95%",
+        "note": "XLE 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.61%",
+        "note": "XLU 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.56%",
+        "note": "XLRE 2026-10-01 종가 등락률입니다.",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,358.94원",
+      "change_pct": "+0.11%",
+      "source_url": "https://www.investing.com/currencies/usd-krw-historical-data",
+      "note": "2026-10-01 대상 날짜 행의 USD/KRW 역사 데이터 종가입니다. 2026-10-02 06:45 KST 확인. 서울 외환시장 15시 30분 고시와 구분합니다."
+    },
+    {
+      "name": "달러인덱스",
+      "value": "102.04",
+      "change_pct": "+0.58%",
+      "source_url": "https://www.investing.com/indices/usdollar-historical-data",
+      "note": "2026-10-01 대상 날짜 행의 종가입니다. 2026-10-02 06:45 KST 확인."
+    },
+    {
+      "name": "금",
+      "value": "$4,207.55/온스",
+      "change_pct": "+0.50%",
+      "source_url": "https://www.investing.com/commodities/gold-historical-data",
+      "note": "2026-10-01 Gold Futures 대상 날짜 행의 종가입니다. 2026-10-02 06:45 KST 확인."
+    },
+    {
+      "name": "WTI",
+      "value": "$92.91/배럴",
+      "change_pct": "+2.75%",
+      "source_url": "https://www.investing.com/commodities/crude-oil-historical-data",
+      "note": "2026-10-01 WTI 선물 대상 날짜 행의 종가입니다. 2026-10-02 06:45 KST 확인."
+    },
+    {
+      "name": "비트코인",
+      "value": "$84,657",
+      "change_pct": "+1.24%",
+      "source_url": "https://www.investing.com/crypto/bitcoin/btc-usd-historical-data",
+      "note": "2026-10-01 Bitfinex BTC/USD 일봉 대상 날짜 행입니다. 24시간 시장이라 정규장 종가가 아닙니다. 2026-10-02 06:45 KST 확인."
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,693.50",
+      "change_pct": "+0.28%",
+      "source_url": "https://www.investing.com/crypto/ethereum/eth-usd-historical-data",
+      "note": "2026-10-01 Binance ETH/USD 일봉 대상 날짜 행입니다. 24시간 시장이라 정규장 종가가 아닙니다. 2026-10-02 06:45 KST 확인."
+    },
+    {
+      "name": "미 10년물",
+      "value": "5.240%",
+      "change_pct": "-1.00%",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
+      "note": "2026-10-02 06:45 KST 조회 기록의 2026-10-01 대상 날짜 행 수익률입니다. 전일 종가 5.293%보다 5.3bp 낮습니다. 조회 이후 갱신된 값과 구분합니다."
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "10월 1일 종가 기준 원/달러 USD/KRW는 1,358.94원, 달러인덱스는 102.04, 금은 4,207.55달러, WTI는 92.91달러, 미 10년물은 5.240%였습니다. WTI가 2.75% 올라 유가와 장기금리의 동반 변동이 위험자산의 핵심 변수입니다.",
+    "notes": "전일 한국장에서는 기관 매수가 반도체 대형주를 받쳤지만 외국인과 개인은 순매도했습니다. 밤사이 미국장은 지수 기준 소폭 상승했으며 SOXX와 XLK가 올라 국내 반도체 수급에는 우호적이지만, 미국 장기금리와 중동 협상에 따른 유가 변동은 계속 확인해야 합니다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "10월 1일 한국장 반도체 대형주 강세에는 9월 30일 미국 현지에서 발표된 Micron의 4분기 매출 542.3억달러와 1분기 매출 가이던스 615억달러가 반영됐습니다. 장기 공급계약 관련 고객 금융약정 320억달러도 한국장 개장 전 알려진 내용이며, 대부분 현금예치금으로 계약 총액과는 다릅니다. 이후 마감한 10월 1일 미국 정규장에서 SOXX는 1.35% 올랐습니다. 공급이 수요를 따라갈 수 있는지가 다음 확인 지점입니다.",
+      "tickers": [
+        "005930",
+        "000660",
+        "NVDA",
+        "SOXX"
+      ],
+      "source_url": "https://uk.marketscreener.com/news/micron-forecasts-quarterly-revenue-above-estimates-ce785ad3d881f42c",
+      "source_urls": [
+        "https://uk.marketscreener.com/news/micron-forecasts-quarterly-revenue-above-estimates-ce785ad3d881f42c",
+        "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx",
+        "https://stockanalysis.com/etf/soxx/history/"
+      ]
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "미 10년물의 10월 1일 대상 날짜 행은 10월 2일 06:45 KST 조회 당시 5.240%로, 전일 종가 5.293%보다 5.3bp 낮았지만 여전히 5%를 웃돕니다. 미국장은 금리 상승분이 되돌려지며 반등했지만, 높은 할인율은 한국 성장주 수급의 부담으로 남아 있습니다.",
+      "tickers": [
+        "US10Y",
+        "005930",
+        "NVDA"
+      ],
+      "source_url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-c367e6e87c621f06078ea223ab7ce6d1",
+      "source_urls": [
+        "https://apnews.com/article/wall-street-stocks-dow-nasdaq-c367e6e87c621f06078ea223ab7ce6d1",
+        "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data"
+      ]
+    },
+    {
+      "theme": "국제유가",
+      "summary": "WTI는 10월 1일 92.91달러로 2.75% 올랐고 Reuters는 미국과 이란의 평화 협상 결과와 중동 원유 수출 전망이 유가 변수라고 전했습니다. 유가 상승이 물가와 금리 기대를 다시 자극하는지 봅니다.",
+      "tickers": [
+        "WTI",
+        "XLE"
+      ],
+      "source_url": "https://au.investing.com/news/economy-news/asian-stocks-dip-bonds-in-focus-after-torrid-september-4667335",
+      "source_urls": [
+        "https://au.investing.com/news/economy-news/asian-stocks-dip-bonds-in-focus-after-torrid-september-4667335",
+        "https://www.investing.com/commodities/crude-oil-historical-data"
+      ]
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "USD/KRW 역사 데이터의 10월 1일 종가는 1,358.94원으로 0.11% 올랐습니다. 전일 KOSPI 수급은 거래소 원자료로 재확인이 필요하며, 지수 상승이 반도체 일부 종목에 머무는지와 외국인 수급의 연속성을 확인합니다.",
+      "tickers": [
+        "USD/KRW",
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://en.yna.co.kr/view/AEN20261001007952320",
+      "source_urls": [
+        "https://en.yna.co.kr/view/AEN20261001007952320",
+        "https://www.investing.com/currencies/usd-krw-historical-data"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "10월 1일 종가 230.86달러, +1.09%. Micron의 AI 메모리 수요 전망과 반도체 ETF 강세가 우호적으로 작용했습니다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "10월 1일 종가 330.32달러, -0.81%. 미국 대형 기술주 안에서 종목별 차별화가 나타났습니다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "10월 1일 종가 512.80달러, -0.02%. 지수 상승에도 보합권에서 마감했습니다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "10월 1일 종가 354.11달러, -0.20%. 경기소비재 ETF가 0.03% 내린 가운데 소폭 하락했습니다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "10월 1일 종가 190.04달러, +1.60%. AI 관련주 흐름 속에서 주요 지수보다 강했습니다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "10월 1일 종가 276,000원, +2.79%. Micron 실적과 한국 반도체 수출 호조가 메모리주 수급을 지지했습니다.",
+      "source_url": "https://stockanalysis.com/quote/krx/005930/history/"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "10월 1일 종가 1,833,000원, +3.21%. AI 메모리 수요 기대 속에 삼성전자보다 상승폭이 컸습니다.",
+      "source_url": "https://stockanalysis.com/quote/krx/000660/history/"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "10월 1일 종가 360,500원, +0.98%. 전일 국내 2차전지 대표 종목 평균은 반도체보다 상승폭이 제한됐습니다.",
+      "source_url": "https://stockanalysis.com/quote/krx/373220/history/"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "10월 1일 종가 349,000원, +1.16%. 운수장비 업종 상승 흐름에 동참했습니다.",
+      "source_url": "https://stockanalysis.com/quote/krx/005380/history/"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "Micron의 AI 메모리 수요 전망과 장기 공급계약 관련 고객 금융약정 증가가 확인됐고, 삼성전자는 전일 2.79% 올라 오늘 한국장 메모리 수급을 보여줄 중심 종목입니다.",
+      "catalysts": [
+        "Micron의 AI 메모리 수요와 장기 공급계약 관련 고객 금융약정 추이가 국내 메모리주 수급에 미치는 영향",
+        "한국 반도체 수출 호조와 외국인 수급의 연속성"
+      ],
+      "levels_watched": {
+        "support": "2026-10-01 장중 저가 264,500원",
+        "resistance": "2026-10-01 장중 고가 276,000원",
+        "analyst_target_cited": "확인하지 않음"
+      },
+      "risk": "미 10년물과 유가가 다시 오르거나 외국인 매도가 이어지면 전일 상승분을 되돌릴 수 있습니다.",
+      "sources": [
+        "https://uk.marketscreener.com/news/micron-forecasts-quarterly-revenue-above-estimates-ce785ad3d881f42c",
+        "https://en.yna.co.kr/view/AEN20261001007952320",
+        "https://stockanalysis.com/quote/krx/005930/history/"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "SK하이닉스는 전일 3.21% 올라 삼성전자보다 강했고, AI용 HBM 수요와 Micron의 장기 공급계약 관련 고객 금융약정 확대가 오늘도 업황 기대와 수급의 핵심 확인 지점입니다.",
+      "catalysts": [
+        "AI용 HBM 공급 부족과 장기 공급계약 관련 고객 금융약정 확대가 실제 가격과 출하량으로 이어지는지 여부",
+        "미국 반도체 ETF SOXX 상승이 국내 메모리주로 이어지는지 여부"
+      ],
+      "levels_watched": {
+        "support": "2026-10-01 장중 저가 1,749,000원",
+        "resistance": "2026-10-01 장중 고가 1,833,000원",
+        "analyst_target_cited": "확인하지 않음"
+      },
+      "risk": "메모리 공급 확대 우려가 커지거나 장기금리가 재상승하면 높은 밸류에이션 부담이 커질 수 있습니다.",
+      "sources": [
+        "https://uk.marketscreener.com/news/micron-forecasts-quarterly-revenue-above-estimates-ce785ad3d881f42c",
+        "https://en.yna.co.kr/view/AEN20261001007952320",
+        "https://stockanalysis.com/quote/krx/000660/history/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
