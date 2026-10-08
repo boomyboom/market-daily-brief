@@ -1,0 +1,465 @@
+{
+  "date": "2026-10-09",
+  "generated_at_kst": "2026-10-09T06:43:35+09:00",
+  "mode": "new",
+  "headline": "삼성전자 107조 실적에도 코스피 2.62% 하락, 오늘 한국장은 휴장",
+  "mail_title": "107조 실적에도 삼성전자 왜 하락했나",
+  "kr": {
+    "preview": "어제 10월 8일 코스피는 6,625.93으로 2.62%, 코스닥은 892.27로 0.69% 하락했습니다. 삼성전자가 3분기 영업이익 107.4조원의 잠정 실적을 냈지만 외국인과 기관 매도가 대형주를 눌렀습니다. 오늘 10월 9일은 한글날로 한국장이 휴장해, 다음 거래일에는 기록적 실적이 반도체 수급 회복으로 이어지는지와 LG에너지솔루션 중심 2차전지 강세가 지속되는지를 봅니다. 밤사이 미국장은 나스닥 1.3% 하락과 반도체 ETF SOXX 3.35% 하락으로 국내 대형 기술주에 부담을 더했지만, 유가와 10년물 금리가 장중 고점에서 내려온 점은 일부 완충 요인입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,625.93",
+        "change_pct": "-2.62%",
+        "source_urls": [
+          "https://en.yna.co.kr/view/AEN20261008005351320",
+          "https://en.sedaily.com/finance/2026/10/08/kospi-falls-262-percent-to-close-at-662593"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "892.27",
+        "change_pct": "-0.69%",
+        "source_urls": [
+          "https://en.yna.co.kr/view/AEN20261008005351320",
+          "https://www.seoul.co.kr/news/economy/securities/2026/10/08/20261008500219"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-2.42%",
+        "reason": "연결 기준 3분기 매출 195조원, 영업이익 107.4조원의 잠정 실적을 발표했지만 외국인과 기관 매도가 겹치며 26만2000원으로 하락했습니다.",
+        "source_url": "https://en.yna.co.kr/view/AEN20261008005351320",
+        "source_urls": [
+          "https://en.yna.co.kr/view/AEN20261008005351320",
+          "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-2026%EB%85%84-3%EB%B6%84%EA%B8%B0-%EC%9E%A0%EC%A0%95%EC%8B%A4%EC%A0%81-%EB%B0%9C%ED%91%9C"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-2.44%",
+        "reason": "삼성전자 기록적 실적에도 외국인과 기관의 대형주 매도가 이어지며 168만1000원으로 2.44% 하락했습니다. 메모리 공급 부족과 가격 상승 기대는 유효하지만 당일 수급이 주가를 눌렀습니다.",
+        "source_url": "https://en.yna.co.kr/view/AEN20261008005351320",
+        "source_urls": [
+          "https://en.yna.co.kr/view/AEN20261008005351320",
+          "https://en.sedaily.com/finance/2026/10/08/hbm-prices-to-double-as-memory-shortage-drives-samsung"
+        ]
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "change_pct": "+2.56%",
+        "reason": "3분기 매출 9조6434억원과 영업이익 7560억원을 발표했습니다. 매출은 전년 동기보다 59.0% 늘었고, 주가는 40만1000원으로 올랐습니다.",
+        "source_url": "https://en.sedaily.com/finance/2026/10/08/lg-energy-solution-posts-record-q3-on-ev-ess-growth",
+        "source_urls": [
+          "https://en.sedaily.com/finance/2026/10/08/lg-energy-solution-posts-record-q3-on-ev-ess-growth",
+          "https://en.yna.co.kr/view/AEN20261008005351320"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "밤사이 미국장은 S&P 500이 7,765.36으로 0.5% 하락하고 나스닥은 27,193.34로 1.3% 내렸지만, 다우는 51,231.64로 0.1% 올랐습니다. 유가 상승과 장기금리 변동 속에서 엔비디아, 브로드컴, 마이크론이 각각 2.9%, 4.3%, 4.8% 하락하며 기술주를 눌렀고, 펩시코는 3.7% 올랐습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,765.36",
+        "change_pct": "-0.5%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-4499d3b2906917ed3d8670095bf1c321"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "27,193.34",
+        "change_pct": "-1.3%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-4499d3b2906917ed3d8670095bf1c321"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "51,231.64",
+        "change_pct": "+0.1%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-4499d3b2906917ed3d8670095bf1c321"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "-2.94%",
+        "reason": "AP는 엔비디아가 2.9% 하락해 S&P 500에 가장 큰 하방 압력을 줬다고 전했습니다. 유가와 금리 변동 속 AI 관련주의 높은 기대를 다시 확인하는 장세였습니다.",
+        "source_url": "https://apnews.com/article/stocks-markets-bonds-oil-us-6a096d714c874db13632794a32cebaa6",
+        "source_urls": [
+          "https://apnews.com/article/stocks-markets-bonds-oil-us-6a096d714c874db13632794a32cebaa6",
+          "https://query2.finance.yahoo.com/v8/finance/chart/NVDA?period1=1791244800&period2=1791580800&interval=1d&events=history"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.43%",
+        "note": "2026-10-08 삼성전자와 SK하이닉스 대표종목 평균 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/005930.KS?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-3.54%",
+        "note": "2026-10-08 KOSPI IT 서비스 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.45%",
+        "note": "2026-10-08 KOSPI 통신업 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-3.69%",
+        "note": "2026-10-08 KOSPI 의약품 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-4.11%",
+        "note": "2026-10-08 KOSPI 금융업 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-3.42%",
+        "note": "2026-10-08 KOSPI 유통업 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-3.94%",
+        "note": "2026-10-08 KOSPI 운수장비 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+2.42%",
+        "note": "2026-10-08 LG에너지솔루션, 삼성SDI, 에코프로비엠 대표종목 평균 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/373220.KS?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-2.36%",
+        "note": "2026-10-08 KOSPI 기계 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-3.18%",
+        "note": "2026-10-08 KOSPI 건설업 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-0.35%",
+        "note": "2026-10-08 KOSPI 화학 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-2.09%",
+        "note": "2026-10-08 KOSPI 철강및금속 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-1.19%",
+        "note": "2026-10-08 KOSPI 서비스업 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.27%",
+        "note": "2026-10-08 KOSPI 오락과 문화 업종 지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-3.35%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 SOXX 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/SOXX?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-1.79%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 XLK 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/XLK?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.73%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 XLC 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/XLC?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.39%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 XLV 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/XLV?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.89%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 XLF 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/XLF?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+0.31%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 XLY 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/XLY?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+2.11%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 XLP 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/XLP?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.33%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 XLI 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/XLI?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+0.59%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 XLB 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/XLB?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+2.97%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 XLE 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/XLE?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-0.19%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 XLU 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/XLU?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.69%",
+        "note": "2026-10-08 미국 정규장 종가, 10월 7일 종가 대비 XLRE 기준",
+        "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/XLRE?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,338.5",
+      "change_pct": "-0.14%",
+      "source_url": "https://en.yna.co.kr/view/AEN20261008005351320",
+      "note": "2026-10-08 서울 외환시장 15시 30분 기준, 전일 종가 대비"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "102.106",
+      "change_pct": "-0.13%",
+      "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?period1=1791244800&period2=1791580800&interval=1d&events=history",
+      "note": "2026-10-08 일일 종가, 10월 7일 종가 대비"
+    },
+    {
+      "name": "금",
+      "value": "$4,158.30",
+      "change_pct": "+0.42%",
+      "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/GC%3DF?period1=1791244800&period2=1791580800&interval=1d&events=history",
+      "note": "2026-10-08 COMEX 선물 일일 종가, 10월 7일 종가 대비"
+    },
+    {
+      "name": "WTI",
+      "value": "$91.18",
+      "change_pct": "+3.29%",
+      "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/CL%3DF?period1=1791244800&period2=1791580800&interval=1d&events=history",
+      "note": "2026-10-08 NYMEX 선물 일일 종가, 10월 7일 종가 대비"
+    },
+    {
+      "name": "비트코인",
+      "value": "$81,713.12",
+      "change_pct": "-1.82%",
+      "source_url": "https://api.binance.com/api/v3/ticker/24hr?symbol=BTCUSDT",
+      "note": "2026-10-09 06:43:33 KST 조회 시점의 24시간 변동률"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,476.12",
+      "change_pct": "-3.54%",
+      "source_url": "https://api.binance.com/api/v3/ticker/24hr?symbol=ETHUSDT",
+      "note": "2026-10-09 06:43:33 KST 조회 시점의 24시간 변동률"
+    },
+    {
+      "name": "미 10년물",
+      "value": "5.231%",
+      "change_pct": "-4.6bp",
+      "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/%5ETNX?period1=1791244800&period2=1791580800&interval=1d&events=history",
+      "note": "2026-10-08 일일 종가, 전일 종가보다 4.6bp 낮음"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "10월 8일 종가 기준 미 10년물은 5.231%로 전일 종가보다 4.6bp 낮아졌고, 달러인덱스는 102.106, 금은 4,158.30달러, WTI는 91.18달러였습니다. 원/달러 서울 15시 30분은 1,338.5원으로 전일보다 1.9원 내렸습니다.",
+    "notes": "미국장은 유가 상승과 장기금리 변동성이 동시에 나타났습니다. AP에 따르면 브렌트유는 4.1% 올라 배럴당 104.28달러로 마감했고, 10년물 금리는 오전 5.35%까지 오른 뒤 오후 5.23%로 내려왔습니다. 기술주 매도와 에너지주 및 필수소비재 강세가 엇갈려 다음 한국 거래일은 반도체와 2차전지 수급을 분리해 확인할 필요가 있습니다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "삼성전자가 3분기 매출 195조원과 영업이익 107.4조원의 잠정 실적을 발표했고, 메모리 가격 상승이 이익을 견인했습니다. 기록적 실적에도 삼성전자와 SK하이닉스는 10월 8일 각각 2.42%, 2.44% 하락해 실적과 주가의 괴리를 보였습니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-2026%EB%85%84-3%EB%B6%84%EA%B8%B0-%EC%9E%A0%EC%A0%95%EC%8B%A4%EC%A0%81-%EB%B0%9C%ED%91%9C"
+    },
+    {
+      "theme": "2차전지 업황",
+      "summary": "LG에너지솔루션은 3분기 매출 9조6434억원과 영업이익 7560억원을 기록했고, 매출은 전년 동기보다 59.0% 증가했습니다. 주가는 2.56% 올랐고 삼성SDI도 1.25% 상승했습니다.",
+      "tickers": [
+        "373220",
+        "006400"
+      ],
+      "source_url": "https://en.sedaily.com/finance/2026/10/08/lg-energy-solution-posts-record-q3-on-ev-ess-growth"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "AP는 브렌트유가 4.1% 올라 배럴당 104.28달러로 마감했다고 전했습니다. WTI도 10월 8일 종가 기준 91.18달러로 3.29% 올라 에너지 ETF XLE 상승으로 이어졌습니다.",
+      "tickers": [
+        "CL=F",
+        "XLE"
+      ],
+      "source_url": "https://apnews.com/article/stocks-markets-bonds-oil-us-6a096d714c874db13632794a32cebaa6"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "10월 8일 종가는 230.48달러로 2.94% 하락했습니다. AP는 유가와 금리 변동 속 엔비디아가 S&P 500에 가장 큰 하방 압력을 줬다고 전했습니다.",
+      "source_url": "https://apnews.com/article/stocks-markets-bonds-oil-us-6a096d714c874db13632794a32cebaa6"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "10월 8일 종가는 340.42달러로 1.11% 올랐습니다. 오늘 확인한 지정 원자료에서 새 개별 뉴스는 확인되지 않았습니다.",
+      "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/AAPL?period1=1791244800&period2=1791580800&interval=1d&events=history"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "10월 8일 종가는 522.61달러로 1.35% 하락했습니다. 오늘 확인한 지정 원자료에서 새 개별 뉴스는 확인되지 않았습니다.",
+      "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/MSFT?period1=1791244800&period2=1791580800&interval=1d&events=history"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "10월 8일 종가는 375.00달러로 0.74% 하락했습니다. 오늘 확인한 지정 원자료에서 새 개별 뉴스는 확인되지 않았습니다.",
+      "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/TSLA?period1=1791244800&period2=1791580800&interval=1d&events=history"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "10월 8일 종가는 198.78달러로 2.40% 올랐습니다. 오늘 확인한 지정 원자료에서 새 개별 뉴스는 확인되지 않았습니다.",
+      "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/PLTR?period1=1791244800&period2=1791580800&interval=1d&events=history"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "10월 8일 3분기 잠정 영업이익 107.4조원을 발표했지만 주가는 26만2000원으로 2.42% 하락했습니다.",
+      "source_url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-2026%EB%85%84-3%EB%B6%84%EA%B8%B0-%EC%9E%A0%EC%A0%95%EC%8B%A4%EC%A0%81-%EB%B0%9C%ED%91%9C"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "10월 8일 주가는 168만1000원으로 2.44% 하락했습니다. 메모리 공급 부족과 가격 상승 기대가 보도됐지만 대형주 수급 부담이 남았습니다.",
+      "source_url": "https://en.sedaily.com/finance/2026/10/08/hbm-prices-to-double-as-memory-shortage-drives-samsung"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "10월 8일 3분기 매출 9조6434억원과 영업이익 7560억원을 발표했고 주가는 40만1000원으로 2.56% 올랐습니다.",
+      "source_url": "https://en.sedaily.com/finance/2026/10/08/lg-energy-solution-posts-record-q3-on-ev-ess-growth"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "10월 8일 종가는 32만4500원으로 3.42% 하락했습니다. 오늘 확인한 지정 원자료에서 새 개별 뉴스는 확인되지 않았습니다.",
+      "source_url": "https://query2.finance.yahoo.com/v8/finance/chart/005380.KS?period1=1791244800&period2=1791580800&interval=1d&events=history"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "107.4조원의 3분기 잠정 영업이익이라는 실적 팩트와 10월 8일 종가 26만2000원, 2.42% 하락이 엇갈려 다음 거래일 수급 확인 대상입니다.",
+      "catalysts": [
+        "3분기 세부 실적과 4분기 메모리 가격 확인",
+        "다음 거래일 외국인과 기관 수급 회복 여부"
+      ],
+      "levels_watched": {
+        "support": "10월 8일 종가와 저가 262,000원",
+        "resistance": "10월 8일 고가 270,000원과 10월 7일 종가 268,500원",
+        "analyst_target_cited": "한국경제 증권사 컨센서스 평균 목표가 335,389원, 2026-10-07 기준"
+      },
+      "risk": "기록적 실적의 선반영 여부, 외국인과 기관 매도, 고금리와 메모리 기대 둔화가 주가 부담으로 남을 수 있습니다.",
+      "sources": [
+        "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-2026%EB%85%84-3%EB%B6%84%EA%B8%B0-%EC%9E%A0%EC%A0%95%EC%8B%A4%EC%A0%81-%EB%B0%9C%ED%91%9C",
+        "https://en.yna.co.kr/view/AEN20261008005351320",
+        "https://markets.hankyung.com/stock/005930/consensus",
+        "https://query2.finance.yahoo.com/v8/finance/chart/005930.KS?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      ]
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "thesis": "3분기 매출 9조6434억원과 영업이익 7560억원, 전년 동기 대비 매출 59.0% 증가가 확인됐고 주가는 2.56% 상승했습니다.",
+      "catalysts": [
+        "북미 ESS 가동 확대와 유럽 중니켈 배터리 수요",
+        "4분기 전기차 수요와 미국 세액공제 기여도 확인"
+      ],
+      "levels_watched": {
+        "support": "10월 8일 종가 401,000원",
+        "resistance": "10월 8일 고가 418,000원",
+        "analyst_target_cited": "한국경제 증권사 컨센서스 평균 목표가 501,931원, 2026-10-07 기준"
+      },
+      "risk": "전기차 수요 회복 지연, 미국 세액공제 의존도, 실적 발표 후 기대 선반영에 따른 변동성이 위험 요인입니다.",
+      "sources": [
+        "https://en.sedaily.com/finance/2026/10/08/lg-energy-solution-posts-record-q3-on-ev-ess-growth",
+        "https://en.yna.co.kr/view/AEN20261008005351320",
+        "https://markets.hankyung.com/stock/373220/consensus",
+        "https://query2.finance.yahoo.com/v8/finance/chart/373220.KS?period1=1791244800&period2=1791580800&interval=1d&events=history"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수와 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
