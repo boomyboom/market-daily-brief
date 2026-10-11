@@ -1,0 +1,483 @@
+{
+  "date": "2026-10-12",
+  "generated_at_kst": "2026-10-12T06:42:35+09:00",
+  "mode": "new",
+  "headline": "금요일 미국장 반등에도 한국장은 반도체와 외국인 수급을 본다",
+  "mail_title": "코스피 급락 뒤 반도체 반등할까",
+  "kr": {
+    "preview": "가장 최근 거래일인 10월 8일 코스피는 삼성전자 호실적 발표 직후 셀온과 고금리, 외국인 매도가 겹치며 2.62% 내린 6,625.93에 마감했고 코스닥은 0.69% 하락했습니다. 주말 매일경제와 파이낸셜뉴스는 한국 증시의 유동성 감소와 외국인 매도를 짚었습니다. 오늘은 금요일 미국 3대 지수 반등과 이번 주 미국 물가, 주요 기업 실적을 함께 반영하며 삼성전자와 SK하이닉스의 메모리 전망, 외국인 수급, 미 10년물 금리 5.244%가 핵심 변수입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,625.93",
+        "change_pct": "-2.62%",
+        "source_urls": [
+          "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11?period1=1791331200&period2=1791417600&interval=1d&events=history",
+          "https://www.fnnews.com/news/202610110601358674"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "892.27",
+        "change_pct": "-0.69%",
+        "source_urls": [
+          "https://query1.finance.yahoo.com/v8/finance/chart/%5EKQ11?period1=1791331200&period2=1791417600&interval=1d&events=history",
+          "https://www.fnnews.com/news/202610110601358674"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-2.42%",
+        "reason": "3분기 영업이익 107조4천억원의 역대 최고 실적을 발표했지만 재료소멸 인식과 고금리, 외국인 매도가 겹치며 셀온 매물이 나왔습니다.",
+        "source_url": "https://www.fnnews.com/news/202610110601358674",
+        "source_urls": [
+          "https://www.fnnews.com/news/202610110601358674",
+          "https://query1.finance.yahoo.com/v8/finance/chart/005930.KS?period1=1791331200&period2=1791417600&interval=1d&events=history"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-2.44%",
+        "reason": "삼성전자 호실적이 반도체 업황 피크아웃 우려를 불식했지만 재료소멸에 따른 셀온과 금리 부담, 외국인 순매도, 솔리다임 미국 상장설 등 개별 논란이 노이즈로 작용했습니다.",
+        "source_url": "https://www.fnnews.com/news/202610110601358674",
+        "source_urls": [
+          "https://www.fnnews.com/news/202610110601358674",
+          "https://query1.finance.yahoo.com/v8/finance/chart/000660.KS?period1=1791331200&period2=1791417600&interval=1d&events=history"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "미국장은 금요일 S&P 500이 0.59%, 나스닥이 0.64%, 다우가 0.83% 올라 주간 상승으로 마쳤습니다. 유가 변동과 미 10년물 5.244%는 부담으로 남았고, 이번 주에는 소비자물가와 생산자물가, 은행과 주요 기술 기업의 실적 발표가 이어집니다. 통신주는 SpaceX의 저대역 주파수 인수 소식으로 약세였고 애플은 메모리 비용과 아이폰 생산 조정 보도로 1.11% 내렸습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,811.54",
+        "change_pct": "+0.59%",
+        "source_urls": [
+          "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?period1=1791504000&period2=1791590400&interval=1d&events=history",
+          "https://au.investing.com/news/economy-news/wall-st-futures-gain-as-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-4681576"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "27,366.17",
+        "change_pct": "+0.64%",
+        "source_urls": [
+          "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?period1=1791504000&period2=1791590400&interval=1d&events=history",
+          "https://au.investing.com/news/economy-news/wall-st-futures-gain-as-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-4681576"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "51,654.95",
+        "change_pct": "+0.83%",
+        "source_urls": [
+          "https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?period1=1791504000&period2=1791590400&interval=1d&events=history",
+          "https://au.investing.com/news/economy-news/wall-st-futures-gain-as-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-4681576"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "AAPL",
+        "name": "애플",
+        "change_pct": "-1.11%",
+        "reason": "메모리 칩 비용 상승과 가격 인상으로 아이폰 18 프로와 프로 맥스 부품 생산을 줄였다는 보도가 부담이 됐습니다.",
+        "source_url": "https://au.investing.com/news/economy-news/wall-st-futures-gain-as-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-4681576",
+        "source_urls": [
+          "https://au.investing.com/news/economy-news/wall-st-futures-gain-as-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-4681576",
+          "https://query1.finance.yahoo.com/v8/finance/chart/AAPL?period1=1791504000&period2=1791590400&interval=1d&events=history"
+        ]
+      },
+      {
+        "ticker": "HUM",
+        "name": "휴매나",
+        "change_pct": "+11.56%",
+        "reason": "미국 정부 자료에서 2027년 메디케어 어드밴티지 품질등급 4등급 이상 가입자 비중이 95%로 나타나며 급등했습니다.",
+        "source_url": "https://au.investing.com/news/economy-news/wall-st-futures-gain-as-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-4681576",
+        "source_urls": [
+          "https://au.investing.com/news/economy-news/wall-st-futures-gain-as-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-4681576",
+          "https://www.investing.com/equities/humana-inc-historical-data"
+        ]
+      },
+      {
+        "ticker": "T",
+        "name": "AT&T",
+        "change_pct": "-10.82%",
+        "reason": "SpaceX의 미국 저대역 주파수 인수로 무선통신 시장 경쟁이 커질 수 있다는 우려가 반영됐습니다.",
+        "source_url": "https://au.investing.com/news/economy-news/wall-st-futures-gain-as-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-4681576",
+        "source_urls": [
+          "https://au.investing.com/news/economy-news/wall-st-futures-gain-as-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-4681576"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.43%",
+        "note": "2026-10-08 대표종목 기준, 삼성전자와 SK하이닉스 평균",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/005930.KS?period1=1791331200&period2=1791417600&interval=1d&events=history"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-3.54%",
+        "note": "2026-10-08 매경 업종지수 IT 서비스 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.45%",
+        "note": "2026-10-08 매경 업종지수 통신업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-3.69%",
+        "note": "2026-10-08 매경 업종지수 의약품 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-4.11%",
+        "note": "2026-10-08 매경 업종지수 금융업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-3.42%",
+        "note": "2026-10-08 매경 업종지수 유통업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-3.94%",
+        "note": "2026-10-08 매경 업종지수 운수장비 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+2.42%",
+        "note": "2026-10-08 대표종목 기준, LG에너지솔루션과 삼성SDI와 에코프로비엠 평균",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/373220.KS?period1=1791331200&period2=1791417600&interval=1d&events=history"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-2.36%",
+        "note": "2026-10-08 매경 업종지수 기계 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-3.18%",
+        "note": "2026-10-08 매경 업종지수 건설업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-0.35%",
+        "note": "2026-10-08 매경 업종지수 화학 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-2.09%",
+        "note": "2026-10-08 매경 업종지수 철강및금속 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-1.19%",
+        "note": "2026-10-08 매경 업종지수 서비스업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.27%",
+        "note": "2026-10-08 매경 업종지수 오락과 문화 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-0.69%",
+        "note": "2026-10-09 미국 정규장 종가, SOXX 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/SOXX?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+0.51%",
+        "note": "2026-10-09 미국 정규장 종가, XLK 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLK?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-1.51%",
+        "note": "2026-10-09 미국 정규장 종가, XLC 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLC?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "+1.58%",
+        "note": "2026-10-09 미국 정규장 종가, XLV 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLV?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.92%",
+        "note": "2026-10-09 미국 정규장 종가, XLF 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLF?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+1.02%",
+        "note": "2026-10-09 미국 정규장 종가, XLY 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLY?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.01%",
+        "note": "2026-10-09 미국 정규장 종가, XLP 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLP?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.50%",
+        "note": "2026-10-09 미국 정규장 종가, XLI 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLI?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+0.32%",
+        "note": "2026-10-09 미국 정규장 종가, XLB 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLB?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.25%",
+        "note": "2026-10-09 미국 정규장 종가, XLE 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLE?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.83%",
+        "note": "2026-10-09 미국 정규장 종가, XLU 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLU?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+1.86%",
+        "note": "2026-10-09 미국 정규장 종가, XLRE 기준",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLRE?period1=1791504000&period2=1791590400&interval=1d&events=history"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,342.99",
+      "change_pct": "+0.29%",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/KRW=X?period1=1791417600&period2=1791590400&interval=1d&events=history",
+      "note": "2026-10-09 종가, 10월 8일 종가 대비"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "102.21",
+      "change_pct": "+0.07%",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?period1=1791417600&period2=1791590400&interval=1d&events=history",
+      "note": "2026-10-09 종가, 10월 8일 종가 대비"
+    },
+    {
+      "name": "금",
+      "value": "$4,216.30",
+      "change_pct": "+1.43%",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?period1=1791417600&period2=1791590400&interval=1d&events=history",
+      "note": "2026-10-09 COMEX 선물 종가, 10월 8일 종가 대비"
+    },
+    {
+      "name": "WTI",
+      "value": "$91.85",
+      "change_pct": "+0.39%",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?period1=1791417600&period2=1791590400&interval=1d&events=history",
+      "note": "2026-10-09 NYMEX 선물 종가, 10월 8일 종가 대비"
+    },
+    {
+      "name": "비트코인",
+      "value": "$83,534.00",
+      "change_pct": "+0.551%",
+      "source_url": "https://api.binance.com/api/v3/ticker/24hr?symbol=BTCUSDT",
+      "note": "2026-10-12 06:42:35 KST 조회 시각의 24시간 변동률, 실시간값이며 종가 아님"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,527.77",
+      "change_pct": "+0.770%",
+      "source_url": "https://api.binance.com/api/v3/ticker/24hr?symbol=ETHUSDT",
+      "note": "2026-10-12 06:42:35 KST 조회 시각의 24시간 변동률, 실시간값이며 종가 아님"
+    },
+    {
+      "name": "미 10년물",
+      "value": "5.244%",
+      "change_pct": "+1.3bp",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?period1=1791417600&period2=1791590400&interval=1d&events=history",
+      "note": "2026-10-09 종가 5.244%, 10월 8일 전일 종가 5.231%보다 1.3bp 높음"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 10년물은 5.244%로 10월 8일 종가보다 1.3bp 높았습니다. 원달러는 1,342.99원, 달러인덱스는 102.21, 금은 4,216.30달러, WTI는 91.85달러의 10월 9일 종가였습니다.",
+    "notes": "한국은 삼성전자 실적 발표 뒤 셀온과 외국인 매도가 겹쳤고, 미국은 유가와 높은 장기금리, 이번 주 물가와 실적 발표가 변동성 요인입니다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "삼성전자는 3분기 영업이익 107조4천억원을 발표했지만 10월 8일 주가는 2.42% 하락했습니다. 주말 자료는 실적의 절대 규모보다 외국인 수급과 메모리 업황의 지속성을 확인해야 한다고 짚었습니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.fnnews.com/news/202610110601358674"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "매일경제는 3분기 한국 증시에서 거래대금이 줄고 외국인 매도가 이어졌다고 정리했습니다. 최근 거래일에도 삼성전자와 SK하이닉스 매도가 지수를 눌러 원달러와 외국인 흐름을 함께 봐야 합니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.mk.co.kr/news/stock/12172844"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "미 10년물은 10월 9일 종가 기준 5.244%로 전일보다 1.3bp 높았습니다. 이번 주 미국 물가 지표와 연준 인사 발언이 장기금리와 성장주 가격에 영향을 줄 변수입니다.",
+      "tickers": [
+        "^TNX",
+        "SPY"
+      ],
+      "source_url": "https://newsway.co.kr/news/view?ud=2026100815423433889"
+    },
+    {
+      "theme": "국제유가",
+      "summary": "금요일 미국장에서는 이란 전쟁의 불확실성으로 브렌트유가 출렁였고, 유가와 국채금리가 주식시장 변동성을 키웠습니다. WTI 10월 9일 종가는 91.85달러였습니다.",
+      "tickers": [
+        "CL=F",
+        "XLE"
+      ],
+      "source_url": "https://au.investing.com/news/economy-news/wall-st-futures-gain-as-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-4681576"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "엔비디아",
+      "market": "US",
+      "news": "2026-10-09 종가 229.28달러, 0.52% 하락",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/NVDA?period1=1791504000&period2=1791590400&interval=1d&events=history"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "애플",
+      "market": "US",
+      "news": "2026-10-09 종가 336.64달러, 1.11% 하락",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/AAPL?period1=1791504000&period2=1791590400&interval=1d&events=history"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "마이크로소프트",
+      "market": "US",
+      "news": "2026-10-09 종가 535.07달러, 2.38% 상승",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/MSFT?period1=1791504000&period2=1791590400&interval=1d&events=history"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "테슬라",
+      "market": "US",
+      "news": "2026-10-09 종가 382.70달러, 2.05% 상승",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/TSLA?period1=1791504000&period2=1791590400&interval=1d&events=history"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "팔란티어",
+      "market": "US",
+      "news": "2026-10-09 종가 209.05달러, 5.17% 상승",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/PLTR?period1=1791504000&period2=1791590400&interval=1d&events=history"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "2026-10-08 종가 262,000원, 2.42% 하락",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/005930.KS?period1=1791331200&period2=1791417600&interval=1d&events=history"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "2026-10-08 종가 1,681,000원, 2.44% 하락",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/000660.KS?period1=1791331200&period2=1791417600&interval=1d&events=history"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2026-10-08 종가 401,000원, 2.56% 상승",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/373220.KS?period1=1791331200&period2=1791417600&interval=1d&events=history"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "2026-10-08 종가 324,500원, 3.42% 하락",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/005380.KS?period1=1791331200&period2=1791417600&interval=1d&events=history"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "역대 최고 수준의 3분기 잠정 영업이익을 발표했지만 최근 거래일 주가는 2.42% 내렸습니다. 실적 규모와 주가 반응의 간극, 메모리 업황의 지속성, 외국인 수급을 함께 확인할 종목입니다.",
+      "catalysts": [
+        "3분기 세부 실적 발표",
+        "메모리 가격 전망과 외국인 수급 회복 여부"
+      ],
+      "levels_watched": {
+        "support": "2026-10-08 종가 262,000원",
+        "resistance": "2026-10-07 종가 268,500원",
+        "analyst_target_cited": "인용하지 않음, 자체 목표가 제시 없음"
+      },
+      "risk": "실적 선반영, 높은 장기금리, 외국인 순매도, 메모리 기대 조정",
+      "sources": [
+        "https://www.fnnews.com/news/202610110601358674",
+        "https://query1.finance.yahoo.com/v8/finance/chart/005930.KS?period1=1791331200&period2=1791417600&interval=1d&events=history"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "최근 거래일 주가는 2.44% 하락했지만 메모리 업황과 HBM 수요가 한국장 방향을 좌우하는 핵심 변수로 남아 있습니다. 실적 기대가 실제 수요와 외국인 매수로 이어지는지 확인할 종목입니다.",
+      "catalysts": [
+        "메모리 가격과 HBM 수요 전망",
+        "다음 실적 업데이트와 외국인 수급"
+      ],
+      "levels_watched": {
+        "support": "2026-10-08 종가 1,681,000원",
+        "resistance": "2026-10-07 종가 1,723,000원",
+        "analyst_target_cited": "인용하지 않음, 자체 목표가 제시 없음"
+      },
+      "risk": "메모리 업황 기대의 조정, 높은 금리, 외국인 순매도, 대형주 수급 쏠림",
+      "sources": [
+        "https://www.fnnews.com/news/202610110601358674",
+        "https://query1.finance.yahoo.com/v8/finance/chart/000660.KS?period1=1791331200&period2=1791417600&interval=1d&events=history"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수와 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
