@@ -1,0 +1,513 @@
+{
+  "date": "2026-10-14",
+  "generated_at_kst": "2026-10-14T06:45:00+09:00",
+  "mode": "new",
+  "headline": "CXMT 충격 뒤 코스피, 반도체 수급과 외국인 매도가 관건",
+  "mail_title": "삼성전자 급락 뒤 오늘 반도체 반등할까",
+  "kr": {
+    "preview": "어제는 코스피가 6,035.35로 5.46% 급락하고 코스닥은 837.03으로 1.43% 내렸습니다. 삼성전자와 SK하이닉스가 각각 7.39%, 10.09% 내렸고 외국인은 코스피에서 4.52조원을 순매도했습니다. 밤사이 미국장은 S&P 500과 나스닥, 다우가 모두 소폭 하락했습니다. 오늘은 CXMT의 메모리 경쟁 우려가 대형 반도체 수급에 이어지는지, 원달러와 미국 소비자물가 발표를 앞둔 금리 변동이 코스피 6000선을 흔드는지 확인할 필요가 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "6,035.35",
+        "change_pct": "-5.46%",
+        "source_urls": [
+          "https://en.sedaily.com/finance/2026/10/13/foreign-investors-dump-31-billion-in-stocks-as-kospi",
+          "https://en.sedaily.com/finance/2026/10/13/kospi-closes-down-546-percent-at-603535"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "837.03",
+        "change_pct": "-1.43%",
+        "source_urls": [
+          "https://en.sedaily.com/finance/2026/10/13/kosdaq-falls-143-percent-to-close-at-83703"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-7.39%",
+        "reason": "CXMT의 메모리 경쟁 진전과 AI 인프라 투자 부담 우려가 겹친 가운데 외국인 매도가 대형주를 압박해 7.39% 내렸습니다.",
+        "source_url": "https://kr.investing.com/equities/samsung-electronics-co-ltd-historical-data",
+        "source_urls": [
+          "https://kr.investing.com/equities/samsung-electronics-co-ltd-historical-data",
+          "https://en.sedaily.com/finance/2026/10/13/foreign-investors-dump-31-billion-in-stocks-as-kospi"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-10.09%",
+        "reason": "CXMT의 차세대 서버용 메모리 출시 계획과 AI 인프라 투자 부담 우려가 겹치며 10.09% 급락했습니다.",
+        "source_url": "https://kr.investing.com/equities/sk-hynix-inc-historical-data",
+        "source_urls": [
+          "https://kr.investing.com/equities/sk-hynix-inc-historical-data",
+          "https://en.sedaily.com/finance/2026/10/13/foreign-investors-dump-31-billion-in-stocks-as-kospi"
+        ]
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "change_pct": "+3.02%",
+        "reason": "대형 반도체주가 급락한 날 LG에너지솔루션은 3.02% 올라 시장 내 상대 강세 종목으로 부각됐습니다. 별도 상승 재료는 원문에서 확인되지 않았습니다.",
+        "source_url": "https://kr.investing.com/equities/lg-energy-solution-historical-data",
+        "source_urls": [
+          "https://kr.investing.com/equities/lg-energy-solution-historical-data",
+          "https://en.sedaily.com/finance/2026/10/13/foreign-investors-dump-31-billion-in-stocks-as-kospi"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "미국장은 S&P 500이 7,805.45로 0.02% 내리고, 나스닥이 27,204.38로 0.15% 하락했으며, 다우는 51,670.10으로 0.35% 내렸습니다. 3분기 실적 시즌 첫 은행주 발표와 반도체 약세가 엇갈렸고, 국채금리는 낮아졌습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,805.45",
+        "change_pct": "-0.02%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a0a577dfd12f63ee6780a56ab02b55c4"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "27,204.38",
+        "change_pct": "-0.15%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a0a577dfd12f63ee6780a56ab02b55c4"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "51,670.10",
+        "change_pct": "-0.35%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a0a577dfd12f63ee6780a56ab02b55c4"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "엔비디아",
+        "change_pct": "+0.97%",
+        "reason": "반도체 ETF SOXX가 0.185% 내린 가운데 엔비디아는 0.97% 올라 상대 강세를 보였습니다.",
+        "source_url": "https://www.investing.com/equities/nvidia-corp-historical-data",
+        "source_urls": [
+          "https://www.investing.com/equities/nvidia-corp-historical-data",
+          "https://chartexchange.com/symbol/nasdaq-soxx/historical/"
+        ]
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "change_pct": "-3.6%",
+        "reason": "마이크론은 3.6% 하락하며 S&P 500에서 가장 무거운 종목 가운데 약세를 보였습니다.",
+        "source_url": "https://apnews.com/article/a2edaf9ec297fb75ff2a4e245063ec08",
+        "source_urls": [
+          "https://apnews.com/article/a2edaf9ec297fb75ff2a4e245063ec08"
+        ]
+      },
+      {
+        "ticker": "WFC",
+        "name": "웰스파고",
+        "change_pct": "-3.1%",
+        "reason": "주당순이익은 예상치를 웃돌았지만 매출이 약해 웰스파고 주가는 3.1% 하락했습니다.",
+        "source_url": "https://apnews.com/article/a2edaf9ec297fb75ff2a4e245063ec08",
+        "source_urls": [
+          "https://apnews.com/article/a2edaf9ec297fb75ff2a4e245063ec08"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-8.74%",
+        "note": "2026-10-13 정규장 종가, 삼성전자와 SK하이닉스 대표종목 평균",
+        "source_url": "https://kr.investing.com/equities/samsung-electronics-co-ltd-historical-data"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-1.11%",
+        "note": "2026-10-13 정규장 종가, KOSPI IT 서비스 업종 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.32%",
+        "note": "2026-10-13 정규장 종가, KOSPI 통신업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-0.14%",
+        "note": "2026-10-13 정규장 종가, KOSPI 의약품 업종 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-3.66%",
+        "note": "2026-10-13 정규장 종가, KOSPI 금융업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-2.41%",
+        "note": "2026-10-13 정규장 종가, KOSPI 유통업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-1.02%",
+        "note": "2026-10-13 정규장 종가, KOSPI 운수장비 업종 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+0.47%",
+        "note": "2026-10-13 정규장 종가, LG에너지솔루션과 에코프로비엠 대표종목 평균",
+        "source_url": "https://kr.investing.com/equities/lg-energy-solution-historical-data"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-3.13%",
+        "note": "2026-10-13 정규장 종가, KOSPI 기계 업종 대체 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-1.38%",
+        "note": "2026-10-13 정규장 종가, KOSPI 건설업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-2.09%",
+        "note": "2026-10-13 정규장 종가, KOSPI 화학 업종 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-1.22%",
+        "note": "2026-10-13 정규장 종가, KOSPI 철강및금속 업종 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-0.05%",
+        "note": "2026-10-13 정규장 종가, KOSPI 서비스업 대체 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+2.11%",
+        "note": "2026-10-13 정규장 종가, KOSPI 오락문화 업종 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-0.185%",
+        "note": "2026-10-13 정규장 종가, SOXX ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nasdaq-soxx/historical/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-0.051%",
+        "note": "2026-10-13 정규장 종가, XLK ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nyse-xlk/historical/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.727%",
+        "note": "2026-10-13 정규장 종가, XLC ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nyse-xlc/historical/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-1.308%",
+        "note": "2026-10-13 정규장 종가, XLV ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nyse-xlv/historical/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.418%",
+        "note": "2026-10-13 정규장 종가, XLF ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nyse-xlf/historical/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+0.080%",
+        "note": "2026-10-13 정규장 종가, XLY ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nyse-xly/historical/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.272%",
+        "note": "2026-10-13 정규장 종가, XLP ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nyse-xlp/historical/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.302%",
+        "note": "2026-10-13 정규장 종가, XLI ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nyse-xli/historical/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+0.526%",
+        "note": "2026-10-13 정규장 종가, XLB ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nyse-xlb/historical/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+1.772%",
+        "note": "2026-10-13 정규장 종가, XLE ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nyse-xle/historical/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.552%",
+        "note": "2026-10-13 정규장 종가, XLU ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nyse-xlu/historical/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.239%",
+        "note": "2026-10-13 정규장 종가, XLRE ETF 기준",
+        "source_url": "https://chartexchange.com/symbol/nyse-xlre/historical/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,339.73원",
+      "change_pct": "-0.10%",
+      "source_url": "https://kr.investing.com/currencies/usd-krw-historical-data",
+      "note": "2026-10-14 06:02:13 KST 최신 호가, 제공사 전일 대비 표기이며 서울 외환시장 종가가 아닙니다."
+    },
+    {
+      "name": "달러인덱스",
+      "value": "102.20",
+      "change_pct": "0.00%",
+      "source_url": "https://kr.investing.com/indices/usdollar-historical-data",
+      "note": "2026-10-14 06:42:44 KST 실시간 CFD, 제공사 전일 대비 표기이며 확정 종가가 아닙니다."
+    },
+    {
+      "name": "금",
+      "value": "$4,184.30",
+      "change_pct": "+0.17%",
+      "source_url": "https://kr.investing.com/commodities/gold-historical-data",
+      "note": "2026-10-14 06:00:00 KST 최신 호가, 제공사 표기 기준이며 2026-10-13 역사 행의 종가와 혼동하지 않았습니다."
+    },
+    {
+      "name": "WTI",
+      "value": "$94.79",
+      "change_pct": "+1.12%",
+      "source_url": "https://kr.investing.com/commodities/crude-oil-historical-data",
+      "note": "2026-10-14 05:59:55 KST 최신 호가, 제공사 표기 기준이며 2026-10-13 역사 행과 동일한 값입니다."
+    },
+    {
+      "name": "비트코인",
+      "value": "$83,435.2",
+      "change_pct": "+1.07%",
+      "source_url": "https://kr.investing.com/crypto/bitcoin/historical-data",
+      "note": "2026-10-14 06:42:43 KST 실시간 호가, 24시간 비교 기준입니다."
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,511.26",
+      "change_pct": "+0.82%",
+      "source_url": "https://kr.investing.com/crypto/ethereum/historical-data",
+      "note": "2026-10-14 06:42:43 KST 실시간 호가, 24시간 비교 기준입니다."
+    },
+    {
+      "name": "미 10년물",
+      "value": "5.209%",
+      "change_pct": "-2.2bp",
+      "source_url": "https://kr.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
+      "note": "2026-10-13 확정 종가, 2026-10-12 전일 종가 5.231% 대비 2.2bp 하락"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원달러 최신 호가 1,339.73원, 달러인덱스 102.20, 금 4,184.30달러, WTI 94.79달러, 비트코인 83,435.2달러, 이더리움 2,511.26달러입니다. 미 10년물은 5.209%로 10월 12일 전일 종가 5.231% 대비 2.2bp 낮았습니다.",
+    "notes": "한국장에서는 외국인 4.52조원 순매도와 프로그램 매도 사이드카 발동이 확인됐습니다. 미국 소비자물가지수는 10월 14일 08시 30분 ET 발표 예정입니다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "CXMT의 메모리 경쟁 진전과 AI 인프라 투자 부담 우려가 겹치며 삼성전자와 SK하이닉스가 각각 7.39%, 10.09% 하락했습니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://en.sedaily.com/finance/2026/10/13/foreign-investors-dump-31-billion-in-stocks-as-kospi"
+    },
+    {
+      "theme": "AI 자본지출 논쟁",
+      "summary": "AI 인프라에 필요한 거액의 자본 부담 우려가 글로벌 반도체 투자심리를 눌렀고, 한국 대형 반도체주와 Micron이 약세를 보였습니다.",
+      "tickers": [
+        "005930",
+        "000660",
+        "MU"
+      ],
+      "source_url": "https://apnews.com/article/a2edaf9ec297fb75ff2a4e245063ec08"
+    },
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "미국 3분기 실적 시즌이 대형 은행주 발표로 시작했지만 매출 전망 차이로 종목별 반응이 갈렸습니다.",
+      "tickers": [
+        "WFC"
+      ],
+      "source_url": "https://apnews.com/article/a2edaf9ec297fb75ff2a4e245063ec08"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "한국장은 외국인이 코스피에서 4.52조원을 순매도하며 대형주 급락을 키웠고, 원달러 최신 호가는 1,339.73원이었습니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://en.sedaily.com/finance/2026/10/13/foreign-investors-dump-31-billion-in-stocks-as-kospi"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "엔비디아",
+      "market": "US",
+      "news": "2026-10-13 종가 228.51, 등락률 +0.97%",
+      "source_url": "https://www.investing.com/equities/nvidia-corp-historical-data"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "애플",
+      "market": "US",
+      "news": "2026-10-13 종가 341.27, 등락률 +0.09%",
+      "source_url": "https://www.investing.com/equities/apple-computer-inc-historical-data"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "마이크로소프트",
+      "market": "US",
+      "news": "2026-10-13 종가 543.45, 등락률 +0.43%",
+      "source_url": "https://www.investing.com/equities/microsoft-corp-historical-data"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "테슬라",
+      "market": "US",
+      "news": "2026-10-13 종가 375.23, 등락률 -0.74%",
+      "source_url": "https://www.investing.com/equities/tesla-motors-historical-data"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "팔란티어",
+      "market": "US",
+      "news": "2026-10-13 종가 208.67, 등락률 -0.16%",
+      "source_url": "https://www.investing.com/equities/palantir-technologies-inc-historical-data"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "2026-10-13 종가 232,000원, 등락률 -7.39%, CXMT 경쟁 우려와 외국인 매도 부담",
+      "source_url": "https://kr.investing.com/equities/samsung-electronics-co-ltd-historical-data"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "2026-10-13 종가 1,443,000원, 등락률 -10.09%, 메모리 경쟁과 AI 투자 부담 우려",
+      "source_url": "https://kr.investing.com/equities/sk-hynix-inc-historical-data"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "2026-10-13 종가 410,000원, 등락률 +3.02%",
+      "source_url": "https://kr.investing.com/equities/lg-energy-solution-historical-data"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "2026-10-13 종가 315,000원, 등락률 -1.56%",
+      "source_url": "https://kr.investing.com/equities/hyundai-motor-historical-data"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "2026-10-13 삼성전자는 232,000원으로 7.39% 하락했습니다. CXMT 경쟁 진전과 AI 인프라 투자 부담 우려, 외국인 매도가 동시에 확인된 종목입니다.",
+      "catalysts": [
+        "2026-10-14 미국 소비자물가 발표 예정",
+        "메모리 수급과 외국인 수급 확인"
+      ],
+      "levels_watched": {
+        "support": "2026-10-13 장중 저가 228,000원",
+        "resistance": "2026-10-13 장중 고가 244,000원",
+        "analyst_target_cited": "인용하지 않음, 자체 목표가 제시 없음"
+      },
+      "risk": "메모리 경쟁 심화 우려와 AI 인프라 투자 부담이 이어질 수 있으며, 외국인 수급이 추가 변동성을 만들 수 있습니다.",
+      "sources": [
+        "https://en.sedaily.com/finance/2026/10/13/foreign-investors-dump-31-billion-in-stocks-as-kospi",
+        "https://kr.investing.com/equities/samsung-electronics-co-ltd-historical-data",
+        "https://www.bls.gov/schedule/2026/home.htm"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "2026-10-13 SK하이닉스는 1,443,000원으로 10.09% 급락했습니다. CXMT의 서버용 메모리 출시 계획과 AI 자본 부담 우려가 핵심 배경으로 제시됐습니다.",
+      "catalysts": [
+        "2026-10-14 미국 소비자물가 발표 예정",
+        "서버용 메모리 경쟁 뉴스와 외국인 수급 확인"
+      ],
+      "levels_watched": {
+        "support": "2026-10-13 장중 저가 1,425,000원",
+        "resistance": "2026-10-13 장중 고가 1,552,000원",
+        "analyst_target_cited": "인용하지 않음, 자체 목표가 제시 없음"
+      },
+      "risk": "중국 메모리 경쟁과 AI 데이터센터 투자 조정 우려가 재부각될 수 있습니다.",
+      "sources": [
+        "https://en.sedaily.com/finance/2026/10/13/foreign-investors-dump-31-billion-in-stocks-as-kospi",
+        "https://kr.investing.com/equities/sk-hynix-inc-historical-data",
+        "https://www.bls.gov/schedule/2026/home.htm"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "엔비디아",
+      "market": "US",
+      "thesis": "2026-10-13 엔비디아는 228.51달러로 0.97% 올랐고, SOXX가 0.185% 내린 날 상대 강세를 보였습니다.",
+      "catalysts": [
+        "미국 소비자물가 발표 예정",
+        "미국 3분기 실적 시즌과 AI 투자 전망"
+      ],
+      "levels_watched": {
+        "support": "2026-10-13 장중 저가 223.14달러",
+        "resistance": "2026-10-13 장중 고가 228.62달러",
+        "analyst_target_cited": "인용하지 않음, 자체 목표가 제시 없음"
+      },
+      "risk": "AI 자본지출 조정 우려와 반도체 업종 변동성이 주가에 영향을 줄 수 있습니다.",
+      "sources": [
+        "https://www.investing.com/equities/nvidia-corp-historical-data",
+        "https://chartexchange.com/symbol/nasdaq-soxx/historical/",
+        "https://apnews.com/article/a2edaf9ec297fb75ff2a4e245063ec08",
+        "https://www.bls.gov/schedule/2026/home.htm"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
