@@ -1,0 +1,514 @@
+{
+  "date": "2026-10-20",
+  "generated_at_kst": "2026-10-20T06:43:21+09:00",
+  "mode": "new",
+  "headline": "배터리와 자동차 반등에 코스피 5768, 미국 AI주 회복은 시험대",
+  "mail_title": "LG엔솔 7.2%, 반등장 이어질까",
+  "kr": {
+    "preview": "어제는 코스피가 장 초반 3.17% 급락했지만 기관 매수와 낙폭 과대 매수가 유입되며 5,768.01로 1.76% 반등했습니다. 코스닥도 808.89로 1.78% 올라 800선을 회복했습니다. 미국 AI 관련주의 반등이 밤사이 이어졌지만, 국내에서는 반도체보다 2차전지와 자동차로 매수세가 이동한 점이 핵심입니다. 오늘은 미국 기술주 회복이 삼성전자와 SK하이닉스 수급으로 이어지는지, 전일 배터리 반등이 실제 추세로 이어지는지를 확인할 구간입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "5,768.01",
+        "change_pct": "+1.76%",
+        "source_urls": [
+          "https://www.koreatimes.co.kr/economy/20261019/kospi-edges-higher-as-battery-auto-gains-offset-chip-losses",
+          "https://markets.hankyung.com/indices/kospi"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "808.89",
+        "change_pct": "+1.78%",
+        "source_urls": [
+          "https://www.koreatimes.co.kr/economy/20261019/kospi-edges-higher-as-battery-auto-gains-offset-chip-losses",
+          "https://markets.hankyung.com/indices/kosdaq"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "006400",
+        "name": "삼성SDI",
+        "change_pct": "+11.70%",
+        "reason": "중국 ESS 업체의 미국 철수 보도로 북미 ESS 공급망 재편 기대가 부각되면서 59만2000원으로 11.70% 급등했습니다.",
+        "source_url": "https://www.hankyung.com/article/2026101915251",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026101915251",
+          "https://finance.yahoo.com/quote/006400.KS/history/"
+        ]
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "change_pct": "+7.20%",
+        "reason": "미국 공급망에서 중국 ESS 업체가 철수할 수 있다는 보도와 북미 ESS 점유율 확대 기대가 겹치며 43만2000원으로 7.20% 상승했습니다.",
+        "source_url": "https://www.hankyung.com/article/2026101915251",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026101915251",
+          "https://finance.yahoo.com/quote/373220.KS/history/"
+        ]
+      },
+      {
+        "ticker": "003670",
+        "name": "포스코퓨처엠",
+        "change_pct": "+10.90%",
+        "reason": "배터리 셀 업체 강세가 소재주로 번지며 10.90% 급등했습니다. 같은 날 중국 업체의 미국 ESS 철수 보도가 배터리 밸류체인 전반의 재편 기대를 자극했습니다.",
+        "source_url": "https://www.hankyung.com/article/2026101915251",
+        "source_urls": [
+          "https://www.hankyung.com/article/2026101915251",
+          "https://finance.yahoo.com/quote/003670.KS/history/"
+        ]
+      },
+      {
+        "ticker": "005380",
+        "name": "현대차",
+        "change_pct": "+4.49%",
+        "reason": "최근 급락 뒤 저가 매수가 유입되며 32만6000원으로 4.49% 올랐습니다. 배터리주와 함께 반도체 이외 대형주로 순환매가 나타난 종목입니다.",
+        "source_url": "https://www.koreatimes.co.kr/economy/20261019/kospi-edges-higher-as-battery-auto-gains-offset-chip-losses",
+        "source_urls": [
+          "https://www.koreatimes.co.kr/economy/20261019/kospi-edges-higher-as-battery-auto-gains-offset-chip-losses",
+          "https://finance.yahoo.com/quote/005380.KS/history/"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "밤사이 미국장은 AI 관련주가 지난주 급락분 일부를 되돌리며 반등했습니다. S&P 500은 7,690.73으로 0.41%, 나스닥은 26,430.89로 1.11% 올랐고 다우는 51,966.03으로 0.07% 하락했습니다. 유가는 내렸지만 미 10년물 국채금리는 전일 5.098%에서 5.136%로 올라 국채금리 부담이 완화되지 않았습니다. 이번 주 대형 기술주와 반도체 실적이 AI 투자 수익성과 부채 우려를 다시 검증할 변수입니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,690.73",
+        "change_pct": "+0.41%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-5aec11ee466841cc2a69b2d23ab77f0e",
+          "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-4957719"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,430.89",
+        "change_pct": "+1.11%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-5aec11ee466841cc2a69b2d23ab77f0e",
+          "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-4957719"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "51,966.03",
+        "change_pct": "-0.07%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-5aec11ee466841cc2a69b2d23ab77f0e",
+          "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-4957719"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "WDC",
+        "name": "Western Digital",
+        "change_pct": "+6.09%",
+        "reason": "지난주 급락 뒤 AI와 반도체 관련주가 되돌림을 보인 가운데 352.21달러로 6.09% 상승했습니다. 이번 주 실적 일정도 저장장치 수요를 확인할 변수입니다.",
+        "source_url": "https://www.marketscreener.com/news/us-chip-stocks-rise-after-steepest-weekly-selloff-in-months-ce785cdbdb8efe2c",
+        "source_urls": [
+          "https://www.marketscreener.com/news/us-chip-stocks-rise-after-steepest-weekly-selloff-in-months-ce785cdbdb8efe2c",
+          "https://finance.yahoo.com/quote/WDC/history/"
+        ]
+      },
+      {
+        "ticker": "AMZN",
+        "name": "Amazon",
+        "change_pct": "+4.98%",
+        "reason": "AI 관련 대형 기술주 반등 흐름을 타며 262.45달러로 4.98% 상승했습니다.",
+        "source_url": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-4957719",
+        "source_urls": [
+          "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-4957719",
+          "https://finance.yahoo.com/quote/AMZN/history/"
+        ]
+      },
+      {
+        "ticker": "TSLA",
+        "name": "Tesla",
+        "change_pct": "+3.76%",
+        "reason": "AI 관련주 반등과 이번 주 실적 발표를 앞둔 기대가 겹치며 368.06달러로 3.76% 올랐습니다.",
+        "source_url": "https://www.marketscreener.com/news/ai-stocks-bounce-back-after-bruising-selloff-coreweave-gets-goldman-upgrade-ce785cdbda8df120",
+        "source_urls": [
+          "https://www.marketscreener.com/news/ai-stocks-bounce-back-after-bruising-selloff-coreweave-gets-goldman-upgrade-ce785cdbda8df120",
+          "https://finance.yahoo.com/quote/TSLA/history/"
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "+1.38%",
+        "reason": "유가가 내리고 AI 관련주가 반등하는 흐름 속에서 지난주 반도체 매도분 일부를 되돌려 217.09달러로 1.38% 반등했습니다. 다만 미국 정규장 마감의 미 10년물은 전일 5.098%에서 5.136%로 올라 국채금리 안정으로 설명하기 어렵습니다.",
+        "source_url": "https://www.marketscreener.com/news/us-chip-stocks-rise-after-steepest-weekly-selloff-in-months-ce785cdbdb8efe2c",
+        "source_urls": [
+          "https://www.marketscreener.com/news/us-chip-stocks-rise-after-steepest-weekly-selloff-in-months-ce785cdbdb8efe2c",
+          "https://finance.yahoo.com/quote/NVDA/history/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.78%",
+        "note": "2026-10-19 정규장 종가, 삼성전자와 SK하이닉스 평균 (대표종목 기준)",
+        "source_url": "https://finance.yahoo.com/quote/005930.KS/history/"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+2.81%",
+        "note": "2026-10-19 KOSPI IT 서비스 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+0.60%",
+        "note": "2026-10-19 KOSPI 통신업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+5.77%",
+        "note": "2026-10-19 KOSPI 의약품 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+1.26%",
+        "note": "2026-10-19 KOSPI 금융업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+1.22%",
+        "note": "2026-10-19 KOSPI 유통업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+2.78%",
+        "note": "2026-10-19 KOSPI 운수장비 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+9.45%",
+        "note": "2026-10-19 정규장 종가, LG에너지솔루션과 삼성SDI 평균 (대표종목 기준)",
+        "source_url": "https://finance.yahoo.com/quote/373220.KS/history/"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+3.97%",
+        "note": "2026-10-19 정규장 종가, 한화에어로스페이스와 HD한국조선해양과 한국항공우주 평균 (대표종목 기준)",
+        "source_url": "https://finance.yahoo.com/quote/012450.KS/history/"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.13%",
+        "note": "2026-10-19 KOSPI 건설업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+3.56%",
+        "note": "2026-10-19 KOSPI 화학 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+4.98%",
+        "note": "2026-10-19 KOSPI 철강및금속 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+2.17%",
+        "note": "2026-10-19 KOSPI 서비스업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+4.24%",
+        "note": "2026-10-19 KOSPI 오락문화 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+1.73%",
+        "note": "2026-10-19 미국장 SOXX 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/SOXX/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+1.36%",
+        "note": "2026-10-19 미국장 XLK 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLK/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-0.21%",
+        "note": "2026-10-19 미국장 XLC 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLC/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.60%",
+        "note": "2026-10-19 미국장 XLV 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLV/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.83%",
+        "note": "2026-10-19 미국장 XLF 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLF/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+1.78%",
+        "note": "2026-10-19 미국장 XLY 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLY/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.47%",
+        "note": "2026-10-19 미국장 XLP 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLP/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-0.64%",
+        "note": "2026-10-19 미국장 XLI 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLI/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+0.06%",
+        "note": "2026-10-19 미국장 XLB 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLB/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.64%",
+        "note": "2026-10-19 미국장 XLE 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLE/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-2.01%",
+        "note": "2026-10-19 미국장 XLU 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLU/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-1.16%",
+        "note": "2026-10-19 미국장 XLRE 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLRE/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,333.01",
+      "change_pct": "-0.09%",
+      "source_url": "https://finance.yahoo.com/quote/KRW=X/history/",
+      "note": "2026-10-20 06:43 KST 조회 실시간값, 전일 종가 대비이며 종가로 부르지 않음"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "101.985",
+      "change_pct": "+0.14%",
+      "source_url": "https://finance.yahoo.com/quote/DX-Y.NYB/history/",
+      "note": "2026-10-19 일봉 종가, 전일 종가 대비"
+    },
+    {
+      "name": "금",
+      "value": "$4,160.30",
+      "change_pct": "-0.50%",
+      "source_url": "https://finance.yahoo.com/quote/GC=F/history/",
+      "note": "GC=F 2026-10-19 일봉 종가, 전일 종가 대비"
+    },
+    {
+      "name": "WTI",
+      "value": "$98.24",
+      "change_pct": "-3.13%",
+      "source_url": "https://finance.yahoo.com/quote/CL=F/history/",
+      "note": "CL=F 2026-10-19 일봉 종가, 전일 종가 대비"
+    },
+    {
+      "name": "비트코인",
+      "value": "$81,951.30",
+      "change_pct": "+1.03%",
+      "source_url": "https://finance.yahoo.com/quote/BTC-USD/history/",
+      "note": "2026-10-20 06:43 KST 조회 실시간값, 24시간 기준이며 확정 종가 아님"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,401.19",
+      "change_pct": "+1.41%",
+      "source_url": "https://finance.yahoo.com/quote/ETH-USD/history/",
+      "note": "2026-10-20 06:43 KST 조회 실시간값, 24시간 기준이며 확정 종가 아님"
+    },
+    {
+      "name": "미 10년물",
+      "value": "5.136%",
+      "change_pct": "+0.75%",
+      "source_url": "https://finance.yahoo.com/quote/%5ETNX/history/",
+      "note": "2026-10-19 일봉 종가, 전일 종가 대비 상대 변화율이며 bp로 환산하지 않음"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "미 10년물은 5.136%로 전일 종가 대비 상대 변화율이 +0.75%였고, 달러인덱스는 101.985로 +0.14%였습니다. 원/달러는 1,333.01원 실시간값으로 전일 종가 대비 -0.09%였으며, WTI는 98.24달러로 -3.13%, 금은 4160.30달러로 -0.50%였습니다.",
+    "notes": "미국 AI 관련주가 지난주 급락분 일부를 되돌렸지만, 이번 주 실적에서 AI 투자 수익성과 부채 부담이 다시 확인될 수 있습니다. 국내장은 전일 반도체보다 2차전지와 자동차가 강했기 때문에 외국인 수급이 대형 반도체로 돌아오는지가 중요합니다."
+  },
+  "top_themes": [
+    {
+      "theme": "AI 자본지출 논쟁",
+      "summary": "CoreWeave의 높은 부채와 AI 인프라 투자 수익성 우려로 지난주 기술주가 급락했지만, 10월 19일 21:38 KST 프리마켓과 10월 20일 00:17 KST 장중 Reuters 기사에서는 국채금리 하락이 반등 배경으로 언급됐습니다. 그러나 미국 정규장 마감의 미 10년물은 전일 5.098%에서 5.136%로 올라, 마감 요약에서 국채금리 부담 완화로 단정할 수 없습니다. 이번 주 대형 기술주와 반도체 실적이 성장률과 자금 조달 비용을 함께 검증합니다.",
+      "tickers": [
+        "NVDA",
+        "TSLA",
+        "WDC",
+        "AMZN"
+      ],
+      "source_url": "https://www.marketscreener.com/news/ai-stocks-bounce-back-after-bruising-selloff-coreweave-gets-goldman-upgrade-ce785cdbda8df120"
+    },
+    {
+      "theme": "2차전지 업황",
+      "summary": "중국 ESS 업체가 미국 시장에서 철수할 수 있다는 보도가 국내 배터리 셀과 소재주를 함께 끌어올렸습니다. LG에너지솔루션과 삼성SDI의 상승은 공급망 재편 기대를 반영한 것이며, 실제 북미 수주와 수익성 개선은 후속 확인이 필요합니다.",
+      "tickers": [
+        "373220",
+        "006400",
+        "003670"
+      ],
+      "source_url": "https://www.hankyung.com/article/2026101915251"
+    },
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "이번 주 Tesla, Meta, SpaceX와 Lam Research, Texas Instruments, Western Digital 등의 실적이 예정돼 AI 수요와 자본지출의 지속 가능성을 확인할 수 있습니다.",
+      "tickers": [
+        "TSLA",
+        "WDC",
+        "NVDA"
+      ],
+      "source_url": "https://www.marketscreener.com/news/us-chip-stocks-rise-after-steepest-weekly-selloff-in-months-ce785cdbdb8efe2c"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "10월 19일 217.09달러로 1.38% 반등했습니다. 지난주 반도체 매도 뒤 AI 관련주 회복 흐름을 확인할 대표 종목입니다.",
+      "source_url": "https://www.marketscreener.com/news/us-chip-stocks-rise-after-steepest-weekly-selloff-in-months-ce785cdbdb8efe2c"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "10월 19일 342.94달러로 0.15% 하락해 AI 관련주 반등 속에서도 보합권에 머물렀습니다.",
+      "source_url": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-4957719"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "10월 19일 533.52달러로 0.84% 올랐습니다. AI 인프라 지출과 대형 기술주 실적 시즌의 핵심 확인 대상입니다.",
+      "source_url": "https://www.marketscreener.com/news/ai-stocks-bounce-back-after-bruising-selloff-coreweave-gets-goldman-upgrade-ce785cdbda8df120"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "10월 19일 368.06달러로 3.76% 상승했습니다. 이번 주 실적 발표에서 자동차 수익성과 AI 투자 계획이 확인될 예정입니다.",
+      "source_url": "https://www.marketscreener.com/news/ai-stocks-bounce-back-after-bruising-selloff-coreweave-gets-goldman-upgrade-ce785cdbda8df120"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "10월 19일 194.15달러로 4.36% 반등했습니다. AI 소프트웨어 성장주의 위험 선호 회복 여부를 보여주는 종목입니다.",
+      "source_url": "https://www.marketscreener.com/news/ai-stocks-bounce-back-after-bruising-selloff-coreweave-gets-goldman-upgrade-ce785cdbda8df120"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "10월 19일 21만8000원으로 1.16% 반등했지만 배터리와 자동차보다 상승폭이 작았습니다. 미국 기술주 회복이 국내 반도체 수급으로 이어지는지 확인합니다.",
+      "source_url": "https://www.koreatimes.co.kr/economy/20261019/kospi-edges-higher-as-battery-auto-gains-offset-chip-losses"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "10월 19일 127만7000원으로 0.39% 상승했습니다. AI 반도체 매도 뒤 외국인 수급이 돌아오는지 확인할 대형주입니다.",
+      "source_url": "https://www.koreatimes.co.kr/economy/20261019/kospi-edges-higher-as-battery-auto-gains-offset-chip-losses"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "10월 19일 43만2000원으로 7.20% 상승했습니다. 중국 ESS 업체의 미국 철수 보도와 북미 공급망 재편 기대가 배경입니다.",
+      "source_url": "https://www.hankyung.com/article/2026101915251"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "10월 19일 32만6000원으로 4.49% 올랐습니다. 급락 뒤 저가 매수가 반도체 외 대형주로 확산된 흐름을 보여줍니다.",
+      "source_url": "https://www.koreatimes.co.kr/economy/20261019/kospi-edges-higher-as-battery-auto-gains-offset-chip-losses"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "thesis": "중국 ESS 업체의 미국 철수 보도로 국내 배터리주가 강세를 보였고 LG에너지솔루션은 10월 19일 7.20% 상승했습니다. 보도에 따른 시장 기대와 실제 수주 및 이익 전환은 분리해 확인해야 합니다.",
+      "catalysts": [
+        "미국 ESS 공급망 재편과 중국산 배터리 규제 관련 추가 발표",
+        "다음 실적에서 북미 ESS 수주와 수익성 확인"
+      ],
+      "levels_watched": {
+        "support": "290,500원, 52주 최저",
+        "resistance": "527,000원, 52주 최고",
+        "analyst_target_cited": "인용 없음, 자체 목표가 제시하지 않음"
+      },
+      "risk": "전기차 수요 회복 지연, ESS 기대의 실제 수주 전환 여부, 중국 업체 미국 철수 보도의 사실과 범위 변화가 하방 위험입니다.",
+      "sources": [
+        "https://www.hankyung.com/article/2026101915251",
+        "https://markets.hankyung.com/stock/373220",
+        "https://finance.yahoo.com/quote/373220.KS/history/"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "thesis": "Tesla는 10월 19일 3.76% 상승했으며 AI 관련주 반등과 이번 주 실적 발표가 겹친 이벤트 종목입니다. 주가 반등이 자동차 사업의 실적 개선을 의미하는지는 아직 확인되지 않았습니다.",
+      "catalysts": [
+        "이번 주 Tesla 실적 발표",
+        "실적에서 자동차 수익성, AI 투자 계획과 현금흐름 확인"
+      ],
+      "levels_watched": {
+        "support": "$297.38, 52주 최저",
+        "resistance": "$498.83, 52주 최고",
+        "analyst_target_cited": "인용 없음, 자체 목표가 제시하지 않음"
+      },
+      "risk": "자동차 수요와 마진 둔화, AI 투자 비용, 실적 발표 뒤 기대와 실제 현금흐름의 차이가 변동성 요인입니다.",
+      "sources": [
+        "https://www.marketscreener.com/news/ai-stocks-bounce-back-after-bruising-selloff-coreweave-gets-goldman-upgrade-ce785cdbda8df120",
+        "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-4957719",
+        "https://finance.yahoo.com/quote/TSLA/history/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수나 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
