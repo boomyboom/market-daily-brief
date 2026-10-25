@@ -1,0 +1,511 @@
+{
+  "date": "2026-10-26",
+  "generated_at_kst": "2026-10-26T06:45:36+09:00",
+  "mode": "new",
+  "headline": "코스피 5550 반등 뒤 유가와 실적이 이번 주 시험대",
+  "mail_title": "SK하이닉스 실적 앞두고 코스피 반등 이어질까",
+  "kr": {
+    "preview": "어제는 주말 휴장으로 거래가 없었습니다. 직전 거래일인 10월 23일에는 코스피가 5,550.30으로 0.30% 올랐지만 코스닥은 751.69로 1.62% 하락했습니다. 코스피 수급은 개인 288억원과 기관 8,694억원 순매수, 외국인 9,665억원 순매도였습니다. SK하이닉스가 4.42% 상승했고 삼성바이오로직스와 삼성E&A도 강세였습니다. 주말에는 이란과 미국 사이 메시지가 이어졌고 트럼프가 일요일 당일 이란 공격은 없다고 밝혔지만, WTI 금요일 종가가 103.27달러로 3.82% 올라 유가와 중동 뉴스가 장 초반 변수입니다. 이번 주는 SK하이닉스 10월 28일, 삼성전자 10월 29일 실적과 미국 빅테크 실적, 연준 회의를 함께 확인할 필요가 있습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "5,550.30",
+        "change_pct": "+0.30%",
+        "source_urls": [
+          "https://en.yna.co.kr/view/AEN20261023006400320"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "751.69",
+        "change_pct": "-1.62%",
+        "source_urls": [
+          "https://www.yna.co.kr/amp/view/AKR20261023129300008"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+4.42%",
+        "reason": "10월 23일 종가 기준 4.42% 상승했습니다. SK하이닉스는 솔리다임 기업공개 검토를 중단했지만 성장 투자 필요성은 변하지 않았다고 밝혔고, 10월 28일 3분기 실적 발표를 앞뒀습니다.",
+        "source_url": "https://news.skhynix.com/en/fact-12/",
+        "source_urls": [
+          "https://news.skhynix.com/en/fact-12/",
+          "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/",
+          "https://stockanalysis.com/quote/krx/000660/history/"
+        ]
+      },
+      {
+        "ticker": "207940",
+        "name": "삼성바이오로직스",
+        "change_pct": "+7.71%",
+        "reason": "10월 23일 종가 기준 7.71% 상승했습니다. 3분기 매출 1조4,900억원과 영업이익 6,400억원을 발표했고, 2026년 매출 성장 가이던스를 20%로 올렸습니다.",
+        "source_url": "https://samsungbiologics.com/media/company-news/samsung-biologics-reports-third-quarter-2026-financial-results",
+        "source_urls": [
+          "https://samsungbiologics.com/media/company-news/samsung-biologics-reports-third-quarter-2026-financial-results",
+          "https://stockanalysis.com/quote/krx/207940/history/"
+        ]
+      },
+      {
+        "ticker": "028050",
+        "name": "삼성E&A",
+        "change_pct": "+7.94%",
+        "reason": "10월 23일 종가 기준 7.94% 상승했습니다. 3분기 영업이익 5,006억원으로 전년 동기 대비 183.6% 증가했고, 연간 전망과 7,800억원 규모 자사주 매입 계획을 발표했습니다.",
+        "source_url": "https://www.samsungena.com/en/newsroom/news/view?idx=15855",
+        "source_urls": [
+          "https://www.samsungena.com/en/newsroom/news/view?idx=15855",
+          "https://stockanalysis.com/quote/krx/028050/history/"
+        ]
+      },
+      {
+        "ticker": "114840",
+        "name": "아이패밀리에스씨",
+        "change_pct": "+29.93%",
+        "reason": "10월 23일 종가 기준 29.93% 상승했습니다. 마루베니가 웰리언트를 통해 발행주식의 20%에서 28%를 조건부 공개매수로 취득할 계획을 발표했고, 롬앤의 글로벌 확장을 함께 추진한다고 밝혔습니다.",
+        "source_url": "https://www.marubeni.com/en/news/2026/release/00033.html",
+        "source_urls": [
+          "https://www.marubeni.com/en/news/2026/release/00033.html",
+          "https://stockanalysis.com/quote/kosdaq/114840/history/"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "10월 23일 미국 3대 지수는 유가와 국채금리 상승, AI 투자 수익성 우려 속에 S&P 500 0.52%, 나스닥 0.21%, 다우 1.23% 하락했습니다. 에너지 ETF는 2.60% 상승했지만 통신서비스 ETF는 1.78% 하락했고, 이번 주는 Alphabet, Microsoft, Amazon 실적과 연준 회의에 시선이 쏠립니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,623.68",
+        "change_pct": "-0.52%",
+        "source_urls": [
+          "https://www.marketscreener.com/news/s-p-500-closes-lower-to-end-rocky-week-ce785cdfdc8bf321"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "25,955.34",
+        "change_pct": "-0.21%",
+        "source_urls": [
+          "https://www.marketscreener.com/news/s-p-500-closes-lower-to-end-rocky-week-ce785cdfdc8bf321"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "52,215.16",
+        "change_pct": "-1.23%",
+        "source_urls": [
+          "https://www.marketscreener.com/news/s-p-500-closes-lower-to-end-rocky-week-ce785cdfdc8bf321"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "T",
+        "name": "AT&T",
+        "change_pct": "-7.96%",
+        "reason": "10월 23일 종가 기준 7.96% 하락했습니다. 로이터는 스페이스X가 미국 네 번째 이동통신 사업자를 위해 수천 개 기지국을 찾고 있다는 보도 뒤 통신주가 약세였다고 전했습니다.",
+        "source_url": "https://www.marketscreener.com/news/dow-s-p-500-fall-tech-steadies-to-end-rocky-week-ce785cdfdd8eff24",
+        "source_urls": [
+          "https://www.marketscreener.com/news/dow-s-p-500-fall-tech-steadies-to-end-rocky-week-ce785cdfdd8eff24",
+          "https://stockanalysis.com/stocks/t/history/"
+        ]
+      },
+      {
+        "ticker": "TMUS",
+        "name": "T-Mobile US",
+        "change_pct": "-7.71%",
+        "reason": "10월 23일 종가 기준 7.71% 하락했습니다. 로이터는 스페이스X의 이동통신 시장 진입 가능성이 전해진 뒤 기존 통신 사업자 주가가 압박을 받았다고 전했습니다.",
+        "source_url": "https://www.marketscreener.com/news/dow-s-p-500-fall-tech-steadies-to-end-rocky-week-ce785cdfdd8eff24",
+        "source_urls": [
+          "https://www.marketscreener.com/news/dow-s-p-500-fall-tech-steadies-to-end-rocky-week-ce785cdfdd8eff24",
+          "https://stockanalysis.com/stocks/tmus/history/"
+        ]
+      },
+      {
+        "ticker": "CCI",
+        "name": "Crown Castle",
+        "change_pct": "+9.06%",
+        "reason": "10월 23일 종가 기준 9.06% 상승했습니다. 스페이스X의 기지국 확보 보도 뒤 미국 셀타워 운영사 주가가 강세를 보였습니다.",
+        "source_url": "https://www.marketscreener.com/news/dow-s-p-500-fall-tech-steadies-to-end-rocky-week-ce785cdfdd8eff24",
+        "source_urls": [
+          "https://www.marketscreener.com/news/dow-s-p-500-fall-tech-steadies-to-end-rocky-week-ce785cdfdd8eff24",
+          "https://stockanalysis.com/stocks/cci/history/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.45%",
+        "note": "삼성전자와 SK하이닉스 대표종목 평균, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/quote/krx/005930/history/",
+        "source_urls": [
+          "https://stockanalysis.com/quote/krx/005930/history/",
+          "https://stockanalysis.com/quote/krx/000660/history/"
+        ]
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-0.98%",
+        "note": "KRX IT 서비스 행 기준, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.95%",
+        "note": "KRX 통신업 행 기준, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+3.48%",
+        "note": "KRX 의약품 행 기준, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-0.84%",
+        "note": "KRX 금융업 행 기준, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-1.24%",
+        "note": "KRX 유통업 행 기준, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-2.22%",
+        "note": "KRX 운수장비 행 기준, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-3.00%",
+        "note": "LG에너지솔루션과 삼성SDI 대표종목 평균, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/quote/krx/373220/history/",
+        "source_urls": [
+          "https://stockanalysis.com/quote/krx/373220/history/",
+          "https://stockanalysis.com/quote/krx/006400/history/"
+        ]
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-2.57%",
+        "note": "KRX 기계 행을 대체 기준으로 사용, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+0.08%",
+        "note": "KRX 건설업 행 기준, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-3.04%",
+        "note": "KRX 화학 행 기준, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-3.22%",
+        "note": "KRX 철강및금속 행 기준, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+0.88%",
+        "note": "KRX 서비스업 행을 대체 기준으로 사용, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-0.63%",
+        "note": "KRX 오락, 문화 행 기준, 2026-10-23 종가 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+0.53%",
+        "note": "SOXX, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+0.49%",
+        "note": "XLK, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-1.78%",
+        "note": "XLC, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-1.11%",
+        "note": "XLV, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.32%",
+        "note": "XLF, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-1.66%",
+        "note": "XLY, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-1.92%",
+        "note": "XLP, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-1.27%",
+        "note": "XLI, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-0.74%",
+        "note": "XLB, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+2.60%",
+        "note": "XLE, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-0.72%",
+        "note": "XLU, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.12%",
+        "note": "XLRE, 2026-10-23 종가 기준",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,323.76원",
+      "change_pct": "-0.13%",
+      "source_url": "https://www.investing.com/currencies/usd-krw-historical-data"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "101.81",
+      "change_pct": "+0.20%",
+      "source_url": "https://www.investing.com/indices/usdollar-historical-data"
+    },
+    {
+      "name": "금",
+      "value": "$4,007.90",
+      "change_pct": "-1.29%",
+      "source_url": "https://www.investing.com/commodities/gold-historical-data"
+    },
+    {
+      "name": "WTI",
+      "value": "$103.27",
+      "change_pct": "+3.82%",
+      "source_url": "https://www.investing.com/commodities/crude-oil-historical-data"
+    },
+    {
+      "name": "비트코인",
+      "value": "$80,462.50",
+      "change_pct": "+0.10%",
+      "source_url": "https://api.binance.com/api/v3/ticker/24hr?symbol=BTCUSDT"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,341.04",
+      "change_pct": "-0.62%",
+      "source_url": "https://api.kraken.com/0/public/Ticker?pair=ETHUSD"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.988%",
+      "change_pct": "+3.5bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
+      "note": "10월 22일 전일 종가 4.953%보다 3.5bp 높음"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "금요일 미 10년물 4.988%, 전일 종가 대비 +3.5bp, 달러인덱스 101.81, WTI 103.27달러 +3.82%, 금 4,007.90달러 -1.29%, 원/달러 1,323.76원 -0.13%로 확인했습니다. 토요일과 일요일에는 정규시장 종가가 없고, 비트코인과 이더리움은 조회 시각 기준 24시간 수치입니다.",
+    "notes": "10월 23일 한국장 수급은 코스피에서 개인 288억원과 기관 8,694억원 순매수, 외국인 9,665억원 순매도였고 코스닥에서는 개인 643억원 순매수, 외국인 443억원과 기관 254억원 순매도였습니다. 주말에는 이란과 미국 사이 중재 메시지가 이어졌고 트럼프는 일요일 당일 이란 공격은 없다고 밝혔습니다. 이번 주는 미국 연준 회의와 빅테크 실적, 한국 삼성전자와 SK하이닉스 실적 일정이 겹쳐 정책과 AI 투자 수익성 확인이 핵심입니다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "SK하이닉스는 솔리다임 기업공개 검토를 중단했지만 성장 투자 필요성은 변하지 않았다고 밝혔고, 10월 28일 실적 발표가 예정돼 있습니다.",
+      "tickers": [
+        "000660"
+      ],
+      "source_url": "https://news.skhynix.com/en/fact-12/",
+      "source_urls": [
+        "https://news.skhynix.com/en/fact-12/",
+        "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
+      ]
+    },
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "로이터는 이번 주 Alphabet, Microsoft, Amazon 실적과 연준 회의가 예정돼 있다고 전했습니다.",
+      "tickers": [
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+      ],
+      "source_url": "https://www.marketscreener.com/news/s-p-500-closes-lower-to-end-rocky-week-ce785cdfdc8bf321"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "AP는 이란과 미국 사이 메시지가 이어졌고 트럼프가 일요일 당일 이란 공격은 없다고 밝혔으며, 후티 공격과 리야드 공항 운영 재개 소식도 전했습니다.",
+      "tickers": [
+        "CL=F",
+        "XLE"
+      ],
+      "source_url": "https://apnews.com/article/mideast-news-october-25-2026-4779a3deeb1a23f59414164532d5c885"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "10월 23일 종가 기준 0.59% 하락했고, AI 투자 수익성 논쟁 속 대형 기술주 변동성을 확인합니다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "10월 23일 종가 기준 0.14% 하락했고, 빅테크 실적 시즌을 앞둔 대기 흐름입니다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "10월 23일 종가 기준 0.66% 상승했고, 이번 주 실적 일정이 변동성 변수입니다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/",
+      "source_urls": [
+        "https://stockanalysis.com/stocks/msft/history/",
+        "https://www.marketscreener.com/news/dow-s-p-500-fall-tech-steadies-to-end-rocky-week-ce785cdfdd8eff24"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "10월 23일 종가 기준 0.63% 하락했고, 성장주와 AI 투자 심리 영향을 함께 받는 흐름입니다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "10월 23일 종가 기준 0.29% 상승했고, AI 테마 변동성을 확인합니다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "10월 23일 종가 기준 0.47% 상승했고, 10월 29일 3분기 실적 발표를 앞두고 있습니다.",
+      "source_url": "https://stockanalysis.com/quote/krx/005930/history/",
+      "source_urls": [
+        "https://stockanalysis.com/quote/krx/005930/history/",
+        "https://www.samsung.com/global/ir/ir-events-presentations/events/"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "10월 23일 종가 기준 4.42% 상승했고, 솔리다임 기업공개 검토 중단과 10월 28일 실적 일정이 핵심입니다.",
+      "source_url": "https://stockanalysis.com/quote/krx/000660/history/",
+      "source_urls": [
+        "https://stockanalysis.com/quote/krx/000660/history/",
+        "https://news.skhynix.com/en/fact-12/",
+        "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
+      ]
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "10월 23일 종가 기준 1.79% 하락했고, 2차전지 업종 약세 흐름을 확인합니다.",
+      "source_url": "https://stockanalysis.com/quote/krx/373220/history/"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "10월 23일 종가 기준 1.99% 하락했고, 자동차 업종 약세 흐름을 확인합니다.",
+      "source_url": "https://stockanalysis.com/quote/krx/005380/history/"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "솔리다임 기업공개 검토 중단으로 자금조달 방식과 기존 주주가치 논쟁은 새 국면에 들어갔고, 10월 28일 3분기 실적 발표가 단기 확인 지점입니다.",
+      "catalysts": [
+        "2026년 10월 28일 3분기 실적 발표와 오전 9시 컨퍼런스콜"
+      ],
+      "levels_watched": {
+        "support": "10월 23일 종가 1,277,000원",
+        "resistance": "130만원선 회복 여부",
+        "analyst_target_cited": "증권사 목표가를 인용하지 않음"
+      },
+      "risk": "AI 메모리 투자 수익성 재평가, 반도체주 변동성, Solidigm 성장 투자에 필요한 자금부담",
+      "sources": [
+        "https://news.skhynix.com/en/fact-12/",
+        "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/",
+        "https://stockanalysis.com/quote/krx/000660/history/"
+      ]
+    },
+    {
+      "ticker": "114840",
+      "name": "아이패밀리에스씨",
+      "market": "KR",
+      "thesis": "마루베니 자회사가 조건부로 20%에서 28% 지분 취득을 추진한다고 공식 발표해 거래 구조와 해외 확장 계획이 시장의 주요 관심사가 됐습니다.",
+      "catalysts": [
+        "조건부 공개매수 절차 진행"
+      ],
+      "levels_watched": {
+        "support": "10월 22일 종가 8,420원",
+        "resistance": "10월 23일 종가 10,940원",
+        "analyst_target_cited": "증권사 목표가를 인용하지 않음"
+      },
+      "risk": "조건부 공개매수의 최소 조건과 안분 가능성, 거래 완료 전 가격 변동",
+      "sources": [
+        "https://www.marubeni.com/en/news/2026/release/00033.html",
+        "https://stockanalysis.com/quote/kosdaq/114840/history/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스, 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가, 전망은 각 출처의 의견입니다."
+}
