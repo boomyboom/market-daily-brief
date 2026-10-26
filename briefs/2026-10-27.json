@@ -1,0 +1,564 @@
+{
+  "date": "2026-10-27",
+  "generated_at_kst": "2026-10-27T06:47:14+09:00",
+  "mode": "new",
+  "headline": "코스피 5469, 외국인 매도 속 실적과 FOMC 대기",
+  "mail_title": "하이닉스 주주환원, 28일 확인될까",
+  "kr": {
+    "preview": "어제는 코스피가 5,469.47로 1.46%, 코스닥이 727.21로 3.26% 하락했습니다. 외국인 매도와 실적 발표, FOMC 대기 심리가 겹쳤고 삼성전자와 SK하이닉스도 약세였습니다. 밤사이 미국장은 엔비디아 2.4% 상승과 AI주 변동성 속에 S&P 500이 0.70%, 나스닥이 0.82%, 다우가 0.28% 올랐습니다. 오늘은 SK하이닉스의 주주환원 방안과 10월 28일 실적 발표를 앞두고 반도체 수급이 돌아오는지, 미국 빅테크 실적과 연준 회의 경계가 이어지는지 확인할 구간입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "5,469.47",
+        "change_pct": "-1.46%",
+        "source_urls": [
+          "https://biz.chosun.com/en/en-finance/2026/10/26/NREHIW4CANACBNWQ4HU6N7SRNM/?outputType=amp",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "727.21",
+        "change_pct": "-3.26%",
+        "source_urls": [
+          "https://biz.chosun.com/en/en-finance/2026/10/26/NREHIW4CANACBNWQ4HU6N7SRNM/?outputType=amp",
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "108490",
+        "name": "로보티즈",
+        "change_pct": "+9.56%",
+        "reason": "로보티즈는 프랑스 Pollen Robotics와 MicroDuck용 액추에이터 약 75만대 공급 계약을 맺었다는 보도가 나오며 24만6500원으로 9.56% 올랐습니다. 내년 액추에이터 수요가 100만대 이상으로 전망됐지만, 회사는 올해 매출 영향은 없다고 설명했습니다.",
+        "source_url": "https://biz.chosun.com/en/en-industry/2026/10/26/D5ARVCUOWVCOLN4XIOKXT4TKXY/",
+        "source_urls": [
+          "https://biz.chosun.com/en/en-industry/2026/10/26/D5ARVCUOWVCOLN4XIOKXT4TKXY/",
+          "https://finance.yahoo.com/quote/108490.KQ/history/"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-0.16%",
+        "reason": "SK하이닉스는 키옥시아 지분 매각 차익으로 약 16조원 특별배당을 추진한다는 보도에 대해 구체적인 주주환원 방안은 확정되지 않았다고 밝혔고, 10월 28일 이사회 결의 후 발표할 예정이라고 했습니다. 주가는 127만5000원으로 0.16% 내렸습니다.",
+        "source_url": "https://biz.chosun.com/en/en-it/2026/10/26/EQMLSD2O2ZCKDJ6ZEOJWAWVPG4/?outputType=amp",
+        "source_urls": [
+          "https://biz.chosun.com/en/en-it/2026/10/26/EQMLSD2O2ZCKDJ6ZEOJWAWVPG4/?outputType=amp",
+          "https://finance.yahoo.com/quote/000660.KS/history/"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-1.16%",
+        "reason": "삼성전자는 외국인 차익실현 매물과 지수 약세 속에 21만3000원으로 1.16% 하락했습니다. 코스피 대형주 전반이 약세였고 반도체 수급 방향이 오늘의 핵심입니다.",
+        "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681",
+        "source_urls": [
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681",
+          "https://finance.yahoo.com/quote/005930.KS/history/"
+        ]
+      },
+      {
+        "ticker": "012450",
+        "name": "한화에어로스페이스",
+        "change_pct": "-4.04%",
+        "reason": "한화에어로스페이스는 대형주 전반의 약세 속에 76만원, 4.04% 하락했습니다. 인용한 원문은 한화에어로스페이스의 개별 하락 사유를 별도로 제시하지 않습니다.",
+        "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681",
+        "source_urls": [
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681",
+          "https://finance.yahoo.com/quote/012450.KS/history/"
+        ]
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "change_pct": "-2.09%",
+        "reason": "LG에너지솔루션은 자동차와 2차전지 대형주 약세 속에 37만5000원으로 2.09% 하락했습니다. 글로벌 수요와 환율 흐름이 부담으로 거론됐습니다.",
+        "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681",
+        "source_urls": [
+          "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681",
+          "https://finance.yahoo.com/quote/373220.KS/history/"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "밤사이 미국장은 AI주 반등과 빅테크 실적 대기 속에 상승했습니다. S&P 500은 7,676.77로 0.70%, 나스닥은 26,169.38로 0.82%, 다우는 52,361.58로 0.28% 올랐습니다. 엔비디아는 2.4% 올랐지만 Meta는 AI 투자 자금 조달 계획을 밝힌 뒤 1.9% 내렸습니다. 이번 주 연준 회의와 Alphabet, Microsoft, Amazon 실적이 변동성 변수입니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,676.77",
+        "change_pct": "+0.70%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-693ac6c4e67da0332045e66804780be7"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "26,169.38",
+        "change_pct": "+0.82%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-693ac6c4e67da0332045e66804780be7"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "52,361.58",
+        "change_pct": "+0.28%",
+        "source_urls": [
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-693ac6c4e67da0332045e66804780be7"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "+2.39%",
+        "reason": "AI 관련주가 출렁이는 가운데 엔비디아가 2.39% 상승했습니다. AP는 3주 연속 하락 뒤 낙폭 일부를 되돌렸다고 전했습니다.",
+        "source_url": "https://apnews.com/article/stocks-markets-oil-earnings-trump-be3a56f58a77c5be863f0289d280be92",
+        "source_urls": [
+          "https://apnews.com/article/stocks-markets-oil-earnings-trump-be3a56f58a77c5be863f0289d280be92",
+          "https://finance.yahoo.com/quote/NVDA/history/"
+        ]
+      },
+      {
+        "ticker": "META",
+        "name": "Meta Platforms",
+        "change_pct": "-1.90%",
+        "reason": "AI 투자 자금 마련을 위해 최대 350억달러 규모의 주식 매각 계획을 밝힌 뒤 등락을 오가다 1.9% 하락했습니다.",
+        "source_url": "https://apnews.com/article/stocks-markets-oil-earnings-trump-be3a56f58a77c5be863f0289d280be92",
+        "source_urls": [
+          "https://apnews.com/article/stocks-markets-oil-earnings-trump-be3a56f58a77c5be863f0289d280be92"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-1.66%",
+        "note": "2026-10-26 종가, 대표종목 기준",
+        "source_url": "https://finance.yahoo.com/quote/005930.KS/history/"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-0.82%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-2.48%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.73%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.93%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-0.69%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-2.96%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-2.06%",
+        "note": "2026-10-26 종가, 대표종목 기준",
+        "source_url": "https://finance.yahoo.com/quote/373220.KS/history/"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-3.16%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-2.74%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-2.46%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-3.51%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-3.48%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.45%",
+        "note": "2026-10-26 KRX 업종지수, 15:32 KST 마감",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.85%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/SOXX/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "+1.69%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/XLK/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-1.57%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/XLC/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "0.00%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/XLV/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.21%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/XLF/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "+1.03%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/XLY/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-0.34%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/XLP/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+1.42%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/XLI/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+0.14%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/XLB/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+0.45%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/XLE/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-0.02%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/XLU/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.54%",
+        "note": "2026-10-26 미국 ETF 종가, 전일 종가 대비",
+        "source_url": "https://finance.yahoo.com/quote/XLRE/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,323.1원",
+      "change_pct": "-0.11%",
+      "source_url": "https://biz.chosun.com/en/en-finance/2026/10/26/NREHIW4CANACBNWQ4HU6N7SRNM/?outputType=amp",
+      "note": "2026-10-26 15:30 KST 기준, 10월 23일 종가 1,324.6원 대비 1.5원, 약 0.11% 하락"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "102.00",
+      "change_pct": "+0.19%",
+      "source_url": "https://finance.yahoo.com/quote/DX-Y.NYB/history/",
+      "note": "2026-10-26 일봉 종가, 전일 종가 대비"
+    },
+    {
+      "name": "금",
+      "value": "$4,031.00",
+      "change_pct": "+0.58%",
+      "source_url": "https://finance.yahoo.com/quote/GC=F/history/",
+      "note": "2026-10-26 일봉 종가, 전일 종가 대비"
+    },
+    {
+      "name": "WTI",
+      "value": "$101.25",
+      "change_pct": "-1.96%",
+      "source_url": "https://finance.yahoo.com/quote/CL=F/history/",
+      "note": "2026-10-26 일봉 종가, 전일 종가 대비"
+    },
+    {
+      "name": "비트코인",
+      "value": "$79,988.56",
+      "change_pct": "-0.04%",
+      "source_url": "https://finance.yahoo.com/quote/BTC-USD/history/",
+      "note": "2026-10-27 06:47 KST 조회값. Yahoo Finance 원문 시간대가 표시되지 않아 2026-10-26 일봉 종가로 확정하지 않으며, 표시 등락률은 이전 표시값 대비입니다."
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,309.62",
+      "change_pct": "-0.74%",
+      "source_url": "https://finance.yahoo.com/quote/ETH-USD/history/",
+      "note": "2026-10-27 06:47 KST 조회값. Yahoo Finance 원문 시간대가 표시되지 않아 2026-10-26 일봉 종가로 확정하지 않으며, 표시 등락률은 이전 표시값 대비입니다."
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.986%",
+      "change_pct": "-0.2bp",
+      "source_url": "https://finance.yahoo.com/quote/%5ETNX/history/",
+      "note": "2026-10-26 종가, 전일 종가 4.988% 대비 0.2bp 하락"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원달러는 1,323.1원으로 전일보다 1.5원 내렸고, 달러인덱스는 102.00으로 0.19% 올랐습니다. WTI는 101.25달러로 1.96% 하락했고, 금은 4,031.00달러로 0.58% 상승했습니다.",
+    "notes": "미 10년물은 4.986%로 전일 종가보다 0.2bp 낮았습니다. 이번 주 FOMC와 미국 빅테크 실적이 한국 반도체와 외국인 수급의 핵심 변수입니다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "SK하이닉스는 10월 26일 특별배당 보도에 대해 추가 주주환원 방안은 아직 확정되지 않았고 10월 28일 3분기 실적 발표 때 이사회 결의 후 발표한다고 밝혔습니다. 주가는 127만5000원으로 0.16% 하락했습니다.",
+      "tickers": [
+        "000660",
+        "005930"
+      ],
+      "source_url": "https://biz.chosun.com/en/en-it/2026/10/26/EQMLSD2O2ZCKDJ6ZEOJWAWVPG4/?outputType=amp"
+    },
+    {
+      "theme": "로봇과 휴머노이드",
+      "summary": "로보티즈는 프랑스 Pollen Robotics와 MicroDuck용 액추에이터 약 75만대를 공급하는 계약을 맺었습니다. 내년 수요가 100만대 이상으로 전망됐지만 올해 매출에는 영향을 주지 않는다는 회사 설명이라 현재 실적과 미래 기대를 구분해야 합니다.",
+      "tickers": [
+        "108490"
+      ],
+      "source_url": "https://biz.chosun.com/en/en-industry/2026/10/26/D5ARVCUOWVCOLN4XIOKXT4TKXY/"
+    },
+    {
+      "theme": "연준 통화정책",
+      "summary": "미국은 10월 FOMC를 앞두고 있습니다. AP는 10년물 국채금리가 전일 5.00%에서 4.98%로 낮아졌고, 시장은 연준이 이번 회의에서 정책금리를 유지할 가능성을 널리 예상한다고 전했습니다.",
+      "tickers": [
+        "SPX",
+        "TLT"
+      ],
+      "source_url": "https://apnews.com/article/stocks-markets-oil-earnings-trump-be3a56f58a77c5be863f0289d280be92"
+    },
+    {
+      "theme": "빅테크 실적 시즌",
+      "summary": "Alphabet과 Microsoft는 미국 현지시간 10월 28일 수요일, Amazon은 10월 29일 목요일에 실적을 발표할 예정이며, Microsoft 발표는 미국 정규장 마감 후라 한국시간으로는 10월 29일입니다. 이번 주 S&P 500 종목의 약 3분의 1이 실적을 공개하며 AI 투자 지출이 실제 이익과 생산성으로 이어지는지가 핵심 확인 지점입니다.",
+      "tickers": [
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+      ],
+      "source_url": "https://apnews.com/article/stocks-markets-oil-earnings-trump-be3a56f58a77c5be863f0289d280be92",
+      "source_urls": [
+        "https://apnews.com/article/stocks-markets-oil-earnings-trump-be3a56f58a77c5be863f0289d280be92",
+        "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
+      ]
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "10월 26일 외국인은 BusinessKorea 기준 유가증권시장에서 6,972억원을 순매도하고 코스닥에서 390억원을 순매수해 국내 증시 전체로는 6,582억원을 순매도했습니다. 조선비즈는 유가증권시장 순매도를 7,543억원으로 보도해 매체 간 수치 차이가 있습니다. 코스피는 약 7개월 만의 저점으로 밀렸고 원달러 환율은 1,323.1원으로 낮아졌습니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681",
+      "source_urls": [
+        "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681",
+        "https://biz.chosun.com/en/en-finance/2026/10/26/NREHIW4CANACBNWQ4HU6N7SRNM/?outputType=amp"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "10월 26일 종가 216.00달러, +2.39%. AP는 AI주 변동성 속에서도 3주 연속 하락 뒤 일부 반등했다고 전했습니다.",
+      "source_url": "https://finance.yahoo.com/quote/NVDA/history/",
+      "source_urls": [
+        "https://finance.yahoo.com/quote/NVDA/history/",
+        "https://apnews.com/article/stocks-markets-oil-earnings-trump-be3a56f58a77c5be863f0289d280be92"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "10월 26일 종가 343.91달러, -1.10%. 이번 주 빅테크 실적 대기 속에서 대형 기술주 흐름을 확인할 종목입니다.",
+      "source_url": "https://finance.yahoo.com/quote/AAPL/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "10월 26일 종가 532.60달러, +1.54%. Microsoft는 미국 현지시간 10월 28일 정규장 마감 후 실적을 발표할 예정이며, 한국시간으로는 10월 29일입니다. 미국 기술주 방향성의 확인 지점입니다.",
+      "source_url": "https://finance.yahoo.com/quote/MSFT/history/",
+      "source_urls": [
+        "https://finance.yahoo.com/quote/MSFT/history/",
+        "https://apnews.com/article/stocks-markets-oil-earnings-trump-be3a56f58a77c5be863f0289d280be92",
+        "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "10월 26일 종가 391.62달러, +5.21%. 이번 움직임은 시장 가격 흐름으로만 기록하고 회사별 새 재료로 단정하지 않습니다.",
+      "source_url": "https://finance.yahoo.com/quote/TSLA/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "10월 26일 종가 198.84달러, +1.06%. AI 관련 성장주 수급과 함께 보되 해당일 별도 회사 재료로 확대 해석하지 않습니다.",
+      "source_url": "https://finance.yahoo.com/quote/PLTR/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "10월 26일 종가 213,000원, -1.16%. 외국인 차익실현 매물과 대형주 약세가 겹쳤습니다.",
+      "source_url": "https://finance.yahoo.com/quote/005930.KS/history/",
+      "source_urls": [
+        "https://finance.yahoo.com/quote/005930.KS/history/",
+        "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "10월 26일 종가 1,275,000원, -0.16%. 특별배당 보도에 대해 구체적인 주주환원 방안은 확정되지 않았고 10월 28일 발표 예정이라고 밝혔습니다.",
+      "source_url": "https://finance.yahoo.com/quote/000660.KS/history/",
+      "source_urls": [
+        "https://finance.yahoo.com/quote/000660.KS/history/",
+        "https://biz.chosun.com/en/en-it/2026/10/26/EQMLSD2O2ZCKDJ6ZEOJWAWVPG4/?outputType=amp"
+      ]
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "10월 26일 종가 375,000원, -2.09%. 자동차와 2차전지 대형주 약세 흐름을 보였습니다.",
+      "source_url": "https://finance.yahoo.com/quote/373220.KS/history/",
+      "source_urls": [
+        "https://finance.yahoo.com/quote/373220.KS/history/",
+        "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681"
+      ]
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "10월 26일 종가 288,000원, -2.54%. 자동차 대형주 약세 속에서 하락했습니다.",
+      "source_url": "https://finance.yahoo.com/quote/005380.KS/history/",
+      "source_urls": [
+        "https://finance.yahoo.com/quote/005380.KS/history/",
+        "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681"
+      ]
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "10월 28일 3분기 실적과 추가 주주환원 방안 발표가 예정돼 있어, 특별배당 보도와 회사의 확정 발표를 구분해 확인할 종목입니다.",
+      "catalysts": [
+        "10월 28일 3분기 실적 발표",
+        "이사회 결의 후 추가 주주환원 방안 발표"
+      ],
+      "levels_watched": {
+        "support": "10월 26일 장중 저가 1,267,000원",
+        "resistance": "10월 26일 장중 고가 1,315,000원",
+        "analyst_target_cited": "인용하지 않음"
+      },
+      "risk": "추가 주주환원 방안의 규모와 방식이 아직 확정되지 않았고, 글로벌 AI 투자와 외국인 수급 변화에 따라 변동성이 커질 수 있습니다.",
+      "sources": [
+        "https://biz.chosun.com/en/en-it/2026/10/26/EQMLSD2O2ZCKDJ6ZEOJWAWVPG4/?outputType=amp",
+        "https://finance.yahoo.com/quote/000660.KS/history/"
+      ]
+    },
+    {
+      "ticker": "108490",
+      "name": "로보티즈",
+      "market": "KR",
+      "thesis": "MicroDuck용 액추에이터 공급 계약으로 로봇 부품 수요가 부각됐습니다. 다만 매출 반영은 내년부터라는 회사 설명이 함께 확인됩니다.",
+      "catalysts": [
+        "MicroDuck 주문 증가와 액추에이터 추가 수요",
+        "우즈베키스탄 생산시설 완공 및 내년 가동 계획"
+      ],
+      "levels_watched": {
+        "support": "10월 26일 장중 저가 232,500원",
+        "resistance": "10월 26일 장중 고가 256,000원",
+        "analyst_target_cited": "인용하지 않음"
+      },
+      "risk": "마곡 생산라인이 이미 최대 가동 중이고 계약 매출은 내년부터 반영될 전망이라, 생산능력 확대와 실제 납품 시점이 핵심 위험 요인입니다.",
+      "sources": [
+        "https://biz.chosun.com/en/en-industry/2026/10/26/D5ARVCUOWVCOLN4XIOKXT4TKXY/",
+        "https://finance.yahoo.com/quote/108490.KQ/history/"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "thesis": "엔비디아가 AI 투자 수익성 논쟁이 이어지는 가운데 10월 26일 2.39% 올라 미국 기술주 위험선호를 확인할 대표 종목이 됐습니다.",
+      "catalysts": [
+        "미국 빅테크 실적 발표와 AI 투자 지출 검증",
+        "AI 인프라 차입 비용과 수요 전망 변화"
+      ],
+      "levels_watched": {
+        "support": "10월 26일 장중 저가 212.61달러",
+        "resistance": "10월 26일 장중 고가 217.75달러",
+        "analyst_target_cited": "인용하지 않음"
+      },
+      "risk": "데이터센터와 AI 칩 투자에 필요한 차입 비용이 높아지면 성장 기대와 실제 수익성 사이의 간극이 다시 가격 변동성으로 나타날 수 있습니다.",
+      "sources": [
+        "https://apnews.com/article/stocks-markets-oil-earnings-trump-be3a56f58a77c5be863f0289d280be92",
+        "https://finance.yahoo.com/quote/NVDA/history/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수 또는 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
