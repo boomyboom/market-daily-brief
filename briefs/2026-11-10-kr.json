@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-10",
+  "session": "kr_close",
+  "generated_at_kst": "2026-11-10T17:37:28+09:00",
+  "headline": "반도체 반등과 유가 하락에 외국인 돌아오며 코스피 4.39% 급등",
+  "mail_title": "외국인 8거래일 만에 매수, 코스피 4.39%",
+  "kr": {
+    "preview": "최근 급락에 대한 저가매수와 간밤 미국 기술주 반등, 중동 긴장 완화에 따른 유가 하락이 겹치며 코스피는 5,239.13으로 4.39%, 코스닥은 667.61로 4.48% 올랐습니다. 코스피에서는 외국인과 기관이 함께 순매수했고, 코스닥에서는 기관이 순매수했으며, 장초반 두 시장에 매수 사이드카가 차례로 발동했습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "5,239.13",
+        "change_pct": "+4.39%",
+        "source_urls": [
+          "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "667.61",
+        "change_pct": "+4.48%",
+        "source_urls": [
+          "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+6.69%",
+        "reason": "필라델피아 반도체지수 급등과 최근 급락에 대한 저가매수가 겹치며 반도체 투톱으로 매수세가 유입됐습니다. 종가는 121만2,000원이고 거래대금은 3조9,813억원으로 시장 1위였습니다.",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7000660001",
+        "source_urls": [
+          "https://stock.mk.co.kr/price/home/KR7000660001",
+          "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+4.74%",
+        "reason": "AMD와 브로드컴, 마이크론 등 미국 반도체주의 반등과 저가매수로 투자심리가 회복되며 19만8,900원으로 마감했습니다. 장중에는 20만1,500원까지 올랐습니다.",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7005930003",
+        "source_urls": [
+          "https://stock.mk.co.kr/price/home/KR7005930003",
+          "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+        ]
+      },
+      {
+        "ticker": "006400",
+        "name": "삼성SDI",
+        "change_pct": "+9.88%",
+        "reason": "글로벌 기술주 반등과 중동 긴장 완화로 위험선호가 회복된 가운데 2차전지 대형주에 반발매수가 유입되며 45만6,000원으로 마감했습니다.",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7006400006",
+        "source_urls": [
+          "https://stock.mk.co.kr/price/home/KR7006400006",
+          "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+        ]
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "change_pct": "+3.93%",
+        "reason": "최근 조정 뒤 위험자산 선호가 되살아나며 2차전지 대형주가 동반 반등했고, 33만500원으로 마감했습니다.",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7373220003",
+        "source_urls": [
+          "https://stock.mk.co.kr/price/home/KR7373220003",
+          "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "preview": "",
+    "indices": [],
+    "notable": []
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+5.72%",
+        "note": "2026-11-10 정규장 종가, 대표종목 기준, SK하이닉스와 삼성전자 등락률 단순 평균",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7000660001"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+3.65%",
+        "note": "2026-11-10 KRX 업종지수, 매경 원자료 15:33 KST 마감, 업종행 IT 서비스",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+1.43%",
+        "note": "2026-11-10 KRX 업종지수, 매경 원자료 15:33 KST 마감, 업종행 통신업",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.84%",
+        "note": "2026-11-10 KRX 업종지수, 매경 원자료 15:33 KST 마감, 업종행 의약품",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+2.70%",
+        "note": "2026-11-10 KRX 업종지수, 매경 원자료 15:33 KST 마감, 업종행 금융업",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+2.30%",
+        "note": "2026-11-10 KRX 업종지수, 매경 원자료 15:33 KST 마감, 업종행 유통업",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+2.95%",
+        "note": "2026-11-10 KRX 업종지수, 매경 원자료 15:33 KST 마감, 업종행 운수장비",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+6.91%",
+        "note": "2026-11-10 정규장 종가, 대표종목 기준, LG에너지솔루션과 삼성SDI 등락률 단순 평균",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7373220003"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+7.65%",
+        "note": "2026-11-10 KRX 업종지수 대체 기준, 매경 원자료 15:33 KST 마감, 업종행 기계",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+7.15%",
+        "note": "2026-11-10 KRX 업종지수, 매경 원자료 15:33 KST 마감, 업종행 건설업",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+3.50%",
+        "note": "2026-11-10 KRX 업종지수, 매경 원자료 15:33 KST 마감, 업종행 화학",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+4.72%",
+        "note": "2026-11-10 KRX 업종지수, 매경 원자료 15:33 KST 마감, 업종행 철강및금속",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+3.12%",
+        "note": "2026-11-10 KRX 업종지수, 매경 원자료 15:33 KST 마감, 업종행 서비스업",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+0.04%",
+        "note": "2026-11-10 KRX 업종지수, 매경 원자료 15:33 KST 마감, 업종행 오락문화",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,337.5원",
+      "change_pct": "-0.71%",
+      "source_url": "https://www.mt.co.kr/economy/2026/11/10/2026111015392982698",
+      "note": "2026-11-10 15:30 KST 서울 외환시장 주간거래 종가, 전일 기준가보다 9.6원 내린 확정값, 등락률은 전일 기준가 1,347.1원 대비 계산"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "101.58",
+      "change_pct": "-0.09%",
+      "source_url": "https://kr.investing.com/indices/usdollar",
+      "note": "2026-11-10 17:37 KST 조회, 원문 상태시각 17:11:17, Investing 실시간 CFD의 전일 종가 대비 표시값, 미국장 마감 전 진행값이며 확정 종가 아님"
+    },
+    {
+      "name": "금",
+      "value": "$4,125.65",
+      "change_pct": "+0.27%",
+      "source_url": "https://kr.investing.com/commodities/gold",
+      "note": "2026-11-10 17:37 KST 조회, 2026년 12월물 금 선물, 원문 상태시각 17:30:32의 실시간 CFD 표시값, 전일 종가 4,114.5달러 대비, 미국장 마감 전 진행값이며 확정 종가 아님"
+    },
+    {
+      "name": "WTI",
+      "value": "$84.95",
+      "change_pct": "-2.19%",
+      "source_url": "https://kr.investing.com/commodities/crude-oil",
+      "note": "2026-11-10 17:37 KST 조회, 2026년 12월물 WTI 선물, 원문 상태시각 17:31:22의 실시간 CFD 표시값, 전일 종가 86.85달러 대비, 미국장 마감 전 진행값이며 확정 종가 아님"
+    },
+    {
+      "name": "비트코인",
+      "value": "$74,906.0",
+      "change_pct": "+1.45%",
+      "source_url": "https://kr.investing.com/crypto/bitcoin/btc-usd",
+      "note": "2026-11-10 17:37 KST 조회, 원문 상태시각 16:57:54, 비트파이넥스 현재값의 24시간 변동률 기준, 24시간 거래가 이어져 확정 종가 아님"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,117.57",
+      "change_pct": "+0.18%",
+      "source_url": "https://kr.investing.com/crypto/ethereum/eth-usd",
+      "note": "2026-11-10 17:37 KST 조회, 원문 상태시각 15:40:53, 바이낸스 현재값의 24시간 변동률 기준, 24시간 거래가 이어져 확정 종가 아님"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.860%",
+      "change_pct": "-0.06%",
+      "source_url": "https://kr.investing.com/rates-bonds/u.s.-10-year-bond-yield",
+      "note": "2026-11-10 17:37 KST 조회, 원문 상태시각 17:14:16의 실시간 수익률 4.860%, 2026-11-09 전일 종가 4.863% 대비 상대 등락률, 미국장 마감 전 진행값이며 확정 종가 아님"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "서울 외환시장 주간거래 종가는 1,337.5원으로 전일 기준가보다 9.6원 내려 0.71% 하락했습니다. 17시대 KST 조회 기준 달러인덱스 101.58(-0.09%), 금 4,125.65달러(+0.27%), WTI 84.95달러(-2.19%), 비트코인 74,906.0달러(+1.45%), 이더리움 2,117.57달러(+0.18%), 미 10년물 4.860%(-0.06%)입니다. 해외 자산과 코인은 조회 시각 기준 진행값이며 미국장 확정 종가가 아닙니다.",
+    "notes": "코스피 수급은 외국인 3,586억원 순매수, 기관 4,979억원 순매수, 개인 1조3,395억원 순매도였습니다. 코스닥은 외국인 1,470억원과 개인 562억원 순매도, 기관 2,148억원 순매수였습니다. 장초반 코스피와 코스닥에 매수 사이드카가 차례로 발동했습니다. 최근 급락에 대한 저가매수, 미국 기술주 반등, 중동 긴장 완화와 유가 하락이 상승 배경이었고, 미국 10월 CPI와 AI 투자 관련 경계는 남았습니다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "필라델피아 반도체지수가 6.86% 오르고 AMD, 브로드컴, 마이크론 등 미국 반도체주가 반등하면서 국내 메모리 대형주로 저가매수가 이어졌습니다. 삼성전자와 SK하이닉스가 코스피 상승을 주도했습니다.",
+      "source_url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+    },
+    {
+      "theme": "중동 지정학 리스크",
+      "summary": "미국의 이란 추가공습 가능성이 낮다는 발언과 중동 긴장 완화 기대가 국제유가 급락으로 이어지며 위험자산 투자심리를 받쳤습니다. 국내장에서는 반도체와 2차전지 대형주가 함께 반등했습니다.",
+      "source_url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+    },
+    {
+      "theme": "시장 안정화 장치 발동",
+      "summary": "급락 뒤 저가매수가 한꺼번에 유입되며 코스피는 오전 9시 6분 2초, 코스닥은 오전 9시 10분에 매수 사이드카가 발동했습니다.",
+      "source_url": "https://www.newspim.com/news/view/20261110001216"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "원달러 환율이 1,337.5원으로 내리고 외국인이 코스피에서 8거래일 만에 3,586억원 순매수로 돌아서며 기관 순매수와 함께 반등을 뒷받침했습니다. 다만 개인은 코스피에서 1조3,395억원을 순매도했습니다.",
+      "source_url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "11월 10일 정규장 종가 198,900원, +4.74%. 미국 필라델피아 반도체지수 급등과 저가매수 유입으로 상승했으며, 장중 201,500원까지 올랐습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7005930003",
+      "source_urls": [
+        "https://stock.mk.co.kr/price/home/KR7005930003",
+        "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "11월 10일 정규장 종가 1,212,000원, +6.69%. 미국 반도체주 반등과 저가매수로 상승했으며, 거래대금 상위 1위를 기록했습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7000660001",
+      "source_urls": [
+        "https://stock.mk.co.kr/price/home/KR7000660001",
+        "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+      ]
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "11월 10일 정규장 종가 330,500원, +3.93%. 위험자산 선호 회복과 2차전지 대형주 반등 흐름 속에 상승했습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7373220003",
+      "source_urls": [
+        "https://stock.mk.co.kr/price/home/KR7373220003",
+        "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+      ]
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "11월 10일 정규장 종가 275,000원, +1.29%. 시장 전체 반등 속 상승했지만 반도체와 2차전지 대형주보다 상승폭은 제한됐습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7005380001",
+      "source_urls": [
+        "https://stock.mk.co.kr/price/home/KR7005380001",
+        "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261110131951008"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
