@@ -1,0 +1,298 @@
+{
+  "date": "2026-11-11",
+  "session": "kr_close",
+  "generated_at_kst": "2026-11-11T17:38:05+09:00",
+  "headline": "AI 수요 기대와 외국인 매수에 코스피 2.60%, 코스닥 5.62% 급등",
+  "mail_title": "코스닥 이틀째 사이드카, 700선 회복",
+  "kr": {
+    "preview": "미국 10월 CPI가 예상을 웃돌아 금리 인상 경계가 커졌지만, 코어위브 실적과 AI 인프라 수요 기대가 투자심리를 지지했습니다. 코스피는 0.56% 하락 출발 뒤 외국인 순매수와 반도체 대형주 반등으로 2.60% 올랐습니다. 코스닥은 기관 순매수와 반도체 소재 부품 장비, 2차전지, 로봇주로 매수세가 확산되며 5.62% 급등했고 11시 28분 44초 매수 사이드카가 발동됐습니다. 원달러 환율은 1,333.6원으로 전일보다 3.9원 내렸습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "5,375.36",
+        "change_pct": "+2.60%",
+        "source_urls": [
+          "https://www.etnews.com/20261111000414",
+          "https://www.asiae.co.kr/article/economic-general/2026111116091976491"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "705.10",
+        "change_pct": "+5.62%",
+        "source_urls": [
+          "https://www.etnews.com/20261111000414",
+          "https://www.asiae.co.kr/article/economic-general/2026111116091976491"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+5.36%",
+        "reason": "AI 인프라 수요 기대와 외국인 순매수가 반도체 대형주로 유입되며 장 초반 약세를 뒤집고 상승했습니다.",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7000660001",
+        "source_urls": [
+          "https://stock.mk.co.kr/price/home/KR7000660001",
+          "https://www.asiae.co.kr/article/economic-general/2026111116091976491"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+3.57%",
+        "reason": "미국 CPI 부담에도 AI 투자심리 개선과 외국인 매수세가 이어지며 반도체 대형주 반등을 이끌었습니다.",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7005930003",
+        "source_urls": [
+          "https://stock.mk.co.kr/price/home/KR7005930003",
+          "https://www.asiae.co.kr/article/economic-general/2026111116091976491"
+        ]
+      },
+      {
+        "ticker": "247540",
+        "name": "에코프로비엠",
+        "change_pct": "+11.39%",
+        "reason": "코스닥 기관 순매수와 매수 사이드카 속에 낙폭 과대 인식이 겹치며 2차전지 양극재 종목으로 저가매수가 확산됐습니다.",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7247540008",
+        "source_urls": [
+          "https://stock.mk.co.kr/price/home/KR7247540008",
+          "https://web3.newspim.com/news/view/20261111001287"
+        ]
+      },
+      {
+        "ticker": "086520",
+        "name": "에코프로",
+        "change_pct": "+10.03%",
+        "reason": "코스닥의 2차전지와 반도체 관련 종목으로 매수세가 번지고 매수 사이드카가 발동되며 동반 상승했습니다.",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7086520004",
+        "source_urls": [
+          "https://stock.mk.co.kr/price/home/KR7086520004",
+          "https://web3.newspim.com/news/view/20261111001287"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "preview": "",
+    "indices": [],
+    "notable": []
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+4.47%",
+        "note": "2026-11-11 정규장 마감, 대표종목 기준, SK하이닉스와 삼성전자 단순 평균",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7000660001"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-1.13%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 IT 서비스 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-0.05%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 통신업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-0.29%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 의약품 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.60%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 금융업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+0.79%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 유통업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-0.12%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 운수장비 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "+3.22%",
+        "note": "2026-11-11 정규장 마감, 대표종목 기준, LG에너지솔루션과 삼성SDI 단순 평균",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7373220003"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+2.06%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 기계 대체 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+0.11%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 건설업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+0.96%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 화학 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+0.56%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 철강및금속 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+0.57%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 서비스업 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+2.01%",
+        "note": "2026-11-11 정규장 마감, 매경 KOSPI 업종지수 오락문화 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,333.6원",
+      "change_pct": "-0.29%",
+      "source_url": "https://www.mt.co.kr/economy/2026/11/11/2026111115352775326",
+      "note": "2026-11-11 17:38 KST 확인, 서울 외환시장 15시 30분 주간거래 종가, 전일 주간 종가 1,337.5원보다 3.9원 내린 확정값"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "102.35",
+      "change_pct": "+0.10%",
+      "source_url": "https://kr.investing.com/indices/usdollar",
+      "note": "2026-11-11 17:38 KST 조회, 원문 상태시각 17:00:21, Investing 실시간 CFD의 전일 종가 대비 값, 미국장 마감 전 진행값이며 확정 종가 아님"
+    },
+    {
+      "name": "금",
+      "value": "$4,065.45",
+      "change_pct": "+0.87%",
+      "source_url": "https://kr.investing.com/commodities/gold",
+      "note": "2026-11-11 17:38 KST 조회, 2026년 12월물 금 선물, 원문 상태시각 17:04:36, 전일 종가 4,030.2달러 대비 실시간 CFD 값, 미국장 마감 전 진행값이며 확정 종가 아님"
+    },
+    {
+      "name": "WTI",
+      "value": "$86.38",
+      "change_pct": "+0.40%",
+      "source_url": "https://kr.investing.com/commodities/crude-oil",
+      "note": "2026-11-11 17:38 KST 조회, 2026년 12월물 WTI 선물, 원문 상태시각 17:30:07, 전일 종가 86.04달러 대비 실시간 CFD 값, 미국장 마감 전 진행값이며 확정 종가 아님"
+    },
+    {
+      "name": "비트코인",
+      "value": "$74,101.0",
+      "change_pct": "-0.81%",
+      "source_url": "https://kr.investing.com/crypto/bitcoin/btc-usd",
+      "note": "2026-11-11 17:38 KST 조회, 원문 상태시각 17:09:39, Investing 비트파이넥스 실시간 표시값의 24시간 변동률, 24시간 거래가 이어져 확정 종가 아님"
+    },
+    {
+      "name": "이더리움",
+      "value": "$2,065.46",
+      "change_pct": "-2.50%",
+      "source_url": "https://kr.investing.com/crypto/ethereum/eth-usd",
+      "note": "2026-11-11 17:38 KST 조회, 원문 상태시각 17:20:08, Investing 바이낸스 실시간 표시값의 24시간 변동률, 24시간 거래가 이어져 확정 종가 아님"
+    },
+    {
+      "name": "미 10년물",
+      "value": "5.009%",
+      "change_pct": "+0.50%",
+      "source_url": "https://kr.investing.com/rates-bonds/u.s.-10-year-bond-yield",
+      "note": "2026-11-11 17:38 KST 조회, 원문 상태시각 17:04:33의 실시간 수익률 5.009%, 2026-11-10 전일 종가 4.984% 대비 상대 등락률, 미국장 마감 전 진행값이며 확정 종가 아님"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원달러 환율은 서울 외환시장 주간거래 종가 1,333.6원으로 전일보다 3.9원 내렸습니다. 17시대 KST 조회 기준 달러인덱스 102.35(+0.10%), 금 4,065.45달러(+0.87%), WTI 86.38달러(+0.40%), 비트코인 74,101.0달러(-0.81%), 이더리움 2,065.46달러(-2.50%), 미 10년물 5.009%(+0.50%)입니다. 해외 자산과 코인은 조회 시각 기준 진행값이며 확정 종가가 아닙니다.",
+    "notes": "KRX 기준 코스피는 외국인 6,587.7억원 순매수, 기관 4,816.7억원 순매도, 개인 7,157.0억원 순매도였습니다. 코스닥은 기관 3,133.4억원 순매수, 외국인 1,319.5억원 순매도, 개인 1,854.0억원 순매도였습니다. 코스닥 매수 사이드카는 11시 28분 44초에 발동됐습니다."
+  },
+  "top_themes": [
+    {
+      "theme": "메모리 사이클",
+      "summary": "AI 인프라 수요 기대가 반도체 투자심리를 되살리며 삼성전자와 SK하이닉스가 각각 3.57%, 5.36% 상승했습니다. 외국인은 코스피에서 6,587.7억원을 순매수했습니다.",
+      "source_url": "https://www.asiae.co.kr/article/economic-general/2026111116091976491"
+    },
+    {
+      "theme": "AI 자본지출 논쟁",
+      "summary": "코어위브 실적이 시장 예상치를 웃돌며 AI 투자 둔화 우려를 일부 낮췄지만, 미국 CPI 상회와 10년물 금리 5%대가 금리 경계로 남았습니다.",
+      "source_url": "https://www.asiae.co.kr/article/economic-general/2026111116091976491"
+    },
+    {
+      "theme": "2차전지 업황",
+      "summary": "코스닥 기관 순매수와 낙폭 과대 인식이 겹치며 에코프로비엠 11.39%, 에코프로 10.03%가 올랐습니다.",
+      "source_url": "https://web3.newspim.com/news/view/20261111001287"
+    },
+    {
+      "theme": "시장 안정화 장치 발동",
+      "summary": "코스닥150 선물과 현물지수가 급등해 11시 28분 44초 매수 사이드카가 발동됐고, 10일에 이어 이틀 연속이었습니다.",
+      "source_url": "https://web3.newspim.com/news/view/20261111001287"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "원달러 환율은 1,333.6원으로 전일보다 3.9원 하락했고, 외국인은 코스피에서 6,587.7억원 순매수로 전환해 이틀째 순매수 흐름을 이어갔습니다.",
+      "source_url": "https://www.asiae.co.kr/article/economic-general/2026111116091976491"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "11월 11일 정규장 종가 206,000원, +3.57%. 미국 CPI 부담에도 AI 인프라 수요 기대와 외국인 매수로 반도체 대형주가 반등했습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7005930003",
+      "source_urls": [
+        "https://stock.mk.co.kr/price/home/KR7005930003",
+        "https://www.asiae.co.kr/article/economic-general/2026111116091976491"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "11월 11일 정규장 종가 1,277,000원, +5.36%. AI 인프라 수요 기대와 외국인 순매수가 반도체 대형주 상승을 이끌었습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7000660001",
+      "source_urls": [
+        "https://stock.mk.co.kr/price/home/KR7000660001",
+        "https://www.asiae.co.kr/article/economic-general/2026111116091976491"
+      ]
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "11월 11일 정규장 종가 335,500원, +1.51%. 2차전지 동반 반등 속 상승했지만 에코프로 계열보다 상승폭은 제한됐습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7373220003",
+      "source_urls": [
+        "https://stock.mk.co.kr/price/home/KR7373220003",
+        "https://web3.newspim.com/news/view/20261111001287"
+      ]
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "11월 11일 정규장 종가 272,500원, -0.91%. 지수 반등에도 자동차 대형주는 약세로 반도체와 코스닥 중심의 수급과 엇갈렸습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7005380001",
+      "source_urls": [
+        "https://stock.mk.co.kr/price/home/KR7005380001",
+        "https://www.asiae.co.kr/article/economic-general/2026111116091976491"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수, 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다."
+}
