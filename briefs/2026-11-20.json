@@ -1,0 +1,467 @@
+{
+  "date": "2026-11-20",
+  "generated_at_kst": "2026-11-20T07:01:08+09:00",
+  "mode": "new",
+  "headline": "코스피 5137선 반등, 콘텐츠주는 강세였지만 미국 AI주 급락",
+  "mail_title": "스튜디오드래곤 상한가, 미국 AI주는 왜 급락했나",
+  "kr": {
+    "preview": "어제는 코스피가 5,137.89로 1.39% 오르고 코스닥이 684.81로 3.32% 상승한 반등장이었습니다. 오늘은 밤사이 미국 3대 지수가 AI주 매도로 2% 안팎 하락한 여파와 10월 외국인의 국내 주식 25조9,780억원 순매도 통계를 함께 보면서 개장 흐름을 확인해야 합니다. 전일 한국장에서는 한중 FTA 서비스와 투자 후속협상 실질 타결 기대가 콘텐츠주로 번졌고, 스튜디오드래곤이 상한가를 기록했습니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "5,137.89",
+        "change_pct": "+1.39%",
+        "source_urls": [
+          "https://stock.mk.co.kr/domestic/index/type"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "684.81",
+        "change_pct": "+3.32%",
+        "source_urls": [
+          "https://stock.mk.co.kr/domestic/index/type"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+1.13%",
+        "reason": "11월 19일 종가 196,900원으로 1.13% 올랐고, 전기전자 업종도 2.16% 상승해 반도체 대형주 강세가 이어졌습니다.",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7005930003",
+        "source_urls": [
+          "https://stock.mk.co.kr/price/home/KR7005930003",
+          "https://stock.mk.co.kr/domestic/index/type"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+3.41%",
+        "reason": "11월 19일 종가 1,183,000원으로 3.41% 올라 삼성전자와 함께 반도체 업종 회복을 이끌었습니다.",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7000660001",
+        "source_urls": [
+          "https://stock.mk.co.kr/price/home/KR7000660001",
+          "https://stock.mk.co.kr/domestic/index/type"
+        ]
+      },
+      {
+        "ticker": "253450",
+        "name": "스튜디오드래곤",
+        "change_pct": "+29.96%",
+        "reason": "한중 FTA 서비스와 투자 후속협상의 실질 타결 소식으로 중국 콘텐츠 비차별 대우와 공동제작 확대 기대가 커지며 30,800원까지 올라 상한가를 기록했습니다. 다만 협정의 정식 발효와 실제 방영 승인 여부는 아직 확인이 필요합니다.",
+        "source_url": "https://www.etnews.com/20261119000215",
+        "source_urls": [
+          "https://www.etnews.com/20261119000215",
+          "https://www.etoday.co.kr/news/view/2650235?trc=right_categori_news"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "11월 19일 미국 증시는 AI 관련주 매도세로 급락했습니다. S&P 500은 7,175.83으로 2.0% 내렸고, 나스닥은 23,879.20으로 2.3%, 다우는 49,097.06으로 2.2% 하락했습니다. AP는 S&P 500이 6거래일 연속 하락했다고 전했고, 엔비디아는 3.3% 내렸습니다. 반면 앤트로픽은 IPO 첫날 강세를 보였지만 AI 업종 전반의 투자심리를 되돌리기에는 역부족이었습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,175.83",
+        "change_pct": "-2.0%",
+        "source_urls": [
+          "https://apnews.com/article/2f178054aea79d282e5ccf8d62f26a28"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "23,879.20",
+        "change_pct": "-2.3%",
+        "source_urls": [
+          "https://apnews.com/article/2f178054aea79d282e5ccf8d62f26a28"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "49,097.06",
+        "change_pct": "-2.2%",
+        "source_urls": [
+          "https://apnews.com/article/2f178054aea79d282e5ccf8d62f26a28"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "엔비디아",
+        "change_pct": "-3.3%",
+        "reason": "AI 붐의 지속성과 투자 회수에 대한 경계가 커진 가운데 11월 19일 종가가 145.98달러로 3.3% 하락했습니다.",
+        "source_url": "https://stockanalysis.com/stocks/nvda/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/nvda/history/",
+          "https://apnews.com/article/2f178054aea79d282e5ccf8d62f26a28"
+        ]
+      },
+      {
+        "ticker": "ANT",
+        "name": "앤트로픽",
+        "change_pct": "+17.1%",
+        "reason": "IPO 첫 거래에서 공모가 83달러를 크게 웃돌며 강세를 보였지만, 같은 날 미국 주요 지수와 AI 관련주 전반은 하락했습니다.",
+        "source_url": "https://www.investing.com/news/stock-market-news/anthropic-set-to-soar-in-debut-will-ai-peers-follow-5039533",
+        "source_urls": [
+          "https://www.investing.com/news/stock-market-news/anthropic-set-to-soar-in-debut-will-ai-peers-follow-5039533",
+          "https://apnews.com/article/fdca56f1cda70c9908899057e7e591e6"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+2.27%",
+        "note": "2026-11-19, 대표종목 기준, 삼성전자 +1.13%와 SK하이닉스 +3.41%의 산술평균",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7000660001"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "+1.52%",
+        "note": "2026-11-19, IT 서비스 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      },
+      {
+        "name": "통신",
+        "change_pct": "+3.14%",
+        "note": "2026-11-19, 통신업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "+1.62%",
+        "note": "2026-11-19, 의약품 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.16%",
+        "note": "2026-11-19, 금융업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+0.49%",
+        "note": "2026-11-19, 유통업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "+0.19%",
+        "note": "2026-11-19, 운수장비 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-1.18%",
+        "note": "2026-11-19, 대표종목 기준, LG에너지솔루션 -0.98%와 삼성SDI -1.38%의 산술평균",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7373220003"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+2.02%",
+        "note": "2026-11-19, 기계 업종을 대체 지표로 사용",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      },
+      {
+        "name": "건설",
+        "change_pct": "+1.69%",
+        "note": "2026-11-19, 건설업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+0.38%",
+        "note": "2026-11-19, 화학 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "+0.28%",
+        "note": "2026-11-19, 철강및금속 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "+1.14%",
+        "note": "2026-11-19, 서비스업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+9.39%",
+        "note": "2026-11-19, 오락,문화 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type#2026-11-19"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-2.75%",
+        "note": "2026-11-19 종가, SOXX 기준",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-1.90%",
+        "note": "2026-11-19 종가, XLK 기준",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-2.67%",
+        "note": "2026-11-19 종가, XLC 기준",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-2.05%",
+        "note": "2026-11-19 종가, XLV 기준",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.49%",
+        "note": "2026-11-19 종가, XLF 기준",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-2.79%",
+        "note": "2026-11-19 종가, XLY 기준",
+        "source_url": "https://stockanalysis.com/etf/xly/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "-1.45%",
+        "note": "2026-11-19 종가, XLP 기준",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-2.00%",
+        "note": "2026-11-19 종가, XLI 기준",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-2.06%",
+        "note": "2026-11-19 종가, XLB 기준",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.65%",
+        "note": "2026-11-19 종가, XLE 기준",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-1.24%",
+        "note": "2026-11-19 종가, XLU 기준",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-1.70%",
+        "note": "2026-11-19 종가, XLRE 기준",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,328.50원",
+      "change_pct": "-0.41%",
+      "source_url": "https://stock.mk.co.kr/marketindex/exchange",
+      "note": "2026-11-19 20:58 KST 하나은행 고시환율, 전일 대비"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "103.92",
+      "change_pct": "+0.13%",
+      "source_url": "https://www.investing.com/indices/usdollar",
+      "note": "2026-11-20 조회, 전일 종가 103.79 대비 실시간값"
+    },
+    {
+      "name": "금",
+      "value": "$3,659.40",
+      "change_pct": "-2.20%",
+      "source_url": "https://www.investing.com/commodities/gold",
+      "note": "2026-11-20 조회, 전일 종가 3,741.90달러 대비 실시간값"
+    },
+    {
+      "name": "WTI",
+      "value": "$83.20",
+      "change_pct": "+1.08%",
+      "source_url": "https://www.investing.com/commodities/crude-oil",
+      "note": "2026-11-20 조회, 전일 종가 82.31달러 대비 실시간값"
+    },
+    {
+      "name": "비트코인",
+      "value": "$61,505.33",
+      "change_pct": "-1.30%",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "note": "2026-11-20 조회, 최근 24시간 기준"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,743.29",
+      "change_pct": "-1.10%",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum",
+      "note": "2026-11-20 조회, 최근 24시간 기준"
+    },
+    {
+      "name": "미 10년물",
+      "value": "5.052%",
+      "change_pct": "-0.26%",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield",
+      "note": "2026-11-20 조회, 전일 종가 5.065% 대비 실시간값"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원/달러 1,328.50원, 달러인덱스 103.92, 금 3,659.40달러, WTI 83.20달러, 미 10년물 5.052%입니다. 원/달러는 11월 19일 하나은행 고시환율이고, 나머지는 11월 20일 조회 시각의 전일 종가 대비 실시간 값입니다.",
+    "notes": "미국 증시는 AI주 매도로 3대 지수가 2% 안팎 하락했습니다. 금융감독원 10월 자료에서는 외국인이 국내 상장주식 25조9,780억원을 순매도하고 채권은 7조3,750억원 순투자로 전환한 흐름이 확인됐습니다. 이 수치는 월간 통계로 전일 장중 수급과 구분해야 합니다. 한중 FTA 서비스와 투자 후속협상 실질 타결 소식은 콘텐츠와 여행주에 호재로 반영됐습니다."
+  },
+  "top_themes": [
+    {
+      "theme": "반도체 밸류에이션 논쟁",
+      "summary": "앤트로픽의 상장 첫날 강세에도 미국 증시는 AI 붐의 지속성과 투자 회수에 대한 우려로 급락했습니다. AP는 S&P 500의 2% 하락과 AI 관련주 약세를 전했고, Reuters는 AI 업종 투자심리가 금리와 밸류에이션에 민감해졌다고 설명했습니다.",
+      "tickers": [
+        "NVDA",
+        "ANT"
+      ],
+      "source_url": "https://apnews.com/article/2f178054aea79d282e5ccf8d62f26a28",
+      "source_urls": [
+        "https://apnews.com/article/2f178054aea79d282e5ccf8d62f26a28",
+        "https://www.investing.com/news/stock-market-news/anthropic-set-to-soar-in-debut-will-ai-peers-follow-5039533"
+      ]
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "금융감독원 10월 집계에서 외국인은 국내 상장주식 25조9,780억원을 순매도했고, 채권에는 7조3,750억원을 순투자했습니다. 월간 자금 흐름은 개장 전 시장 배경으로만 참고하며 전일 장중 투자자별 수급과 혼동하지 않습니다.",
+      "tickers": [],
+      "source_url": "https://www.yna.co.kr/view/AKR20261119169500002"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "11월 19일 종가 145.98달러, -3.30%. AI 관련주 매도 우려 속 약세였습니다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/",
+      "source_urls": [
+        "https://stockanalysis.com/stocks/nvda/history/",
+        "https://apnews.com/article/2f178054aea79d282e5ccf8d62f26a28"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "11월 19일 종가 349.21달러, -0.92%. 미국 증시 급락 속 동반 약세였습니다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "11월 19일 종가 498.30달러, -1.78%. 미국 기술주 조정 흐름에 동참했습니다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "11월 19일 종가 374.41달러, -2.43%. 미국 성장주 약세 속 하락했습니다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "11월 19일 종가 153.68달러, -1.91%. AI 관련주 조정 흐름 속 약세였습니다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "11월 19일 종가 196,900원, +1.13%. 전기전자 업종 상승과 함께 반등했습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7005930003"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "11월 19일 종가 1,183,000원, +3.41%. 반도체 대표주의 상승폭이 삼성전자보다 컸습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7000660001"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "11월 19일 종가 302,000원, -0.98%. 대표 2차전지 종목 가운데 약세를 보였습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7373220003"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "11월 19일 종가 267,500원, +0.19%. 운수장비 업종과 비슷한 보합권 상승이었습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7005380001"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "253450",
+      "name": "스튜디오드래곤",
+      "market": "KR",
+      "thesis": "한중 FTA 서비스와 투자 후속협상의 실질 타결로 중국 콘텐츠 비차별 대우와 공동제작 확대 기대가 부각되며 11월 19일 29.96% 상승했습니다. 관련 기사도 한한령의 전면 해제로 단정하기에는 이르고 정식 발효와 실제 방영 승인 확인이 필요하다고 설명합니다.",
+      "catalysts": [
+        "한중 FTA 서비스와 투자 후속협상의 정식 발효 여부",
+        "중국 당국의 한국 콘텐츠 방영 승인과 공동제작 확대 여부"
+      ],
+      "levels_watched": {
+        "support": "전일 종가 23,700원, 참고 가격대",
+        "resistance": "11월 19일 고가 30,800원, 상한가 가격",
+        "analyst_target_cited": "확인된 11월 19일 기사에는 신규 목표가가 제시되지 않았습니다."
+      },
+      "risk": "협정의 정식 발효와 실제 방영 승인이 확인되지 않은 상태에서 기대가 먼저 반영됐고, 상한가 뒤 변동성이 커질 수 있습니다.",
+      "sources": [
+        "https://www.etnews.com/20261119000215",
+        "https://www.etoday.co.kr/news/view/2650235?trc=right_categori_news"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "엔비디아",
+      "market": "US",
+      "thesis": "11월 19일 종가가 145.98달러로 3.30% 하락했습니다. 미국 증시 전반의 AI 붐 지속성 우려가 확대된 가운데, 개별 실적보다 AI 투자 회수와 밸류에이션에 대한 시장의 평가가 주가를 좌우하는 구간입니다.",
+      "catalysts": [
+        "다음 실적 발표에서 AI 가속기 수요와 매출 성장 확인",
+        "빅테크의 AI 투자 집행과 수익화 속도"
+      ],
+      "levels_watched": {
+        "support": "11월 19일 장중 저가 145.71달러, 단기 관찰 가격대",
+        "resistance": "11월 19일 장중 고가 158.13달러, 단기 관찰 가격대",
+        "analyst_target_cited": "확인된 11월 19일 기사에는 신규 목표가가 제시되지 않았습니다."
+      },
+      "risk": "AI 투자 둔화 우려, 높은 금리와 밸류에이션 조정이 동시에 이어질 수 있습니다.",
+      "sources": [
+        "https://stockanalysis.com/stocks/nvda/history/",
+        "https://apnews.com/article/2f178054aea79d282e5ccf8d62f26a28",
+        "https://www.investing.com/news/stock-market-news/anthropic-set-to-soar-in-debut-will-ai-peers-follow-5039533"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수와 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
