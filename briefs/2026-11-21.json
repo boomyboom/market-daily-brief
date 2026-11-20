@@ -1,0 +1,536 @@
+{
+  "date": "2026-11-21",
+  "generated_at_kst": "2026-11-21T06:48:00+09:00",
+  "mode": "new",
+  "headline": "AI 투매에 코스피 4,869선 급락, 미국 기술주도 주간 최악",
+  "mail_title": "코스피 5% 급락, 미국 AI주는 더 무너졌다",
+  "kr": {
+    "preview": "어제는 코스피가 4,869.96으로 5.21%, 코스닥이 645.68로 5.71% 내려 양 시장에 매도 사이드카가 발동한 급락장이었습니다. 이후 밤사이 미국 증시는 AI 투자 수익성 우려가 다시 번지며 S&P 500이 3.70%, 나스닥이 5.28% 하락했습니다. 한국장은 오늘 휴장이라 다음 거래일에는 반도체와 AI 공급망 매도의 지속 여부, 원달러 1,339.90원 흐름을 먼저 봐야 합니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "4,869.96",
+        "change_pct": "-5.21%",
+        "source_urls": [
+          "https://www.yna.co.kr/amp/view/AKR20261120126900008",
+          "https://view.asiae.co.kr/en/article/2026112015594961221"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "645.68",
+        "change_pct": "-5.71%",
+        "source_urls": [
+          "https://www.yna.co.kr/amp/view/AKR20261120126900008",
+          "https://view.asiae.co.kr/en/article/2026112015594961221"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "-7.01%",
+        "reason": "AI 투자 수익성 우려와 AMD의 중국 관련 제재 위험 의혹이 반도체 전반의 매도 심리를 자극하면서 183,100원으로 하락했습니다.",
+        "source_url": "https://www.koreatimes.co.kr/economy/20261120/seoul-stocks-dip-to-10-month-low-as-ai-worries-spark-asia-wide-tech-sell-off",
+        "source_urls": [
+          "https://www.koreatimes.co.kr/economy/20261120/seoul-stocks-dip-to-10-month-low-as-ai-worries-spark-asia-wide-tech-sell-off",
+          "https://stock.mk.co.kr/price/home/KR7005930003"
+        ]
+      },
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "-5.92%",
+        "reason": "미국 AI와 반도체주 급락, 중국 관련 수출 규제 위험 보도가 겹치며 메모리 대형주 매도가 커져 1,113,000원에 마감했습니다.",
+        "source_url": "https://www.koreatimes.co.kr/economy/20261120/seoul-stocks-dip-to-10-month-low-as-ai-worries-spark-asia-wide-tech-sell-off",
+        "source_urls": [
+          "https://www.koreatimes.co.kr/economy/20261120/seoul-stocks-dip-to-10-month-low-as-ai-worries-spark-asia-wide-tech-sell-off",
+          "https://stock.mk.co.kr/price/home/KR7000660001"
+        ]
+      },
+      {
+        "ticker": "009150",
+        "name": "삼성전기",
+        "change_pct": "-12.54%",
+        "reason": "AI 공급망 전반의 위험 회피가 전기전자와 반도체 기판주로 번지면서 774,000원으로 급락했습니다.",
+        "source_url": "https://www.koreatimes.co.kr/economy/20261120/seoul-stocks-dip-to-10-month-low-as-ai-worries-spark-asia-wide-tech-sell-off",
+        "source_urls": [
+          "https://www.koreatimes.co.kr/economy/20261120/seoul-stocks-dip-to-10-month-low-as-ai-worries-spark-asia-wide-tech-sell-off",
+          "https://stock.mk.co.kr/price/home/KR7009150004"
+        ]
+      },
+      {
+        "ticker": "007660",
+        "name": "이수페타시스",
+        "change_pct": "-16.14%",
+        "reason": "3분기 매출과 영업이익은 늘었지만 원자재 가격 부담과 과잉 증설에 따른 경쟁 심화 우려로 메리츠증권과 키움증권이 목표가를 각각 13만원으로 낮추면서 69,600원까지 밀렸습니다.",
+        "source_url": "https://www.yna.co.kr/amp/view/AKR20261120048100008",
+        "source_urls": [
+          "https://www.yna.co.kr/amp/view/AKR20261120048100008",
+          "https://markets.hankyung.com/stock/007660/chart"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "11월 20일 미국 증시는 AI 관련주 매도로 급락했습니다. S&P 500은 6,910.39로 3.70% 내려 10% 이상 조정 국면에 들어갔고, 나스닥은 22,617.73으로 5.28% 하락해 연간 수익률이 마이너스로 돌아섰습니다. 다우는 48,147.33으로 1.93% 내렸습니다. 엔비디아는 125.53달러로 14.01% 급락했고, 앤트로픽은 88.30달러로 9.1% 하락했습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "6,910.39",
+        "change_pct": "-3.70%",
+        "source_urls": [
+          "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad",
+          "https://apnews.com/article/c10b797a17c2acf37924d834efebe135"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "22,617.73",
+        "change_pct": "-5.28%",
+        "source_urls": [
+          "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad",
+          "https://apnews.com/article/c10b797a17c2acf37924d834efebe135"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "48,147.33",
+        "change_pct": "-1.93%",
+        "source_urls": [
+          "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad",
+          "https://apnews.com/article/c10b797a17c2acf37924d834efebe135"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "엔비디아",
+        "change_pct": "-14.01%",
+        "reason": "AI 인프라 투자 회수에 대한 경계와 반도체주 전반의 매도로 125.53달러까지 하락했습니다.",
+        "source_url": "https://stockanalysis.com/stocks/nvda/history/",
+        "source_urls": [
+          "https://stockanalysis.com/stocks/nvda/history/",
+          "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad"
+        ]
+      },
+      {
+        "ticker": "ANT",
+        "name": "앤트로픽",
+        "change_pct": "-9.1%",
+        "reason": "IPO 다음 거래일에 주가가 88.30달러로 내려가며 성공적인 상장만으로는 AI 업종 전반의 투자심리를 되돌리지 못했습니다.",
+        "source_url": "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad",
+        "source_urls": [
+          "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad",
+          "https://www.devdiscourse.com/article/international/4010080-global-markets-tech-stocks-tumble-treasury-yields-fall-as-traders-seek-refuge"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "-6.47%",
+        "note": "2026-11-20, 대표종목 기준, 삼성전자 -7.01%와 SK하이닉스 -5.92%의 산술평균",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7005930003"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-2.77%",
+        "note": "2026-11-20, IT 서비스 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-7.78%",
+        "note": "2026-11-20, 통신업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-0.88%",
+        "note": "2026-11-20, 의약품 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-3.14%",
+        "note": "2026-11-20, 금융업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "-3.68%",
+        "note": "2026-11-20, 유통업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-4.80%",
+        "note": "2026-11-20, 운수장비 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-3.45%",
+        "note": "2026-11-20, 대표종목 기준, LG에너지솔루션 -0.83%와 삼성SDI -6.07%의 산술평균",
+        "source_url": "https://stock.mk.co.kr/price/home/KR7373220003"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "-7.86%",
+        "note": "2026-11-20, 기계 업종을 대체 지표로 사용",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-6.42%",
+        "note": "2026-11-20, 건설업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "-3.55%",
+        "note": "2026-11-20, 화학 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-4.49%",
+        "note": "2026-11-20, 철강및금속 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-2.34%",
+        "note": "2026-11-20, 서비스업 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "-1.98%",
+        "note": "2026-11-20, 오락 문화 업종지수",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-10.55%",
+        "note": "2026-11-20 종가, SOXX 기준",
+        "source_url": "https://stockanalysis.com/etf/soxx/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-7.27%",
+        "note": "2026-11-20 종가, XLK 기준",
+        "source_url": "https://stockanalysis.com/etf/xlk/history/",
+        "rechecked_at_kst": "2026-11-21T07:00:46+09:00"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "-2.66%",
+        "note": "2026-11-20 종가, XLC 기준",
+        "source_url": "https://stockanalysis.com/etf/xlc/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.12%",
+        "note": "2026-11-20 종가, XLV 기준",
+        "source_url": "https://stockanalysis.com/etf/xlv/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "-1.82%",
+        "note": "2026-11-20 종가, XLF 기준",
+        "source_url": "https://stockanalysis.com/etf/xlf/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-2.95%",
+        "note": "2026-11-20 종가, XLY 기준",
+        "source_url": "https://stockanalysis.com/etf/xly/history/",
+        "rechecked_at_kst": "2026-11-21T07:00:46+09:00"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.67%",
+        "note": "2026-11-20 종가, XLP 기준",
+        "source_url": "https://stockanalysis.com/etf/xlp/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "-3.06%",
+        "note": "2026-11-20 종가, XLI 기준",
+        "source_url": "https://stockanalysis.com/etf/xli/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "-2.19%",
+        "note": "2026-11-20 종가, XLB 기준",
+        "source_url": "https://stockanalysis.com/etf/xlb/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "-0.51%",
+        "note": "2026-11-20 종가, XLE 기준",
+        "source_url": "https://stockanalysis.com/etf/xle/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "-0.74%",
+        "note": "2026-11-20 종가, XLU 기준",
+        "source_url": "https://stockanalysis.com/etf/xlu/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "-0.98%",
+        "note": "2026-11-20 종가, XLRE 기준",
+        "source_url": "https://stockanalysis.com/etf/xlre/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,339.90원",
+      "change_pct": "+0.43%",
+      "source_url": "https://stock.mk.co.kr/marketindex/exchange",
+      "note": "2026-11-20 20:57 KST 하나은행 고시환율 기준, 전일 대비 +0.43%"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "103.86",
+      "change_pct": "-0.09%",
+      "source_url": "https://www.investing.com/indices/usdollar",
+      "note": "2026-11-21 06:48 KST 확인, 원문 Real-time Data 15:59:28, 전일 종가 103.95 대비 현재값이며 확정 종가가 아님"
+    },
+    {
+      "name": "금",
+      "value": "$3,522.45",
+      "change_pct": "-4.42%",
+      "source_url": "https://www.investing.com/commodities/gold",
+      "note": "2026-11-21 06:48 KST 확인, 원문 Real-time Data 16:12:38, 전일 종가 3,685.50달러 대비 현재값이며 확정 종가가 아님"
+    },
+    {
+      "name": "WTI",
+      "value": "$83.74",
+      "change_pct": "+1.58%",
+      "source_url": "https://www.investing.com/commodities/crude-oil",
+      "note": "2026-11-21 06:48 KST 확인, 원문 Real-time Data 16:19:41, 전일 종가 82.44달러 대비 현재값이며 확정 종가가 아님"
+    },
+    {
+      "name": "비트코인",
+      "value": "$59,142",
+      "change_pct": "-3.98%",
+      "source_url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true&include_last_updated_at=true",
+      "note": "2026-11-21 06:43:28 KST CoinGecko API 조회, 최근 24시간 기준 실시간값이며 확정 종가가 아님"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,624.45",
+      "change_pct": "-6.72%",
+      "source_url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true&include_last_updated_at=true",
+      "note": "2026-11-21 06:43:35 KST CoinGecko API 조회, 최근 24시간 기준 실시간값이며 확정 종가가 아님"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.939%",
+      "change_pct": "-11.1bp",
+      "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield",
+      "note": "2026-11-21 06:48 KST 확인, 원문 Real-time Data 16:26:41, 전일 종가 5.050% 대비 11.1bp 하락한 현재값이며 확정 종가가 아님"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "원달러 1,339.90원, 달러인덱스 103.86, 금 3,522.45달러, WTI 83.74달러, 미 10년물 4.939%입니다. 원달러는 11월 20일 하나은행 고시환율이고, 나머지는 11월 21일 06시대 KST에 확인한 실시간값으로 확정 종가가 아닙니다.",
+    "notes": "AI 투자 수익성 우려가 미국 기술주와 한국 반도체에 동시에 번졌습니다. 11월 20일 한국장에서는 외국인과 기관이 코스피를 순매도했고, 코스피와 코스닥에 매도 사이드카가 발동했습니다. 한국장 이후 미국장에서는 S&P 500이 조정 국면에 진입하고 나스닥이 연간 수익률 마이너스로 돌아섰습니다."
+  },
+  "top_themes": [
+    {
+      "theme": "반도체 밸류에이션 논쟁",
+      "summary": "엔비디아 실적과 앤트로픽 상장에도 AI 지출이 실제 수익으로 이어질지에 대한 의문이 커졌습니다. 엔비디아는 14.01% 급락했고 삼성전자와 SK하이닉스도 각각 7.01%, 5.92% 내렸습니다.",
+      "tickers": [
+        "005930",
+        "000660",
+        "NVDA"
+      ],
+      "source_url": "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad",
+      "source_urls": [
+        "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad",
+        "https://www.koreatimes.co.kr/economy/20261120/seoul-stocks-dip-to-10-month-low-as-ai-worries-spark-asia-wide-tech-sell-off"
+      ]
+    },
+    {
+      "theme": "AI 자본지출 논쟁",
+      "summary": "Reuters는 강한 AI 수요와 개별 기업의 성공적인 상장만으로는 투자자들이 밸류에이션, 차입 비용, 기업 수익성 전망을 다시 따지는 흐름을 되돌리기 어렵다고 전했습니다.",
+      "tickers": [
+        "NVDA",
+        "ANT",
+        "PLTR"
+      ],
+      "source_url": "https://www.devdiscourse.com/article/international/4010080-global-markets-tech-stocks-tumble-treasury-yields-fall-as-traders-seek-refuge",
+      "source_urls": [
+        "https://www.devdiscourse.com/article/international/4010080-global-markets-tech-stocks-tumble-treasury-yields-fall-as-traders-seek-refuge",
+        "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad"
+      ]
+    },
+    {
+      "theme": "시장 안정화 장치 발동",
+      "summary": "11월 20일 코스피와 코스닥에 매도 사이드카가 각각 발동했습니다. 외국인과 기관의 매도가 커지는 가운데 개인 매수가 낙폭을 일부 받쳤지만 지수 하락을 막지는 못했습니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://view.asiae.co.kr/en/article/2026112015594961221",
+      "source_urls": [
+        "https://view.asiae.co.kr/en/article/2026112015594961221",
+        "https://www.yna.co.kr/amp/view/AKR20261120126900008"
+      ]
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "아시아경제 집계에서 외국인과 기관은 코스피에서 각각 1조5,715억원과 1조2,421억원을 순매도했고 개인은 2조3,160억원을 순매수했습니다. 원달러는 11월 20일 서울 외환시장 이후 고시환율 기준 1,339.90원까지 확인됐습니다.",
+      "tickers": [],
+      "source_url": "https://view.asiae.co.kr/en/article/2026112015594961221",
+      "source_urls": [
+        "https://view.asiae.co.kr/en/article/2026112015594961221",
+        "https://stock.mk.co.kr/marketindex/exchange"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "11월 20일 종가 125.53달러, -14.01%. AI 투자 회수 우려와 반도체주 매도가 겹쳤습니다.",
+      "source_url": "https://stockanalysis.com/stocks/nvda/history/"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "11월 20일 종가 342.56달러, -1.90%. 별도 기업 뉴스보다 기술주 전반의 위험 회피 영향이 컸습니다.",
+      "source_url": "https://stockanalysis.com/stocks/aapl/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "11월 20일 종가 484.52달러, -2.77%. AI 관련 대형 기술주 매도 흐름에 동반 하락했습니다.",
+      "source_url": "https://stockanalysis.com/stocks/msft/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "11월 20일 종가 345.82달러, -7.64%. 성장주 전반의 위험 회피 속 낙폭이 커졌습니다.",
+      "source_url": "https://stockanalysis.com/stocks/tsla/history/",
+      "rechecked_at_kst": "2026-11-21T07:00:46+09:00"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "11월 20일 종가 143.49달러, -6.63%. AI 소프트웨어와 고평가 성장주 매도가 이어졌습니다.",
+      "source_url": "https://stockanalysis.com/stocks/pltr/history/",
+      "rechecked_at_kst": "2026-11-21T07:00:46+09:00"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "11월 20일 종가 183,100원, -7.01%. AI와 반도체 공급망 매도가 대형주로 번졌습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7005930003"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "11월 20일 종가 1,113,000원, -5.92%. 메모리 대형주도 AI 투자심리 약화의 영향을 받았습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7000660001"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "11월 20일 종가 299,500원, -0.83%. 2차전지 대표주도 약세였지만 반도체주보다 낙폭은 작았습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7373220003"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "11월 20일 종가 255,000원, -4.67%. 위험 회피 장세에서 운수장비 업종과 함께 하락했습니다.",
+      "source_url": "https://stock.mk.co.kr/price/home/KR7005380001"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "11월 20일 183,100원으로 7.01% 하락했습니다. AI와 반도체 공급망 전반의 위험 회피가 국내 대표 메모리주까지 번진 사실을 확인할 수 있습니다.",
+      "catalysts": [
+        "다음 한국장 외국인과 기관 수급",
+        "미국 반도체주 변동성과 중국 수출 규제 관련 추가 보도"
+      ],
+      "levels_watched": {
+        "support": "11월 20일 장중 저가 181,400원",
+        "resistance": "11월 19일 종가 196,900원",
+        "analyst_target_cited": "이번 브리핑에서 신규 목표가를 인용하지 않음"
+      },
+      "risk": "AI 투자 회수 논쟁과 수출 규제 불확실성이 이어지면 메모리주 변동성이 커질 수 있습니다.",
+      "sources": [
+        "https://stock.mk.co.kr/price/home/KR7005930003",
+        "https://www.koreatimes.co.kr/economy/20261120/seoul-stocks-dip-to-10-month-low-as-ai-worries-spark-asia-wide-tech-sell-off",
+        "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad"
+      ]
+    },
+    {
+      "ticker": "007660",
+      "name": "이수페타시스",
+      "market": "KR",
+      "thesis": "11월 20일 69,600원으로 16.14% 하락했습니다. 3분기 이익은 증가했지만 원자재 가격과 과잉 증설 경쟁 우려로 증권사 목표가가 낮아진 점이 주가에 반영됐습니다.",
+      "catalysts": [
+        "고다층 PCB 수요와 신규 고객사 매출 확인",
+        "원재료 가격과 증설 경쟁이 이익률에 미치는 영향"
+      ],
+      "levels_watched": {
+        "support": "11월 20일 장중 저가 68,800원",
+        "resistance": "11월 19일 종가 83,000원",
+        "analyst_target_cited": "메리츠증권, 2026-11-20, 목표가 13만원, 투자의견 매수, 연합뉴스 인용"
+      },
+      "risk": "MLB 업종의 원가 상승과 경쟁 심화, AI 인프라 투자 둔화가 실적과 밸류에이션에 부담이 될 수 있습니다.",
+      "sources": [
+        "https://www.yna.co.kr/amp/view/AKR20261120048100008",
+        "https://markets.hankyung.com/stock/007660/chart"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "엔비디아",
+      "market": "US",
+      "thesis": "11월 20일 125.53달러로 14.01% 급락했습니다. 실적 자체보다 AI 인프라 투자의 지속성과 투자 회수 가능성을 다시 따지는 장세가 주가를 압박했습니다.",
+      "catalysts": [
+        "AI 인프라 투자 지출에 대한 빅테크 가이던스",
+        "다음 실적 발표와 데이터센터 수요 전망"
+      ],
+      "levels_watched": {
+        "support": "11월 20일 장중 저가 124.50달러",
+        "resistance": "11월 19일 종가 145.98달러",
+        "analyst_target_cited": "이번 브리핑에서 신규 목표가를 인용하지 않음"
+      },
+      "risk": "AI 지출의 수익성 논쟁, 반도체 업종 밸류에이션 재조정, 중국 관련 규제 불확실성이 이어질 수 있습니다.",
+      "sources": [
+        "https://stockanalysis.com/stocks/nvda/history/",
+        "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad",
+        "https://www.devdiscourse.com/article/international/4010080-global-markets-tech-stocks-tumble-treasury-yields-fall-as-traders-seek-refuge"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수와 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
