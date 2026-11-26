@@ -1,0 +1,522 @@
+{
+  "date": "2026-11-27",
+  "generated_at_kst": "2026-11-27T06:48:22+09:00",
+  "mode": "new",
+  "headline": "코스피 4700선 회복, 반도체 반등 속 변동성 경계",
+  "mail_title": "코스피 4700선 회복, 반도체 반등 이어질까",
+  "kr": {
+    "preview": "어제는 코스피가 0.29% 오른 4,711.21, 코스닥이 0.78% 상승한 655.71로 마감했습니다. 전날 급락 뒤 기관이 매수했지만 외국인과 개인은 코스피에서 순매도했고, 삼성전자와 SK하이닉스는 각각 0.35%, 2.23% 올랐습니다. 현대차는 3.90%, LG에너지솔루션은 2.11% 내렸습니다. 한국은행은 기준금리를 3.00%에서 3.25%로 올렸습니다. 이날 IT 서비스와 금융업은 엇갈린 등락을 보였지만, 확인한 자료만으로 금리 인상과 업종 등락의 인과관계는 판단하기 어렵습니다. 밤사이 미국장은 추수감사절로 휴장했고, 가장 최근 정규장인 11월 25일 미국장은 S&P 500 0.25% 하락, 나스닥 0.62% 하락, 다우 0.33% 상승으로 마감했습니다. 오늘 한국장은 반도체 저가 매수의 지속 여부와 외국인 수급, 자동차와 2차전지의 약세가 이어지는지 확인할 구간입니다.",
+    "indices": [
+      {
+        "name": "코스피",
+        "value": "4711.21",
+        "change_pct": "+0.29%",
+        "source_urls": [
+          "https://search.newspim.com/news/view/20261126001067"
+        ]
+      },
+      {
+        "name": "코스닥",
+        "value": "655.71",
+        "change_pct": "+0.78%",
+        "source_urls": [
+          "https://search.newspim.com/news/view/20261126001067"
+        ]
+      }
+    ],
+    "hot_stocks": [
+      {
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "change_pct": "+2.23%",
+        "reason": "전날 급락 뒤 기관 매수와 저가 매수가 유입되며 반등했습니다. 다만 외국인과 개인의 코스피 순매도가 남아 반도체 수급이 이어질지는 확인이 필요합니다.",
+        "source_url": "https://search.newspim.com/news/view/20261126001067",
+        "source_urls": [
+          "https://search.newspim.com/news/view/20261126001067"
+        ]
+      },
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "change_pct": "+0.35%",
+        "reason": "전기전자 업종으로 저가 매수가 들어오며 반등했지만 장 초반 상승분을 대부분 반납했습니다. AI 투자 수익성 논쟁 속에서 시장 방향을 보여주는 대표 종목입니다.",
+        "source_url": "https://search.newspim.com/news/view/20261126001067",
+        "source_urls": [
+          "https://search.newspim.com/news/view/20261126001067"
+        ]
+      },
+      {
+        "ticker": "009150",
+        "name": "삼성전기",
+        "change_pct": "+3.84%",
+        "reason": "전기전자 업종의 반등 흐름 속에서 시가총액 상위 종목 가운데 상대적 강세를 보였습니다. 반도체 대형주보다 회복 탄력이 컸던 종목으로 눈에 띄었습니다.",
+        "source_url": "https://search.newspim.com/news/view/20261126001067",
+        "source_urls": [
+          "https://search.newspim.com/news/view/20261126001067"
+        ]
+      },
+      {
+        "ticker": "005380",
+        "name": "현대차",
+        "change_pct": "-3.90%",
+        "reason": "시장 반등에도 운수장비 업종과 자동차 대형주에 매물이 몰리며 하락했습니다. 지수 반등과 업종별 수급이 엇갈린 사례입니다.",
+        "source_url": "https://search.newspim.com/news/view/20261126001067",
+        "source_urls": [
+          "https://search.newspim.com/news/view/20261126001067"
+        ]
+      },
+      {
+        "ticker": "373220",
+        "name": "LG에너지솔루션",
+        "change_pct": "-2.11%",
+        "reason": "반도체 대형주가 반등한 것과 달리 2차전지 대형주에는 매물이 남아 약세를 보였습니다. 업종별 차별화 흐름을 확인할 종목입니다.",
+        "source_url": "https://search.newspim.com/news/view/20261126001067",
+        "source_urls": [
+          "https://search.newspim.com/news/view/20261126001067"
+        ]
+      }
+    ]
+  },
+  "us": {
+    "recap": "미국장은 11월 26일 추수감사절로 휴장했습니다. 가장 최근 정규장인 11월 25일에는 S&P 500이 7,182.78로 0.25% 하락, 나스닥이 23,585.80으로 0.62% 하락, 다우가 50,182.95로 0.33% 상승했습니다. 엔비디아는 AI 투자 수익성 논쟁과 신용등급 경계 속 3.91% 내렸고, 미국 시장은 11월 27일 휴일 단축 거래로 재개됩니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7182.78",
+        "change_pct": "-0.25%",
+        "source_urls": [
+          "https://finance.yahoo.com/quote/%5EGSPC/history/",
+          "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314"
+        ]
+      },
+      {
+        "name": "나스닥",
+        "value": "23585.80",
+        "change_pct": "-0.62%",
+        "source_urls": [
+          "https://finance.yahoo.com/quote/%5EIXIC/history/",
+          "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314"
+        ]
+      },
+      {
+        "name": "다우",
+        "value": "50182.95",
+        "change_pct": "+0.33%",
+        "source_urls": [
+          "https://finance.yahoo.com/quote/%5EDJI/history/",
+          "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314"
+        ]
+      }
+    ],
+    "notable": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "change_pct": "-3.91%",
+        "reason": "AI 관련 종목의 조정이 이어지는 가운데 S&P Global이 경영과 지배구조 우려를 이유로 신용등급 하향 검토에 들어갔다는 소식이 전해졌습니다.",
+        "source_url": "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314",
+        "source_urls": [
+          "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314",
+          "https://finance.yahoo.com/quote/NVDA/history/"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "kr": [
+      {
+        "name": "반도체",
+        "change_pct": "+1.29%",
+        "note": "2026-11-26 대표종목 기준, 삼성전자와 SK하이닉스 등락률 단순 평균",
+        "source_url": "https://search.newspim.com/news/view/20261126001067"
+      },
+      {
+        "name": "IT/기술",
+        "change_pct": "-0.46%",
+        "note": "2026-11-26 KOSPI IT 서비스 업종지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "통신",
+        "change_pct": "-1.93%",
+        "note": "2026-11-26 KOSPI 통신업 업종지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": "-1.28%",
+        "note": "2026-11-26 KOSPI 의약품 업종지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.25%",
+        "note": "2026-11-26 KOSPI 금융업 업종지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "유통/소비재",
+        "change_pct": "+0.22%",
+        "note": "2026-11-26 KOSPI 유통업 업종지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "자동차",
+        "change_pct": "-2.72%",
+        "note": "2026-11-26 KOSPI 운수장비 업종지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "2차전지",
+        "change_pct": "-3.13%",
+        "note": "2026-11-26 대표종목 기준, LG에너지솔루션, 에코프로비엠, 에코프로 등락률 단순 평균",
+        "source_url": "https://search.newspim.com/news/view/20261126001067"
+      },
+      {
+        "name": "조선/방산",
+        "change_pct": "+0.54%",
+        "note": "2026-11-26 KOSPI에서 조선과 방산이 분리되지 않아 기계 업종지수를 대체 기준으로 사용",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "건설",
+        "change_pct": "-0.48%",
+        "note": "2026-11-26 KOSPI 건설업 업종지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "화학/소재",
+        "change_pct": "+0.45%",
+        "note": "2026-11-26 KOSPI 화학 업종지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": "-0.27%",
+        "note": "2026-11-26 KOSPI 철강및금속 업종지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "인터넷/게임",
+        "change_pct": "-1.53%",
+        "note": "2026-11-26 KOSPI 서비스업 업종지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      },
+      {
+        "name": "엔터/미디어",
+        "change_pct": "+2.63%",
+        "note": "2026-11-26 KOSPI 오락과 문화 업종지수 기준",
+        "source_url": "https://stock.mk.co.kr/domestic/index/type"
+      }
+    ],
+    "us": [
+      {
+        "name": "반도체",
+        "change_pct": "-0.50%",
+        "note": "2026-11-25 SOXX 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/SOXX/history/"
+      },
+      {
+        "name": "기술(빅테크)",
+        "change_pct": "-0.83%",
+        "note": "2026-11-25 XLK 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLK/history/"
+      },
+      {
+        "name": "통신서비스",
+        "change_pct": "+0.89%",
+        "note": "2026-11-25 XLC 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLC/history/"
+      },
+      {
+        "name": "헬스케어",
+        "change_pct": "-0.56%",
+        "note": "2026-11-25 XLV 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLV/history/"
+      },
+      {
+        "name": "금융",
+        "change_pct": "+0.71%",
+        "note": "2026-11-25 XLF 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLF/history/"
+      },
+      {
+        "name": "경기소비재",
+        "change_pct": "-0.20%",
+        "note": "2026-11-25 XLY 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLY/history/"
+      },
+      {
+        "name": "필수소비재",
+        "change_pct": "+0.46%",
+        "note": "2026-11-25 XLP 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLP/history/"
+      },
+      {
+        "name": "산업재",
+        "change_pct": "+0.83%",
+        "note": "2026-11-25 XLI 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLI/history/"
+      },
+      {
+        "name": "소재",
+        "change_pct": "+2.07%",
+        "note": "2026-11-25 XLB 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLB/history/"
+      },
+      {
+        "name": "에너지",
+        "change_pct": "+0.74%",
+        "note": "2026-11-25 XLE 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLE/history/"
+      },
+      {
+        "name": "유틸리티",
+        "change_pct": "+0.48%",
+        "note": "2026-11-25 XLU 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLU/history/"
+      },
+      {
+        "name": "부동산",
+        "change_pct": "+0.92%",
+        "note": "2026-11-25 XLRE 정규장 종가 기준",
+        "source_url": "https://finance.yahoo.com/quote/XLRE/history/"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "name": "원/달러",
+      "value": "1,342.70",
+      "change_pct": "-0.04%",
+      "source_url": "https://www.seoulfn.com/news/articleView.html?idxno=644050",
+      "note": "2026-11-26 서울 외환시장 종가, 전일 주간종가 1,343.20원 대비"
+    },
+    {
+      "name": "달러인덱스",
+      "value": "103.78",
+      "change_pct": "+0.11%",
+      "source_url": "https://finance.yahoo.com/quote/DX-Y.NYB/history/",
+      "note": "2026-11-26 일봉 종가, 2026-11-25 종가 103.67 대비"
+    },
+    {
+      "name": "금",
+      "value": "$3,593.40",
+      "change_pct": "+1.63%",
+      "source_url": "https://finance.yahoo.com/quote/GC%3DF/history/",
+      "note": "2026-11-26 GC=F 일봉 종가, 2026-11-25 종가 3,535.80달러 대비"
+    },
+    {
+      "name": "WTI",
+      "value": "$84.91",
+      "change_pct": "+1.47%",
+      "source_url": "https://finance.yahoo.com/quote/CL%3DF/history/",
+      "note": "2026-11-26 CL=F 일봉 종가, 2026-11-25 종가 83.68달러 대비"
+    },
+    {
+      "name": "비트코인",
+      "value": "$60,839",
+      "change_pct": "+1.04%",
+      "source_url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true&include_last_updated_at=true",
+      "note": "2026-11-27 06:46:44 KST 조회, 24시간 기준 실시간 값이며 종가 아님"
+    },
+    {
+      "name": "이더리움",
+      "value": "$1,706.40",
+      "change_pct": "+1.14%",
+      "source_url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true&include_last_updated_at=true",
+      "note": "2026-11-27 06:46:44 KST 조회, 24시간 기준 실시간 값이며 종가 아님"
+    },
+    {
+      "name": "미 10년물",
+      "value": "4.848%",
+      "change_pct": "-5.6bp",
+      "source_url": "https://finance.yahoo.com/quote/%5ETNX/history/",
+      "note": "2026-11-25 일봉 종가, 2026-11-24 종가 4.904%와 비교해 계산한 변화"
+    }
+  ],
+  "macro": {
+    "rates_fx_commodities": "11월 26일 서울 원달러는 1,342.7원으로 전일보다 0.5원 내렸고, 달러인덱스는 103.78로 0.11% 올랐습니다. 금은 3,593.40달러, WTI는 84.91달러로 각각 1.63%, 1.47% 상승했습니다. 미 10년물은 11월 25일 4.848%로 전일 종가보다 5.6bp 하락했습니다.",
+    "notes": "미국 물가와 관세 경계 속에서도 11월 25일 미국장은 장중 낙폭을 줄였습니다. 11월 26일 미국 휴장으로 국내 시장은 최신 미국 주가보다 한국은행 금리 인상, 환율, 반도체 수급에 더 민감할 수 있습니다."
+  },
+  "top_themes": [
+    {
+      "theme": "AI 자본지출 논쟁",
+      "summary": "엔비디아가 11월 25일 3.91% 하락했고 AI 관련 종목의 투자 회수와 지배구조에 대한 경계가 이어졌습니다. 한국에서는 같은 수급이 삼성전자와 SK하이닉스의 반등 지속 여부로 연결됩니다.",
+      "tickers": [
+        "NVDA",
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314",
+      "source_urls": [
+        "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314",
+        "https://search.newspim.com/news/view/20261126001067"
+      ]
+    },
+    {
+      "theme": "메모리 사이클",
+      "summary": "삼성전자와 SK하이닉스가 전날 급락 뒤 각각 0.35%, 2.23% 반등했지만 외국인과 개인의 코스피 순매도가 남아 있어 메모리 대형주에 매수세가 이어지는지 확인할 필요가 있습니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://search.newspim.com/news/view/20261126001067"
+    },
+    {
+      "theme": "환율과 외국인 수급",
+      "summary": "기관 매수로 코스피는 반등했지만 외국인은 1,137억원, 개인은 1조438억원 순매도했습니다. 원달러는 1,342.7원으로 전일보다 0.5원 내렸습니다.",
+      "tickers": [
+        "005930",
+        "000660",
+        "005380"
+      ],
+      "source_url": "https://search.newspim.com/news/view/20261126001067",
+      "source_urls": [
+        "https://search.newspim.com/news/view/20261126001067",
+        "https://www.seoulfn.com/news/articleView.html?idxno=644050"
+      ]
+    },
+    {
+      "theme": "국제유가",
+      "summary": "WTI는 11월 26일 84.91달러로 전일보다 1.47% 상승했습니다. 중동 긴장과 해상 운송 리스크가 유가 변수로 남아 국내 항공과 운송장비 약세와 함께 확인할 이슈입니다.",
+      "tickers": [
+        "CL=F",
+        "005380"
+      ],
+      "source_url": "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314",
+      "source_urls": [
+        "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314",
+        "https://finance.yahoo.com/quote/CL%3DF/history/"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "news": "11월 25일 정규장 종가 149.30달러, 3.91% 하락. AI 투자 수익성 논쟁과 신용등급 경계가 부담으로 작용했습니다.",
+      "source_url": "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "news": "11월 25일 정규장 종가 355.58달러, 0.43% 상승. Yahoo Finance 가격 이력에서는 종가와 등락률만 확인됩니다.",
+      "source_url": "https://finance.yahoo.com/quote/AAPL/history/"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "market": "US",
+      "news": "11월 25일 정규장 종가 489.93달러, 1.25% 하락. Yahoo Finance 가격 이력에서는 종가와 등락률만 확인됩니다.",
+      "source_url": "https://finance.yahoo.com/quote/MSFT/history/"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "market": "US",
+      "news": "11월 25일 정규장 종가 380.14달러, 1.18% 하락. Yahoo Finance 가격 이력에서는 종가와 등락률만 확인됩니다.",
+      "source_url": "https://finance.yahoo.com/quote/TSLA/history/"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "market": "US",
+      "news": "11월 25일 정규장 종가 163.59달러, 1.50% 상승. 대형 기술주 약세 속 상대적 강세를 보였습니다.",
+      "source_url": "https://finance.yahoo.com/quote/PLTR/history/"
+    },
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "news": "11월 26일 종가 171,300원, 0.35% 상승. 전기전자 업종의 저가 매수로 반등했지만 상승폭은 제한됐습니다.",
+      "source_url": "https://search.newspim.com/news/view/20261126001067"
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "news": "11월 26일 종가 1,053,000원, 2.23% 상승. 전날 급락 뒤 기관 매수와 저가 매수가 유입됐습니다.",
+      "source_url": "https://search.newspim.com/news/view/20261126001067"
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "market": "KR",
+      "news": "11월 26일 종가 302,000원, 2.11% 하락. 반도체 대형주 반등과 달리 2차전지 대형주에는 매물이 남았습니다.",
+      "source_url": "https://search.newspim.com/news/view/20261126001067"
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "market": "KR",
+      "news": "11월 26일 종가 259,000원, 3.90% 하락. 운수장비 업종 약세와 자동차 대형주 매물이 겹쳤습니다.",
+      "source_url": "https://search.newspim.com/news/view/20261126001067"
+    }
+  ],
+  "spotlight": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KR",
+      "thesis": "11월 26일 전일 급락 뒤 0.35% 반등했지만 장중 고가 176,700원에서 종가 171,300원으로 밀렸습니다. 오늘 한국장의 반도체 수급 회복 여부를 보여주는 대표 종목입니다.",
+      "catalysts": [
+        "미국 단축 거래 재개 뒤 반도체 수급",
+        "메모리 가격과 AI 서버 투자 관련 후속 정보"
+      ],
+      "levels_watched": {
+        "support": "11월 26일 장중 저가 170,700원",
+        "resistance": "11월 26일 장중 고가 176,700원",
+        "analyst_target_cited": "인용 없음, 조사 범위에서 증권사와 날짜가 함께 확인된 목표가 없음"
+      },
+      "risk": "AI 투자 회수 논쟁, 외국인 매도, 한국은행 금리 인상과 미국 관세 부담이 이어질 수 있습니다.",
+      "sources": [
+        "https://search.newspim.com/news/view/20261126001067",
+        "https://finance.yahoo.com/quote/005930.KS/history/"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "thesis": "11월 26일 종가가 1,053,000원으로 2.23% 반등했지만 장중 저가 1,041,000원과 고가 1,098,000원의 변동폭이 컸습니다. 메모리 대형주에 대한 저가 매수가 이어지는지 확인할 종목입니다.",
+      "catalysts": [
+        "미국 단축 거래 재개 뒤 메모리와 반도체 수급",
+        "AI 서버용 메모리 수요와 공급 관련 후속 자료"
+      ],
+      "levels_watched": {
+        "support": "11월 26일 장중 저가 1,041,000원",
+        "resistance": "11월 26일 장중 고가 1,098,000원",
+        "analyst_target_cited": "인용 없음, 조사 범위에서 증권사와 날짜가 함께 확인된 목표가 없음"
+      },
+      "risk": "AI 투자 수익성 논쟁, 메모리 공급 전망 변화, 외국인 수급 악화가 주가 변동성을 키울 수 있습니다.",
+      "sources": [
+        "https://search.newspim.com/news/view/20261126001067",
+        "https://finance.yahoo.com/quote/000660.KS/history/"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "thesis": "엔비디아는 11월 25일 149.30달러로 3.91% 하락했습니다. AI 관련 종목의 조정과 S&P Global의 신용등급 하향 검토가 한국 반도체 수급에 전달되는 경로를 확인할 대표 종목입니다.",
+      "catalysts": [
+        "11월 27일 미국 휴일 단축 거래에서 반도체 수급",
+        "경영과 지배구조 우려에 대한 신용평가 후속 발표"
+      ],
+      "levels_watched": {
+        "support": "11월 25일 장중 저가 141.17달러",
+        "resistance": "11월 25일 장중 고가 150.37달러",
+        "analyst_target_cited": "인용 없음, 조사 범위에서 증권사와 날짜가 함께 확인된 목표가 없음"
+      },
+      "risk": "AI 데이터센터 투자 회수 기간에 대한 의문, 높은 밸류에이션, 관세와 금리 부담이 남아 있습니다.",
+      "sources": [
+        "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314",
+        "https://finance.yahoo.com/quote/NVDA/history/"
+      ]
+    }
+  ],
+  "disclaimer": "⚠️ 본 브리핑은 공개된 뉴스와 시장 데이터를 정리한 정보 제공용 자료이며, 투자 권유나 특정 종목 매수나 매도 추천이 아닙니다. 모든 투자 판단과 책임은 본인에게 있습니다. 인용된 목표가와 전망은 각 출처의 의견입니다."
+}
